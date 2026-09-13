@@ -167,6 +167,8 @@ function archiveOld(items: Item[], previouslyShown: Set<string>, now: Date): Ite
 async function main() {
   const now = new Date()
   const previous = readExisting()
+  // Snapshot before anything below mutates the shared item objects (e.g. reclassifying sections).
+  const previousItemsJson = JSON.stringify(previous?.items)
 
   const results = await Promise.allSettled(
     SOURCES.map((s) => (s.kind === 'hn' ? fetchHackerNews(s, now) : fetchFeed(s, now))),
@@ -201,7 +203,7 @@ async function main() {
   console.log(`${items.length} items in window, ${failed}/${statuses.length} sources failed`)
 
   // Only rewrite when something a reader would see changed, so the scheduled job doesn't commit every run.
-  const itemsChanged = JSON.stringify(items) !== JSON.stringify(previous?.items)
+  const itemsChanged = JSON.stringify(items) !== previousItemsJson
   const statusChanged =
     JSON.stringify(statuses.map((s) => [s.name, s.ok])) !== JSON.stringify(previous?.sources.map((s) => [s.name, s.ok]))
   if (itemsChanged || statusChanged) {
