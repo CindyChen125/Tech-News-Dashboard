@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-13T10:06:31.507Z",
+ "updatedAt": "2026-09-13T10:34:35.977Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -109,11 +109,20 @@
    "summary": "5 points · 0 comments"
   },
   {
+   "id": "3e885c3bc9bfc23c",
+   "title": "Homebrew 7.0.0",
+   "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-13T08:41:17.000Z",
+   "summary": "18 points · 4 comments"
+  },
+  {
    "id": "c52a71d616cb5c21",
    "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
    "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
    "source": "Hacker News",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-13T08:07:36.000Z",
    "summary": "20 points · 20 comments"
   },
@@ -176,7 +185,7 @@
    "title": "Why are AI agents lying, cheating and coordinating?",
    "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
    "source": "Hacker News",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-13T01:22:31.000Z",
    "summary": "194 points · 254 comments"
   },
@@ -203,7 +212,7 @@
    "title": "Everyone should slow down AI development except for me",
    "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
    "source": "Hacker News",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-13T00:30:44.000Z",
    "summary": "456 points · 280 comments"
   },
@@ -230,7 +239,7 @@
    "title": "AgentsDock: An IDE designed for agentic AI research",
    "url": "https://agentsdock.net/",
    "source": "Hacker News",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-12T23:45:58.000Z",
    "summary": "53 points · 29 comments"
   },
@@ -302,7 +311,7 @@
    "title": "OpenAI’s rogue AI tried to hack another company in May",
    "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
    "source": "The Verge",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-12T21:41:36.000Z",
    "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems…"
   },
@@ -329,7 +338,7 @@
    "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
    "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
    "source": "The Verge",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-12T21:16:28.000Z",
    "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was…"
   },
@@ -338,7 +347,7 @@
    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
    "url": "https://withspecific.com/benchmarks/real-swe",
    "source": "Hacker News",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-12T20:25:48.000Z",
    "summary": "240 points · 134 comments"
   },
@@ -347,7 +356,7 @@
    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
    "source": "TechCrunch",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-12T20:19:16.000Z",
    "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
   },
@@ -374,7 +383,7 @@
    "title": "OpenAI agents hacked a software service before the Hugging Face incident",
    "url": "https://www.engadget.com/2256741/openai-agents-hacked-rubygems/",
    "source": "Engadget",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-12T19:53:01.000Z",
    "summary": "The agents OpenAI was testing attacked a software service called RubyGems in May, months before the attacks on Hugging Face."
   },
@@ -383,7 +392,7 @@
    "title": "Anthropic CEO outlines plan to slow AI development",
    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
    "source": "TechCrunch",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-12T19:34:44.000Z",
    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
   },
@@ -482,7 +491,7 @@
    "title": "Anthropic's CEO proposes a three-step plan to curb AI development",
    "url": "https://www.engadget.com/2256718/anthropics-ceo-proposes-a-three-step-plan-to-curb-ai-development/",
    "source": "Engadget",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-12T16:37:31.000Z",
    "summary": "Dario Amodei said that \"we owe it to humanity to try.\""
   },
@@ -518,7 +527,7 @@
    "title": "Anthropic CEO says it’s time to pump the brakes on AI",
    "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
    "source": "The Verge",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-12T16:23:40.000Z",
    "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon…"
   },
@@ -590,7 +599,7 @@
    "title": "Nvidia is the central bank of AI",
    "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
    "source": "Hacker News",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-12T15:08:27.000Z",
    "summary": "481 points · 337 comments"
   },
@@ -649,6 +658,15 @@
    "summary": "644 points · 903 comments"
   },
   {
+   "id": "1732db9b09089b75",
+   "title": "How to get started with Meta's new AI agent, Muse",
+   "url": "https://www.engadget.com/2256577/how-to-get-started-with-meta-s-new-ai-agent-muse/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-12T14:00:00.000Z",
+   "summary": "After a few days of testing Meta's AI agent Muse. I can confirm that there is very little learning curve to get started."
+  },
+  {
    "id": "4b0c1e3267f5fc22",
    "title": "Didn't Pre-Order iPhone 18 Pro Yet? Here's How Long the Wait is Now",
    "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-pre-order-shipping-dates/",
@@ -662,7 +680,7 @@
    "title": "Apple @ Work: The three prongs of software updates in the AI era",
    "url": "https://9to5mac.com/2026/09/12/apple-work-the-three-prongs-of-software-updates-in-the-ai-era/",
    "source": "9to5Mac",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-12T13:33:00.000Z",
    "summary": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000…"
   },
@@ -743,7 +761,7 @@
    "title": "OpenAI just wants to win",
    "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
    "source": "The Verge",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-12T11:00:00.000Z",
    "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement…"
   },
@@ -770,7 +788,7 @@
    "title": "Apple researchers unveil SimpleDesign, a new AI model for protein design",
    "url": "https://9to5mac.com/2026/09/11/apple-researchers-unveil-simpledesign-a-new-ai-model-for-protein-design/",
    "source": "9to5Mac",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-12T01:56:26.000Z",
    "summary": "In a new study, Apple researchers detail SimpleDesign, a streamlined AI model that can jointly generate protein sequences and structures. Here are the details. more…"
   },
@@ -806,7 +824,7 @@
    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
    "source": "TechCrunch",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-11T22:58:17.000Z",
    "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
   },
@@ -869,7 +887,7 @@
    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
    "source": "TechCrunch",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-11T20:59:47.000Z",
    "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese."
   },
@@ -887,7 +905,7 @@
    "title": "OpenAI’s feud with mathematicians is only escalating",
    "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
    "source": "TechCrunch",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-11T20:57:36.000Z",
    "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
   },
@@ -995,7 +1013,7 @@
    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
    "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
    "source": "TechCrunch",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-11T19:35:54.000Z",
    "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system."
   },
@@ -1013,7 +1031,7 @@
    "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
    "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
    "source": "Ars Technica",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-11T19:34:09.000Z",
    "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says."
   },
@@ -1022,7 +1040,7 @@
    "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
    "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
    "source": "TechCrunch",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-11T19:00:00.000Z",
    "summary": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web."
   },
@@ -1031,7 +1049,7 @@
    "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
    "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
    "source": "TechCrunch",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-11T18:58:01.000Z",
    "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October."
   },
@@ -1112,7 +1130,7 @@
    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
    "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
    "source": "TechCrunch",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-11T16:46:25.000Z",
    "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023."
   },
@@ -1184,7 +1202,7 @@
    "title": "Siri AI is coming: Here are three times it’s really impressed me so far",
    "url": "https://9to5mac.com/2026/09/11/siri-ai-is-coming-here-are-three-times-its-really-impressed-me-so-far/",
    "source": "9to5Mac",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-11T15:31:35.000Z",
    "summary": "Siri AI launches next week in iOS 27, and it’s a huge upgrade to Apple’s assistant. There are tons of ways Siri is new and improved, but here are three examples of times Siri has impressed me so far. more…"
   },
@@ -1229,7 +1247,7 @@
    "title": "CarPlay now works with six major AI chatbot apps, leaving one key holdout",
    "url": "https://9to5mac.com/2026/09/11/microsoft-copilot-joins-carplay-leaving-gemini-as-the-biggest-holdout/",
    "source": "9to5Mac",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-11T14:16:54.000Z",
    "summary": "Apple CarPlay now works with six major third-party AI chatbot apps. Microsoft Copilot is the latest iPhone app to add CarPlay support. more…"
   },
@@ -1292,7 +1310,7 @@
    "title": "Claude users found ways around safeguards for bioweapons research",
    "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
    "source": "Ars Technica",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-11T13:02:35.000Z",
    "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards."
   },
@@ -1814,7 +1832,7 @@
    "title": "Getting 50 GB/S Back from the Apple Neural Engine",
    "url": "https://eiln.github.io/posts/ane-dma.html",
    "source": "Hacker News",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-10T00:16:10.000Z",
    "summary": "140 points · 27 comments"
   },
@@ -1922,7 +1940,7 @@
    "title": "Apple confirms Siri AI launches in English this month, will add five languages in October",
    "url": "https://9to5mac.com/2026/09/09/apple-confirms-siri-ai-launches-in-english-this-month-will-add-five-languages-in-october/",
    "source": "9to5Mac",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-09-09T20:33:42.000Z",
    "summary": "During today’s “Surprise and Shine” event, Apple confirmed the rollout timeline for the new Siri AI, which will launch in English before expanding to five more languages in October. Here are the details. more…"
   },
@@ -2921,7 +2939,7 @@
    "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
    "source": "Apple Newsroom",
-   "section": "tech",
+   "section": "ai",
    "publishedAt": "2026-08-25T12:58:13.056Z",
    "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities."
   },
