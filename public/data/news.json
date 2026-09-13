@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-13T09:40:46.265Z",
+ "updatedAt": "2026-09-13T10:00:02.052Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,7 +77,7 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 30
+   "count": 31
   }
  ],
  "items": [
@@ -89,6 +89,15 @@
    "section": "ai",
    "publishedAt": "2026-09-13T09:40:46.265Z",
    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+  },
+  {
+   "id": "8059c40315dded9e",
+   "title": "Norton Neo Browser",
+   "url": "https://neobrowser.ai/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-13T09:07:59.000Z",
+   "summary": "5 points · 0 comments"
   },
   {
    "id": "c52a71d616cb5c21",
@@ -1745,6 +1754,15 @@
    "section": "tech",
    "publishedAt": "2026-09-10T09:32:17.000Z",
    "summary": "75 points · 35 comments"
+  },
+  {
+   "id": "36e3e00cd6641f3c",
+   "title": "The first drink-driving conviction may have happened in London",
+   "url": "https://www.ianvisits.co.uk/articles/the-worlds-first-drink-driving-conviction-may-have-happened-in-london-92107/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-10T07:29:21.000Z",
+   "summary": "20 points · 39 comments"
   },
   {
    "id": "ae192cb661010adf",
