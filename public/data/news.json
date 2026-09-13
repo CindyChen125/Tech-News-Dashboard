@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-13T19:46:48.048Z",
+ "updatedAt": "2026-09-13T22:22:20.252Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,87 @@
  ],
  "items": [
   {
+   "id": "ed995549b4b0b6cf",
+   "title": "Why are IMAX cameras so notoriously loud?",
+   "url": "https://www.engadget.com/2252857/why-are-imax-cameras-so-loud-explained/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-13T22:00:00.000Z",
+   "summary": "Shooting a movie on IMAX 15/70 cameras can produce incredible film, but one of the major tradeoffs for filmmakers is how loud they can get when rolling."
+  },
+  {
+   "id": "2b40330e4ba40b8d",
+   "title": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+   "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-13T21:30:00.000Z",
+   "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified."
+  },
+  {
+   "id": "39da3e91eb0d749b",
+   "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+   "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-13T21:06:13.000Z",
+   "summary": "142 points · 33 comments"
+  },
+  {
+   "id": "0bd3f8001c72e7a4",
+   "title": "Sam Altman says OpenAI won't file for IPO this year",
+   "url": "https://www.engadget.com/2256984/sam-altman-says-openai-wont-file-for-ipo-this-year/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-13T20:50:26.000Z",
+   "summary": "OpenAI's CEO called it an \"ill-advised moment to go public\" in an interview with Fortune."
+  },
+  {
+   "id": "1cb51d6339834a46",
+   "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+   "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-13T20:49:38.000Z",
+   "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion."
+  },
+  {
+   "id": "f6d4d9229c138626",
+   "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
+   "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-13T20:33:18.000Z",
+   "summary": "22 points · 2 comments"
+  },
+  {
+   "id": "008db0487996d465",
+   "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+   "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-13T20:28:00.000Z",
+   "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch."
+  },
+  {
+   "id": "d66be0ed881279bc",
+   "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+   "url": "https://twitter.com/TechEmails/status/2099214399840059428",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-13T20:08:45.000Z",
+   "summary": "196 points · 77 comments"
+  },
+  {
+   "id": "68f24747aca71ea9",
+   "title": "How to adjust the Liquid Glass effect on your iPhone with iOS 27",
+   "url": "https://www.engadget.com/2252856/how-to-adjust-liquid-glass-effect-ios-27/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-13T20:00:00.000Z",
+   "summary": "If you've never been satisfied with Liquid Glass on your Phone, then you'll probably like some of the new customization options Apple offers in iOS 27."
+  },
+  {
    "id": "180cc16ece794017",
    "title": "Trump and Mike Johnson think the AI industry is overreacting",
    "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
@@ -89,6 +170,15 @@
    "section": "ai",
    "publishedAt": "2026-09-13T19:41:48.000Z",
    "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's…"
+  },
+  {
+   "id": "620a80051b0bd315",
+   "title": "There Is No AI (It's Just People) with Jaron Lanier",
+   "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-13T19:41:06.000Z",
+   "summary": "47 points · 57 comments"
   },
   {
    "id": "f20f88a7750a6c42",
@@ -1711,6 +1801,15 @@
    "summary": "I had been a loyal T-Mobile customer since 2016, when the company introduced its T-Mobile ONE plan. I had a military discount the entire time I was with them, but even with that discount my bill eventually ballooned to $113 a month thanks to T-Mobile’s price hikes. I decided enough was enough, so I…"
   },
   {
+   "id": "13167e8f942c6177",
+   "title": "Why a dispute costs $229 on a $129 pair of shoes",
+   "url": "https://allcentury.github.io/2026/09/02/what-a-dispute-actually-costs/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-11T15:41:05.000Z",
+   "summary": "6 points · 6 comments"
+  },
+  {
    "id": "621db3de668ea21f",
    "title": "Alan's Random Insult Generator (1999)",
    "url": "https://alanbellows.com/experiments/insult/index.html",
@@ -2303,6 +2402,24 @@
    "section": "tech",
    "publishedAt": "2026-09-10T13:20:10.000Z",
    "summary": "watchOS 27 launches next week, the major new Apple Watch update. Here are Apple’s official release notes detailing what’s new in watchOS 27. more…"
+  },
+  {
+   "id": "c1c23350e22aff73",
+   "title": "Bad Code Is Kudzu",
+   "url": "https://vickiboykis.com/2026/09/01/bad-code-is-kudzu/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-10T13:02:59.000Z",
+   "summary": "18 points · 3 comments"
+  },
+  {
+   "id": "288c1934f3639378",
+   "title": "Julia 1.13 Highlights",
+   "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-10T12:27:25.000Z",
+   "summary": "95 points · 6 comments"
   },
   {
    "id": "20c0b82dfff48122",
