@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-13T10:00:02.052Z",
+ "updatedAt": "2026-09-13T10:06:31.507Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,19 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 31
+   "count": 30
   }
  ],
  "items": [
+  {
+   "id": "af0833ef090e3bf0",
+   "title": "Here's When iOS 27 Rolls Out in Every Time Zone",
+   "url": "https://www.macrumors.com/2026/09/13/ios-27-release-date-time-zones/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-13T10:00:11.000Z",
+   "summary": "Apple is about to release iOS 27, which will finally deliver more advanced Siri AI capabilities as well as a variety of other refinements, improvements, and new features to iPhones. It's Apple's biggest software update of the year, and Apple announced at Wednesday's iPhone event that it will be…"
+  },
   {
    "id": "3f10477060d76a26",
    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
