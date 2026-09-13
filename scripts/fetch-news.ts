@@ -63,6 +63,19 @@ function toIso(date: string | number | undefined, now: Date): string {
   return d.toISOString()
 }
 
+// Titles only: summaries mention AI in passing too often ("…with Apple Intelligence") to be a reliable signal.
+const AI_TITLE = /\b(ai|a\.i\.|artificial intelligence|agi|llms?|gpt[-\s]?\d[\w.]*|chatgpt|openai|anthropic|claude|gemini|deepmind|copilot|machine learning|deep learning|neural|chatbots?|agentic|ai agents?|llama|mistral|deepseek|qwen|grok|xai|perplexity|midjourney|sora|hugging ?face)\b/i
+
+/**
+ * An outlet's section is only a default: a Verge story about OpenAI belongs under AI.
+ * Recomputed for every item on every run, so improving the rule reclassifies old items too.
+ */
+export function sectionFor(item: Item): Item['section'] {
+  const source = SOURCES.find((s) => s.name === item.source)
+  if (source?.section === 'ai') return 'ai'
+  return AI_TITLE.test(item.title) ? 'ai' : 'tech'
+}
+
 async function get(url: string): Promise<Response> {
   const res = await fetch(url, {
     headers: { 'user-agent': USER_AGENT, accept: 'application/rss+xml, application/atom+xml, application/xml, application/json, */*' },
@@ -177,6 +190,7 @@ async function main() {
   for (const item of [...(previous?.items ?? []), ...fresh]) {
     if (!byId.has(item.id)) byId.set(item.id, item)
   }
+  for (const item of byId.values()) item.section = sectionFor(item)
   const previouslyShown = new Set(previous?.items.map((i) => i.id))
   const items = archiveOld([...byId.values()], previouslyShown, now).sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
 

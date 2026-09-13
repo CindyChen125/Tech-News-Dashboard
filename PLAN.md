@@ -105,6 +105,12 @@ Original scope: Scaffold, `Item` type, verify and add ~10 feeds (5 AI, 5 tech),
 fetch script, Action, deployed reverse-chronological list with section + source
 filters. Done when it updates on its own with no manual steps.
 
+**P1.5 — Dashboard.** ✅ Built 2026-09-13: home dashboard (top stories, stats, trending
+terms, 7-day activity chart, source health, latest per section) with the list moved to
+`#/feed` (search + filters), and a dark tech visual style. Pulled forward from P2: keyword
+section tagging (AI headlines from tech outlets file under AI) and title-overlap clustering
+for top stories, computed in the browser (`src/lib/rank.ts`).
+
 **P2 — Readable.** Noise filter, dedupe/clustering, tag rules, read/unread in
 `localStorage`, keyboard nav (`j`/`k`, `o` to open).
 
