@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-14T05:23:54.059Z",
+ "updatedAt": "2026-09-14T10:56:49.718Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1192
+   "count": 1193
   },
   {
    "name": "Google DeepMind",
@@ -23,7 +23,7 @@
    "name": "Hugging Face",
    "section": "ai",
    "ok": true,
-   "count": 861
+   "count": 862
   },
   {
    "name": "MIT Tech Review",
@@ -82,6 +82,96 @@
  ],
  "items": [
   {
+   "id": "5a5573b990f75c2a",
+   "title": "How Is Compression Prediction?",
+   "url": "https://lukefleed.xyz/posts/compression/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-14T10:22:33.000Z",
+   "summary": "4 points · 0 comments"
+  },
+  {
+   "id": "33455b968d00352f",
+   "title": "Pkgsrc Is Cool (2022)",
+   "url": "https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-14T09:53:34.000Z",
+   "summary": "9 points · 0 comments"
+  },
+  {
+   "id": "0481d3cad878f837",
+   "title": "Third-Gen iPhone Duo to Get Face ID, Telephoto Lens, Expects Gurman",
+   "url": "https://www.macrumors.com/2026/09/14/third-gen-iphone-duo-face-id-telephoto-lens/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-14T09:30:48.000Z",
+   "summary": "Apple will prioritize adding Face ID and a telephoto lens to future iPhone Duo models, argues Bloomberg's Mark Gurman. The device debuted with Touch ID and dual rear cameras, likely owing to physical constraints. Power On newsletter, Gurman says his guess is that Apple will use a combination of…"
+  },
+  {
+   "id": "ea058e03bac736b2",
+   "title": "iPhone Duo Has a Hidden Display Setting for Case Compatibility",
+   "url": "https://www.macrumors.com/2026/09/14/iphone-duo-hidden-display-setting-explained/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-14T09:06:29.000Z",
+   "summary": "Apple's new iPhone Duo has a special option in its display settings that adds a narrow black border to the left side of the front screen. Blogger Nicolas Lellouche discovered the setting in the Display & Brightness menu during his hands-on time with the device shortly after Apple's iPhone event…"
+  },
+  {
+   "id": "f79013293bea4298",
+   "title": "A 386 PC for Your RP2350",
+   "url": "https://github.com/rh1tech/frank-386",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-14T08:25:57.000Z",
+   "summary": "41 points · 13 comments"
+  },
+  {
+   "id": "b42b4be7dd4d1d6c",
+   "title": "EuroBirdPortal – Live bird movements across Europe",
+   "url": "https://www.eurobirdportal.org/ebp/en/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-14T08:25:47.000Z",
+   "summary": "47 points · 16 comments"
+  },
+  {
+   "id": "fa69792438c56e05",
+   "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+   "url": "https://github.com/anuj0456/OpenArch",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-14T07:55:19.000Z",
+   "summary": "18 points · 3 comments"
+  },
+  {
+   "id": "cf2a61e96c3b1abf",
+   "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
+   "url": "https://screensize.net/reports/viewport-stats",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-14T07:35:00.000Z",
+   "summary": "20 points · 12 comments"
+  },
+  {
+   "id": "0e2de82e1219fb52",
+   "title": "Gurman: 'iPhone Duo Max' With Bigger Display Likely in Apple's Plans",
+   "url": "https://www.macrumors.com/2026/09/14/iphone-duo-max-apple-product-roadmap/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-14T06:54:47.000Z",
+   "summary": "Bloomberg's Mark Gurman has suggested Apple will release an \"iPhone Duo Max\" in the coming years, highlighting why Apple chose the \"Duo\" moniker over other names. In the months leading up to Apple's iPhone Duo unveiling, Gurman reported that employees within Apple had begun referring to the device…"
+  },
+  {
+   "id": "7315e17c40ce7dc8",
+   "title": "iPod Touch Released 19 Years Ago Today",
+   "url": "https://www.macrumors.com/2026/09/14/ipod-touch-released-19-years-ago-today/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-14T06:17:50.000Z",
+   "summary": "The first iPod touch went on general sale on September 14, 2007, nine days after Steve Jobs unveiled it at Apple's \"The Beat Goes On\" media event. The device brought the iPhone's multi-touch interface, Wi-Fi, and Safari browser to the iPod lineup for the first time, but it lacked cellular phone…"
+  },
+  {
    "id": "3bdd401e451bceb3",
    "title": "Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping",
    "url": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html",
@@ -98,6 +188,24 @@
    "section": "tech",
    "publishedAt": "2026-09-14T03:06:30.000Z",
    "summary": "Earlier this month, references to two unreleased Apple game controllers were allegedly spotted in macOS 26.7 beta code, and now Bloomberg's Mark Gurman has shared more details. Power On newsletter today, Gurman said the controllers have been in development for more than a year, are for the iPhone…"
+  },
+  {
+   "id": "05447e20b3a5edcb",
+   "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+   "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-14T02:50:40.000Z",
+   "summary": "150 points · 197 comments"
+  },
+  {
+   "id": "6012ccbbc0f1437e",
+   "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
+   "url": "https://calif.io/research/oempocalypse",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-14T02:25:44.000Z",
+   "summary": "72 points · 32 comments"
   },
   {
    "id": "c9cf5ddaf65c9d64",
@@ -1549,6 +1657,15 @@
    "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement…"
   },
   {
+   "id": "5f37f96c41ad51b8",
+   "title": "An atlas of periodic solutions to the three-body problem",
+   "url": "https://www.threebodyorbits.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-12T10:13:24.000Z",
+   "summary": "24 points · 0 comments"
+  },
+  {
    "id": "cbff4c990a5aa1e2",
    "title": "Apple Store Down Ahead of iPhone 18 Pro Pre-Orders",
    "url": "https://www.macrumors.com/2026/09/12/apple-store-down-iphone-18-pro-pre-orders/",
@@ -1583,6 +1700,15 @@
    "section": "ai",
    "publishedAt": "2026-09-12T01:56:26.000Z",
    "summary": "In a new study, Apple researchers detail SimpleDesign, a streamlined AI model that can jointly generate protein sequences and structures. Here are the details. more…"
+  },
+  {
+   "id": "0bd9fda64cde88ac",
+   "title": "The Nature of Dance",
+   "url": "https://vester.si/blog/nature-of-dance/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-12T00:17:23.000Z",
+   "summary": "11 points · 12 comments"
   },
   {
    "id": "19093bab73056e60",
@@ -1972,6 +2098,15 @@
    "summary": "The wait is over; Apple has now announced the iPhone 18 Pro and its first foldable, the iPhone Duo. We talk through our reactions to the range of new products on this week's episode of The MacRumors Show. Subscribe to The MacRumors Show YouTube channel for more videos The iPhone 18 Pro and iPhone…"
   },
   {
+   "id": "f75f700878a4a1e1",
+   "title": "Five Words from Vanishing Fleece",
+   "url": "https://blog.wordnik.com/five-words-from-vanishing-fleece",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-11T16:00:58.000Z",
+   "summary": "11 points · 0 comments"
+  },
+  {
    "id": "ea578459ffef2f67",
    "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
    "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
@@ -2204,6 +2339,15 @@
    "section": "ai",
    "publishedAt": "2026-09-11T10:00:00.000Z",
    "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+  },
+  {
+   "id": "a6a54b3c3671b393",
+   "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
+   "url": "https://danluu.com/exercise-7/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-11T09:31:27.000Z",
+   "summary": "30 points · 12 comments"
   },
   {
    "id": "44079a720745601d",
@@ -2794,6 +2938,15 @@
    "id": "39041ce058b6a6ce",
    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
    "url": "https://huggingface.co/blog/gradio-workflow-1111",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-09-10T00:00:00.000Z",
+   "summary": ""
+  },
+  {
+   "id": "2d3b0df5940f86d1",
+   "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+   "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
    "source": "Hugging Face",
    "section": "ai",
    "publishedAt": "2026-09-10T00:00:00.000Z",
