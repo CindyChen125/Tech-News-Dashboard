@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-13T22:22:20.252Z",
+ "updatedAt": "2026-09-14T00:22:49.078Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,69 @@
  ],
  "items": [
   {
+   "id": "664f5ac3833ff23a",
+   "title": "At what length do Ethernet cables drop to lower speeds?",
+   "url": "https://www.engadget.com/2252864/ethernet-cable-length-drops-lower-speeds/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-14T00:00:00.000Z",
+   "summary": "Running an Ethernet cable can provide faster speeds than Wi-Fi in many cases, but the length and type of cable make a difference."
+  },
+  {
+   "id": "dc834b96bc71adcc",
+   "title": "The Coming War on General Computation (2011)",
+   "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-13T23:54:55.000Z",
+   "summary": "6 points · 0 comments"
+  },
+  {
+   "id": "b10f37efaf223f2d",
+   "title": "iOS 27 Available Tomorrow With These 8 New Features",
+   "url": "https://www.macrumors.com/2026/09/13/ios-27-features-available-tomorrow/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-13T23:30:07.000Z",
+   "summary": "During its iPhone 18 Pro and iPhone Duo event last week, Apple announced that iOS 27 will be released widely on Monday, September 14. iOS 27 should be available around 10 a.m. Pacific Time / 1 p.m. Eastern Time tomorrow via the Settings app, under General → Software Update. Below, we have…"
+  },
+  {
+   "id": "434c2044dde93d9c",
+   "title": "Make long drives easier with this Android Auto feature",
+   "url": "https://www.engadget.com/2252861/android-auto-feature-easier-long-drive/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-13T23:30:00.000Z",
+   "summary": "Android Auto added a new capability recently that upgrades the infotainment screen in a big way. Let's activate it."
+  },
+  {
+   "id": "ce284ac53ed0bc46",
+   "title": "How to use GPT-6 Astra when it rolls out to you",
+   "url": "https://www.engadget.com/2252859/how-to-use-gpt-6-astra-rollout-schedule/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-13T23:00:00.000Z",
+   "summary": "OpenAI's new model, GPT-6 Astra, has begun rolling out to users. Here's how you can get it and pitfalls to avoid."
+  },
+  {
+   "id": "ec0f7a1875e994cf",
+   "title": "The contagion of fear",
+   "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-13T22:38:18.000Z",
+   "summary": "91 points · 64 comments"
+  },
+  {
+   "id": "bbf885ca1654e566",
+   "title": "How to fix iMessage \"Not Delivered\" error on iPhones",
+   "url": "https://www.engadget.com/2252858/how-to-fix-imessage-not-delivered-on-iphone/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-13T22:30:00.000Z",
+   "summary": "iMessage is simple, and even RCS and SMS are usually reliable. But when your iPhone won't sent a message, you can coax it into working again."
+  },
+  {
    "id": "ed995549b4b0b6cf",
    "title": "Why are IMAX cameras so notoriously loud?",
    "url": "https://www.engadget.com/2252857/why-are-imax-cameras-so-loud-explained/",
@@ -91,6 +154,24 @@
    "summary": "Shooting a movie on IMAX 15/70 cameras can produce incredible film, but one of the major tradeoffs for filmmakers is how loud they can get when rolling."
   },
   {
+   "id": "d573d5f02916adb2",
+   "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
+   "url": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-13T21:56:52.000Z",
+   "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions."
+  },
+  {
+   "id": "4a90de1cc2c22f7e",
+   "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+   "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-13T21:47:04.000Z",
+   "summary": "33 points · 11 comments"
+  },
+  {
    "id": "2b40330e4ba40b8d",
    "title": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
    "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
@@ -98,6 +179,15 @@
    "section": "ai",
    "publishedAt": "2026-09-13T21:30:00.000Z",
    "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified."
+  },
+  {
+   "id": "fdcff46e9fb74700",
+   "title": "Why is privacy so hard?",
+   "url": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-13T21:13:43.000Z",
+   "summary": "10 points · 8 comments"
   },
   {
    "id": "39da3e91eb0d749b",
@@ -296,6 +386,15 @@
    "section": "tech",
    "publishedAt": "2026-09-13T17:36:10.000Z",
    "summary": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my attention than to combine two of my favorite things -…"
+  },
+  {
+   "id": "f41c1e1271ecc4b9",
+   "title": "Ask HN: What are you working on? (September 2026)",
+   "url": "https://news.ycombinator.com/item?id=49686380",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-13T17:31:38.000Z",
+   "summary": "60 points · 95 comments"
   },
   {
    "id": "ab28eb79629682e2",
@@ -2170,6 +2269,15 @@
    "summary": "A new TrendForce report says the iPhone Duo is expected to capture 24,8% of the foldable smartphone market in 2026 alone, countering a 20% slump in the segment. Here are the details. more…"
   },
   {
+   "id": "bf90bb5126b471cb",
+   "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
+   "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-10T19:39:13.000Z",
+   "summary": "13 points · 3 comments"
+  },
+  {
    "id": "9a7f0b43fca0a12b",
    "title": "Apple shares fun, 95-second recap of yesterday’s ‘Surprise and Shine’ event",
    "url": "https://9to5mac.com/2026/09/10/apple-shares-fun-95-second-recap-of-yesterdays-surprise-and-shine-event/",
@@ -2303,6 +2411,15 @@
    "section": "tech",
    "publishedAt": "2026-09-10T15:36:42.000Z",
    "summary": "Alongside the ongoing pre-order deals on the new M6 Mac mini, today we are highlighting pre-orders on the new AirPods 5 (just keep in mind you can still land AirPods Pro 3 for just $50 more). The new Apple Watch Series 12 and Ultra 4 are also now up for grabs (here’s some deals on how to land them…"
+  },
+  {
+   "id": "29003c8246145f81",
+   "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
+   "url": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-10T15:35:36.000Z",
+   "summary": "5 points · 1 comments"
   },
   {
    "id": "d53ea3714cfff9cf",
