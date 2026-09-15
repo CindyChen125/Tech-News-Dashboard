@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-15T18:55:32.437Z",
+ "updatedAt": "2026-09-15T22:09:24.269Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,199 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 29
+   "count": 30
   }
  ],
  "items": [
+  {
+   "id": "b64e8c654944be2b",
+   "title": "Ulysses gets Siri AI support, customizable toolbars, project templates, more",
+   "url": "https://9to5mac.com/2026/09/15/ulysses-gets-siri-ai-support-customizable-toolbars-project-templates-more/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-09-15T22:01:17.000Z",
+   "summary": "Following the release of macOS 27 Golden Gate and iOS 27, Ulysses was updated with Siri AI support, a refreshed interface, customizable toolbars, project templates, and more. Here are the details. more…"
+  },
+  {
+   "id": "11c62c7db5fb74c6",
+   "title": "Wired vs wireless speakers: What are the pros and cons?",
+   "url": "https://www.engadget.com/2256380/wired-vs-wireless-speakers-pros-cons/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-15T22:00:00.000Z",
+   "summary": "Wired and wireless speakers each offer different trade-offs, advantages and disadvantages. Plus, what audio you put through them has a big effect."
+  },
+  {
+   "id": "52b80bbfa8abe69d",
+   "title": "dbrand has the iPhone Duo and iPhone 18 Pro covered – with a huge range of designs",
+   "url": "https://9to5mac.com/2026/09/15/dbrand-has-iphone-duo-iphone-18-pro-covered-with-huge-range-of-designs/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-15T22:00:00.000Z",
+   "summary": "With the exciting new iPhone Duo and latest evolution of the iPhone 18 Pro now official, casemaker dbrand has wasted no time in announcing its latest cases, vinyl wraps, and screen protectors. Whether you’re looking for a minimalist, barely-there case or one that offers the ultimate in…"
+  },
+  {
+   "id": "94dad529de513ddf",
+   "title": "The AI data center boom is colliding with cities scarred by big industry",
+   "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-15T21:47:38.000Z",
+   "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery."
+  },
+  {
+   "id": "bffe06f3e9c35cd9",
+   "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+   "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T21:07:47.000Z",
+   "summary": "55 points · 4 comments"
+  },
+  {
+   "id": "a65bbdc68ad03f13",
+   "title": "Jean-Pierre Serre is 100 years old today",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T20:57:18.000Z",
+   "summary": "42 points · 7 comments"
+  },
+  {
+   "id": "35dd0ef9fecefbce",
+   "title": "iOS 27 has a fun new animation when you call a contact on their birthday",
+   "url": "https://9to5mac.com/2026/09/15/ios-27-has-a-fun-new-animation-when-you-call-a-contact-on-their-birthday/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-15T20:44:58.000Z",
+   "summary": "iOS 27 adds a small birthday-themed tidbit to the Phone app, with a new animation that appears when calling someone on their big day. Here are the details. more…"
+  },
+  {
+   "id": "05cd6a5ffb5e3d88",
+   "title": "Microsoft announces Windows and Surface event for October 7th",
+   "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-15T20:36:59.000Z",
+   "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on how local AI will shape the next chapter of the…"
+  },
+  {
+   "id": "545a0b13a619312e",
+   "title": "What if social media isn’t hurting kids?",
+   "url": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-15T20:13:30.000Z",
+   "summary": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame for the prominent decline in teen mental health since 2010. It quickly became a central rallying cry…"
+  },
+  {
+   "id": "67379117524a5624",
+   "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+   "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-15T20:12:53.000Z",
+   "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting."
+  },
+  {
+   "id": "71be61de6c831742",
+   "title": "iOS 27 gives Apple’s Calendar app new feature I’ve wanted for years",
+   "url": "https://9to5mac.com/2026/09/15/ios-27-gives-apples-calendar-app-new-feature-ive-wanted-for-years/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-15T20:06:34.000Z",
+   "summary": "iOS 27 is here, and it adds a new Apple Calendar feature I’ve wanted for years: natural language support when creating events. more…"
+  },
+  {
+   "id": "b570b9f5ef3d15d9",
+   "title": "How to improve the audio quality on your iPhone",
+   "url": "https://www.engadget.com/2256208/how-to-improve-audio-quality-iphone/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-15T20:00:00.000Z",
+   "summary": "You can improve your iPhone's audio quality whether you're using the built-in speakers, headphones, or a speaker."
+  },
+  {
+   "id": "2b03813c5e3bec92",
+   "title": "Another Intel iMac has joined Apple’s vintage products list",
+   "url": "https://9to5mac.com/2026/09/15/another-intel-imac-has-joined-apples-vintage-products-list/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-15T19:55:07.000Z",
+   "summary": "After adding three MacBook models to its obsolete products list last month, Apple today updated its vintage products list to include the 2019 21.5-inch iMac with Retina 4K display. Here are the details. more…"
+  },
+  {
+   "id": "75704c713961f93c",
+   "title": "Apple's Last Intel 21.5-Inch iMac is Now Vintage",
+   "url": "https://www.macrumors.com/2026/09/15/apple-last-intel-imac-vintage/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-15T19:53:26.000Z",
+   "summary": "Apple today added the 2019 4K iMac to its list of vintage products, which means repairs can only be done if Apple has the parts available. Products are added to the vintage list five years after they were last distributed for sale, and they're moved to the obsolete list at the seven-year mark…"
+  },
+  {
+   "id": "b71b23335e410410",
+   "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+   "url": "https://codyho.dev/blog/gpu-driver/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T19:30:03.000Z",
+   "summary": "61 points · 20 comments"
+  },
+  {
+   "id": "e400cb5b1a72b6c9",
+   "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+   "url": "https://github.com/GraafHenk/numberwang",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T19:27:35.000Z",
+   "summary": "67 points · 23 comments"
+  },
+  {
+   "id": "4554be194cdbd158",
+   "title": "Introducing System One Models and Jev",
+   "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T19:25:03.000Z",
+   "summary": "453 points · 169 comments"
+  },
+  {
+   "id": "f70b2b68b5bda0d5",
+   "title": "iPhone 16 Pro vs. iPhone 18 Pro Buyer's Guide: Worth Upgrading?",
+   "url": "https://www.macrumors.com/guide/iphone-16-pro-vs-18-pro/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-15T19:17:47.000Z",
+   "summary": "Apple last week announced the iPhone 18 Pro and ‌iPhone 18 Pro‌ Max, arriving two years after the iPhone 16 Pro and ‌iPhone 16‌ Pro Max. Skipping a generation means makes for a bigger upgrade, with more than 50 differences between the 2024 and 2026 models. Most of the visible change arrived in…"
+  },
+  {
+   "id": "b0d3cc4f320e6c3a",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-15T19:00:00.000Z",
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+  },
+  {
+   "id": "aa6e48dc94a2be66",
+   "title": "18-year-old dies of measles in PA from severe neurological complication",
+   "url": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-15T18:58:09.000Z",
+   "summary": "Teen developed acute disseminated encephalomyelitis, a known measles complication."
+  },
+  {
+   "id": "282fe467533b4dc5",
+   "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
+   "url": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-15T18:48:08.000Z",
+   "summary": "Reaching orbit would mark a significant milestone."
+  },
   {
    "id": "591d6386546f29e6",
    "title": "HBO boss reacts to Apple TV winning more Emmy awards",
@@ -91,6 +280,15 @@
    "summary": "Apple TV won big at the Emmys last night, taking home more awards than any other competitor, including HBO. Here’s what HBO boss Casey Bloys said in response to Apple’s victory. more…"
   },
   {
+   "id": "0cb20c8dcfb9dfe8",
+   "title": "Chopping up books when they're physically too big",
+   "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T18:45:31.000Z",
+   "summary": "77 points · 62 comments"
+  },
+  {
    "id": "0345746d7634f085",
    "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
    "url": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
@@ -98,6 +296,15 @@
    "section": "tech",
    "publishedAt": "2026-09-15T18:39:44.000Z",
    "summary": "You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in these breadboxes on wheels. Sales were up 21 percent in 2025, suggesting that the humble minivan is shaking off its \"uncool\" stigma and finding new fans among an SUV-weary public…"
+  },
+  {
+   "id": "0e1f5421e1a0b7ed",
+   "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+   "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-15T18:33:02.000Z",
+   "summary": "Robots can start working outside physical cages and without safety barriers."
   },
   {
    "id": "6266427d6b3aafa7",
@@ -584,6 +791,15 @@
    "section": "tech",
    "publishedAt": "2026-09-15T15:21:10.000Z",
    "summary": "Founded by veteran e-commerce entrepreneur Marc Lore, Wonder is slowly building a massive portfolio of restaurants and delivery companies."
+  },
+  {
+   "id": "9f839c1c9f99889c",
+   "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+   "url": "https://github.com/pizza-bot-app/pizza-bot",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-15T15:20:26.000Z",
+   "summary": "4 points · 0 comments"
   },
   {
    "id": "56794e4df5659592",
@@ -1457,6 +1673,15 @@
    "section": "tech",
    "publishedAt": "2026-09-15T01:50:48.000Z",
    "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it."
+  },
+  {
+   "id": "7e2a8e9ae9f89c80",
+   "title": "Vibe Coding is the new Internet Dating?",
+   "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T01:45:53.000Z",
+   "summary": "15 points · 21 comments"
   },
   {
    "id": "b85e59afd58d4207",
@@ -4337,6 +4562,15 @@
    "section": "tech",
    "publishedAt": "2026-09-13T05:47:13.000Z",
    "summary": "19 points · 1 comments"
+  },
+  {
+   "id": "7c702c97f98ba27e",
+   "title": "Data races and the limits of ThreadSanitizer in C and Go",
+   "url": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-13T04:09:19.000Z",
+   "summary": "5 points · 1 comments"
   },
   {
    "id": "2f03d96d0be3752a",
