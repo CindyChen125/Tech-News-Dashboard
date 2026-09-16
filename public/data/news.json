@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-16T15:31:18.268Z",
+ "updatedAt": "2026-09-16T19:03:20.045Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1195
+   "count": 1196
   },
   {
    "name": "Google DeepMind",
@@ -82,6 +82,420 @@
  ],
  "items": [
   {
+   "id": "367bcc483c71a711",
+   "title": "Former Waymo CFO jumps to self-driving startup Wayve",
+   "url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-16T19:02:49.000Z",
+   "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley."
+  },
+  {
+   "id": "d80a32cf4a1bfa48",
+   "title": "Resident Evil is a comedy first and a thrilling nightmare second",
+   "url": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-16T18:45:35.000Z",
+   "summary": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could be successful, but the commercial and critical failure of projects like the 1993 Super Mario Bros…"
+  },
+  {
+   "id": "5943866a6a33013c",
+   "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-16T18:45:35.000Z",
+   "summary": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass."
+  },
+  {
+   "id": "e4e56ae695bc17b7",
+   "title": "We've created the first vectorized Quicksort",
+   "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T18:31:35.000Z",
+   "summary": "28 points · 4 comments"
+  },
+  {
+   "id": "dc62048481de37cf",
+   "title": "iOS 27.2 gives Apple TV a new profiles feature on iPhone",
+   "url": "https://9to5mac.com/2026/09/16/ios-27-2-gives-apple-tv-a-new-profiles-feature-on-iphone/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-16T18:30:59.000Z",
+   "summary": "iOS 27.2 beta 1 arrived today, and with it a key new feature for the Apple TV app on iPhone: user profiles. more…"
+  },
+  {
+   "id": "efe6e878c9905a10",
+   "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+   "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-16T18:25:25.000Z",
+   "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight."
+  },
+  {
+   "id": "91fb7c971999c58c",
+   "title": "Everything new in iOS 27.2 beta 1 so far",
+   "url": "https://9to5mac.com/2026/09/16/everything-new-ios-27-2-beta-1/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-16T18:22:52.000Z",
+   "summary": "Apple has released the first developer beta of iOS 27.2, beginning the next round of iPhone software testing. Here’s what’s new in the update. more…"
+  },
+  {
+   "id": "b6cd3e219a449819",
+   "title": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders",
+   "url": "https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-16T18:20:38.000Z",
+   "summary": "Samus is geared up for another adventure. | Image: Nintendo The Metroid series is going back to its 2D roots again with Metroid Ravenous for the Nintendo Switch 2, the first side-scrolling game in the series since 2021’s Metroid Dread for the Nintendo Switch. If you’re already excited enough to…"
+  },
+  {
+   "id": "1811ef3911d13353",
+   "title": "iOS 27.2 Adds Siri AI in New Languages",
+   "url": "https://www.macrumors.com/2026/09/16/siri-ai-new-languages-ios-27-2/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-09-16T18:18:19.000Z",
+   "summary": "In the iOS 27.2 beta, Apple Siri AI is available in new languages, including French, Japanese, Korean, Portuguese, and Spanish. iOS 27, ‌Siri‌ AI is limited to English. Apple previously said that new ‌Siri‌ AI languages would be coming in October, so that likely means iOS 27.2 will see an October…"
+  },
+  {
+   "id": "e7064fe7e1e74ba6",
+   "title": "Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database",
+   "url": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-16T18:00:54.000Z",
+   "summary": "The ShinyHunters gang leaked the files online after saying the Florida state agency did not pay their ransom demand."
+  },
+  {
+   "id": "b384b595f8815aca",
+   "title": "Here's Why Apple Just Released an iOS 27.2 Beta Instead of iOS 27.1",
+   "url": "https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-16T17:53:15.000Z",
+   "summary": "Apple just seeded the first beta of iOS 27.2 to developers for testing. Yes, you read that correctly: iOS 27.2, not iOS 27.1. Why no iOS 27.1 beta? The answer likely relates to the iPhone Duo. iPhone Duo will ship with iOS 27.1, which means that software version will contain all sorts of references…"
+  },
+  {
+   "id": "8fb2a4b13a83f85a",
+   "title": "iOS 27.2 expands Siri AI to these new languages",
+   "url": "https://9to5mac.com/2026/09/16/ios-27-2-expands-siri-ai-to-these-new-languages/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-09-16T17:48:06.000Z",
+   "summary": "Today Apple released the first iOS 27.2 beta, a surprising move since there’s been no 27.1 release. And joining the all-new Health app, iOS 27.2 beta 1 also expands Siri AI support to five new languages. more…"
+  },
+  {
+   "id": "13205299def0401f",
+   "title": "MindsEye developer Build A Rocket Boy is reportedly shutting down",
+   "url": "https://www.engadget.com/2260473/mindseye-developer-build-a-rocket-boy-is-reportedly-shutting-down/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-16T17:47:51.000Z",
+   "summary": "It's not terribly surprising after repeated rounds of layoffs."
+  },
+  {
+   "id": "2113af7798da36c5",
+   "title": "The Boox Note Air6C E Ink tablet flips pages nearly 40 percent faster",
+   "url": "https://www.engadget.com/2260455/the-boox-note-air6c-e-ink-tablet-flips-pages-nearly-40-percent-faster/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-16T17:36:21.000Z",
+   "summary": "The 10.3-inch color ereader runs Android 16 and can access the Google Play Store."
+  },
+  {
+   "id": "1144d048ab66a5ec",
+   "title": "iOS 27.2 introduces Apple Health app overhaul, here’s what’s new",
+   "url": "https://9to5mac.com/2026/09/16/ios-27-2-introduces-apple-health-app-overhaul-heres-whats-new/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-16T17:34:15.000Z",
+   "summary": "Today Apple released iOS 27.2 beta 1, skipping over 27.1 entirely in the testing cycle. And among other changes, the new iOS 27.2 update includes the previously announced all-new Health app. more…"
+  },
+  {
+   "id": "7810018e1d688cf2",
+   "title": "iOS 27.2 Beta Previews New Apple Intelligence Health App",
+   "url": "https://www.macrumors.com/2026/09/16/ios-27-2-beta-health-app/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-16T17:32:30.000Z",
+   "summary": "The first beta of iOS 27.2 includes Apple's redesigned Health app, giving developers a chance to try out the features ahead of launch later this year. Apple's developer notes for the feature say the Health app is being tested in this beta, but it won't be in the launch version of iOS 27.2. It will…"
+  },
+  {
+   "id": "6d439664934deaeb",
+   "title": "GitHub Is Having Trouble Counting Things",
+   "url": "https://chuckgreenman.com/2026/09/16/counting-at-github",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T17:31:19.000Z",
+   "summary": "8 points · 1 comments"
+  },
+  {
+   "id": "6250418d19395d9a",
+   "title": "ER visits for gambling disorders doubled after expanded online gambling market",
+   "url": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T17:27:37.000Z",
+   "summary": "65 points · 52 comments"
+  },
+  {
+   "id": "5436f8b73eb9b0d9",
+   "title": "Apple might make servers again to cash in on the AI rush",
+   "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-16T17:20:29.000Z",
+   "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI…"
+  },
+  {
+   "id": "5f5781f6d1ce98bc",
+   "title": "Apple releases beta 1 for watchOS 27.2, tvOS 27.2, more",
+   "url": "https://9to5mac.com/2026/09/16/apple-releases-beta-1-for-watchos-27-2-tvos-27-2-more/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-16T17:16:53.000Z",
+   "summary": "Apple has just kicked off a new wave of beta updates, and it’s not the one we were expecting. Beta 1 is here for watchOS 27.2, tvOS 27.2, and more. more…"
+  },
+  {
+   "id": "9e7ca9e2d3760fd9",
+   "title": "Apple Seeds First macOS Golden Gate 27.2 Beta to Developers",
+   "url": "https://www.macrumors.com/2026/09/16/apple-releases-macos-27-2-beta-1/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-16T17:15:56.000Z",
+   "summary": "Apple is testing the next macOS Golden Gate update, and developers can download the ‌macOS Golden Gate‌ 27.2 beta as of today. The beta comes just two days after Apple launched ‌macOS Golden Gate‌ 27.0. Registered developers can download ‌macOS Golden Gate‌ 27.2 by opening up the System Settings…"
+  },
+  {
+   "id": "bfa1357c6c7f3982",
+   "title": "Apple Releases First iOS 27.2 Beta",
+   "url": "https://www.macrumors.com/2026/09/16/apple-releases-first-ios-27-2-beta/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-16T17:14:12.000Z",
+   "summary": "Apple today seeded the first beta of an upcoming iOS 27.2 update to developers for testing purposes, with the update coming just two days after the iOS 27 launch. Apple also seeded an iPadOS 27.2 beta. Registered developers can download the beta updates by opting in under Settings > General >…"
+  },
+  {
+   "id": "0f3e956ddde302db",
+   "title": "macOS 27.2 beta 1 now available to developers, here’s what’s new",
+   "url": "https://9to5mac.com/2026/09/16/macos-27-2-beta-1-now-available-to-developers-heres-whats-new/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-16T17:13:39.000Z",
+   "summary": "Now that macOS 27 Golden Gate is officially out, Apple is moving on to its next beta cycle, straight to macOS 27.2 beta 1. Here are the details. more…"
+  },
+  {
+   "id": "e3bcdc82892b3e73",
+   "title": "iPadOS 27.2 beta 1 now available for iPad",
+   "url": "https://9to5mac.com/2026/09/16/ipados-27-2-beta-1-now-available-for-ipad/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-16T17:13:01.000Z",
+   "summary": "Apple has a new beta cycle beginning today, and it’s a surprising one: rather than the iPadOS 27.1 update we were expecting, iPadOS 27.2 beta 1 is now here. more…"
+  },
+  {
+   "id": "65874932494f3600",
+   "title": "Apple releases first iOS 27.2 developer beta for iPhone",
+   "url": "https://9to5mac.com/2026/09/16/apple-releases-first-ios-27-2-developer-beta-for-iphone/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-16T17:12:55.000Z",
+   "summary": "Apple has released the first iOS 27.2 developer beta for iPhone. The update follows the release of iOS 27 to everyone on Monday. It also leaps over iOS 27.1, which Apple has shown as an iPhone Duo-focused release. more…"
+  },
+  {
+   "id": "f93426404d5d3d86",
+   "title": "Apple Releases First watchOS 27.2, tvOS 27.2 and visionOS 27.2 Betas",
+   "url": "https://www.macrumors.com/2026/09/16/apple-releases-watchos-27-2/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-16T17:12:00.000Z",
+   "summary": "Alongside new betas of iOS 27.2, iPadOS 27.2, and macOS Golden Gate 27.2, Apple has released the first betas of watchOS 27.2, tvOS 27.2, and visionOS 27.2. The betas come two days after the 27.0 software updates were released. Registered developers can download the betas through the Settings app on…"
+  },
+  {
+   "id": "354aee611a1d6d2c",
+   "title": "iOS 27 to Offer New Way to Redeem Apple Gift Cards",
+   "url": "https://www.macrumors.com/2026/09/16/ios-27-new-way-to-redeem-apple-gift-cards/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-16T17:08:36.000Z",
+   "summary": "Last week, our team discovered code in the iOS 27 Release Candidate that revealed there will be a new NFC-based way to redeem Apple gift cards by tapping them on the back of a compatible iPhone, and now a demo of the feature has surfaced. While the functionality does not appear to be live yet…"
+  },
+  {
+   "id": "42f40ca20edfe380",
+   "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
+   "url": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-16T17:06:06.000Z",
+   "summary": "Man wins fight to block ICE threat over off-the-cuff angry email."
+  },
+  {
+   "id": "bc0b386f5bb2302c",
+   "title": "Your ‘health age’ is fake",
+   "url": "https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-16T17:00:00.000Z",
+   "summary": "My villain origin story is my Whoop age. How do you age at 0.9 times your age and end up four to five years older than you are? | Photo by Amelia Holowaty Krales / The Verge This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest…"
+  },
+  {
+   "id": "8be22ebd052aa3ac",
+   "title": "Google will now let any AI agent run your smart home",
+   "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-16T17:00:00.000Z",
+   "summary": "Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data…"
+  },
+  {
+   "id": "97af35904d792a18",
+   "title": "Your AI agents can now control your Google Home devices",
+   "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-16T17:00:00.000Z",
+   "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language."
+  },
+  {
+   "id": "b732822f524dcff3",
+   "title": "Google Home is going agentic via integration with the MCP standard",
+   "url": "https://www.engadget.com/2260280/google-home-is-going-agentic-via-integration-with-the-mcp-standard/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-16T17:00:00.000Z",
+   "summary": "Premium Advanced users will get an early access build \"in the coming weeks.\""
+  },
+  {
+   "id": "5c367835609af999",
+   "title": "Anthropic merging Claude Cowork with chat",
+   "url": "https://9to5mac.com/2026/09/16/anthropic-merging-claude-cowork-with-chat/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-09-16T16:47:54.000Z",
+   "summary": "Anthropic announced today that Claude Cowork is being merged with chat. This means Claude will drop from three to two modes: Claude Chat and Claude Code. more…"
+  },
+  {
+   "id": "e33a41eb7653ebbf",
+   "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+   "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-16T16:40:11.000Z",
+   "summary": "War damage to data centers exceeded what AWS services are designed to withstand."
+  },
+  {
+   "id": "f3049e56838b0d8b",
+   "title": "Claude comes for Gemini with its own take on Docs and Slides",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-16T16:30:00.000Z",
+   "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and…"
+  },
+  {
+   "id": "5601450426fa0dd8",
+   "title": "Anthropic merges Claude chat and Cowork in one interface",
+   "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-16T16:30:00.000Z",
+   "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
+  },
+  {
+   "id": "aa976615091ad44d",
+   "title": "Anthropic's Claude can now create editable documents for you",
+   "url": "https://www.engadget.com/2259938/anthropics-claude-can-now-create-editable-documents-for-you-cowork-chat-together/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-16T16:30:00.000Z",
+   "summary": "Anthropic is adding the ability to create docs, slideshow and access Cowork capabilities inside chat. It will roll out to Pro and Max subscribers first."
+  },
+  {
+   "id": "4c2191b5c187dada",
+   "title": "Claude Cowork and chat are now one Claude",
+   "url": "https://claude.com/blog/cowork-is-now-claude",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-16T16:26:25.000Z",
+   "summary": "110 points · 141 comments"
+  },
+  {
+   "id": "697d56688dd23374",
+   "title": "This Code Is CRAP (2011)",
+   "url": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T16:13:55.000Z",
+   "summary": "61 points · 40 comments"
+  },
+  {
+   "id": "1a5ebdb97ee66f28",
+   "title": "Apple Weather adds two convenient new features in iOS 27",
+   "url": "https://9to5mac.com/2026/09/16/apple-weather-adds-two-convenient-new-features-in-ios-27/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-16T16:09:39.000Z",
+   "summary": "Apple Weather adds two convenient features in iOS 27 that make it easier to track rain and wind forecasts. Here are the details. more…"
+  },
+  {
+   "id": "22734ffbdaad86d4",
+   "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+   "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-16T16:00:00.000Z",
+   "summary": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders…"
+  },
+  {
+   "id": "d93c26face2b6b89",
+   "title": "Small Programming Tricks",
+   "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T15:56:47.000Z",
+   "summary": "181 points · 111 comments"
+  },
+  {
+   "id": "ab04443244ef220b",
+   "title": "Here's Why a New Apple Watch Charging Puck Was Just Released",
+   "url": "https://www.macrumors.com/2026/09/16/new-apple-watch-charging-puck/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-16T15:54:00.000Z",
+   "summary": "The new Apple Watch Series 12 and Apple Watch Ultra 4 have hardware changes that allow for faster charging, but you will need to use the new version of the Apple Watch Magnetic Fast Charger included in the box in order to achieve this boost. If you need extra ones for your own charging stands or…"
+  },
+  {
+   "id": "ac7ab1367ba284d5",
+   "title": "Can we stop with the uptime percentages?",
+   "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T15:40:04.000Z",
+   "summary": "91 points · 73 comments"
+  },
+  {
+   "id": "6e02e96d30017f0b",
+   "title": "Apple Watch Series 12 has subtle design change that Apple didn’t mention",
+   "url": "https://9to5mac.com/2026/09/16/apple-watch-series-12-has-subtle-design-change-that-apple-didnt-mention/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-16T15:34:14.000Z",
+   "summary": "Apple Watch Series 12 arrives this Friday (pre-order here), but some upgraders might be surprised by a subtle design change that Apple didn’t mention in its announcement: larger bezels around the display. more…"
+  },
+  {
+   "id": "9b8fb2ad57a0c33d",
+   "title": "Deals: AirPods 5/Pro 3, Apple Watch Ultra 4, MacBook Pro $450 off, more",
+   "url": "https://9to5mac.com/2026/09/16/deals-airpods-5-pro-3-apple-watch-ultra-4/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-16T15:34:08.000Z",
+   "summary": "While the early fall Prime Day deals are now live at Amazon, we are also tracking loads more Apple Watch Series 12 configurations and the new black Apple Watch Ultra 4 seeing early pre-order discounts ahead of delivery this week. The same goes for Amazon’s early price drop on the new AirPods 5 with…"
+  },
+  {
    "id": "af9a026334e83a24",
    "title": "Helping older adults use AI in everyday life",
    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
@@ -98,6 +512,15 @@
    "section": "tech",
    "publishedAt": "2026-09-16T15:27:13.000Z",
    "summary": "The deal could net the asset-light robotaxi company more than $300 million in funding."
+  },
+  {
+   "id": "aee44f29049cdb0f",
+   "title": "What happens when neutrinos swap identities inside a supernova?",
+   "url": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-16T15:17:43.000Z",
+   "summary": "Identity-fluid particles may carry some energy out, leading to direct collapse."
   },
   {
    "id": "d00d2308da2f9dcc",
@@ -145,6 +568,15 @@
    "summary": "More details on the company's chunky smart glasses are expected today."
   },
   {
+   "id": "a10f3ac613f59532",
+   "title": "macOS 27 Golden Gate: The Ars Technica review",
+   "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-16T14:50:06.000Z",
+   "summary": "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence."
+  },
+  {
    "id": "b4a4309b9e226a16",
    "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
    "url": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
@@ -152,6 +584,24 @@
    "section": "tech",
    "publishedAt": "2026-09-16T14:47:07.000Z",
    "summary": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\""
+  },
+  {
+   "id": "300d84e198ecbcaf",
+   "title": "The sexy AI-powered dating app scams are here",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-16T14:45:00.000Z",
+   "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror…"
+  },
+  {
+   "id": "b55dcb37751644e5",
+   "title": "Xreal’s well-rounded 1S glasses are back down to their lowest price",
+   "url": "https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-16T14:44:48.000Z",
+   "summary": "USB-C-connected video glasses are a lot of fun if you want to see your games, movies (or just your computer screen) on a large, immersive virtual screen. One of the most well-rounded pairs out there, Xreal’s 1S, has returned to their lowest price yet, costing $399 at Amazon and via Xreal itself…"
   },
   {
    "id": "46481242649cba5a",
@@ -179,6 +629,15 @@
    "section": "ai",
    "publishedAt": "2026-09-16T14:32:15.000Z",
    "summary": "18 points · 13 comments"
+  },
+  {
+   "id": "33a8ac1ae412188e",
+   "title": "The DeepMind Institute",
+   "url": "https://institute.deepmind.com/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-16T14:32:11.000Z",
+   "summary": "57 points · 17 comments"
   },
   {
    "id": "4357e075c2e2e34f",
@@ -253,6 +712,15 @@
    "summary": "Apple today announced \"What Holds Us,\" a photography exhibition featuring work shot exclusively on the iPhone 18 Pro by Alex Prager, Jack Davison, and Jimmy Chin. Curated by Kathy Ryan, the exhibition explores human connection through crowd scenes, portraits involving clay, and mountain…"
   },
   {
+   "id": "e6130f53a8d38360",
+   "title": "The world’s best racing driver is about to race 100 karts at once",
+   "url": "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-16T14:19:01.000Z",
+   "summary": "Red Bull, Disney+, and ESPN are streaming the race at noon Eastern today."
+  },
+  {
    "id": "eefae2c34035acf7",
    "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
    "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
@@ -269,6 +737,15 @@
    "section": "tech",
    "publishedAt": "2026-09-16T14:14:46.000Z",
    "summary": "iOS 27 introduces a new security feature called ‘Impersonation Risk Detection’ that helps protect you against scams, but it’s off by default. Here’s what the feature does, and how to enable it. more…"
+  },
+  {
+   "id": "7d37e0c0417f5b60",
+   "title": "Lawmakers target Flock cameras with a threat to highway funding",
+   "url": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-16T14:03:39.000Z",
+   "summary": "A bipartisan bill would restrict Flock cameras to a handful of public safety uses."
   },
   {
    "id": "b82f493fe9895d0d",
@@ -611,6 +1088,15 @@
    "section": "ai",
    "publishedAt": "2026-09-16T09:12:34.000Z",
    "summary": "62 points · 39 comments"
+  },
+  {
+   "id": "10f4b38dc691b5bc",
+   "title": "How workers are unlocking new ways of working",
+   "url": "https://openai.com/index/unlocking-new-ways-of-working",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-16T09:00:00.000Z",
+   "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
   },
   {
    "id": "4bd3902719655fe7",
@@ -1061,6 +1547,15 @@
    "section": "tech",
    "publishedAt": "2026-09-15T19:17:47.000Z",
    "summary": "Apple last week announced the iPhone 18 Pro and ‌iPhone 18 Pro‌ Max, arriving two years after the iPhone 16 Pro and ‌iPhone 16‌ Pro Max. Skipping a generation means makes for a bigger upgrade, with more than 50 differences between the 2024 and 2026 models. Most of the visible change arrived in…"
+  },
+  {
+   "id": "6266473c2269361e",
+   "title": "The Siberian Ice Maiden and the Scythian World",
+   "url": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T19:09:09.000Z",
+   "summary": "15 points · 0 comments"
   },
   {
    "id": "789a23a3b17fdfab",
@@ -4013,6 +4508,15 @@
    "section": "tech",
    "publishedAt": "2026-09-14T15:00:00.000Z",
    "summary": "Working out whether to invest in headphones with a 3.5mm jack or USB-C connector can be tricky. Turns out, there's a lot more to it than how you plug them in."
+  },
+  {
+   "id": "305e50a0dd78a56d",
+   "title": "Anecdotally, Programmers Dislike \"Reduce\"",
+   "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-14T14:58:26.000Z",
+   "summary": "29 points · 34 comments"
   },
   {
    "id": "8ca4487f94f7159a",
