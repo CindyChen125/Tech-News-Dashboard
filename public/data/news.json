@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-16T19:03:20.045Z",
+ "updatedAt": "2026-09-16T22:05:59.094Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1196
+   "count": 1198
   },
   {
    "name": "Google DeepMind",
@@ -82,6 +82,267 @@
  ],
  "items": [
   {
+   "id": "797f3a196ef904ed",
+   "title": "Upgrade your Mac desk setup with the Sihoo B300 Pro for under $300",
+   "url": "https://9to5mac.com/2026/09/16/upgrade-mac-desk-setup-with-sihoo-b300-pro-under-300/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-16T22:00:00.000Z",
+   "summary": "A Mac desk setup usually starts with the computer, maybe a display, and a few favorite accessories. But the chair deserves a place on that upgrade list, too. It’s what supports you. Whether you spend your day writing, editing photos, or moving between meetings, it’s something you use in every part…"
+  },
+  {
+   "id": "b2c3c8bcb3e401cd",
+   "title": "Noise wants to help everyday people become paid content creators",
+   "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-16T21:35:00.000Z",
+   "summary": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content."
+  },
+  {
+   "id": "227e96e61a8d008e",
+   "title": "Judge scrutinizes Musk’s move to drop Apple from antitrust lawsuit involving OpenAI",
+   "url": "https://9to5mac.com/2026/09/16/judge-scrutinizes-musks-move-to-drop-apple-from-antitrust-lawsuit-involving-openai/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-09-16T21:26:54.000Z",
+   "summary": "Federal judge Mark Pittman wants details on any agreement that may have led Elon Musk’s companies to drop their antitrust claims against Apple. Here are the details. more…"
+  },
+  {
+   "id": "fdc3d3720da86dd8",
+   "title": "Pulley, a Carta rival, is shutting down",
+   "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-16T21:23:19.000Z",
+   "summary": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December."
+  },
+  {
+   "id": "a78880f375566458",
+   "title": "Hands-On With the Redesigned Health App in the iOS 27.2 Beta",
+   "url": "https://www.macrumors.com/2026/09/16/ios-27-2-health-app-beta/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-16T21:21:23.000Z",
+   "summary": "With the iOS 27.2 beta, Apple is testing the new Health app that it previewed at its September iPhone event. The app has been entirely overhauled, with new Insights and Longevity tabs that give you more information on your health and fitness metrics. Subscribe to the MacRumors YouTube channel for…"
+  },
+  {
+   "id": "7e2d5e34cb5cdb66",
+   "title": "Apple's redesigned Health app is available now in the iOS 27.2 developer beta",
+   "url": "https://www.engadget.com/2260794/apple-s-redesigned-health-app-is-available-now-in-the-ios-27-2-developer-beta/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-16T21:18:43.000Z",
+   "summary": "New features like Health Age bring Apple's app more in line with competitors like Whoop and Oura."
+  },
+  {
+   "id": "fe5fd7adfd25506f",
+   "title": "Hyper Light Drifter dev at risk of closing after laying off 'nearly everyone'",
+   "url": "https://www.engadget.com/2260787/hyper-light-drifter-dev-at-risk-of-closing-after-laying-off-nearly-everyone/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-16T21:11:21.000Z",
+   "summary": "A tough end for another indie darling."
+  },
+  {
+   "id": "f4b5ea2310363585",
+   "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+   "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-16T21:08:14.000Z",
+   "summary": "Group plans to be largely out of commission for several weeks."
+  },
+  {
+   "id": "fd65fb839fe9c335",
+   "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+   "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-16T21:07:24.000Z",
+   "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation."
+  },
+  {
+   "id": "849b7deb5a6eef37",
+   "title": "iOS 27.2 will help users move data and settings from an old app to its replacement",
+   "url": "https://9to5mac.com/2026/09/16/ios-27-2-will-help-users-move-data-and-settings-from-an-old-app-to-its-replacement/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-16T21:03:28.000Z",
+   "summary": "Starting with iOS 27.2, developers will be able to offer users a way to move their data and settings from an existing app to its designated replacement. Here are the details. more…"
+  },
+  {
+   "id": "f984ebf8b1c30618",
+   "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+   "url": "https://arxiv.org/abs/2609.16338",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-16T20:59:24.000Z",
+   "summary": "50 points · 0 comments"
+  },
+  {
+   "id": "8bf33b275cebc075",
+   "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+   "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-16T20:59:13.000Z",
+   "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether. The new film…"
+  },
+  {
+   "id": "18a4e3859fff4457",
+   "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
+   "url": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-16T20:44:41.000Z",
+   "summary": "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood."
+  },
+  {
+   "id": "01e088a69fe903ba",
+   "title": "iOS 27.2 Could Save Your Marriage",
+   "url": "https://www.macrumors.com/2026/09/16/ios-27-2-could-save-your-marriage/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-16T20:42:06.000Z",
+   "summary": "The iOS 27.2 beta that Apple released today adds a feature that reminds you it's your anniversary when you call someone, as long as you've added the date in the Contacts app. On the date of your anniversary, when you go to call the person, you'll see a reminder that it's an important day so you…"
+  },
+  {
+   "id": "89def5339d295ac8",
+   "title": "The AI data center e-waste problem is huge — and getting bigger",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-16T20:40:46.000Z",
+   "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a significantly higher estimate of AI's e-waste than…"
+  },
+  {
+   "id": "f4ca912e99a8bb57",
+   "title": "This iOS 27 bug temporarily freezes your iPhone … and it’s going viral on social media",
+   "url": "https://9to5mac.com/2026/09/16/iphone-ios-2-temporarily-brick-freeze-viral-prank/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-16T20:38:34.000Z",
+   "summary": "Just a matter of days after iOS 27 has been released to the public, people have already discovered a way to temporarily brick your phone with a quick series of swipes on the home screen. And it’s starting to going viral on social media as some kind of iPhone prank to do on your friends. Luckily, it…"
+  },
+  {
+   "id": "0cc333093a8a26bb",
+   "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
+   "url": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-16T20:23:16.000Z",
+   "summary": "New system-level tools bring Arm chipsets, Android APKs into the Steam ecosystem."
+  },
+  {
+   "id": "a187c92323ea8d3c",
+   "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+   "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-16T20:12:00.000Z",
+   "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?"
+  },
+  {
+   "id": "5da04b0c27f853d3",
+   "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+   "url": "https://mimo.xiaomi.com/rl/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T20:09:18.000Z",
+   "summary": "126 points · 38 comments"
+  },
+  {
+   "id": "2d9ad691dcf3c6fd",
+   "title": "iOS 27.2 references new option to overwrite iPhone storage with blank data after erasing",
+   "url": "https://9to5mac.com/2026/09/16/ios-27-2-references-new-option-to-overwrite-iphone-storage-with-blank-data-after-erasing/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-16T20:00:52.000Z",
+   "summary": "Apple is working on a new option to more thoroughly wipe an iPhone’s storage when erasing the device, but there’s a catch. Here are the details. more…"
+  },
+  {
+   "id": "c6be7ee5f3ced68d",
+   "title": "X will now let US users trade via Cashtags",
+   "url": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-16T19:57:22.000Z",
+   "summary": "The move closes the gap between the market discussions taking place on the timeline, and the market itself."
+  },
+  {
+   "id": "0537ae29e15ef282",
+   "title": "iOS 27 gives Apple Photos a very useful feature I’ve wanted for years",
+   "url": "https://9to5mac.com/2026/09/16/ios-27-gives-apple-photos-a-very-useful-feature-ive-wanted-for-years/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-16T19:47:14.000Z",
+   "summary": "Apple Photos gets a variety of exciting upgrades in iOS 27, including a new feature that’s long been on my wishlist: the ability to save a video frame as a photo. more…"
+  },
+  {
+   "id": "82c482da7c2cf673",
+   "title": "California may gut state net neutrality law to comply with Trump admin demand",
+   "url": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-16T19:36:44.000Z",
+   "summary": "Trump admin broadband grants forbid states from enforcing net neutrality laws."
+  },
+  {
+   "id": "4b55c85bacf7d32a",
+   "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
+   "url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-16T19:35:29.000Z",
+   "summary": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefits."
+  },
+  {
+   "id": "831af9d5ee38e85c",
+   "title": "iPhone 18 Pro vs. iPhone Duo Buyer's Guide: Which Should You Choose?",
+   "url": "https://www.macrumors.com/guide/iphone-18-pro-vs-iphone-duo/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-16T19:28:11.000Z",
+   "summary": "Apple's new iPhone lineup asks buyers a new and challenging question: Is a foldable display worth feature compromises? Alongside the iPhone 18 Pro and ‌iPhone 18 Pro‌ Max, which start at $1,199 and $1,299 respectively, there is now the iPhone Duo, Apple's first foldable iPhone, which starts at…"
+  },
+  {
+   "id": "c05b776ba5704084",
+   "title": "iOS 27.2 Adds Profiles to Apple TV App",
+   "url": "https://www.macrumors.com/2026/09/16/ios-27-2-tv-app-profiles/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-16T19:23:20.000Z",
+   "summary": "With iOS 27.2 and iPadOS 27.2, Apple extended Apple TV app profiles to the iOS version of the app. Apple brought ‌Apple TV‌ profiles to tvOS with tvOS 26.2, but the feature has been limited to the ‌Apple TV‌ until now. ‌Apple TV‌ app users can create new profiles in the account settings section…"
+  },
+  {
+   "id": "442e371862c2efe5",
+   "title": "How good are frontier models at physics?",
+   "url": "https://arxiv.org/abs/2609.13009",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T19:19:08.000Z",
+   "summary": "41 points · 14 comments"
+  },
+  {
+   "id": "64f06cd2dc4fa9cd",
+   "title": "iOS 27.2 lets developers use an alternative App Tracking Transparency prompt in the EU",
+   "url": "https://9to5mac.com/2026/09/16/ios-27-2-lets-developers-use-an-alternative-app-tracking-transparency-prompt-in-the-eu/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-16T19:10:21.000Z",
+   "summary": "Starting with iOS 27.2, developers will have the option to use an alternative App Tracking Transparency system prompt in the EU, as part of Apple’s recent deal with the bloc. Here are the details. more…"
+  },
+  {
+   "id": "5c9f033789663ee3",
+   "title": "Researchers swap in human brain cells for a mouse's cortex",
+   "url": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-16T19:08:34.000Z",
+   "summary": "The results are only a slight improvement over missing the entire brain structure."
+  },
+  {
    "id": "367bcc483c71a711",
    "title": "Former Waymo CFO jumps to self-driving startup Wayve",
    "url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
@@ -89,6 +350,33 @@
    "section": "tech",
    "publishedAt": "2026-09-16T19:02:49.000Z",
    "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley."
+  },
+  {
+   "id": "ce39d63d4af10306",
+   "title": "Accurate Models of AMD Matrix Cores",
+   "url": "https://arxiv.org/abs/2609.14845",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T18:56:05.000Z",
+   "summary": "45 points · 5 comments"
+  },
+  {
+   "id": "b9e3434a9e070f5c",
+   "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+   "url": "https://rohanbansal.com/qorl",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T18:50:00.000Z",
+   "summary": "251 points · 43 comments"
+  },
+  {
+   "id": "97bade5fadf80b66",
+   "title": "Reverse-engineered Jev-like model",
+   "url": "https://github.com/vinnylarouge/jevlike",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T18:49:57.000Z",
+   "summary": "19 points · 4 comments"
   },
   {
    "id": "d80a32cf4a1bfa48",
@@ -107,6 +395,15 @@
    "section": "tech",
    "publishedAt": "2026-09-16T18:45:35.000Z",
    "summary": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass."
+  },
+  {
+   "id": "1232ec8d9c8a4de5",
+   "title": "Scientists develop new method for deciphering ancient scrolls",
+   "url": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-16T18:43:23.000Z",
+   "summary": "Even a handheld XRF scanner is sufficient to determine most promising scrolls for further analysis."
   },
   {
    "id": "e4e56ae695bc17b7",
@@ -161,6 +458,15 @@
    "section": "ai",
    "publishedAt": "2026-09-16T18:18:19.000Z",
    "summary": "In the iOS 27.2 beta, Apple Siri AI is available in new languages, including French, Japanese, Korean, Portuguese, and Spanish. iOS 27, ‌Siri‌ AI is limited to English. Apple previously said that new ‌Siri‌ AI languages would be coming in October, so that likely means iOS 27.2 will see an October…"
+  },
+  {
+   "id": "ac31adc8923a3d7b",
+   "title": "The Specialized Diverge Pro 4 makes rough gravel your playground",
+   "url": "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-16T18:11:53.000Z",
+   "summary": "The Diverge Pro 4 is happiest when the road gets ugly."
   },
   {
    "id": "e7064fe7e1e74ba6",
@@ -368,6 +674,24 @@
    "section": "ai",
    "publishedAt": "2026-09-16T17:00:00.000Z",
    "summary": "Premium Advanced users will get an early access build \"in the coming weeks.\""
+  },
+  {
+   "id": "35ce39c019e18ac2",
+   "title": "Our framework for reporting model misalignment",
+   "url": "https://openai.com/index/model-misalignment-reporting-framework",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-16T17:00:00.000Z",
+   "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
+  },
+  {
+   "id": "8c58fca6dd90c0ea",
+   "title": "Training Text-to-Image Models 3.6× Faster",
+   "url": "https://www.linum.ai/field-notes/jit-ddt",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T16:58:13.000Z",
+   "summary": "14 points · 1 comments"
   },
   {
    "id": "5c367835609af999",
@@ -982,6 +1306,15 @@
    "summary": "The yardstick that all phones, including the Duo, will be measured by."
   },
   {
+   "id": "914260481c4a5312",
+   "title": "How to connect AI usage to business value",
+   "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-16T12:00:00.000Z",
+   "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+  },
+  {
    "id": "7614d8a936151608",
    "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
    "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
@@ -1412,6 +1745,15 @@
    "section": "ai",
    "publishedAt": "2026-09-15T21:47:38.000Z",
    "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery."
+  },
+  {
+   "id": "558d66f77ba0129f",
+   "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+   "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T21:41:42.000Z",
+   "summary": "94 points · 50 comments"
   },
   {
    "id": "bffe06f3e9c35cd9",
@@ -2665,6 +3007,15 @@
    "summary": "Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation."
   },
   {
+   "id": "0712660aa085be44",
+   "title": "Performance Improvements in .NET 11",
+   "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T12:18:16.000Z",
+   "summary": "79 points · 3 comments"
+  },
+  {
    "id": "7e0faa3272cf1bb8",
    "title": "New Apple Watch features may require new legal precedent for privacy",
    "url": "https://9to5mac.com/2026/09/15/new-apple-watch-features-may-require-new-legal-precedent-for-privacy/",
@@ -2708,6 +3059,15 @@
    "section": "tech",
    "publishedAt": "2026-09-15T12:00:00.000Z",
    "summary": "MagSafe is a feature unique to iPhones, but Android users have a couple of options if they want to use MagSafe accessories and chargers."
+  },
+  {
+   "id": "bacfd62557487279",
+   "title": "Show HN: Restarted – a 2026 remake of the classic 2015 startup generator",
+   "url": "https://restarted.io/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T11:34:45.000Z",
+   "summary": "13 points · 2 comments"
   },
   {
    "id": "18fd42dde30b838d",
@@ -4229,6 +4589,15 @@
    "section": "tech",
    "publishedAt": "2026-09-14T16:23:16.000Z",
    "summary": "79 points · 9 comments"
+  },
+  {
+   "id": "385935e9970c01b9",
+   "title": "Show HN: AttaLambda: a language where types and data are made of untyped lambdas",
+   "url": "https://attalambda.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-14T16:21:10.000Z",
+   "summary": "27 points · 0 comments"
   },
   {
    "id": "18245af44dabbd5d",
@@ -6157,6 +6526,15 @@
    "summary": "If you've already tried updating your phone, the car's software might be the issue."
   },
   {
+   "id": "50f30bfdd18d7741",
+   "title": "Japan's book scene is moving from bookstores to libraries",
+   "url": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-12T22:35:25.000Z",
+   "summary": "46 points · 6 comments"
+  },
+  {
    "id": "e4306b5d45d75dbf",
    "title": "What's the difference between your iPhone's Do Not Disturb and Focus modes?",
    "url": "https://www.engadget.com/2252804/iphone-do-not-disturb-vs-focus-mode-difference-between/",
@@ -6389,6 +6767,15 @@
    "section": "tech",
    "publishedAt": "2026-09-12T17:05:31.000Z",
    "summary": "103 points · 159 comments"
+  },
+  {
+   "id": "31ec5c794910538e",
+   "title": "Reversing Factorio's RNG",
+   "url": "https://gegell.github.io/posts/factorio-rng/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-12T17:02:19.000Z",
+   "summary": "68 points · 8 comments"
   },
   {
    "id": "68138ef85f6fe6f7",
@@ -7154,6 +7541,15 @@
    "section": "tech",
    "publishedAt": "2026-09-11T16:20:43.000Z",
    "summary": "NASA asks US states to show them the money."
+  },
+  {
+   "id": "eb75510a10ec969c",
+   "title": "WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
+   "url": "https://clickhouse.com/blog/introducing-walshadow",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-11T16:09:09.000Z",
+   "summary": "23 points · 4 comments"
   },
   {
    "id": "aa9a71665df949e5",
@@ -9358,15 +9754,6 @@
    "source": "Hugging Face",
    "section": "ai",
    "publishedAt": "2026-08-18T00:00:00.000Z",
-   "summary": ""
-  },
-  {
-   "id": "3d3e67c767ffe97d",
-   "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-   "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-   "source": "Hugging Face",
-   "section": "ai",
-   "publishedAt": "2026-08-17T19:46:21.000Z",
    "summary": ""
   }
  ]
