@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-16T00:45:46.848Z",
+ "updatedAt": "2026-09-16T05:56:35.626Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,96 @@
   }
  ],
  "items": [
+  {
+   "id": "772dda2789ef970b",
+   "title": "Datamimic – don't let your coding agent invent its own test world",
+   "url": "https://github.com/rapiddweller/datamimic",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T04:58:36.000Z",
+   "summary": "9 points · 2 comments"
+  },
+  {
+   "id": "07d662f2d55c0896",
+   "title": "How chimps teach their kids tool tricks",
+   "url": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-16T04:00:39.000Z",
+   "summary": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior."
+  },
+  {
+   "id": "bdd6f56db7299788",
+   "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+   "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T02:46:06.000Z",
+   "summary": "59 points · 17 comments"
+  },
+  {
+   "id": "d714eb2d29395bb0",
+   "title": "Apple explains how the iPhone 18 Pro’s new Reference Image camera mode works",
+   "url": "https://9to5mac.com/2026/09/15/apple-explains-how-the-iphone-18-pros-new-reference-image-camera-mode-works/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-16T02:25:19.000Z",
+   "summary": "A new post on Apple’s Security Research blog details the fascinating tech, architecture, and thinking behind the iPhone 18 Pro’s new Reference Image camera mode. Here are the details more…"
+  },
+  {
+   "id": "e760101966be716d",
+   "title": "Stay discoverable in search while disallowing AI training",
+   "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-16T02:25:18.000Z",
+   "summary": "46 points · 30 comments"
+  },
+  {
+   "id": "0bd4dd418ee0e990",
+   "title": "Apple Reference Image: A New Approach for Verified Photography",
+   "url": "https://security.apple.com/blog/apple-reference-image/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T02:07:31.000Z",
+   "summary": "129 points · 72 comments"
+  },
+  {
+   "id": "fac1247df6a2097e",
+   "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
+   "url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-16T02:00:00.000Z",
+   "summary": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justify its significant price bump depending on how you plan to use it. While the…"
+  },
+  {
+   "id": "91a557aa6b26fa11",
+   "title": "Slow Horses season 6 debuts on Apple TV",
+   "url": "https://9to5mac.com/2026/09/15/slow-horses-season-6-debuts-on-apple-tv/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-16T01:05:09.000Z",
+   "summary": "The wait is over. Apple TV subscribers can now stream the first episode of Slow Horses’ new season, just hours after the platform announced the show has been confirmed for two more seasons. Watch the trailer for the new season below. more…"
+  },
+  {
+   "id": "69f05ff29cbed39a",
+   "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+   "url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-16T01:00:00.000Z",
+   "summary": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and more accessible alternative to the Canon R6 Mark…"
+  },
+  {
+   "id": "d523bb5e528add2c",
+   "title": "Canon's R8 II camera borrowed its styling from a classic SLR film camera",
+   "url": "https://www.engadget.com/2259755/canon-r8-ii-camera-borrowed-styling-from-a-classic-slr-film-camera/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-16T01:00:00.000Z",
+   "summary": "Though preoccupied with vlogging lately, Canon hasn't forgotten its full-frame photography market."
+  },
   {
    "id": "071008e603e9c80b",
    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
@@ -1907,6 +1997,15 @@
    "section": "tech",
    "publishedAt": "2026-09-15T00:02:40.000Z",
    "summary": "Apple released macOS Golden Gate to the public today, which means anyone with a compatible Mac can download it. The new version of macOS requires an Apple chip, so if you have a Mac with an M1 or later or a MacBook Neo, you can upgrade. ‌macOS Golden Gate‌ includes Siri AI, and the Mac is the only…"
+  },
+  {
+   "id": "b365741a4e3a2c0b",
+   "title": "Doing Everyone Else's Job",
+   "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T00:01:31.000Z",
+   "summary": "11 points · 10 comments"
   },
   {
    "id": "13a66e9e6215d953",
@@ -3763,6 +3862,15 @@
    "summary": "Apple will prioritize adding Face ID and a telephoto lens to future iPhone Duo models, argues Bloomberg's Mark Gurman. The device debuted with Touch ID and dual rear cameras, likely owing to physical constraints. Power On newsletter, Gurman says his guess is that Apple will use a combination of…"
   },
   {
+   "id": "9c78358851d56718",
+   "title": "Show HN: I made a flight simulator, except you're just a passenger",
+   "url": "https://inflightsimulator.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-14T09:08:56.000Z",
+   "summary": "85 points · 40 comments"
+  },
+  {
    "id": "ea058e03bac736b2",
    "title": "iPhone Duo Has a Hidden Display Setting for Case Compatibility",
    "url": "https://www.macrumors.com/2026/09/14/iphone-duo-hidden-display-setting-explained/",
@@ -4481,6 +4589,15 @@
    "section": "tech",
    "publishedAt": "2026-09-13T14:17:49.000Z",
    "summary": "90 points · 18 comments"
+  },
+  {
+   "id": "5a10885d6f5d58a4",
+   "title": "An interactive world map of the stories cultures have told",
+   "url": "https://originmap.sunnyguha.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-13T14:09:57.000Z",
+   "summary": "22 points · 0 comments"
   },
   {
    "id": "60e73d46215183df",
@@ -8117,33 +8234,6 @@
    "section": "ai",
    "publishedAt": "2026-08-17T08:00:00.000Z",
    "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology."
-  },
-  {
-   "id": "eb6dbb37a9cae21d",
-   "title": "The Defender’s Window",
-   "url": "https://openai.com/index/the-defenders-window",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-08-17T05:30:00.000Z",
-   "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now."
-  },
-  {
-   "id": "ed8e1f064260cab5",
-   "title": "OpenAI joins PORTS-Pike project",
-   "url": "https://openai.com/index/openai-joins-ports-pike-project",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-08-17T05:00:00.000Z",
-   "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs"
-  },
-  {
-   "id": "27b4714be81aa46a",
-   "title": "New policy ideas for the Intelligence Age",
-   "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-08-17T03:15:00.000Z",
-   "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
   }
  ]
 }
