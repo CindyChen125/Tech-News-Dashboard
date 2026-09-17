@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-17T05:17:53.869Z",
+ "updatedAt": "2026-09-17T10:23:40.673Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,51 @@
  ],
  "items": [
   {
+   "id": "5b831c4e291e4f69",
+   "title": "Oversight Board says Meta's rules for AI deepfakes are 'consistently and fundamentally inadequate'",
+   "url": "https://www.engadget.com/2260894/oversight-board-says-metas-rules-ai-deepfakes-fundamentally-inadequate/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-17T10:00:00.000Z",
+   "summary": "The Oversight Board is asking Meta to prioritize AI content when it's reported."
+  },
+  {
+   "id": "1fa095a1d4e06f61",
+   "title": "PSA: watchOS 27 Removes This Useful Feature From Your Apple Watch",
+   "url": "https://www.macrumors.com/2026/09/17/watchos-27-removes-useful-apple-watch-feature/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-17T08:34:26.000Z",
+   "summary": "Apple released watchOS 27 on September 14, bringing a new Audio Intelligence feature set to its latest Apple Watch models, but as a result, owners of previous models are set to lose out doubly in the process. Apple Watch Series 12 and Ultra 4 models later this year will get Live Rewind, a feature…"
+  },
+  {
+   "id": "a27479ef52a6a7be",
+   "title": "GLM Built Its Own Inference Infrastructure",
+   "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T08:27:09.000Z",
+   "summary": "34 points · 5 comments"
+  },
+  {
+   "id": "b8a3cc8d6c755b45",
+   "title": "One Year of Sponsored Servo Development",
+   "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T08:13:54.000Z",
+   "summary": "77 points · 31 comments"
+  },
+  {
+   "id": "aff3ecdbf25b0979",
+   "title": "An iOS 27 bug can temporarily freeze your iPhone",
+   "url": "https://www.engadget.com/2260916/ios-27-bug-temporarily-freeze-iphone/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-17T06:08:09.000Z",
+   "summary": "If your newly updated iPhone suddenly freezes, don't panic. Here's how to fix it."
+  },
+  {
    "id": "699f17f1604eef2b",
    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
    "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
@@ -91,6 +136,15 @@
    "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies"
   },
   {
+   "id": "57e1609901b3d67c",
+   "title": "Cloudflare/Security-Audit-Skill",
+   "url": "https://github.com/cloudflare/security-audit-skill",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T04:36:55.000Z",
+   "summary": "64 points · 12 comments"
+  },
+  {
    "id": "13447e653a09def3",
    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
    "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
@@ -98,6 +152,15 @@
    "section": "ai",
    "publishedAt": "2026-09-17T03:30:00.000Z",
    "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200."
+  },
+  {
+   "id": "1bf569717c7863d1",
+   "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+   "url": "https://github.com/browser-use/jev-ultrafast",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T03:12:05.000Z",
+   "summary": "59 points · 4 comments"
   },
   {
    "id": "9ed5bdaf456d7658",
@@ -260,6 +323,15 @@
    "section": "tech",
    "publishedAt": "2026-09-16T23:40:00.000Z",
    "summary": "After unveiling the design of its consumer-grade Spectacles back in June, Snap is now announcing that they’ll be available for pre-order starting today with a new 5G carrying case. The company also introduced a new proactive AI agent called Specs Intelligence, which despite being Specs branded…"
+  },
+  {
+   "id": "448196af6aba78b9",
+   "title": "US interest rates raised for first time in three years",
+   "url": "https://www.bbc.com/news/articles/cw4gmlyvj422o",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T23:25:17.000Z",
+   "summary": "72 points · 62 comments"
   },
   {
    "id": "cc571ac20bfb7e84",
@@ -1981,6 +2053,15 @@
    "summary": "Apple is reportedly preparing to extend Car Key support in Apple Wallet to three more automakers. Here are the details. more…"
   },
   {
+   "id": "788fd3e3a86c64f7",
+   "title": "Lucasart's Afterlife",
+   "url": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T22:30:30.000Z",
+   "summary": "19 points · 13 comments"
+  },
+  {
    "id": "6c1e24f5e5a9e477",
    "title": "Are USB-C flash drives better than USB-A ones?",
    "url": "https://www.engadget.com/2256491/usb-c-flash-drive-better-usb-a-comparison/",
@@ -2087,6 +2168,15 @@
    "section": "tech",
    "publishedAt": "2026-09-15T20:57:18.000Z",
    "summary": "42 points · 7 comments"
+  },
+  {
+   "id": "f12efdfc025734da",
+   "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+   "url": "https://jakeasmith.com/blog/http-build-url/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T20:53:36.000Z",
+   "summary": "110 points · 19 comments"
   },
   {
    "id": "35dd0ef9fecefbce",
@@ -2557,6 +2647,15 @@
    "summary": "Apple Watch includes an all-new Siri app in watchOS 27. Unlike the iPhone and iPad versions, it’s a bit less intuitive to use in one way. more…"
   },
   {
+   "id": "b9dad1836287b22e",
+   "title": "Comparison of Malloc() Algorithms",
+   "url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T16:52:25.000Z",
+   "summary": "75 points · 10 comments"
+  },
+  {
    "id": "566b87c57c5a7636",
    "title": "Why watchOS 27 removes the useful multitasking feature on Apple Watch",
    "url": "https://9to5mac.com/2026/09/15/why-watchos-27-removes-the-useful-multitasking-feature-on-apple-watch/",
@@ -2798,6 +2897,15 @@
    "section": "ai",
    "publishedAt": "2026-09-15T15:20:26.000Z",
    "summary": "4 points · 0 comments"
+  },
+  {
+   "id": "1f1d426f467a30fd",
+   "title": "Back to the future: modules for Guix packages (2022)",
+   "url": "https://hpc.guix.info/blog/2022/05/back-to-the-future-modules-for-guix-packages/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T15:18:09.000Z",
+   "summary": "6 points · 1 comments"
   },
   {
    "id": "56794e4df5659592",
@@ -6290,6 +6398,15 @@
    "section": "ai",
    "publishedAt": "2026-09-13T16:52:33.000Z",
    "summary": "37 points · 9 comments"
+  },
+  {
+   "id": "dba4126b17bf198a",
+   "title": "The Relation Between Mathematics and Physics by Paul Dirac",
+   "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-13T16:38:22.000Z",
+   "summary": "52 points · 18 comments"
   },
   {
    "id": "2524cdcf8c7c9d9d",
@@ -10079,15 +10196,6 @@
    "section": "ai",
    "publishedAt": "2026-08-18T11:00:00.000Z",
    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
-  },
-  {
-   "id": "6a34f6f5c7371c4c",
-   "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-   "url": "https://openai.com/index/asana",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-08-18T07:00:00.000Z",
-   "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K."
   }
  ]
 }
