@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-18T18:22:00.794Z",
+ "updatedAt": "2026-09-18T21:12:31.793Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,276 @@
  ],
  "items": [
   {
+   "id": "583a4ee1c218d45b",
+   "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-18T21:07:24.000Z",
+   "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor…"
+  },
+  {
+   "id": "1748c4e2c94a526c",
+   "title": "Sony Music and UMG say Suno's new models still violates their copyright",
+   "url": "https://www.engadget.com/2262978/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-18T21:06:27.000Z",
+   "summary": "In a new lawsuit, the labels argue Suno found a roundabout way to train its v6 models on unlicensed music."
+  },
+  {
+   "id": "c34c000a40632d7a",
+   "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+   "url": "https://code.claude.com/docs/en/changelog",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-18T21:00:32.000Z",
+   "summary": "3 points · 1 comments"
+  },
+  {
+   "id": "06c8fbadbda11cae",
+   "title": "Clicks Communicator shipments begin in December",
+   "url": "https://www.engadget.com/2262962/clicks-communicator-shipments-begin-in-december/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-18T20:53:52.000Z",
+   "summary": "The BlackBerry-like phone also got a spec bump and an impending price hike."
+  },
+  {
+   "id": "cf7ae2755139d4ee",
+   "title": "What to expect at Meta Connect 2026: New AI glasses, a mixed reality headset and more",
+   "url": "https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-18T20:35:11.000Z",
+   "summary": "There's a lot for Mark Zuckerberg to cover at this year's keynote."
+  },
+  {
+   "id": "3282332fc949ba2a",
+   "title": "iOS 27 and iPadOS 27 expand language support for Dictionary, QuickType Keyboard, more",
+   "url": "https://9to5mac.com/2026/09/18/ios-27-and-ipados-27-expand-language-support-for-dictionary-quicktype-keyboard-more/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-18T20:31:30.000Z",
+   "summary": "Apple today updated its iOS and iPadOS 27 Feature Availability page, confirming that more than 30 new languages and language variants are now supported across features such as Dictionary: Thesaurus, Activate with Siri, and Visual Look Up. Here’s what’s new. more…"
+  },
+  {
+   "id": "e7b75b5e56e92fe7",
+   "title": "Automattic names interim CFO after exec departures",
+   "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-18T20:25:22.000Z",
+   "summary": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being."
+  },
+  {
+   "id": "72fb5bd7d02e9ded",
+   "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+   "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-18T20:24:33.000Z",
+   "summary": "Angle Health has grown to 5,000 customers and become profitable, by helping small businesses get \"level-funded\" health insurance."
+  },
+  {
+   "id": "1d297c37fed00c64",
+   "title": "World model companies are keeping a lot of secrets",
+   "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-18T20:18:14.000Z",
+   "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building."
+  },
+  {
+   "id": "491542d2dddd0cf9",
+   "title": "iPhone 18 Pro Max in U.S. Has Qualcomm's Snapdragon X80 Modem",
+   "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-us-qualcomm-x80/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-18T20:18:07.000Z",
+   "summary": "TechInsights has published an iPhone 18 Pro Max teardown that confirms the U.S. version of the device is equipped with Qualcomm's Snapdragon X80 modem. The device's modem firmware had already pointed towards the Snapdragon X80 modem. is unique. have the same Snapdragon X80 modem worldwide, although…"
+  },
+  {
+   "id": "3e08e27f9fe51c4e",
+   "title": "Hands-On With the Apple Watch Series 12",
+   "url": "https://www.macrumors.com/2026/09/18/apple-watch-series-12-hands-on/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-18T20:08:02.000Z",
+   "summary": "The Apple Watch Series 12 came out today, and we picked one up to get a look at the new feature set. There are no major external changes, but Apple updated the device's internals and health sensors. Subscribe to the MacRumors YouTube channel for more videos. The Apple Watch Series 12 has the same…"
+  },
+  {
+   "id": "359a3915c9f2a045",
+   "title": "Download the iPhone Duo’s official light and dark wallpapers here",
+   "url": "https://9to5mac.com/2026/09/18/download-the-iphone-duos-official-light-and-dark-wallpapers-here/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-18T20:05:43.000Z",
+   "summary": "Although Apple did not include the iPhone Duo’s wallpapers in iOS 27, the company did include them in the iPhone simulator in Xcode 27.1 beta, released earlier today, which means now you can download them. Get them below. more…"
+  },
+  {
+   "id": "dae10c438f2bbe97",
+   "title": "Korea raises data breach fines to 10% of revenue",
+   "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T20:02:54.000Z",
+   "summary": "141 points · 40 comments"
+  },
+  {
+   "id": "22832d185fa431be",
+   "title": "M5 Ultra and M6 Chip Benchmark Results Reveal Graphics Performance",
+   "url": "https://www.macrumors.com/2026/09/18/m5-ultra-and-m6-chip-gpu-benchmarks/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-18T19:56:02.000Z",
+   "summary": "The first GPU benchmark results for Apple's new M5 Ultra and M6 chips have surfaced, ahead of the new Mac Studio and Mac mini models launching on Tuesday. If you are interested in CPU results, we shared those earlier this week. So far, the M5 Ultra has achieved up to a 59% higher Metal score…"
+  },
+  {
+   "id": "22ee74b41cf0c514",
+   "title": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
+   "url": "https://9to5mac.com/2026/09/18/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-18T19:45:30.000Z",
+   "summary": "AirPods just got a variety of new features in iOS 27, several of which are exclusive to AirPods Pro 3. Here’s everything new. more…"
+  },
+  {
+   "id": "5244041c1cc7c7f4",
+   "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+   "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-09-18T19:20:50.000Z",
+   "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout."
+  },
+  {
+   "id": "faf93016bb911d54",
+   "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+   "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T19:03:09.000Z",
+   "summary": "237 points · 106 comments"
+  },
+  {
+   "id": "e44394e3a9ce90cb",
+   "title": "The Implications of Linguistic Illegibility for LLM Security",
+   "url": "https://arxiv.org/abs/2609.02852",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-18T19:00:06.000Z",
+   "summary": "27 points · 12 comments"
+  },
+  {
+   "id": "ce269510375babba",
+   "title": "The new Resident Evil movie captures the survival horror magic of the games",
+   "url": "https://www.engadget.com/2262746/the-new-resident-evil-movie-captures-the-survival-horror-magic-of-the-games/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-18T18:56:15.000Z",
+   "summary": "Resident Evil is yet another horror classic from the director of Weapons."
+  },
+  {
+   "id": "89d3a4af07d6c614",
+   "title": "Apple Intelligence has 20+ brand new features in iOS 27, here’s the full list",
+   "url": "https://9to5mac.com/2026/09/18/apple-intelligence-has-20-brand-new-features-in-ios-27-heres-the-full-list/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-18T18:56:01.000Z",
+   "summary": "iOS 27 is here, and many of its new features are powered by the next generation of Apple Intelligence. Here are 20+ new Apple Intelligence features in iOS 27. more…"
+  },
+  {
+   "id": "cba86cebccd6238a",
+   "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+   "url": "https://arxiv.org/abs/2510.03215",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-18T18:55:35.000Z",
+   "summary": "42 points · 8 comments"
+  },
+  {
+   "id": "6805b67068513441",
+   "title": "Saving another 100TB of RAM",
+   "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T18:51:46.000Z",
+   "summary": "86 points · 15 comments"
+  },
+  {
+   "id": "79b0df25aa171a0c",
+   "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+   "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-18T18:49:30.000Z",
+   "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence."
+  },
+  {
+   "id": "9c15df57f7e8b374",
+   "title": "Xcode 27.1 Beta Release Notes",
+   "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T18:39:31.000Z",
+   "summary": "75 points · 41 comments"
+  },
+  {
+   "id": "8a601a69ce382d41",
+   "title": "Disney hires ex-CEO of AI company it accused of copyright infringement",
+   "url": "https://www.engadget.com/2262703/disney-hires-ex-ceo-of-ai-company-it-accused-of-copyright-infringement/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-18T18:36:47.000Z",
+   "summary": "What's a little IP theft between friends?"
+  },
+  {
+   "id": "2ecfa3d5f2122418",
+   "title": "HomeKit Weekly: Homey’s new Device Updates feature shows what Matter was supposed to be all along",
+   "url": "https://9to5mac.com/2026/09/18/homeys-new-device-updates-feature-shows-what-matter-was-supposed-to-be-all-along/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-18T18:33:00.000Z",
+   "summary": "Firmware updates have been the weakest link for a decade with smart homes. Every sensor, light bulb, and smart lock in your house runs software that should be updated regularly. This is on top of even if they have software updates. Homey just announced a fix for a big piece of that, and the way it…"
+  },
+  {
+   "id": "c385da9eb71d1d50",
+   "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+   "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-18T18:29:17.000Z",
+   "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch…"
+  },
+  {
+   "id": "79fc20789ffdfaab",
+   "title": "Disney’s first CTO is Character.AI’s former CEO",
+   "url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-18T18:27:04.000Z",
+   "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will…"
+  },
+  {
+   "id": "4b96b3b527be2948",
+   "title": "FCC allows Gulf state wealth funds to own nearly half of Paramount-Warner Bros.",
+   "url": "https://www.engadget.com/2262681/fcc-allows-gulf-state-wealth-funds-to-own-nearly-half-of-paramount-warner-bros/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-18T18:22:10.000Z",
+   "summary": "Great news for the Ellisons and Saudi Arabia. Everyone else: not so much!"
+  },
+  {
+   "id": "c13dcad1345b3dee",
+   "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+   "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T18:08:32.000Z",
+   "summary": "122 points · 79 comments"
+  },
+  {
    "id": "b5fab932bd45191a",
    "title": "Apple Releases Xcode 27.1 Beta With iPhone Duo Support",
    "url": "https://www.macrumors.com/2026/09/18/apple-releases-xcode-27-1-beta-iphone-duo-support/",
@@ -109,6 +379,15 @@
    "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer."
   },
   {
+   "id": "2760b4d9859b784f",
+   "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
+   "url": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-18T17:57:41.000Z",
+   "summary": "FCC rejects concerns about repressive governments buying influence over CBS owner."
+  },
+  {
    "id": "1cadcfae0a4c45c0",
    "title": "Apple VP of hardware talks iPhone Duo durability, crease, hinge, and more",
    "url": "https://9to5mac.com/2026/09/18/apple-vp-of-hardware-talks-iphone-duo-durability-crease-hinge-and-more/",
@@ -134,6 +413,15 @@
    "section": "tech",
    "publishedAt": "2026-09-18T17:50:33.000Z",
    "summary": "For this week's giveaway we've teamed up with iMazing to offer MacRumors readers a chance to win an iPhone Duo and a copy of the iMazing software to go along with it. If you're unfamiliar with iMazing, it's Mac and PC software that offers a speedy, simple way to manage all of the data on your…"
+  },
+  {
+   "id": "e142f5aa8d543293",
+   "title": "Finding the cells that put our brain to sleep",
+   "url": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-18T17:49:50.000Z",
+   "summary": "Rare cells with widespread connectivity seem to be able to trigger sleep."
   },
   {
    "id": "7c27f96bf284339a",
@@ -170,6 +458,15 @@
    "section": "ai",
    "publishedAt": "2026-09-18T17:33:50.000Z",
    "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more."
+  },
+  {
+   "id": "64ed227196789b97",
+   "title": "US government website used Chinese model the FBI called \"malicious\"",
+   "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-18T17:28:50.000Z",
+   "summary": "The Federal Register website briefly used an open source Chinese AI search tool."
   },
   {
    "id": "968f4ee1f52cb2c2",
@@ -413,6 +710,15 @@
    "section": "tech",
    "publishedAt": "2026-09-18T15:12:41.000Z",
    "summary": "The FCC has announced it's waiving its rules limiting foreign equity ownership to 25 percent in the Paramount-Warner Bros. case and will allow three sovereign wealth funds run by the governments of Saudi Arabia, Qatar, and Abu Dhabi to own 49.5 percent of the company. During Brendan Carr's tenure…"
+  },
+  {
+   "id": "9cbb4d4d84f01c0c",
+   "title": "Our brain evolved from two primitive nervous systems that merged: Study",
+   "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T15:12:07.000Z",
+   "summary": "67 points · 41 comments"
   },
   {
    "id": "13fc0570f8d62610",
@@ -892,6 +1198,15 @@
    "summary": "28 points · 4 comments"
   },
   {
+   "id": "e7baa73d97c25d59",
+   "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+   "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T06:11:17.000Z",
+   "summary": "218 points · 84 comments"
+  },
+  {
    "id": "78812c7c3070dedb",
    "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
    "url": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
@@ -955,6 +1270,15 @@
    "summary": "14 points · 3 comments"
   },
   {
+   "id": "cda8221ff597e735",
+   "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+   "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T02:56:48.000Z",
+   "summary": "53 points · 8 comments"
+  },
+  {
    "id": "1649a21be580397c",
    "title": "Hacking OpenAI",
    "url": "https://www.hacktron.ai/blog/hacking-openai",
@@ -980,6 +1304,15 @@
    "section": "ai",
    "publishedAt": "2026-09-18T02:04:19.000Z",
    "summary": "32 points · 2 comments"
+  },
+  {
+   "id": "a59e8c70d7743930",
+   "title": "Minimal Phone 2",
+   "url": "https://minimalcompany.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T02:00:25.000Z",
+   "summary": "115 points · 113 comments"
   },
   {
    "id": "489e95f115a41875",
@@ -1259,6 +1592,15 @@
    "section": "tech",
    "publishedAt": "2026-09-17T21:14:32.000Z",
    "summary": "5 points · 0 comments"
+  },
+  {
+   "id": "39b81f1a691a5f27",
+   "title": "How SpaceX streamlined the Raptor engine",
+   "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T21:14:19.000Z",
+   "summary": "103 points · 14 comments"
   },
   {
    "id": "4b275eb20cb26034",
@@ -1558,6 +1900,15 @@
    "summary": "21 points · 9 comments"
   },
   {
+   "id": "3f85e54d62c5306d",
+   "title": "The first new cat species discovered in 100 years",
+   "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T18:31:56.000Z",
+   "summary": "67 points · 19 comments"
+  },
+  {
    "id": "bf25e8e3a02198f0",
    "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
    "url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
@@ -1583,6 +1934,15 @@
    "section": "tech",
    "publishedAt": "2026-09-17T18:16:38.000Z",
    "summary": "5 points · 0 comments"
+  },
+  {
+   "id": "afdf915ac4b10115",
+   "title": "Show HN: Ax-check.com – Can agents use your product?",
+   "url": "https://www.ax-check.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T18:08:02.000Z",
+   "summary": "23 points · 23 comments"
   },
   {
    "id": "158209aa31bc6855",
@@ -2132,6 +2492,15 @@
    "section": "tech",
    "publishedAt": "2026-09-17T13:26:32.000Z",
    "summary": "The company is partnering with mobility platform Bolt -- but no vehicle orders have been placed just yet."
+  },
+  {
+   "id": "5600b8b3d7b37033",
+   "title": "From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
+   "url": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T13:20:03.000Z",
+   "summary": "7 points · 0 comments"
   },
   {
    "id": "291e8ac1366ed3a4",
@@ -5318,6 +5687,15 @@
    "section": "tech",
    "publishedAt": "2026-09-15T15:37:55.000Z",
    "summary": "51 points · 4 comments"
+  },
+  {
+   "id": "4d67f853da536a10",
+   "title": "A search-and-inference database from scratch in pure Zig",
+   "url": "https://antfly.io/research/antfly-zig",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T15:35:33.000Z",
+   "summary": "30 points · 10 comments"
   },
   {
    "id": "c564ebe2c111692f",
@@ -12680,24 +13058,6 @@
    "section": "ai",
    "publishedAt": "2026-08-20T00:00:00.000Z",
    "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
-  },
-  {
-   "id": "c18812fb441e0ccd",
-   "title": "Offering Zero Data Retention for frontier models",
-   "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-08-19T19:00:00.000Z",
-   "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
-  },
-  {
-   "id": "2bf1167f91cd41e2",
-   "title": "5 new ways to level up your learning with Search",
-   "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-   "source": "Google AI",
-   "section": "ai",
-   "publishedAt": "2026-08-19T19:00:00.000Z",
-   "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests."
   }
  ]
 }
