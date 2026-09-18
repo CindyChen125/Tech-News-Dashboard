@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-17T22:24:39.865Z",
+ "updatedAt": "2026-09-18T00:45:17.110Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1207
+   "count": 1208
   },
   {
    "name": "Google DeepMind",
@@ -81,6 +81,105 @@
   }
  ],
  "items": [
+  {
+   "id": "ef9d2af298d15cdf",
+   "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+   "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-18T00:02:36.000Z",
+   "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7."
+  },
+  {
+   "id": "100cb9646238ee40",
+   "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+   "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-17T23:25:52.000Z",
+   "summary": "The round values the data center giant at $30.9 billion."
+  },
+  {
+   "id": "3475374f30d076e2",
+   "title": "Google DeepMind launches institute to widen the AGI debate",
+   "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-17T23:21:17.000Z",
+   "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\""
+  },
+  {
+   "id": "3d00082a633a7434",
+   "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+   "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-17T23:08:24.000Z",
+   "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up."
+  },
+  {
+   "id": "b5a3c05d976837eb",
+   "title": "eGPUs do work, but they come with some notable limitations",
+   "url": "https://www.engadget.com/2257761/egpu-come-with-limitations/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-17T23:00:00.000Z",
+   "summary": "You're probably better off buying a basic gaming PC than messing with an eGPU."
+  },
+  {
+   "id": "9df354ef879ee66a",
+   "title": "Apple pushes UK court to lift secrecy around encryption backdoor order",
+   "url": "https://9to5mac.com/2026/09/17/apple-pushes-uk-court-to-lift-secrecy-around-encryption-backdoor-order/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-17T22:56:50.000Z",
+   "summary": "In a hearing today, Apple challenged the UK government’s refusal to publicly confirm whether it has issued an order requiring the company to provide access to encrypted user data. Here are the details. more…"
+  },
+  {
+   "id": "09c8aab9c3cd0966",
+   "title": "Google's revamped CC is an AI agent for families and groups",
+   "url": "https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-17T22:55:08.000Z",
+   "summary": "CC gives an AI agent its own Google account in your family or group and sends all members a daily briefing."
+  },
+  {
+   "id": "e6edf5a391a37719",
+   "title": "Apple Reportedly Accepts Even Higher RAM and Storage Prices in 2027",
+   "url": "https://www.macrumors.com/2026/09/17/apple-higher-ram-storage-prices-2027-report/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-17T22:46:18.000Z",
+   "summary": "Apple has agreed to pay Samsung even higher prices for RAM and storage chips starting in the first quarter of 2027, according to a DigiTimes report this week citing an earlier report from Chinese publication Jiemian News. Apple has reportedly agreed to pay nearly $2 per Gb of DRAM and $0.33 per Gb…"
+  },
+  {
+   "id": "94647bad6d06e5eb",
+   "title": "PrismML hopes its tiny LLM will change how we all use AI",
+   "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-17T22:34:09.000Z",
+   "summary": "If AI lab PrismML isn't on your radar yet, it should be."
+  },
+  {
+   "id": "be0ec2e17a72649b",
+   "title": "Meta AI launches Muse personal agent, including apps for iPhone and Mac",
+   "url": "https://9to5mac.com/2026/09/17/meta-ai-launches-muse-personal-agent-including-a-new-mobile-app-for-iphone/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-09-17T22:30:10.000Z",
+   "summary": "Update: Nine days later, Muse now includes a Mac app. You can download it here. Meta AI just launched a brand-new iPhone app called Muse from Meta. Similar to Grok Bot in presentation, Muse is a personal AI agent that handles tasks for you. more…"
+  },
+  {
+   "id": "8561df37371806dc",
+   "title": "Anthropic says Claude 'leads' 26 percent of its AI R&D work",
+   "url": "https://www.engadget.com/2261909/anthropic-says-claude-leads-26-percent-of-its-ai-research-and-development/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-17T22:30:01.000Z",
+   "summary": "The company shared the stat alongside three measurements that help communicate the pace of AI development."
+  },
   {
    "id": "55b6a9ca52bcfbd1",
    "title": "FAA says laser strikes on aircraft fell for the third consecutive year",
@@ -163,6 +262,24 @@
    "summary": "60 points · 13 comments"
   },
   {
+   "id": "e51a13570c551e2f",
+   "title": "The most important product decision is what you don't build",
+   "url": "https://liamnugent.me/posts/what-you-dont-build/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T20:52:36.000Z",
+   "summary": "32 points · 14 comments"
+  },
+  {
+   "id": "1f961726b280ceaa",
+   "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
+   "url": "https://snapdrop.me/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T20:48:04.000Z",
+   "summary": "15 points · 12 comments"
+  },
+  {
    "id": "1f58b7e90b4be832",
    "title": "Out-of-warranty iPhone 18 Pro batteries are more expensive to replace",
    "url": "https://9to5mac.com/2026/09/17/out-of-warranty-iphone-18-pro-batteries-are-more-expensive-to-replace/",
@@ -226,6 +343,15 @@
    "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it."
   },
   {
+   "id": "9459aa470905f8ff",
+   "title": "More than 100k people in Japan are now aged 100 or older",
+   "url": "https://www.bbc.com/news/articles/cmzezj5e18xxo",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T20:33:00.000Z",
+   "summary": "75 points · 55 comments"
+  },
+  {
    "id": "31edefa5984254d0",
    "title": "How to Get the New 3-Month Trial of Apple One Premier ($120 Value)",
    "url": "https://www.macrumors.com/2026/09/17/apple-one-three-month-trial/",
@@ -251,6 +377,15 @@
    "section": "tech",
    "publishedAt": "2026-09-17T20:05:33.000Z",
    "summary": "iOS 27 launched this week, and it includes several new Apple Intelligence-related benefits for iCloud+ subscribers. more…"
+  },
+  {
+   "id": "c033d6e5df8787f2",
+   "title": "Plugin4Shell – Zero Click RCE Vulnerability found in top four coding agents",
+   "url": "https://www.air.security/blog-posts/plugin4shell",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T20:05:31.000Z",
+   "summary": "4 points · 2 comments"
   },
   {
    "id": "37eef528d6487095",
@@ -1070,6 +1205,15 @@
    "section": "tech",
    "publishedAt": "2026-09-17T12:00:00.000Z",
    "summary": "An underrated part of DJI's success is in the area of video transmission."
+  },
+  {
+   "id": "ad61401a42c59daa",
+   "title": "How Cooley is accelerating IPO work with ChatGPT",
+   "url": "https://openai.com/index/cooley-gopublic",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-17T12:00:00.000Z",
+   "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
   },
   {
    "id": "5935a137ba52fd63",
@@ -3070,6 +3214,15 @@
    "summary": "Though preoccupied with vlogging lately, Canon hasn't forgotten its full-frame photography market."
   },
   {
+   "id": "b7a73b063ef90f12",
+   "title": "Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime",
+   "url": "https://inspire.eaa.org/2019/05/16/landing-the-space-shuttle-an-incredible-flying-machine-and-the-thrill-of-a-lifetime/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T00:51:06.000Z",
+   "summary": "12 points · 2 comments"
+  },
+  {
    "id": "071008e603e9c80b",
    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
@@ -4724,6 +4877,15 @@
    "section": "tech",
    "publishedAt": "2026-09-15T11:00:00.000Z",
    "summary": "HTC's pricey Vive Eagle smart glasses are a credible alternative to Meta, but you'll still struggle to find a reason to buy a pair."
+  },
+  {
+   "id": "4e12a37da300912a",
+   "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+   "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T10:46:24.000Z",
+   "summary": "22 points · 15 comments"
   },
   {
    "id": "9fe9420180c4d3e0",
