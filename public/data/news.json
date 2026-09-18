@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-18T05:51:03.590Z",
+ "updatedAt": "2026-09-18T11:06:35.452Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,51 @@
   }
  ],
  "items": [
+  {
+   "id": "92871f111a8ce5ca",
+   "title": "Flash floods can strike without warning — this new technology could change that",
+   "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-18T11:00:00.000Z",
+   "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, and I see…"
+  },
+  {
+   "id": "154797f2c813f939",
+   "title": "OpenJev",
+   "url": "https://openjev.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T09:42:22.000Z",
+   "summary": "102 points · 49 comments"
+  },
+  {
+   "id": "93c3f94f4765c5ce",
+   "title": "iPhone 18 Pro: Using the New Variable Aperture Lens",
+   "url": "https://www.macrumors.com/how-to/iphone-18-pro-using-variable-aperture/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-18T09:00:02.000Z",
+   "summary": "Like the iPhone 17 Pro models, the new iPhone 18 Pro and iPhone 18 Pro Max have three rear cameras – a 48MP Fusion Main lens, an 8x48MP Telephoto lens, and a 48MP Ultra Wide lens. They also share the same focal lengths and resolutions as their predecessors. The big upgrade this year though is the…"
+  },
+  {
+   "id": "ee5fa6c3b9a2029a",
+   "title": "Waymo is expanding to Singapore",
+   "url": "https://www.engadget.com/2262023/waymo-is-expanding-to-singapore/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-18T08:18:12.000Z",
+   "summary": "Waymo has announced its next international location: Singapore."
+  },
+  {
+   "id": "a7cc62b8a13d6b57",
+   "title": "Forgot to Pre-Order iPhone 18 Pro? Apple Store Pickup Available Today at Most Locations",
+   "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-apple-store-pickup-available-today/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-18T08:00:12.000Z",
+   "summary": "Apple's new iPhone 18 Pro and iPhone 18 Pro Max models are now being delivered to customers worldwide following the pre-order period that began on Saturday, September 12. For those who didn't pre-order, there's now a 3-4 week wait time for iPhone 18 Pro Max models across all storage options and…"
+  },
   {
    "id": "78812c7c3070dedb",
    "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
@@ -2944,6 +2989,15 @@
    "summary": "iOS 27 introduces a new security feature called ‘Impersonation Risk Detection’ that helps protect you against scams, but it’s off by default. Here’s what the feature does, and how to enable it. more…"
   },
   {
+   "id": "a3a08e7705df6928",
+   "title": "Replacing Pull Requests with Delta",
+   "url": "https://zed.dev/blog/delta-public-beta",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T14:05:44.000Z",
+   "summary": "34 points · 5 comments"
+  },
+  {
    "id": "7d37e0c0417f5b60",
    "title": "Lawmakers target Flock cameras with a threat to highway funding",
    "url": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
@@ -3023,6 +3077,15 @@
    "section": "tech",
    "publishedAt": "2026-09-16T13:23:02.000Z",
    "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet."
+  },
+  {
+   "id": "1053c3c370afb4ed",
+   "title": "When the fractional part of a float fixes your shader",
+   "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T13:20:15.000Z",
+   "summary": "42 points · 1 comments"
   },
   {
    "id": "6ae7a69197517ccd",
@@ -4652,6 +4715,15 @@
    "section": "tech",
    "publishedAt": "2026-09-15T14:29:20.000Z",
    "summary": "Amazon has introduced the first pre-order discount you can get for the brand new AirPods 5, available for $124.99, down from $129.00. While only a $4 markdown, it's notable for being the first ever deal we've tracked on the base model of the AirPods 5. Note: MacRumors is an affiliate partner with…"
+  },
+  {
+   "id": "0bde44ecba67493c",
+   "title": "Dr Julius Neubronner's Miniature Pigeon Camera",
+   "url": "https://publicdomainreview.org/collection/dr-julius-neubronner-s-miniature-pigeon-camera/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T14:27:54.000Z",
+   "summary": "7 points · 0 comments"
   },
   {
    "id": "074b8343c1e75ca2",
@@ -11807,15 +11879,6 @@
    "section": "ai",
    "publishedAt": "2026-08-19T19:00:00.000Z",
    "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests."
-  },
-  {
-   "id": "5c69342d0c70756c",
-   "title": "Replit expands access to software creation with GPT-5.6 Luna",
-   "url": "https://openai.com/index/replit",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-08-19T07:00:00.000Z",
-   "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
   }
  ]
 }
