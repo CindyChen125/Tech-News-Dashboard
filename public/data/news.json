@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-18T21:12:31.793Z",
+ "updatedAt": "2026-09-18T23:33:28.044Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1208
+   "count": 1209
   },
   {
    "name": "Google DeepMind",
@@ -82,6 +82,96 @@
  ],
  "items": [
   {
+   "id": "b9cfd485361100b9",
+   "title": "iPhone 18 Pro Max Requires 'Prepare to Ship' Battery Drain Before Shipping",
+   "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-shipping-restriction/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-18T23:28:05.000Z",
+   "summary": "The iPhone 18 Pro Max has a battery capacity over 20 watt-hours, which means there are additional shipping requirements. If an ‌iPhone 18 Pro‌ Max needs to be shipped somewhere, its maximum battery capacity has to be limited through firmware. According to Apple, the ‌iPhone 18 Pro‌ Max uses an…"
+  },
+  {
+   "id": "abfddb29d8ffbce7",
+   "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+   "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-18T23:25:01.000Z",
+   "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations."
+  },
+  {
+   "id": "29341c704655309f",
+   "title": "Anthropic is operating a lab that conducts biology experiments",
+   "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-18T23:13:31.000Z",
+   "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all."
+  },
+  {
+   "id": "1fa2bca7c26d6c5e",
+   "title": "AI hallucination nearly triggers US military operation",
+   "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-18T23:12:32.000Z",
+   "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns."
+  },
+  {
+   "id": "44048b93de4c9d9c",
+   "title": "The Quantified Scientist tests the Apple Watch Series 12’s new heart rate sensor",
+   "url": "https://9to5mac.com/2026/09/18/the-quantified-scientist-tests-the-apple-watch-series-12s-new-heart-rate-sensor/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-18T23:08:18.000Z",
+   "summary": "In a new video, The Quantified Scientist’s Rob ter Horst compares the new Apple Watch Series 12’s heart rate sensor against a Polar H10 ECG chest strap. Here’s what he found. more…"
+  },
+  {
+   "id": "433afb3b5ab0fda8",
+   "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+   "url": "https://spectrum.ieee.org/llms-for-chip-design",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-18T23:04:17.000Z",
+   "summary": "9 points · 3 comments"
+  },
+  {
+   "id": "d8b2f78aaea81ff4",
+   "title": "AI almost led the US military to start a war with China, report says",
+   "url": "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-18T22:44:45.000Z",
+   "summary": "CNN's sources claim the US nearly attacked a Chinese ship it believed was carrying nuclear weapon components."
+  },
+  {
+   "id": "e2fdc92b9df77bed",
+   "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
+   "url": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T22:35:10.000Z",
+   "summary": "86 points · 39 comments"
+  },
+  {
+   "id": "7523670423f17b09",
+   "title": "The US 'Kill Chain' That Destroyed an Iranian School",
+   "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T22:29:16.000Z",
+   "summary": "27 points · 1 comments"
+  },
+  {
+   "id": "bda300d271923577",
+   "title": "Anthropic’s first embedded evaluator is … Accenture?",
+   "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-18T21:44:33.000Z",
+   "summary": "Accenture is about to take on its most high-risk consulting engagement ever."
+  },
+  {
    "id": "583a4ee1c218d45b",
    "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
    "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
@@ -134,6 +224,15 @@
    "section": "tech",
    "publishedAt": "2026-09-18T20:31:30.000Z",
    "summary": "Apple today updated its iOS and iPadOS 27 Feature Availability page, confirming that more than 30 new languages and language variants are now supported across features such as Dictionary: Thesaurus, Activate with Siri, and Visual Look Up. Here’s what’s new. more…"
+  },
+  {
+   "id": "1d90bd7330c81952",
+   "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+   "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-09-18T20:26:33.000Z",
+   "summary": "But the military's overall use of AI seems to be accelerating."
   },
   {
    "id": "e7b75b5e56e92fe7",
@@ -1963,6 +2062,15 @@
    "summary": "The IV drips included glutathione, which was not made to be injected."
   },
   {
+   "id": "d66e039acde73da5",
+   "title": "A 1542 papal cipher cracked with simulated annealing",
+   "url": "https://simonklee.dk/farnese-letter",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T17:39:01.000Z",
+   "summary": "3 points · 0 comments"
+  },
+  {
    "id": "79755d0c971c5fdc",
    "title": "2026 Hyundai Ioniq 5: Here's what we still like, here's what annoys us",
    "url": "https://arstechnica.com/cars/2026/09/2026-hyundai-ioniq-5-heres-what-we-still-like-heres-what-annoys-us/",
@@ -2962,6 +3070,15 @@
    "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist."
   },
   {
+   "id": "8f078b6eae7f4221",
+   "title": "Size-Specialized Memory Allocation",
+   "url": "https://go.dev/blog/size-specialized-allocations",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T00:45:49.000Z",
+   "summary": "10 points · 3 comments"
+  },
+  {
    "id": "9130164092eba35e",
    "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
    "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
@@ -3437,6 +3554,15 @@
    "section": "tech",
    "publishedAt": "2026-09-16T19:02:49.000Z",
    "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley."
+  },
+  {
+   "id": "a0868c6a0582c4e4",
+   "title": "Cyclomatic Complexity in C#",
+   "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T19:01:09.000Z",
+   "summary": "19 points · 9 comments"
   },
   {
    "id": "ce39d63d4af10306",
@@ -4427,6 +4553,15 @@
    "section": "ai",
    "publishedAt": "2026-09-16T12:00:00.000Z",
    "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+  },
+  {
+   "id": "1b8e2729dbd4dacf",
+   "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+   "url": "https://openai.com/index/hex-gpt-6-astra",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-16T12:00:00.000Z",
+   "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share."
   },
   {
    "id": "ef4f991012898219",
