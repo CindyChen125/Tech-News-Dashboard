@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-19T17:57:45.435Z",
+ "updatedAt": "2026-09-19T20:33:34.976Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,118 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 30
+   "count": 29
   }
  ],
  "items": [
+  {
+   "id": "5159f26d9444c980",
+   "title": "Measure internet censorship. Contribute to the largest open dataset",
+   "url": "https://ooni.org/install",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T20:00:59.000Z",
+   "summary": "5 points · 0 comments"
+  },
+  {
+   "id": "39730b077c2003ba",
+   "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+   "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-19T19:57:47.000Z",
+   "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
+  },
+  {
+   "id": "1a10309d60026468",
+   "title": "SpaceX targets September 28 for Starship's first orbital flight",
+   "url": "https://www.engadget.com/2263238/spacex-targets-september-28-for-the-starships-first-orbital-flight/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-19T19:45:00.000Z",
+   "summary": "For Starship's 14th test flight, it will orbit our planet multiple times for 10 hours."
+  },
+  {
+   "id": "5c2e461cbf79a706",
+   "title": "Indie App Spotlight: ‘GasPulse’ lets you keep an eye on gas price trends around you",
+   "url": "https://9to5mac.com/2026/09/19/indie-app-spotlight-gaspulse-lets-you-keep-an-eye-on-gas-price-trends-around-you/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-19T19:30:00.000Z",
+   "summary": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact. In this day and age, gas prices fluctuate quite a lot. If you want to have a better idea of how things…"
+  },
+  {
+   "id": "840ed954a5eeb8ea",
+   "title": "Economics Nobel Laureates' Letter Supporting the California Billionaire Tax [pdf]",
+   "url": "https://gabriel-zucman.eu/files/prop40letter.pdf",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T19:25:26.000Z",
+   "summary": "14 points · 8 comments"
+  },
+  {
+   "id": "150e2ea32c3bc8f5",
+   "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+   "url": "https://eprint.iacr.org/2026/2039",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T19:23:23.000Z",
+   "summary": "8 points · 0 comments"
+  },
+  {
+   "id": "f6761dac3ae535be",
+   "title": "Now Trump says he's creating an AI Force",
+   "url": "https://www.engadget.com/2263237/now-trump-says-hes-creating-an-ai-force/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-19T19:22:20.000Z",
+   "summary": "The president said he will soon announce an \"AI czar\" to run this newly made-up agency."
+  },
+  {
+   "id": "3679e49f4d8fbc5f",
+   "title": "Anthropic picks Accenture for third-party AI safety evaluations",
+   "url": "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-19T18:33:46.000Z",
+   "summary": "This move represents the first step in the CEO's plan to slow down AI development."
+  },
+  {
+   "id": "a9b233c47a8a6885",
+   "title": "Why buy a streaming device when you have a smart TV?",
+   "url": "https://www.engadget.com/2257809/why-buy-streaming-device-when-have-smart-tv/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-19T18:30:00.000Z",
+   "summary": "Many modern TVs can stream apps like Netflix and Prime. But you may want to get a streaming device too."
+  },
+  {
+   "id": "4f66116dd3ae46ba",
+   "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+   "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T18:11:40.000Z",
+   "summary": "58 points · 43 comments"
+  },
+  {
+   "id": "3aadc318bcf06967",
+   "title": "You can use DeX on the Galaxy Z Fold 8's inner screen with this trick",
+   "url": "https://www.engadget.com/2258733/galaxy-z-fold-8-series-use-dex-on-inner-screen/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-19T18:00:00.000Z",
+   "summary": "Samsung's DeX lets you plug in your Samsung Galaxy device into a monitor or TV to create a PC-like experience. Now, it can launch directly on your phone."
+  },
+  {
+   "id": "aef61f7521942d26",
+   "title": "M6 Pro Chip Result on Geekbench is Likely Fake",
+   "url": "https://www.macrumors.com/2026/09/19/m6-pro-geekbench-result-likely-fake/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-19T17:59:10.000Z",
+   "summary": "A supposed Geekbench result for an unreleased M6 Pro chip surfaced this week, but it is likely fake. MacRumors that he uncovered \"internal inconsistencies\" that lead him to believe that the M6 Pro result might not be legitimate. Bloomberg's Mark Gurman previously reported that Apple plans to skip…"
+  },
   {
    "id": "166485ff6a575900",
    "title": "Google’s Gemini is the latest AI model to hack other companies",
@@ -163,6 +271,15 @@
    "summary": "These ports are often part of a built-in USB hub, letting you keep desk accessories connected to the monitor instead of occupying ports on your computer."
   },
   {
+   "id": "6db83f174d4bffcc",
+   "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+   "url": "https://github.com/trycua/cua",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T15:52:51.000Z",
+   "summary": "25 points · 1 comments"
+  },
+  {
    "id": "b2e0783d0c6e0036",
    "title": "Which tech upgrades are worth making to your car's old sound system?",
    "url": "https://www.engadget.com/2257900/tech-upgrades-worth-making-car-old-sound-system/",
@@ -233,6 +350,15 @@
    "section": "tech",
    "publishedAt": "2026-09-19T14:46:30.000Z",
    "summary": "The new Apple Watch Ultra 4 just launched yesterday, and Amazon is offering the first cash discounts on select models for the first time since their launch. You can get the Apple Watch Ultra 4 in Natural with Translucent Gray Ocean Band for $779.99, down from $799.00. Note: MacRumors is an…"
+  },
+  {
+   "id": "68c999a7a6cb6515",
+   "title": "Brood War Bench",
+   "url": "https://bw.swerdlow.dev/report",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T14:44:02.000Z",
+   "summary": "27 points · 5 comments"
   },
   {
    "id": "4e00031ee6ff10f9",
@@ -1610,6 +1736,15 @@
    "section": "ai",
    "publishedAt": "2026-09-18T13:39:27.000Z",
    "summary": "47 points · 80 comments"
+  },
+  {
+   "id": "9d90bbeae9b4214b",
+   "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
+   "url": "https://ufoseries.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T13:35:05.000Z",
+   "summary": "13 points · 4 comments"
   },
   {
    "id": "9d2cddfe711ad85b",
@@ -3689,6 +3824,15 @@
    "section": "tech",
    "publishedAt": "2026-09-17T00:45:49.000Z",
    "summary": "10 points · 3 comments"
+  },
+  {
+   "id": "f8cef0f662d0cf7f",
+   "title": "Suzanne Ciani's Buchla Cookbook",
+   "url": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T00:39:39.000Z",
+   "summary": "30 points · 9 comments"
   },
   {
    "id": "9130164092eba35e",
