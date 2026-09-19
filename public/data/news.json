@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-19T20:33:34.976Z",
+ "updatedAt": "2026-09-19T22:28:29.243Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,73 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 29
+   "count": 30
   }
  ],
  "items": [
+  {
+   "id": "33ac95ee12e02a87",
+   "title": "Apple Watch Series 12 and Ultra 4 missing one health-focused feature",
+   "url": "https://9to5mac.com/2026/09/19/apple-watch-series-12-ultra-4-missing-one-health-feature/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-19T22:16:41.000Z",
+   "summary": "Well, this is odd. The handwashing timer feature is currently absent from the new Apple Watch Series 12 and Ultra 4 hardware. more…"
+  },
+  {
+   "id": "dd80edf5f3a58573",
+   "title": "Mayday Mysteries",
+   "url": "http://www.maydaymystery.org/mayday/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T21:43:09.000Z",
+   "summary": "9 points · 2 comments"
+  },
+  {
+   "id": "8440a7177e277919",
+   "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+   "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T21:30:59.000Z",
+   "summary": "19 points · 1 comments"
+  },
+  {
+   "id": "197f8c8d04f23b9d",
+   "title": "Apple is taking a little bit of a gamble with iPhone Duo software: Will it pay off?",
+   "url": "https://9to5mac.com/2026/09/19/apples-iphone-duo-software-gamble/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-19T20:46:00.000Z",
+   "summary": "With the new iPhone Duo, Apple is taking a little bit of a software gamble. All apps, in order to take advantage of the larger inner display of iPhone Duo, will need to be recompiled for iOS 27.0 at a minimum. To use the Duo’s unique new tab bar and other UI components, you’ll need iOS 27.1. Of…"
+  },
+  {
+   "id": "b4332fa5c2da88bd",
+   "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-19T20:44:40.000Z",
+   "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc…"
+  },
+  {
+   "id": "badc1bf131d22647",
+   "title": "English: A vs. An",
+   "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T20:41:26.000Z",
+   "summary": "44 points · 13 comments"
+  },
+  {
+   "id": "2c2fa0defa4a67bc",
+   "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+   "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-19T20:39:13.000Z",
+   "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff."
+  },
   {
    "id": "5159f26d9444c980",
    "title": "Measure internet censorship. Contribute to the largest open dataset",
@@ -161,6 +224,15 @@
    "section": "tech",
    "publishedAt": "2026-09-19T18:30:00.000Z",
    "summary": "Many modern TVs can stream apps like Netflix and Prime. But you may want to get a streaming device too."
+  },
+  {
+   "id": "1dd8e843feac533e",
+   "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-19T18:21:30.000Z",
+   "summary": "72 points · 20 comments"
   },
   {
    "id": "4f66116dd3ae46ba",
@@ -2773,6 +2845,15 @@
    "summary": "3 points · 0 comments"
   },
   {
+   "id": "f67feb361573ca64",
+   "title": "Compiler-style optimization for drawing via Skia",
+   "url": "https://arxiv.org/abs/2603.23696",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T17:30:38.000Z",
+   "summary": "25 points · 2 comments"
+  },
+  {
    "id": "79755d0c971c5fdc",
    "title": "2026 Hyundai Ioniq 5: Here's what we still like, here's what annoys us",
    "url": "https://arstechnica.com/cars/2026/09/2026-hyundai-ioniq-5-heres-what-we-still-like-heres-what-annoys-us/",
@@ -4265,6 +4346,15 @@
    "section": "tech",
    "publishedAt": "2026-09-16T19:56:38.000Z",
    "summary": "18 points · 6 comments"
+  },
+  {
+   "id": "ea060a2f07cd5ec4",
+   "title": "Deodands put a price on objects that caused death",
+   "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T19:51:23.000Z",
+   "summary": "24 points · 10 comments"
   },
   {
    "id": "0537ae29e15ef282",
