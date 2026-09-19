@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-19T14:44:55.181Z",
+ "updatedAt": "2026-09-19T17:57:45.435Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,159 @@
  ],
  "items": [
   {
+   "id": "166485ff6a575900",
+   "title": "Google’s Gemini is the latest AI model to hack other companies",
+   "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-19T17:30:00.000Z",
+   "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
+  },
+  {
+   "id": "1328480b42ab344e",
+   "title": "Why is your iPad not charging (and how to fix it)",
+   "url": "https://www.engadget.com/2258268/why-ipad-not-charging-fixes/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-19T17:30:00.000Z",
+   "summary": "You probably don't think about your iPad charging until it runs into trouble. When plugging it in doesn't work, you'll need to check its port and charger."
+  },
+  {
+   "id": "48460a833f0d637a",
+   "title": "Trump treads further on free speech with new journalist bans",
+   "url": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-19T17:10:21.000Z",
+   "summary": "President Donald Trump speaks to reporters on the tarmac before boarding Air Force One. (Photo by Andrew Harnik/Getty Images) | Getty Images On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever…"
+  },
+  {
+   "id": "c36f99634eb06a74",
+   "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+   "url": "https://supabase.link/orioledbjob",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T17:01:30.000Z",
+   "summary": "0 points · 0 comments"
+  },
+  {
+   "id": "a48344911f70b65d",
+   "title": "California governor wants to implement a kill switch for frontier AI models",
+   "url": "https://www.engadget.com/2263218/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-19T17:00:01.000Z",
+   "summary": "Newsom's executive order calls for an expert panel to develop new AI safety measures."
+  },
+  {
+   "id": "d0d1e520245fc2d3",
+   "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
+   "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-19T17:00:00.000Z",
+   "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next."
+  },
+  {
+   "id": "13ab1eb84346bac9",
+   "title": "Almost Never Use AI to Write Anything Substantive",
+   "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-19T16:35:24.000Z",
+   "summary": "32 points · 12 comments"
+  },
+  {
+   "id": "143f6e2bfee9a317",
+   "title": "How to switch between two phones on CarPlay",
+   "url": "https://www.engadget.com/2258194/how-to-switch-between-two-phones-apple-carplay/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-19T16:30:00.000Z",
+   "summary": "When using Apple's CarPlay, it will automatically connect to the first iPhone it was paired with. Here's how to get it to connect to a different device."
+  },
+  {
+   "id": "24a9fc983d4bd87a",
+   "title": "Here's why some monitors have two USB ports (and the best ways to use them)",
+   "url": "https://www.engadget.com/2258096/why-monitor-two-usb-ports-explained/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-19T16:00:00.000Z",
+   "summary": "These ports are often part of a built-in USB hub, letting you keep desk accessories connected to the monitor instead of occupying ports on your computer."
+  },
+  {
+   "id": "b2e0783d0c6e0036",
+   "title": "Which tech upgrades are worth making to your car's old sound system?",
+   "url": "https://www.engadget.com/2257900/tech-upgrades-worth-making-car-old-sound-system/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-19T15:30:00.000Z",
+   "summary": "You can upgrade an older car with modern tech to enable Bluetooth, CarPlay and more. Your options depend on your car and what you need most."
+  },
+  {
+   "id": "2884787531aa877b",
+   "title": "Gemini went rogue, hacked three companies, and Google hid it",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-19T15:25:03.000Z",
+   "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in…"
+  },
+  {
+   "id": "e743bbfe973778d3",
+   "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
+   "url": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-19T15:00:00.000Z",
+   "summary": "Band members Luke Silas, Ary Warnaar, Peter Burkman, and James DeVito (left to right). Maybe their next album will be recorded entirely in a windmill? | Image: Joshua Tarn Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their…"
+  },
+  {
+   "id": "03cb462c0b319ad4",
+   "title": "The colorful, unique Hyte X50 PC case is $50 off",
+   "url": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-19T15:00:00.000Z",
+   "summary": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way up to the E-ATX form factors, and GPUs that are…"
+  },
+  {
+   "id": "acd4eaab7ee4153c",
+   "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+   "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-19T15:00:00.000Z",
+   "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription."
+  },
+  {
+   "id": "c9a70e64a25404af",
+   "title": "AI safety conversations have gotten unbelievable",
+   "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-19T15:00:00.000Z",
+   "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction."
+  },
+  {
+   "id": "efd0e0767b396d24",
+   "title": "How to block and unblock a number on your Android phone",
+   "url": "https://www.engadget.com/2257824/how-to-block-unblock-number-android-phone/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-19T15:00:00.000Z",
+   "summary": "Unwanted calls and texts are a part of modern-day life, but you can block and unblock numbers that are repeat offenders."
+  },
+  {
+   "id": "4f2fb1bdb05a22e4",
+   "title": "Apple Watch Ultra 4 Sees First Discount After Launch, Now $779.99 on Amazon",
+   "url": "https://www.macrumors.com/2026/09/19/apple-watch-ultra-4-launch-discounts/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-19T14:46:30.000Z",
+   "summary": "The new Apple Watch Ultra 4 just launched yesterday, and Amazon is offering the first cash discounts on select models for the first time since their launch. You can get the Apple Watch Ultra 4 in Natural with Translucent Gray Ocean Band for $779.99, down from $799.00. Note: MacRumors is an…"
+  },
+  {
    "id": "4e00031ee6ff10f9",
    "title": "This Game Boy inspired hi-res music player raised over $500,000 on Kickstarter",
    "url": "https://www.engadget.com/2257820/game-boy-inspired-music-player-raises-500000-kickstarter/",
@@ -125,6 +278,15 @@
    "section": "tech",
    "publishedAt": "2026-09-19T14:00:00.000Z",
    "summary": "There are a few reasons you might want to factory reset your device, and doing so is easy."
+  },
+  {
+   "id": "76ed0df8645ac459",
+   "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+   "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-19T14:00:00.000Z",
+   "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.."
   },
   {
    "id": "cf63ccd62ec58c12",
@@ -2332,6 +2494,15 @@
    "summary": "Bill would help rightsholders obtain court orders to block foreign piracy sites."
   },
   {
+   "id": "11c04e864d8ae1d0",
+   "title": "Adventures in Microcontroller Circuit Debugging",
+   "url": "https://www.bigmessowires.com/2026/08/30/adventures-in-microcontroller-circuit-debugging/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T19:00:40.000Z",
+   "summary": "5 points · 1 comments"
+  },
+  {
    "id": "96992a06bc34b962",
    "title": "Candy Crush developers are planning a strike for next week",
    "url": "https://www.engadget.com/2261707/candy-crush-developers-are-planning-a-strike-for-next-week/",
@@ -2717,6 +2888,15 @@
    "section": "tech",
    "publishedAt": "2026-09-17T15:59:37.000Z",
    "summary": "106 points · 56 comments"
+  },
+  {
+   "id": "071f47c95a80afe9",
+   "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
+   "url": "https://www.nature.com/articles/d41586-026-02621-2",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T15:58:31.000Z",
+   "summary": "40 points · 10 comments"
   },
   {
    "id": "7a5c161b7923fdbb",
@@ -13678,15 +13858,6 @@
    "source": "Hugging Face",
    "section": "ai",
    "publishedAt": "2026-08-21T00:00:00.000Z",
-   "summary": ""
-  },
-  {
-   "id": "629f9c8c85934a29",
-   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-   "source": "Hugging Face",
-   "section": "ai",
-   "publishedAt": "2026-08-20T16:52:57.000Z",
    "summary": ""
   }
  ]
