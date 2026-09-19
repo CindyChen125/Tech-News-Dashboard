@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-19T11:30:00.758Z",
+ "updatedAt": "2026-09-19T14:44:55.181Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,204 @@
  ],
  "items": [
   {
+   "id": "4e00031ee6ff10f9",
+   "title": "This Game Boy inspired hi-res music player raised over $500,000 on Kickstarter",
+   "url": "https://www.engadget.com/2257820/game-boy-inspired-music-player-raises-500000-kickstarter/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-19T14:30:00.000Z",
+   "summary": "The AP30 Music Boy is just the latest example of \"dumb\" tech's resurgence."
+  },
+  {
+   "id": "22134afddfa87d54",
+   "title": "Apple Watch Series 12 might finally convince me to switch away from WHOOP",
+   "url": "https://9to5mac.com/2026/09/19/heres-why-apple-watch-series-12-may-get-me-to-ditch-whoop/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-19T14:09:00.000Z",
+   "summary": "Earlier this year, I picked up a WHOOP for the very first time. As a longtime Apple Watch user I was looking forward to having a new way of tracking my health stats in a cleaner interface that the Apple Watch wasn’t offering. Now, with Apple Watch Series 12, I’m very convinced to switch back to the…"
+  },
+  {
+   "id": "15cc15fa5392f7e5",
+   "title": "A graphical desktop for the ZX Spectrum",
+   "url": "https://github.com/mindbox77/zxdesk",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T14:01:58.000Z",
+   "summary": "8 points · 3 comments"
+  },
+  {
+   "id": "c00d19c95b64737b",
+   "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+   "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-19T14:00:00.000Z",
+   "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy…"
+  },
+  {
+   "id": "01aeade888ce110a",
+   "title": "How to factory reset your Steam Deck",
+   "url": "https://www.engadget.com/2257819/how-to-factory-reset-steam-deck/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-19T14:00:00.000Z",
+   "summary": "There are a few reasons you might want to factory reset your device, and doing so is easy."
+  },
+  {
+   "id": "cf63ccd62ec58c12",
+   "title": "Our top iPhone 18 Pro accessories to upgrade your setup [Updated]",
+   "url": "https://9to5mac.com/2026/09/19/best-iphone-18-pro-accessories/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-19T13:57:00.000Z",
+   "summary": "We are taking look at some of the iPhone 18 Pro accessories we are picking up for ourselves this year before Friday’s delivery day. If you ask me Apple’s AirTag 2 and a fresh set of AirPods Pro 3 (or AirPods 5) are the best accessories you can buy for your new iPhone 18 Pro, never mind the world’s…"
+  },
+  {
+   "id": "ade73ac0568ed2b6",
+   "title": "What Zig felt like, coming from Rust",
+   "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T13:55:18.000Z",
+   "summary": "20 points · 3 comments"
+  },
+  {
+   "id": "49ee168bb532dec5",
+   "title": "Tin: full-text search for Postgres",
+   "url": "https://planetscale.com/blog/introducing-tin",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T13:52:06.000Z",
+   "summary": "16 points · 3 comments"
+  },
+  {
+   "id": "ebb611e81592175e",
+   "title": "The best way to check your PC for malware",
+   "url": "https://www.engadget.com/2257817/best-way-check-pc-malware/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-19T13:30:00.000Z",
+   "summary": "If your PC is slowing down or not behaving as usual, it's worth running through these tips to see if you have malware."
+  },
+  {
+   "id": "a6afa56324baf58d",
+   "title": "Google Gemini also escaped its testing environment and hacked three companies",
+   "url": "https://www.engadget.com/2263198/google-gemini-escaped-testing-environment-hacked-three-companies/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-19T13:05:53.000Z",
+   "summary": "Google's AI model hacked real companies during testing due to a misconfiguration by its testing partner, as well."
+  },
+  {
+   "id": "fdc384df79863f67",
+   "title": "It’s not just LG. Every TV company is spying on you",
+   "url": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-19T13:00:00.000Z",
+   "summary": "The TV in your living room knows more about you than you realize. | Photo by John Higgins / The Verge The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio…"
+  },
+  {
+   "id": "80cd8a5705ef2264",
+   "title": "The AI regulation smackdown isn’t over",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-19T13:00:00.000Z",
+   "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the…"
+  },
+  {
+   "id": "d15eb265087b2c77",
+   "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+   "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-19T13:00:00.000Z",
+   "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models."
+  },
+  {
+   "id": "db743bf7e897faf9",
+   "title": "4 cool projects you can do with Home Assistant on Raspberry Pi",
+   "url": "https://www.engadget.com/2257816/cool-projects-home-assistant-raspberry-pi/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-19T13:00:00.000Z",
+   "summary": "Smart home automation is more versatile than ever with Home Assistant and a Raspberry Pi. Check out what they can do."
+  },
+  {
+   "id": "9c9b89c17cbb6e59",
+   "title": "Apple @ Work: Enterprise oassword management is still hard, and Dashlane’s new Vault Enforcement aims to fix it",
+   "url": "https://9to5mac.com/2026/09/19/apple-work-password-management-is-still-hard-and-dashlanes-new-vault-enforcement-admits-it/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-19T13:00:00.000Z",
+   "summary": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000…"
+  },
+  {
+   "id": "c636ebc6fbb2bd85",
+   "title": "Top Stories: iOS 27 and macOS Golden Gate Out Now, Siri AI Waitlist, and More",
+   "url": "https://www.macrumors.com/2026/09/19/top-stories-ios-27-macos-golden-gate-out-now/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-09-19T13:00:00.000Z",
+   "summary": "All of Apple's products introduced at last week's event with the exception of the iPhone Duo are now available, with the iPhone 18 Pro and Pro Max, Apple Watch Series 12 and Ultra 4, and AirPods 5 all launching on Friday. While new hardware is always a welcome arrival, users of existing hardware…"
+  },
+  {
+   "id": "e63c3f96075813d2",
+   "title": "The pros and cons of using noise cancelling headphones",
+   "url": "https://www.engadget.com/2257815/noise-cancelling-headphones-pros-and-cons/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-19T12:30:00.000Z",
+   "summary": "Active noise cancellation makes headphones much better, but you should know how it works and what the drawbacks are as well."
+  },
+  {
+   "id": "43803ef8f05f5ba3",
+   "title": "10 Of The Coolest Japanese Gadgets You'll Almost Never See In The US",
+   "url": "https://www.engadget.com/2262963/cool-japanese-gadgets-not-typically-found-in-united-states/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-19T12:15:00.000Z",
+   "summary": "Sure, we have plenty of neat products in the United States, but a look at these 10 gadgets really suggest Japan is in a consumer tech league of its own."
+  },
+  {
+   "id": "02233cfe5afd44ea",
+   "title": "Apple weekend deals: AirPods up to $100 off, Apple Watch Series 12, MacBook Air, Mac mini, more",
+   "url": "https://9to5mac.com/2026/09/19/apple-weekend-deals-airpods-apple-watch/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-19T12:01:56.000Z",
+   "summary": "Your weekend Apple deals have arrived, much like the first wave of iPhone 18 Pro orders and all of the discounts we are tracking on cases and accessories as part of Amazon’s early fall Prime Day deals. Those offers join a $50 price drop on AirPods Pro 3, and the $100 discount AirPods Max 2…"
+  },
+  {
+   "id": "dc8eca75c315e52d",
+   "title": "What causes a stuck pixel on your laptop and can it be fixed?",
+   "url": "https://www.engadget.com/2257814/laptop-stuck-pixel-causes-fixes/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-19T12:00:00.000Z",
+   "summary": "Stuck pixels don't have to be a death sentence for your laptop, as there are several options that can bring them back to life."
+  },
+  {
+   "id": "f9fcb4a802a82d1e",
+   "title": "iPhone 18 Pro Max still uses a Qualcomm modem in the US, teardown confirms",
+   "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-max-still-uses-a-qualcomm-modem-in-the-us-teardown-confirms/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-19T11:45:46.000Z",
+   "summary": "TechInsights has published one of the first in-depth iPhone 18 Pro Max teardowns. Most notably, the teardown confirms that the iPhone 18 Pro Max sold in the United States still uses a Qualcomm modem. more…"
+  },
+  {
+   "id": "750327bfd6276d7a",
+   "title": "John Wick as a DVD store operator, a roguelike take on Armored Core and other new indie games worth checking out",
+   "url": "https://www.engadget.com/2262905/john-wick-as-a-dvd-store-operator-and-other-new-indie-games-worth-checking-out/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-19T11:30:00.000Z",
+   "summary": "Our latest indie gaming roundup features a John Wick-style character who works in a video store."
+  },
+  {
    "id": "8880b3f4b137316d",
    "title": "iPhone 18 Pro Max’s battery is so big Apple had to add this new feature to iOS 27",
    "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-maxs-battery-is-so-big-apple-had-to-add-this-new-feature-to-ios-27/",
@@ -98,6 +296,15 @@
    "section": "tech",
    "publishedAt": "2026-09-19T11:10:43.000Z",
    "summary": "Research suggests that bilingualism can offer cognitive benefits."
+  },
+  {
+   "id": "530528e3e5edb950",
+   "title": "Laya the open source version of Jev",
+   "url": "https://laya.convaiinnovations.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T10:46:58.000Z",
+   "summary": "300 points · 52 comments"
   },
   {
    "id": "f9afee18c408d621",
@@ -899,6 +1106,15 @@
    "section": "tech",
    "publishedAt": "2026-09-18T15:54:48.000Z",
    "summary": "Can you use iPhone 17 Pro and iPhone 17 Pro Max cases with the iPhone 18 Pro and iPhone 18 Pro Max, and vice versa? Apple's official answer is no, according to Daring Fireball's John Gruber. Apple said the camera plateau on the iPhone 18 Pro models is ever so slightly thicker this year. Gruber said…"
+  },
+  {
+   "id": "dd972d28e67206e0",
+   "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
+   "url": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T15:47:14.000Z",
+   "summary": "12 points · 1 comments"
   },
   {
    "id": "e1c54f9a8685b8e7",
@@ -2350,6 +2566,15 @@
    "summary": "35 points · 19 comments"
   },
   {
+   "id": "5aeb853445ea19d8",
+   "title": "From Stonemasons to Carpenters",
+   "url": "https://thelastsoftwareengineer.substack.com/p/from-stonemasons-to-carpenters",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T16:55:50.000Z",
+   "summary": "28 points · 4 comments"
+  },
+  {
    "id": "c39e53681806718f",
    "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
    "url": "https://arxiv.org/abs/2609.18842",
@@ -3079,6 +3304,15 @@
    "summary": "The Oversight Board is asking Meta to prioritize AI content when it's reported."
   },
   {
+   "id": "fda717f0e187ee00",
+   "title": "Ray Ozzie and the Optimism of Being Early",
+   "url": "https://reproof.app/blog/lotus-notes-history",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T09:57:26.000Z",
+   "summary": "7 points · 4 comments"
+  },
+  {
    "id": "a7f2eb0998dfdc93",
    "title": "Hackers reveal how Flock cameras really track cars and people",
    "url": "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/",
@@ -3374,6 +3608,15 @@
    "section": "tech",
    "publishedAt": "2026-09-16T23:40:00.000Z",
    "summary": "After unveiling the design of its consumer-grade Spectacles back in June, Snap is now announcing that they’ll be available for pre-order starting today with a new 5G carrying case. The company also introduced a new proactive AI agent called Specs Intelligence, which despite being Specs branded…"
+  },
+  {
+   "id": "83e5ca2e12d2658b",
+   "title": "Asking Authors About Their Own Papers",
+   "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T23:31:31.000Z",
+   "summary": "7 points · 0 comments"
   },
   {
    "id": "448196af6aba78b9",
