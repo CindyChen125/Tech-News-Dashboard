@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-19T06:34:19.600Z",
+ "updatedAt": "2026-09-19T11:30:00.758Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,69 @@
   }
  ],
  "items": [
+  {
+   "id": "8880b3f4b137316d",
+   "title": "iPhone 18 Pro Max’s battery is so big Apple had to add this new feature to iOS 27",
+   "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-maxs-battery-is-so-big-apple-had-to-add-this-new-feature-to-ios-27/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-19T11:10:57.000Z",
+   "summary": "The iPhone 18 Pro Max offers a huge jump in battery life, partly because the battery itself is physically larger. In a new support document published today, Apple says the iPhone 18 Pro Max has such a big battery that it has additional shipping requirements. more…"
+  },
+  {
+   "id": "51005b832e1c40a7",
+   "title": "Learning another language may be one of the best ways to keep your brain healthy",
+   "url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-19T11:10:43.000Z",
+   "summary": "Research suggests that bilingualism can offer cognitive benefits."
+  },
+  {
+   "id": "f9afee18c408d621",
+   "title": "Rings around a tiny body have changed over the past decade",
+   "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-19T10:00:06.000Z",
+   "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing."
+  },
+  {
+   "id": "d1558c5c5c778293",
+   "title": "AI-generated posters don’t have to be horrible",
+   "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-19T09:20:58.000Z",
+   "summary": "192 points · 127 comments"
+  },
+  {
+   "id": "e8262b6d1164ffc3",
+   "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+   "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-19T06:41:44.000Z",
+   "summary": "137 points · 69 comments"
+  },
+  {
+   "id": "338fb81238aa01b8",
+   "title": "If math is more than proof, we need to better celebrate the rest of it",
+   "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T06:28:02.000Z",
+   "summary": "124 points · 90 comments"
+  },
+  {
+   "id": "3ec90d89ced5f9f7",
+   "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
+   "url": "https://browser.geekbench.com/v7/cpu/389219",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T06:19:24.000Z",
+   "summary": "77 points · 55 comments"
+  },
   {
    "id": "84c974bdc8e47cf7",
    "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
@@ -3079,6 +3142,15 @@
    "summary": "If your newly updated iPhone suddenly freezes, don't panic. Here's how to fix it."
   },
   {
+   "id": "c7674af3638b1abe",
+   "title": "Communication by means of modulated Johnson noise",
+   "url": "https://www.pnas.org/doi/10.1073/pnas.2201337119",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T05:41:24.000Z",
+   "summary": "6 points · 1 comments"
+  },
+  {
    "id": "699f17f1604eef2b",
    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
    "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
@@ -4204,6 +4276,15 @@
    "summary": "While the early fall Prime Day deals are now live at Amazon, we are also tracking loads more Apple Watch Series 12 configurations and the new black Apple Watch Ultra 4 seeing early pre-order discounts ahead of delivery this week. The same goes for Amazon’s early price drop on the new AirPods 5 with…"
   },
   {
+   "id": "6c1469271a5f64dc",
+   "title": "Veronese's Dogs",
+   "url": "https://publicdomainreview.org/essay/veroneses-dogs",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T15:32:27.000Z",
+   "summary": "12 points · 1 comments"
+  },
+  {
    "id": "af9a026334e83a24",
    "title": "Helping older adults use AI in everyday life",
    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
@@ -5147,6 +5228,15 @@
    "section": "tech",
    "publishedAt": "2026-09-15T23:17:20.000Z",
    "summary": "19 points · 8 comments"
+  },
+  {
+   "id": "33686838c930b550",
+   "title": "“The Secret Life of Circuits” is here",
+   "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-15T23:15:05.000Z",
+   "summary": "53 points · 21 comments"
   },
   {
    "id": "2f2e1729b6fa4f81",
@@ -13355,15 +13445,6 @@
    "section": "ai",
    "publishedAt": "2026-08-20T16:52:57.000Z",
    "summary": ""
-  },
-  {
-   "id": "f5aa25f97753b9ec",
-   "title": "Introducing Intelligence Age",
-   "url": "https://openai.com/index/introducing-intelligence-age",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-08-20T07:00:00.000Z",
-   "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
   }
  ]
 }
