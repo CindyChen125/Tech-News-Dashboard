@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-18T23:33:28.044Z",
+ "updatedAt": "2026-09-19T01:33:05.017Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,51 @@
   }
  ],
  "items": [
+  {
+   "id": "147f320ef745cf5a",
+   "title": "India forces caller-ID apps to feed spam reports to telcos",
+   "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-19T01:00:00.000Z",
+   "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators."
+  },
+  {
+   "id": "10d4f26930b72ca0",
+   "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+   "url": "https://liveworld.info/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T00:30:34.000Z",
+   "summary": "4 points · 0 comments"
+  },
+  {
+   "id": "36c295c70a323de2",
+   "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+   "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-19T00:12:07.000Z",
+   "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese."
+  },
+  {
+   "id": "66f5142f899d0c31",
+   "title": "Gemini app for macOS adding send and read iMessage integration",
+   "url": "https://9to5google.com/2026/09/18/gemini-macos-imessage/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-09-18T23:57:57.000Z",
+   "summary": "Google’s latest update to the Gemini app for macOS readies local iMessage integration. This follows the app coming to Windows last week. more…"
+  },
+  {
+   "id": "10739a0c7cbcdcd0",
+   "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+   "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-18T23:54:42.000Z",
+   "summary": "17 points · 0 comments"
+  },
   {
    "id": "b9cfd485361100b9",
    "title": "iPhone 18 Pro Max Requires 'Prepare to Ship' Battery Drain Before Shipping",
@@ -3268,6 +3313,15 @@
    "summary": "A Mac desk setup usually starts with the computer, maybe a display, and a few favorite accessories. But the chair deserves a place on that upgrade list, too. It’s what supports you. Whether you spend your day writing, editing photos, or moving between meetings, it’s something you use in every part…"
   },
   {
+   "id": "7fc7730bf767a773",
+   "title": "LispBM is a concurrent Lisp for microcontrollers with message passing",
+   "url": "https://www.lispbm.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T21:49:44.000Z",
+   "summary": "4 points · 1 comments"
+  },
+  {
    "id": "d65e99f13cff0f21",
    "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
    "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
@@ -3914,6 +3968,15 @@
    "section": "ai",
    "publishedAt": "2026-09-16T16:47:54.000Z",
    "summary": "Anthropic announced today that Claude Cowork is being merged with chat. This means Claude will drop from three to two modes: Claude Chat and Claude Code. more…"
+  },
+  {
+   "id": "b9b26d28ea1260fc",
+   "title": "Column built an issuer processor from scratch",
+   "url": "https://column.com/card-issuing/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T16:42:37.000Z",
+   "summary": "22 points · 5 comments"
   },
   {
    "id": "e33a41eb7653ebbf",
@@ -13184,15 +13247,6 @@
    "section": "ai",
    "publishedAt": "2026-08-20T07:00:00.000Z",
    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
-  },
-  {
-   "id": "f6ef332347ce186b",
-   "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-   "url": "https://openai.com/index/stampli",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-08-20T00:00:00.000Z",
-   "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
   }
  ]
 }
