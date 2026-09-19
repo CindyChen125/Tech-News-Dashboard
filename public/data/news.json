@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-19T01:33:05.017Z",
+ "updatedAt": "2026-09-19T06:34:19.600Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1209
+   "count": 1210
   },
   {
    "name": "Google DeepMind",
@@ -81,6 +81,60 @@
   }
  ],
  "items": [
+  {
+   "id": "84c974bdc8e47cf7",
+   "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+   "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T05:48:50.000Z",
+   "summary": "27 points · 4 comments"
+  },
+  {
+   "id": "03a5512c5426f3d7",
+   "title": "Apple Exec Says 'Hold Us Accountable' on iPhone Duo Crease",
+   "url": "https://www.macrumors.com/2026/09/19/apple-exec-iphone-crease/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-19T04:51:11.000Z",
+   "summary": "Apple hardware engineering VP Tom Marieb spoke with TechRadar and shared some candid thoughts about Apple's upcoming iPhone Duo. The ‌iPhone Duo‌ uses a matte nano-texture display, which is meant to cut down on glare and minimize the visibility of the crease. When asked if the ‌iPhone Duo‌'s crease…"
+  },
+  {
+   "id": "3d272c91fcacc07c",
+   "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+   "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-19T04:44:35.000Z",
+   "summary": "10 points · 0 comments"
+  },
+  {
+   "id": "619f63e1cf7cc6ae",
+   "title": "San Francisco Onion Futures Company",
+   "url": "https://onionfutures.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T04:23:30.000Z",
+   "summary": "125 points · 46 comments"
+  },
+  {
+   "id": "adf2105ece173acc",
+   "title": "SDCC – Small Device C Compiler",
+   "url": "https://sdcc.sourceforge.net/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T02:32:36.000Z",
+   "summary": "52 points · 14 comments"
+  },
+  {
+   "id": "a31d586a06b8ff2c",
+   "title": "Science Is Open Software",
+   "url": "https://jepedersen.dk/blog/202505_research/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T02:21:35.000Z",
+   "summary": "55 points · 25 comments"
+  },
   {
    "id": "147f320ef745cf5a",
    "title": "India forces caller-ID apps to feed spam reports to telcos",
@@ -179,6 +233,15 @@
    "section": "ai",
    "publishedAt": "2026-09-18T23:04:17.000Z",
    "summary": "9 points · 3 comments"
+  },
+  {
+   "id": "7ae22c6e381230dd",
+   "title": "How Focus mode has changed in iOS 27",
+   "url": "https://www.engadget.com/2257610/how-focus-mode-changed-ios-27/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-18T23:00:00.000Z",
+   "summary": "iOS 27 brings tons of cool upgrades to your iPhone. Don't miss the interesting-yet-subtle changes to Focus."
   },
   {
    "id": "d8b2f78aaea81ff4",
@@ -1223,6 +1286,15 @@
    "section": "tech",
    "publishedAt": "2026-09-18T12:00:00.000Z",
    "summary": "Here's everything you'll get with Apple and Samsung's latest high-end smartwatches."
+  },
+  {
+   "id": "6c3bfc792db09c6c",
+   "title": "Introducing the Australian Youth Safety Blueprint",
+   "url": "https://openai.com/index/australian-youth-safety-blueprint",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-18T12:00:00.000Z",
+   "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
   },
   {
    "id": "14cfaa8bbf603796",
@@ -3079,6 +3151,15 @@
    "summary": "After releasing macOS 27.2 beta 1 earlier today, Apple is now rolling out the first RCs of macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1. Here are the details. more…"
   },
   {
+   "id": "fd1a4c625470f720",
+   "title": "Ctenophores: Wonders of Biology",
+   "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T01:58:25.000Z",
+   "summary": "4 points · 3 comments"
+  },
+  {
    "id": "14068de4580ee75c",
    "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
    "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
@@ -3259,6 +3340,15 @@
    "summary": "75 points · 26 comments"
   },
   {
+   "id": "74ad615f42eb3aed",
+   "title": "Why building a Rust LSP is hard",
+   "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T22:51:16.000Z",
+   "summary": "41 points · 19 comments"
+  },
+  {
    "id": "3deb709d07a411b3",
    "title": "WhatsApp may soon let iPhone users add a third account",
    "url": "https://9to5mac.com/2026/09/16/whatsapp-may-soon-let-iphone-users-add-a-third-account/",
@@ -3302,6 +3392,15 @@
    "section": "ai",
    "publishedAt": "2026-09-16T22:02:46.000Z",
    "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades."
+  },
+  {
+   "id": "f45f84c194d91a47",
+   "title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
+   "url": "https://github.com/awlevin/typesafe-computer-use",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T22:01:49.000Z",
+   "summary": "49 points · 11 comments"
   },
   {
    "id": "797f3a196ef904ed",
@@ -3833,6 +3932,15 @@
    "section": "tech",
    "publishedAt": "2026-09-16T17:16:53.000Z",
    "summary": "Apple has just kicked off a new wave of beta updates, and it’s not the one we were expecting. Beta 1 is here for watchOS 27.2, tvOS 27.2, and more. more…"
+  },
+  {
+   "id": "02a9c63da0a360f7",
+   "title": "You can run Git on object storage if you re-make packfiles",
+   "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T17:16:11.000Z",
+   "summary": "15 points · 3 comments"
   },
   {
    "id": "9e7ca9e2d3760fd9",
@@ -4409,6 +4517,15 @@
    "section": "tech",
    "publishedAt": "2026-09-16T13:44:40.000Z",
    "summary": "51 points · 10 comments"
+  },
+  {
+   "id": "8547d1da3ddef721",
+   "title": "Goroutine Leak Profiles",
+   "url": "https://go.dev/blog/goroutine-leak-profiles",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-16T13:30:30.000Z",
+   "summary": "19 points · 2 comments"
   },
   {
    "id": "457c258f4fdc5e41",
