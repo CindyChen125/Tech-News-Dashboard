@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-20T00:21:06.565Z",
+ "updatedAt": "2026-09-20T05:21:38.816Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,55 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 30
+   "count": 31
   }
  ],
  "items": [
+  {
+   "id": "996e69a0986cbd6c",
+   "title": "BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
+   "url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T04:46:34.000Z",
+   "summary": "4 points · 0 comments"
+  },
+  {
+   "id": "434d9072224cdde8",
+   "title": "Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters",
+   "url": "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T04:38:00.000Z",
+   "summary": "10 points · 1 comments"
+  },
+  {
+   "id": "91ff7e5d3e6a570e",
+   "title": "Step 5 Preview: Advancing the Pareto Frontier",
+   "url": "https://www.stepfun.com/step-5-preview",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T04:35:59.000Z",
+   "summary": "6 points · 0 comments"
+  },
+  {
+   "id": "f7d4fab310dcaadf",
+   "title": "RSA-896",
+   "url": "https://saweis.net/posts/rsa-896.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T02:19:33.000Z",
+   "summary": "79 points · 20 comments"
+  },
+  {
+   "id": "b5e846ba1bc6b77e",
+   "title": "How long can you expect your old cassette tapes to last?",
+   "url": "https://www.engadget.com/2259220/how-long-old-cassette-tapes-last-lifespan/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-20T00:30:00.000Z",
+   "summary": "Controlling the environmental conditions where your tapes are stored is key to their longevity."
+  },
   {
    "id": "ad164c848790beab",
    "title": "iOS 27 makes your iPhone faster in these 30+ ways",
@@ -152,6 +197,15 @@
    "section": "tech",
    "publishedAt": "2026-09-19T23:00:00.000Z",
    "summary": "A wireless Xbox controller lets you move around freely, but you have to worry about batteries. Wired controllers can pose a hazard, but never run out of charge."
+  },
+  {
+   "id": "d1ac892c2a605c29",
+   "title": "An open source roguelike adventure through dungeons",
+   "url": "https://crawl.develz.org/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T22:55:53.000Z",
+   "summary": "31 points · 3 comments"
   },
   {
    "id": "6e82de37396e29fd",
@@ -1970,6 +2024,15 @@
    "section": "tech",
    "publishedAt": "2026-09-18T13:24:35.000Z",
    "summary": "8 points · 1 comments"
+  },
+  {
+   "id": "026c49c62ced4ce4",
+   "title": "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
+   "url": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T13:23:10.000Z",
+   "summary": "20 points · 1 comments"
   },
   {
    "id": "c540cb27e209e6a0",
@@ -3898,6 +3961,15 @@
    "summary": "160 points · 40 comments"
   },
   {
+   "id": "b9a4b7fa0d5acd0a",
+   "title": "Faster NumPy in the Browser",
+   "url": "https://notebook.link/blog/the-last-mile-faster-numpy/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T07:00:25.000Z",
+   "summary": "21 points · 0 comments"
+  },
+  {
    "id": "aff3ecdbf25b0979",
    "title": "An iOS 27 bug can temporarily freeze your iPhone",
    "url": "https://www.engadget.com/2260916/ios-27-bug-temporarily-freeze-iphone/",
@@ -4022,6 +4094,15 @@
    "section": "tech",
    "publishedAt": "2026-09-17T01:24:30.000Z",
    "summary": "Photographer Tyler Stalman is back with his annual iPhone camera review. Here’s what he had to say about the iPhone 18 Pro’s new variable aperture, photographic styles, Apple Reference Image, and more. more…"
+  },
+  {
+   "id": "68d5af9e4e82f904",
+   "title": "Weeping whales: Stillborn humpback whale grieving documented",
+   "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T01:00:14.000Z",
+   "summary": "22 points · 0 comments"
   },
   {
    "id": "879ea392b252b793",
