@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-20T05:21:38.816Z",
+ "updatedAt": "2026-09-20T10:04:02.915Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,64 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 31
+   "count": 30
   }
  ],
  "items": [
+  {
+   "id": "0b834f68bbc4ca9d",
+   "title": "T. rex teeth indicate it ran as warm as an elephant",
+   "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-20T09:00:11.000Z",
+   "summary": "Isotope ratios provide a hint that the giants were actively managing temperatures."
+  },
+  {
+   "id": "1b049e2c9ebbed67",
+   "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+   "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-20T07:38:37.000Z",
+   "summary": "27 points · 31 comments"
+  },
+  {
+   "id": "b59f520378683e3c",
+   "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+   "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T06:16:42.000Z",
+   "summary": "120 points · 87 comments"
+  },
+  {
+   "id": "ac7840096d671739",
+   "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+   "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-20T05:46:19.000Z",
+   "summary": "21 points · 17 comments"
+  },
+  {
+   "id": "ba871d28f6f03317",
+   "title": "UTF-8000: Unlimited UTF-8",
+   "url": "https://utf-8000.jb2170.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T05:15:00.000Z",
+   "summary": "65 points · 40 comments"
+  },
+  {
+   "id": "98918e9523403f41",
+   "title": "Telling a Computer to Do Things",
+   "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T05:11:33.000Z",
+   "summary": "31 points · 9 comments"
+  },
   {
    "id": "996e69a0986cbd6c",
    "title": "BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
@@ -874,6 +928,15 @@
    "summary": "192 points · 127 comments"
   },
   {
+   "id": "929bbf201979aada",
+   "title": "Chess Atlas",
+   "url": "https://chess-timeline.vercel.app/gallery.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T08:48:38.000Z",
+   "summary": "21 points · 8 comments"
+  },
+  {
    "id": "e8262b6d1164ffc3",
    "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
    "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
@@ -1153,6 +1216,15 @@
    "summary": "Apple today updated its iOS and iPadOS 27 Feature Availability page, confirming that more than 30 new languages and language variants are now supported across features such as Dictionary: Thesaurus, Activate with Siri, and Visual Look Up. Here’s what’s new. more…"
   },
   {
+   "id": "1dbe3794cb4bb6f6",
+   "title": "When the FM Band Goes Transatlantic",
+   "url": "https://www.radioworld.com/tech-and-gear/nicks-signal-spot/when-the-fm-band-goes-transatlantic",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T20:30:28.000Z",
+   "summary": "9 points · 0 comments"
+  },
+  {
    "id": "1d90bd7330c81952",
    "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
    "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
@@ -1405,6 +1477,15 @@
    "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer."
   },
   {
+   "id": "7ea3f07dfd3d314a",
+   "title": "Seeing Circles, Sines, and Signals",
+   "url": "https://jackschaedler.github.io/circles-sines-signals/index.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T17:59:41.000Z",
+   "summary": "14 points · 3 comments"
+  },
+  {
    "id": "2760b4d9859b784f",
    "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
    "url": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
@@ -1646,6 +1727,15 @@
    "section": "tech",
    "publishedAt": "2026-09-18T16:00:00.000Z",
    "summary": "The first smart glasses were Google Glass, launched way back in 2014. The product failed for a number of reasons, but the biggest of these was privacy concerns around video recording capabilities, leading to users being labeled “glassholes.” The same phenomenon now seems to have finally caught up…"
+  },
+  {
+   "id": "19dae63b27e44aa4",
+   "title": "Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328390",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T15:59:50.000Z",
+   "summary": "17 points · 4 comments"
   },
   {
    "id": "1418c67df27bceed",
