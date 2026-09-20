@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-20T20:44:51.379Z",
+ "updatedAt": "2026-09-20T23:11:20.594Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,118 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 30
+   "count": 31
   }
  ],
  "items": [
+  {
+   "id": "d3f977e7dfb0d695",
+   "title": "How to join a FaceTime call with your Android phone or Windows PC",
+   "url": "https://www.engadget.com/2260287/how-to-join-facetime-call-android-phone-windows-pc/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-20T23:00:00.000Z",
+   "summary": "FaceTime isn't actually an Apple-exclusive feature. While it's not the full experience, joining calls is possible on Android and Windows devices."
+  },
+  {
+   "id": "c31e317aaa16cc00",
+   "title": "Delayed Apple TV series ‘The Savant’ may finally air next year",
+   "url": "https://9to5mac.com/2026/09/20/apple-tv-the-savant-another-release-date/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-20T22:52:35.000Z",
+   "summary": "If you cast your mind back to almost a year ago from today, Apple TV was about to launch a new series called The Savant starring Jessica Chastain … until it was pulled from the schedule at the last moment, in the wake of the assassination of political activist Charlie Kirk. Apple never gave an…"
+  },
+  {
+   "id": "fa58c89b02509785",
+   "title": "What Happened to the Snowden Archive",
+   "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T22:35:49.000Z",
+   "summary": "13 points · 1 comments"
+  },
+  {
+   "id": "2c6ba04ccffccca1",
+   "title": "Google's Open Agentic Orchestrator",
+   "url": "https://agentexecutor.io/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-20T22:32:43.000Z",
+   "summary": "21 points · 7 comments"
+  },
+  {
+   "id": "359685ff96a73020",
+   "title": "How to use Xbox mode on your Windows PC",
+   "url": "https://www.engadget.com/2260213/how-to-use-xbox-mode-windows-pc/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-20T22:30:00.000Z",
+   "summary": "Xbox mode is akin to Big Picture Mode, where you get a gaming-friendly interface that works well with a controller."
+  },
+  {
+   "id": "ece896b7ea3fffa0",
+   "title": "Review: Satechi’s Thunderbolt 5 CubeDock pairs perfectly with the new M6 Mac mini",
+   "url": "https://9to5mac.com/2026/09/20/satechi-thunderbolt-5-cubedock-mac-mini-review/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-20T22:29:43.000Z",
+   "summary": "Apple just released a new Mac mini late last month, equipped with the new M6 and M5 Pro chips. If you’re looking for a perfect Thunderbolt 5 dock to pair with your new Mac mini (or your current M4/M4 Pro model) – Satechi has a great offering for you. more…"
+  },
+  {
+   "id": "8add4f5a9bc2f446",
+   "title": "Bill to Ban Private Equity from Owning Medical Practices",
+   "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T22:13:46.000Z",
+   "summary": "57 points · 15 comments"
+  },
+  {
+   "id": "8c3345e1eccf7efd",
+   "title": "iFixit tears down iPhone 18 Pro, explores variable aperture, finds concerning repair issue",
+   "url": "https://9to5mac.com/2026/09/20/ifixit-tears-down-iphone-18-pro-explores-variable-aperture-finds-concerning-repair-issue/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-20T22:02:17.000Z",
+   "summary": "iFixit has published its traditional teardown of the iPhone 18 Pro, which shows the variable aperture mechanism up close and explores a potential issue involving display repairs. Watch it below. more…"
+  },
+  {
+   "id": "9f0e24928847b29d",
+   "title": "SpaceXAI's Grok Bot is in early beta - Here's how to try it",
+   "url": "https://www.engadget.com/2259931/spacexai-grok-bot-early-beta-how-to-try/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-20T22:00:00.000Z",
+   "summary": "SpaceXAI's Grok Bot is a digital 'teammate' that can handle complex and boring tasks that would otherwise clutter your day. Here's how to get up and running."
+  },
+  {
+   "id": "ce8be56decc88952",
+   "title": "Nobody pays for FOSS, we can force them to",
+   "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T21:04:32.000Z",
+   "summary": "75 points · 50 comments"
+  },
+  {
+   "id": "728eaafcc124203b",
+   "title": "Ogre Battle 64 Recompiled Project at 99.05%",
+   "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T20:59:02.000Z",
+   "summary": "14 points · 5 comments"
+  },
+  {
+   "id": "1e73ca8b84abf275",
+   "title": "No Dogs in Space is back to feed your need for obsessive music history",
+   "url": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-20T20:51:57.000Z",
+   "summary": "In August, I wrote about my love of the music history podcast No Dogs in Space, but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidalgo and Marcus Parks were gearing up to announce the show's return with season four, Punk 2.0. The…"
+  },
   {
    "id": "7ed2446dc1f27715",
    "title": "World model companies are keeping a lot of secrets",
@@ -397,6 +505,15 @@
    "summary": "52 points · 39 comments"
   },
   {
+   "id": "138bed9ab26598dd",
+   "title": "What's been going on in w64devkit the past year",
+   "url": "https://nullprogram.com/blog/2026/09/20/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T15:25:41.000Z",
+   "summary": "4 points · 0 comments"
+  },
+  {
    "id": "cd29136fb6d052c9",
    "title": "ChatGPT now knows what you do on other websites via ad collector",
    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
@@ -449,6 +566,15 @@
    "section": "tech",
    "publishedAt": "2026-09-20T15:00:00.000Z",
    "summary": "Giving away or recycling your old laptop is great, but you need to make sure all your data is fully removed before it finds a new home."
+  },
+  {
+   "id": "51b04c1d249a96a6",
+   "title": "Show HN: A competition for small neural networks that play strategy games",
+   "url": "https://tinybrains.dev/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-20T14:59:10.000Z",
+   "summary": "17 points · 3 comments"
   },
   {
    "id": "b18d006e143b936b",
@@ -1106,6 +1232,15 @@
    "section": "tech",
    "publishedAt": "2026-09-19T17:16:10.000Z",
    "summary": "65 points · 34 comments"
+  },
+  {
+   "id": "a4ae4e1655b9dd0a",
+   "title": "The Effect of CRTs on Pixel Art",
+   "url": "https://datagubbe.se/crt/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T17:14:51.000Z",
+   "summary": "48 points · 11 comments"
   },
   {
    "id": "48460a833f0d637a",
