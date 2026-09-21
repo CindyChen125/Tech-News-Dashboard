@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-21T01:35:30.469Z",
+ "updatedAt": "2026-09-21T07:09:08.637Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,100 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 30
+   "count": 31
   }
  ],
  "items": [
+  {
+   "id": "312ae947227daf98",
+   "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+   "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T05:55:22.000Z",
+   "summary": "68 points · 10 comments"
+  },
+  {
+   "id": "7d208f4b169d709a",
+   "title": "Mini-AGI – dynamic continual learning model trained from scratch on 8GB VRAM",
+   "url": "https://github.com/volotat/mini-AGI/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-21T04:42:37.000Z",
+   "summary": "5 points · 1 comments"
+  },
+  {
+   "id": "09e7b6eff22e11c1",
+   "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+   "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-21T04:28:44.000Z",
+   "summary": "59 points · 24 comments"
+  },
+  {
+   "id": "5ccc44142a3f1593",
+   "title": "iFixit Shares iPhone 18 Pro Teardown With Inside Look at New Features",
+   "url": "https://www.macrumors.com/2026/09/20/ifixit-iphone-18-pro-teardown/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-21T03:44:59.000Z",
+   "summary": "iFixit today published an iPhone 18 Pro and iPhone 18 Pro Max teardown in both article and video formats, providing a closer look inside the new devices. The teardown confirms the battery capacities for the eSIM-only models: iPhone 18 Pro: 4,288 mAh (+0.8% vs. 4,252 mAh for iPhone 17 Pro) iPhone 18…"
+  },
+  {
+   "id": "630dab721cdb8483",
+   "title": "Winning the Visa Lottery",
+   "url": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T03:37:02.000Z",
+   "summary": "55 points · 32 comments"
+  },
+  {
+   "id": "6ebe9000cd6ed0ed",
+   "title": "Apple Fitness+ Layoffs Reported Ahead of Potential 'Major' Changes",
+   "url": "https://www.macrumors.com/2026/09/20/apple-fitness-plus-layoffs-reported/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-21T03:00:03.000Z",
+   "summary": "Apple laid off a \"handful\" of Apple Fitness+ employees last week, according to Bloomberg's Mark Gurman. Tags: Apple Fitness Plus, Mark Gurman This article, \"Apple Fitness+ Layoffs Reported Ahead of Potential 'Major' Changes\" first appeared on MacRumors.com Discuss this article in our forums"
+  },
+  {
+   "id": "0adad71e792c7083",
+   "title": "A Shorter Apple Pencil Was Supposed to Launch Alongside iPhone Duo",
+   "url": "https://www.macrumors.com/2026/09/20/iphone-duo-lacks-shorter-apple-pencil/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-21T02:47:43.000Z",
+   "summary": "A shorter Apple Pencil for the iPhone Duo was in development, but Apple scrapped it due to \"technical problems ahead of mass production,\" according to Bloomberg's Mark Gurman. gain support for the existing USB-C version of the Apple Pencil later this year. Related Roundup: iPhone Duo Tags: Apple…"
+  },
+  {
+   "id": "d331565cacc66994",
+   "title": "Siri AI Settlement Website Now Live: Apple to Pay Some iPhone Owners",
+   "url": "https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-09-21T02:24:32.000Z",
+   "summary": "In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and the settlement website is now live. Apple will pay an estimated $25 per eligible iPhone to eligible customers, who can submit a claim via the settlement website between September 21 and…"
+  },
+  {
+   "id": "5113d39b906d8173",
+   "title": "Deterministic Core, Non-Deterministic Shell",
+   "url": "https://outdata.net/blog/260803",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T02:02:45.000Z",
+   "summary": "36 points · 2 comments"
+  },
+  {
+   "id": "2315fb675f09c91a",
+   "title": "Why back propagation goes backward",
+   "url": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T00:42:14.000Z",
+   "summary": "31 points · 4 comments"
+  },
   {
    "id": "785f80c0015d59c8",
    "title": "One mobile number, two phones: What is iPhone handoff and which carriers support it?",
