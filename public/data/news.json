@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-21T19:42:45.241Z",
+ "updatedAt": "2026-09-21T23:14:04.941Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1214
+   "count": 1215
   },
   {
    "name": "Google DeepMind",
@@ -77,10 +77,262 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 30
+   "count": 31
   }
  ],
  "items": [
+  {
+   "id": "3ec881ae4bbe4b3d",
+   "title": "Apple CEO John Ternus Talks iPhone Duo Design, Siri AI, and Becoming CEO",
+   "url": "https://www.macrumors.com/2026/09/21/john-ternus-interview-iphone-duo/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-09-21T23:12:27.000Z",
+   "summary": "Apple CEO John Ternus did an interview with Canal+ talk show Clique following Apple's September event. He discussed the iPhone Duo's design, difficulties Apple ran into when developing it, his plans for Apple, and more. On the design of the ‌iPhone Duo‌, Ternus explained why Apple went with an…"
+  },
+  {
+   "id": "a91aa68c7f51d118",
+   "title": "iPhone users running iOS 27 can no longer downgrade to iOS 26",
+   "url": "https://9to5mac.com/2026/09/21/iphone-users-running-ios-27-can-no-longer-downgrade-to-ios-26/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-21T23:12:03.000Z",
+   "summary": "Apple today stopped signing iOS 26.6.2, which means iPhone users can no longer downgrade to non-iOS 27 system versions. Here’s why. more…"
+  },
+  {
+   "id": "6b3028fdd632541b",
+   "title": "How to turn your old Windows PC into a Chromebook for free",
+   "url": "https://www.engadget.com/2261523/how-to-turn-your-old-windows-pc-into-chromebook-free/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-21T23:00:00.000Z",
+   "summary": "Don't count your old Windows laptop out yet. Installing ChromeOS Flex is a great option to keep it usable, even if it's not as fast as it once was."
+  },
+  {
+   "id": "faa212c03f86dfb9",
+   "title": "Data Protection Commission fines Google €403M over processing of location data",
+   "url": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T22:33:45.000Z",
+   "summary": "21 points · 3 comments"
+  },
+  {
+   "id": "298c35440a247bab",
+   "title": "I don't want to read what you didn't write",
+   "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T22:30:41.000Z",
+   "summary": "53 points · 19 comments"
+  },
+  {
+   "id": "97526faf702e657e",
+   "title": "Wired vs. wireless keyboards: Is there really a difference in performance?",
+   "url": "https://www.engadget.com/2261521/wired-vs-wireless-keyboard-performance-differences-explained/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-21T22:30:00.000Z",
+   "summary": "Wireless keyboards introduce convenience and portability, but they can't quite keep up with wired keyboards in some cases."
+  },
+  {
+   "id": "4c44eca2c434a5e4",
+   "title": "You Can No Longer Downgrade From iOS 27 to iOS 26",
+   "url": "https://www.macrumors.com/2026/09/21/ios-27-downgrading-impossible/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-21T22:25:36.000Z",
+   "summary": "Apple is no longer signing iOS 26.6.2, so if you've upgraded to iOS 27, there is no option to downgrade to a version of iOS 26. ‌iOS 27‌ came out a week ago. Software that is \"signed\" can pass a server-side verification check that Apple performs when a new version of iOS is downloaded. If an update…"
+  },
+  {
+   "id": "7152b7a0d48fc07d",
+   "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+   "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-09-21T22:24:38.000Z",
+   "summary": "A simple ClickFix attack is only one way to completely hijack the new agent."
+  },
+  {
+   "id": "8328f8b82f1c8b74",
+   "title": "WhatsApp now lets Apple Watch users react with any emoji",
+   "url": "https://9to5mac.com/2026/09/21/whatsapp-now-lets-apple-watch-users-react-with-any-emoji/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-21T22:07:49.000Z",
+   "summary": "Following WhatsApp’s initial limited rollout of emoji reactions on the Apple Watch, the app is now rolling out support for the full set of emojis available on watchOS. Here are the details. more…"
+  },
+  {
+   "id": "c620ef3c34103025",
+   "title": "macOS 27.2 Beta Brings New Volume and Brightness Sliders",
+   "url": "https://www.macrumors.com/2026/09/21/macos-27-2-slider-design/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-21T22:04:48.000Z",
+   "summary": "With the second beta of macOS Golden Gate 27.2, Apple updated the look of the volume and brightness sliders when you adjust them with the keyboard. The new sliders have a segmented bar instead of a plain line, making it clearer how much each key press adjusts volume or brightness. Apple used a…"
+  },
+  {
+   "id": "f025b88acfa15086",
+   "title": "How to turn off your Google location history",
+   "url": "https://www.engadget.com/2261383/how-to-turn-off-google-location-history/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-21T22:00:00.000Z",
+   "summary": "Google Maps' Timeline feature is great for looking back at your past travels, but it's also discomforting to see all that history in one place."
+  },
+  {
+   "id": "6f7f4fa39c69a12b",
+   "title": "iOS 27.2 beta 2 reveals new details about unnanounced iPhone anti-snatching feature",
+   "url": "https://9to5mac.com/2026/09/21/ios-27-2-beta-2-reveals-new-details-about-unnanounced-iphone-anti-snatching-feature/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-21T21:53:37.000Z",
+   "summary": "Apple continues to work on a feature that automatically locks an iPhone when it detects that the device has been snatched from its owner’s hand. Here are the details. more…"
+  },
+  {
+   "id": "05d73fd6808c2033",
+   "title": "Bungie leaders now say the studio's 'not done with Destiny'",
+   "url": "https://www.engadget.com/2264759/bungie-leaders-now-say-the-studio-is-not-done-with-destiny/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-21T21:34:50.000Z",
+   "summary": "It also promised players that Marathon will keep growing and improving."
+  },
+  {
+   "id": "0c01b6a82f5a0f78",
+   "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+   "url": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-21T21:07:05.000Z",
+   "summary": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships."
+  },
+  {
+   "id": "dfb3ec08c720fda9",
+   "title": "AI coding platform Bitrig adds iPhone Duo support with interactive 3D simulator",
+   "url": "https://9to5mac.com/2026/09/21/ai-coding-platform-bitrig-adds-iphone-duo-support-with-interactive-3d-simulator/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-09-21T21:01:08.000Z",
+   "summary": "Following the release of Xcode 27.1 beta 1 last week, Bitrig has added support for building and testing iPhone Duo apps, complete with an interactive 3D simulator that lets developers fold, tilt, rotate, and position the device however they want. Here are the details. more…"
+  },
+  {
+   "id": "67cf2877e200d021",
+   "title": "9to5Mac Daily: September 21, 2026 – More iPhone 18 Pro, iOS 27.2 news",
+   "url": "https://9to5mac.com/2026/09/21/daily-september-21-2026/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-21T20:59:43.000Z",
+   "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff:Stuff helps you get everything out of your head…"
+  },
+  {
+   "id": "6ffc50c440bbea4f",
+   "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
+   "url": "https://www.personalimportation.org/advocacy",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T20:58:17.000Z",
+   "summary": "89 points · 41 comments"
+  },
+  {
+   "id": "6f152ded41b3771c",
+   "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
+   "url": "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-21T20:55:36.000Z",
+   "summary": "The new carmaker is a joint venture between the Saudi PIF and Foxconn."
+  },
+  {
+   "id": "04f8d7bf64ecedf5",
+   "title": "California tightens rules on AI data center energy and water use",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-21T20:29:45.000Z",
+   "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data…"
+  },
+  {
+   "id": "b7da06ec5cebee13",
+   "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+   "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-21T20:15:58.000Z",
+   "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research."
+  },
+  {
+   "id": "74b872a0120503c1",
+   "title": "Apple Notes adds a power user feature in iOS 27 that’s rare in other apps",
+   "url": "https://9to5mac.com/2026/09/21/apple-notes-adds-a-power-user-feature-in-ios-27-thats-rare-in-other-apps/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-21T20:13:30.000Z",
+   "summary": "Apple Notes in iOS 27 adds a variety of new features, including one that power users are sure to appreciate: section links. more…"
+  },
+  {
+   "id": "a80c7c4ee1b4bdd2",
+   "title": "Xiaomi MiMo v2.6",
+   "url": "https://mimo.xiaomi.com/mimo-v2-6",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T20:12:12.000Z",
+   "summary": "383 points · 189 comments"
+  },
+  {
+   "id": "0a6b32dbeb1b75c6",
+   "title": "Our favorite accessories to elevate your new M6 Mac mini and Mac Studio rig",
+   "url": "https://9to5mac.com/2026/09/21/our-favorite-accessories-new-mac-mini-studio/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-21T20:06:28.000Z",
+   "summary": "Apple’s all-new M6 Mac mini, M5 Pro mini, and Mac Studio officially release tomorrow and, alongside the early pre-order deals on most of them, we are taking a look at some of our favorite Mac accessories here today. more…"
+  },
+  {
+   "id": "18b4386d4e7f40ac",
+   "title": "Does your iPhone's Safari browser privacy features actually make you safer?",
+   "url": "https://www.engadget.com/2261254/do-safari-privacy-features-keep-iphone-safe/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-21T20:00:00.000Z",
+   "summary": "Safari on iPhone is more private than many other browsers by default, but it can't keep your information safe from everything."
+  },
+  {
+   "id": "dcd865378c509a12",
+   "title": "Report: AI glasses shipments surged 263% in H1 2026 as Apple prepares to enter the market",
+   "url": "https://9to5mac.com/2026/09/21/report-ai-glasses-shipments-surged-263-in-h1-2026-as-apple-prepares-to-enter-the-market/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-09-21T19:55:41.000Z",
+   "summary": "Counterpoint Research says global AI glasses shipments surged 263% during the first half of 2026, with Meta comfortably leading the display-less segment amid growing privacy concerns. Here are the details. more…"
+  },
+  {
+   "id": "c9ab25ba0fba8161",
+   "title": "The EU will force data centers to disclose their energy and water use",
+   "url": "https://www.engadget.com/2264607/the-eu-will-force-data-centers-to-disclose-their-energy-and-water-use/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-21T19:53:53.000Z",
+   "summary": "The EU has proposed a sustainability labeling system ahead of bringing in minimum data center performance standards."
+  },
+  {
+   "id": "2d5a41c4de6434d5",
+   "title": "X now tells users when local laws have reduced their posts' visibility",
+   "url": "https://www.engadget.com/2264585/x-now-tells-users-when-local-laws-have-reduced-their-posts-visibility/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-21T19:44:35.000Z",
+   "summary": "The latest addition to X's Under the Hood feature could stave off claims around shadowbanning."
+  },
+  {
+   "id": "7d9868ff7e17b628",
+   "title": "Transformers Explained Visually",
+   "url": "https://poloclub.github.io/transformer-explainer/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T19:43:49.000Z",
+   "summary": "131 points · 18 comments"
+  },
   {
    "id": "10bc51b0635deebf",
    "title": "GM Wants You to Know It Still Plans to Ditch Apple CarPlay in Future EVs",
@@ -98,6 +350,15 @@
    "section": "tech",
    "publishedAt": "2026-09-21T19:25:00.000Z",
    "summary": "5 days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25, 11:59 p.m. PT."
+  },
+  {
+   "id": "7550b209d12fa86e",
+   "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+   "url": "https://linear.app/now/ci-bottleneck-reworked",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-21T19:23:33.000Z",
+   "summary": "101 points · 91 comments"
   },
   {
    "id": "bf4433af15525cce",
@@ -163,6 +424,24 @@
    "summary": "iOS 27.2 beta 2 arrived today, and so far seems to have minimal user-facing changes. But code for iOS 27.2’s beta releases points to new features in the works for Apple Music, CarPlay Ultra, and more. more…"
   },
   {
+   "id": "3fd5398fe5630cc6",
+   "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+   "url": "https://robocurve.org/roboharm/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T18:58:26.000Z",
+   "summary": "26 points · 10 comments"
+  },
+  {
+   "id": "a3f1d5c78bb06329",
+   "title": "Frontier AI on Your Own Hardware",
+   "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-21T18:53:01.000Z",
+   "summary": "73 points · 37 comments"
+  },
+  {
    "id": "13232828f31be247",
    "title": "US halts flights at busy East Coast airports, says fiber line cut",
    "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
@@ -224,6 +503,15 @@
    "section": "tech",
    "publishedAt": "2026-09-21T18:23:05.000Z",
    "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50-megawatt nuclear power plant."
+  },
+  {
+   "id": "51725371f48c74aa",
+   "title": "Apple Copland D11E4 Booting in the Browser",
+   "url": "https://www.pagetable.com/300",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T18:15:32.000Z",
+   "summary": "73 points · 23 comments"
   },
   {
    "id": "23e90df8549a1b82",
@@ -503,6 +791,15 @@
    "section": "tech",
    "publishedAt": "2026-09-21T16:23:07.000Z",
    "summary": "Apple's new iPhone 18 Pro and iPhone 18 Pro Max began arriving to customers on Friday, and unfortunately some early adopters are experiencing Face ID issues. According to a Reddit post spotted by 9to5Mac, Face ID authentication for specific actions such as unlocking a locked app sometimes fails to…"
+  },
+  {
+   "id": "61d75f94a7e4c8e5",
+   "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+   "url": "https://github.com/naw103/foremerge",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T16:22:06.000Z",
+   "summary": "31 points · 0 comments"
   },
   {
    "id": "1e6cf691d167cb59",
@@ -1234,6 +1531,15 @@
    "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
   },
   {
+   "id": "5eb3fa7749ddbc71",
+   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+   "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-21T12:00:00.000Z",
+   "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
+  },
+  {
    "id": "b23ef04646a37b8f",
    "title": "Amazon bars Meta's Muse AI from shopping on its site",
    "url": "https://www.engadget.com/2263659/amazon-bars-metas-muse-ai-from-shopping-on-its-site/",
@@ -1358,6 +1664,15 @@
    "section": "tech",
    "publishedAt": "2026-09-21T05:55:22.000Z",
    "summary": "68 points · 10 comments"
+  },
+  {
+   "id": "60c67a224046a301",
+   "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
+   "url": "https://www.nongnu.org/txr/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T05:09:08.000Z",
+   "summary": "11 points · 0 comments"
   },
   {
    "id": "7d208f4b169d709a",
@@ -2035,6 +2350,15 @@
    "summary": "17 points · 3 comments"
   },
   {
+   "id": "9a3a5ed40ab69bf1",
+   "title": "The Journey of a Migratory Shorebird",
+   "url": "https://www.newyorker.com/magazine/2026/09/21/the-incredible-journey-of-a-migratory-shorebird",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T14:44:27.000Z",
+   "summary": "5 points · 0 comments"
+  },
+  {
    "id": "b18d006e143b936b",
    "title": "Here’s why Apple scrapped its shorter Apple Pencil designed for iPhone Duo: report",
    "url": "https://9to5mac.com/2026/09/20/heres-why-apple-scrapped-its-shorter-apple-pencil-designed-for-iphone-duo-report/",
@@ -2582,6 +2906,15 @@
    "section": "tech",
    "publishedAt": "2026-09-19T19:45:00.000Z",
    "summary": "For Starship's 14th test flight, it will orbit our planet multiple times for 10 hours."
+  },
+  {
+   "id": "1584aef651bfe501",
+   "title": "Divide by depth for instant 3D",
+   "url": "https://gabrieloc.com/2026/09/15/perspective.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-19T19:43:13.000Z",
+   "summary": "57 points · 5 comments"
   },
   {
    "id": "5c2e461cbf79a706",
