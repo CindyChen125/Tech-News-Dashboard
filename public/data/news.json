@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-20T23:11:20.594Z",
+ "updatedAt": "2026-09-21T01:35:30.469Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,64 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 31
+   "count": 30
   }
  ],
  "items": [
+  {
+   "id": "785f80c0015d59c8",
+   "title": "One mobile number, two phones: What is iPhone handoff and which carriers support it?",
+   "url": "https://www.engadget.com/2260552/iphone-handoff-uses-carriers-explained/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-21T00:30:00.000Z",
+   "summary": "If you find yourself swapping between two iPhones regularly, whether for work or casual use, you're going to want to set up Handoff."
+  },
+  {
+   "id": "16c6378bbede3137",
+   "title": "Wired vs. wireless internet: Which should you choose for your home?",
+   "url": "https://www.engadget.com/2260477/wired-vs-wireless-internet-which-choose-for-home/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-21T00:00:00.000Z",
+   "summary": "Wired and wireless internet are both ways that ISPs deliver service to your home, but one isn't necessarily superior to the other."
+  },
+  {
+   "id": "00601221083ce00b",
+   "title": "Amiga Unix, Again",
+   "url": "https://amigaux.org/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T23:57:10.000Z",
+   "summary": "16 points · 6 comments"
+  },
+  {
+   "id": "76f76ae304daf2f1",
+   "title": "Which major chatbot apps work with CarPlay?",
+   "url": "https://www.engadget.com/2260401/major-chatbot-apps-work-with-carplay/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-20T23:30:00.000Z",
+   "summary": "If you aren't happy with Siri while driving, several other chatbot apps are compatible with CarPlay now."
+  },
+  {
+   "id": "52a27181c894afbb",
+   "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+   "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T23:19:04.000Z",
+   "summary": "10 points · 0 comments"
+  },
+  {
+   "id": "862825dca5f81611",
+   "title": "7 ways to get free movies and TV channels on your smart TV",
+   "url": "https://www.engadget.com/2262964/ways-to-get-free-movies-channels-on-smart-tv/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-20T23:15:00.000Z",
+   "summary": "With the influx of premium streaming services, it can be difficult to find apps that offer access to free movies and TV channels in the sea of options."
+  },
   {
    "id": "d3f977e7dfb0d695",
    "title": "How to join a FaceTime call with your Android phone or Windows PC",
@@ -215,6 +269,15 @@
    "section": "tech",
    "publishedAt": "2026-09-20T19:55:36.000Z",
    "summary": "21 points · 4 comments"
+  },
+  {
+   "id": "6254fec3d16fdba5",
+   "title": "Why MCP Was Always a Bad Idea?",
+   "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T19:44:40.000Z",
+   "summary": "40 points · 62 comments"
   },
   {
    "id": "ec2b7954a9902a62",
@@ -764,6 +827,15 @@
    "section": "tech",
    "publishedAt": "2026-09-20T11:07:00.000Z",
    "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle."
+  },
+  {
+   "id": "afc9a87306e702e5",
+   "title": "Why do we need human mathematicians anymore?",
+   "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T10:49:58.000Z",
+   "summary": "129 points · 88 comments"
   },
   {
    "id": "9f468c891cf273ad",
