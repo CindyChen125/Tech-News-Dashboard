@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-22T01:48:56.311Z",
+ "updatedAt": "2026-09-22T07:39:36.524Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -23,7 +23,7 @@
    "name": "Hugging Face",
    "section": "ai",
    "ok": true,
-   "count": 863
+   "count": 864
   },
   {
    "name": "MIT Tech Review",
@@ -82,6 +82,60 @@
  ],
  "items": [
   {
+   "id": "d070dd2063aa9e19",
+   "title": "Can gzip be a language model?",
+   "url": "https://nathan.rs/posts/gzip-lm/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T06:08:39.000Z",
+   "summary": "27 points · 0 comments"
+  },
+  {
+   "id": "57fff5045c9e184f",
+   "title": "Morphotonics raises €40M to expand its display tech into data centers",
+   "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-22T06:00:00.000Z",
+   "summary": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL."
+  },
+  {
+   "id": "22d8c4b01638ccd0",
+   "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
+   "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
+   "source": "Apple Newsroom",
+   "section": "tech",
+   "publishedAt": "2026-09-22T05:59:58.127Z",
+   "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open."
+  },
+  {
+   "id": "a06142a45cb25c1e",
+   "title": "Apple Music to open concert venue in Battersea Power Station",
+   "url": "https://www.bbc.com/news/articles/c607l2j2rj8ro",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T05:32:55.000Z",
+   "summary": "49 points · 40 comments"
+  },
+  {
+   "id": "15236a61f088ada6",
+   "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+   "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T04:02:09.000Z",
+   "summary": "26 points · 6 comments"
+  },
+  {
+   "id": "a9da910cc6045d6d",
+   "title": "watchOS 27.2 beta 2 brings the App Switcher back with a new gesture",
+   "url": "https://9to5mac.com/2026/09/21/watchos-27-2-beta-2-brings-the-app-switcher-back-with-a-new-gesture/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-22T02:07:14.000Z",
+   "summary": "If you’ve been missing the double-click of the Digital Crown that used to bring up the App Switcher on the Apple Watch before watchOS 27, it looks like the feature is making a comeback as of watchOS 27.2 beta 2. Here are the details. more…"
+  },
+  {
    "id": "2f46479c5a663b2b",
    "title": "Apple challenges OpenAI’s forensic analysis in trade secrets case, seeks access to hardware R&D",
    "url": "https://9to5mac.com/2026/09/21/apple-challenges-openais-forensic-analysis-in-trade-secrets-case-seeks-access-to-hardware-rd/",
@@ -125,6 +179,15 @@
    "section": "tech",
    "publishedAt": "2026-09-22T00:00:00.000Z",
    "summary": "Laptop fans do an important job, but sometimes they get annoyingly loud. Here's what it might mean and whether you should be concerned."
+  },
+  {
+   "id": "11fb7697065b7169",
+   "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+   "url": "https://huggingface.co/blog/omlx",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-09-22T00:00:00.000Z",
+   "summary": ""
   },
   {
    "id": "1294e5d73f94eeca",
@@ -1720,6 +1783,15 @@
    "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
   },
   {
+   "id": "c535e0d6cc7b11be",
+   "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
+   "url": "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T09:56:34.000Z",
+   "summary": "3 points · 1 comments"
+  },
+  {
    "id": "d1c914405869cfda",
    "title": "Apple Watch Series 12 and Ultra 4 Owners Report Unexpected Reboots",
    "url": "https://www.macrumors.com/2026/09/21/apple-watch-series-12-ultra-4-reported-reboots/",
@@ -2701,6 +2773,15 @@
    "summary": "Unlike previous Ferrari four-seaters, this one is better for humans than cargo."
   },
   {
+   "id": "38222b8da98f3fba",
+   "title": "PDF Forgeries Are Surprisingly Rare (2022)",
+   "url": "https://gwern.net/blog/2022/pdf-forgery",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T09:57:35.000Z",
+   "summary": "28 points · 26 comments"
+  },
+  {
    "id": "0b834f68bbc4ca9d",
    "title": "T. rex teeth indicate it ran as warm as an elephant",
    "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
@@ -2780,6 +2861,15 @@
    "section": "tech",
    "publishedAt": "2026-09-20T04:35:59.000Z",
    "summary": "6 points · 0 comments"
+  },
+  {
+   "id": "5544c14ad9709cfd",
+   "title": "World Wide Words",
+   "url": "https://www.worldwidewords.org/genindex.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T03:21:12.000Z",
+   "summary": "5 points · 0 comments"
   },
   {
    "id": "f7d4fab310dcaadf",
