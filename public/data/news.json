@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-22T17:44:42.598Z",
+ "updatedAt": "2026-09-22T21:13:47.465Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1216
+   "count": 1218
   },
   {
    "name": "Google DeepMind",
@@ -81,6 +81,411 @@
   }
  ],
  "items": [
+  {
+   "id": "022316f8c4be5f10",
+   "title": "The UV index is not the warm sensation of sunlight on bare skin",
+   "url": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T21:06:40.000Z",
+   "summary": "3 points · 0 comments"
+  },
+  {
+   "id": "eb249f9e9ad47903",
+   "title": "No Sloptober",
+   "url": "https://no-sloptober.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T21:05:39.000Z",
+   "summary": "7 points · 0 comments"
+  },
+  {
+   "id": "d7ac59ae0532d6e0",
+   "title": "Better prompt caching for GPT-6",
+   "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-22T21:00:00.000Z",
+   "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+  },
+  {
+   "id": "c1c1f518abd7c5f4",
+   "title": "OpenAI's New GPT-6 Sol and Luna Models Bring Astra Improvements to Cheaper Tiers",
+   "url": "https://www.macrumors.com/2026/09/22/openai-gpt-6-sol-luna/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-09-22T20:58:32.000Z",
+   "summary": "OpenAI today launched GPT–6 Sol and GPT–6 Luna, two new models that follow GPT–6 Astra. OpenAI says the new models were developed using methods similar to Astra's for improvements in professional work, factuality, coding, computer use, and alignment. GPT–6 Sol is for everyday work, and it costs…"
+  },
+  {
+   "id": "2a5c6d5dd867eaf6",
+   "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-22T20:52:40.000Z",
+   "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices…"
+  },
+  {
+   "id": "cd365416dd88735f",
+   "title": "Tim Cook meets EU chief Ursula von der Leyen as bloc pushes new child safety rules",
+   "url": "https://9to5mac.com/2026/09/22/tim-cook-meets-eu-chief-ursula-von-der-leyen-as-bloc-pushes-new-child-safety-rules/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-22T20:40:44.000Z",
+   "summary": "Keeping with Apple’s pledge that Tim Cook would remain involved in Apple’s government relations around the world after stepping down as CEO, he met this week with Ursula von der Leyen, President of the European Commission. Here are the details. more…"
+  },
+  {
+   "id": "50b027a65816a991",
+   "title": "Discord rolls out its revised age verification policy",
+   "url": "https://www.engadget.com/2265924/discord-rolls-out-its-revised-age-verification-policy/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T20:29:08.000Z",
+   "summary": "It will offer several privacy-focused options for users who aren't automatically confirmed as adults."
+  },
+  {
+   "id": "4eb8db5e8b56210e",
+   "title": "Apple retires the Apple Park Visitor Center’s unique AR experience",
+   "url": "https://9to5mac.com/2026/09/22/apple-retires-the-apple-park-visitor-centers-unique-ar-experience/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-22T20:27:07.000Z",
+   "summary": "Earlier this summer, Apple closed a portion of the Apple Park Visitor Center as it worked to “improve our store.” That space has now reopened, and the big change is that Apple has removed the augmented reality experience that let visitors use custom iPads to view Apple Park. more…"
+  },
+  {
+   "id": "51d0ae8bf48c1090",
+   "title": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
+   "url": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-22T20:14:54.000Z",
+   "summary": "The Kingdom of Saudi Arabia is mostly known for its global dominance over petroleum production and oil reserves - not necessarily cars and auto manufacturing, and certainly not electric vehicle production. So it was a little surprising on Monday when a Saudi startup called Ceer unveiled a pair of…"
+  },
+  {
+   "id": "3350fc6effafa708",
+   "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+   "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-22T20:00:00.000Z",
+   "summary": "The 8 Elite Extreme Gen 6 and 8 Elite Gen 6 share most of their specs in common. | Image: Qualcomm Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively…"
+  },
+  {
+   "id": "ac6c4cac3981e73f",
+   "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
+   "url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-22T20:00:00.000Z",
+   "summary": "You couldn’t accuse Motorola of designing a boring phone. | Image: Motorola Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still…"
+  },
+  {
+   "id": "03800f2f2be4347c",
+   "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+   "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-22T20:00:00.000Z",
+   "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
+  },
+  {
+   "id": "d28d1484129bd448",
+   "title": "How to set up 5.1 surround sound system for your Xbox",
+   "url": "https://www.engadget.com/2264279/how-to-set-up-xbox-5-1-surround-sound-system/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T20:00:00.000Z",
+   "summary": "Your Xbox is surround-sound capable, and it's easy to enjoy 5.1 or even 7.1 immersive sound for your favorite titles."
+  },
+  {
+   "id": "e394ffdd60a2a132",
+   "title": "Motorola's new Signature 27 is among the first smartphone to use the Snapdragon 8 Elite Extreme Gen 6 processor",
+   "url": "https://www.engadget.com/2265564/motorolas-new-signature-27-is-among-the-first-smartphone-to-use-the-snapdragon-8-elite-extreme-gen-6-processor/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T20:00:00.000Z",
+   "summary": "Not bad for a quick refresh."
+  },
+  {
+   "id": "5ec06168c4863e5b",
+   "title": "Qualcomm is making not one but two versions of its flagship Snapdragon 8 Elite Gen 6 chip",
+   "url": "https://www.engadget.com/2265628/qualcomm-is-making-not-one-but-two-versions-of-its-flagship-snapdragon-8-elite-gen-6-chip/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T20:00:00.000Z",
+   "summary": "That video capture is nothing to sneeze at."
+  },
+  {
+   "id": "7fa5e5d1241dd988",
+   "title": "The JavaScript Midlife Crisis",
+   "url": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T19:58:47.000Z",
+   "summary": "14 points · 5 comments"
+  },
+  {
+   "id": "990b5c64d17ad5ce",
+   "title": "Apple TV: ‘The Sisters Grimm’ gets season 2 trailer ahead of October premiere",
+   "url": "https://9to5mac.com/2026/09/22/apple-tv-the-sisters-grimm-gets-season-2-trailer-ahead-of-october-premiere/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-22T19:55:56.000Z",
+   "summary": "Apple TV today unveiled the trailer for the upcoming second season of its animated adventure series “The Sisters Grimm.” Watch it below. more…"
+  },
+  {
+   "id": "a8021f3ecf4b5d95",
+   "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
+   "url": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-22T19:48:08.000Z",
+   "summary": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earlier this month, would be \"available\" on older…"
+  },
+  {
+   "id": "93229aae0a48ee53",
+   "title": "Apple Park Visitor Center Just Lost an Attraction Offered Since 2017",
+   "url": "https://www.macrumors.com/2026/09/22/apple-park-visitor-center-loses-exhibition/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-22T19:42:26.000Z",
+   "summary": "Following renovations, the Apple Park Visitor Center in Cupertino, California no longer features a 3D augmented reality model of the Apple Park campus. The area that housed the 3D model, which was called the Exhibition Space, now has wall-mounted shelves known as \"Avenues\" and new, rounder tables…"
+  },
+  {
+   "id": "ee4e3285a26df8cc",
+   "title": "Native apps written in TypeScript and CSS",
+   "url": "https://github.com/geastack/examples",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T19:42:20.000Z",
+   "summary": "38 points · 7 comments"
+  },
+  {
+   "id": "77c37ca8fb6958a7",
+   "title": "Shazam App for iPhone Updated With New Icon and iMessage Stickers",
+   "url": "https://www.macrumors.com/2026/09/22/shazam-app-new-icon-and-stickers/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-22T19:40:52.000Z",
+   "summary": "Apple today updated the Shazam app for iOS with an ever so slightly frostier app icon and a new set of iMessage stickers. Tag: Shazam This article, \"Shazam App for iPhone Updated With New Icon and iMessage Stickers\" first appeared on MacRumors.com Discuss this article in our forums"
+  },
+  {
+   "id": "85e9894d2f4347ad",
+   "title": "Apple Photos in iOS 27 gets camera roll feature it’s long needed",
+   "url": "https://9to5mac.com/2026/09/22/apple-photos-in-ios-27-gets-camera-roll-feature-its-long-needed/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-22T19:39:42.000Z",
+   "summary": "iOS 27 is a big update for Apple’s Photos app, with improvements to slideshows, shared albums, and more. It also adds a welcome camera roll-type feature many have long been asking for: ‘Captured by Me.’ more…"
+  },
+  {
+   "id": "1d3c6be29a52422b",
+   "title": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy",
+   "url": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-22T19:28:55.000Z",
+   "summary": "An early look at the first set of Googlebooks The Android-powered Googlebooks are coming soon, with familiar brands and specs that rival Windows Copilot machines. For anyone eager to get their hands on any the new laptops, there’s a preorder perk you may want to know about lasting until October…"
+  },
+  {
+   "id": "e1481aaf0c087533",
+   "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+   "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-09-22T19:28:23.000Z",
+   "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs."
+  },
+  {
+   "id": "972734432079fea7",
+   "title": "Apple could take on Whoop with a new fitness tracker, report says",
+   "url": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-22T19:27:57.000Z",
+   "summary": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices."
+  },
+  {
+   "id": "8c68a8313cd81ee5",
+   "title": "A Faster Shortest Path Algorithm",
+   "url": "https://www.vals.ai/blogs/faster-shortest-path-algorithm",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T19:24:58.000Z",
+   "summary": "25 points · 5 comments"
+  },
+  {
+   "id": "a042f59c423101e7",
+   "title": "Anthropic Launches Claude Opus 5.5 With Fable-Level Performance at a Lower Price",
+   "url": "https://www.macrumors.com/2026/09/22/anthropic-claude-opus-5-5/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-09-22T19:23:31.000Z",
+   "summary": "Anthropic today launched Claude Opus 5.5, which it says is the first model in a new 5.5 model family. Opus 5.5 performs at the level of Claude Fable 5.1 on most work, but costs 40 percent less to run than Opus 5. According to Anthropic, Opus 5.5 is a \"major step up\" from Opus 5 with improvements in…"
+  },
+  {
+   "id": "266360c3bfbe5495",
+   "title": "Anthropic and OpenAI announce more powerful (and cheaper) AI models",
+   "url": "https://www.engadget.com/2265801/anthropic-and-openai-announce-more-powerful-and-cheaper-ai-models/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-22T19:11:11.000Z",
+   "summary": "I thought we were supposed to be slowing down the frontier."
+  },
+  {
+   "id": "938475c27e35ae60",
+   "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+   "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-22T19:09:11.000Z",
+   "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content."
+  },
+  {
+   "id": "607fa414a4773992",
+   "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
+   "url": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-22T19:08:58.000Z",
+   "summary": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra."
+  },
+  {
+   "id": "226cc46509dbcd8e",
+   "title": "These were the best Apple accessories I found at IFA Berlin 2026",
+   "url": "https://9to5mac.com/2026/09/22/these-were-the-best-apple-accessories-i-found-at-ifa-berlin-2026/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-22T19:08:45.000Z",
+   "summary": "9to5Mac is brought to you by Memoket: The Memoket Gem is an 11g AI wearable that slots beside your Apple Watch in a co-wear band. Press once to capture a conversation, and Gem connects it to what you discussed weeks ago — surfacing the earlier thread with a source link. From $179, shipping now…"
+  },
+  {
+   "id": "62467d20aba33de9",
+   "title": "Apple has reportedly ‘postponed’ AI pendant product",
+   "url": "https://9to5mac.com/2026/09/22/apple-has-reportedly-postponed-ai-pendant-product/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-09-22T19:01:44.000Z",
+   "summary": "Apple launched arguably its first AI wearables last week with Apple Watch Series 12 and Ultra 4, which are gaining new ‘Audio Intelligence’ features alongside Siri AI. But today a Bloomberg report says a different AI product—the rumored wearable pendant—has been put on hold. more…"
+  },
+  {
+   "id": "519026d32562298d",
+   "title": "SAML: A Fractal of Bad Design",
+   "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T18:57:17.000Z",
+   "summary": "84 points · 32 comments"
+  },
+  {
+   "id": "63339190ff211dbc",
+   "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+   "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-22T18:40:30.000Z",
+   "summary": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government."
+  },
+  {
+   "id": "c4727d0ec7a1fa87",
+   "title": "How to use Google's Find Hub to locate your Android phone",
+   "url": "https://www.engadget.com/2261944/how-to-use-google-find-hub-locate-android-phone/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T18:30:00.000Z",
+   "summary": "Is your Android phone missing? Here's how you can use Find Hub to look for it."
+  },
+  {
+   "id": "47f3ca2e99a69390",
+   "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+   "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-22T18:24:34.000Z",
+   "summary": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program."
+  },
+  {
+   "id": "c43407d232f8f6d0",
+   "title": "Unreal Agent",
+   "url": "https://unreallabs.ai/blog/unreal-agent/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T18:15:53.000Z",
+   "summary": "66 points · 42 comments"
+  },
+  {
+   "id": "75a4557870a743b1",
+   "title": "Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad",
+   "url": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-22T18:10:57.000Z",
+   "summary": "A rare discount on Apple’s dark color keyboard. | Image: The Verge Until the end of the day on September 22nd, 2026, Best Buy and Amazon have the black Apple Magic Keyboard on sale for $169.99, a $30 discount from the usual price. This is the souped-up version of Apple’s full-size, wireless…"
+  },
+  {
+   "id": "4dadfd93137c8e40",
+   "title": "An update on how we confirm your age group on Discord",
+   "url": "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T18:10:31.000Z",
+   "summary": "54 points · 9 comments"
+  },
+  {
+   "id": "cbebdb15b82126f1",
+   "title": "Apple Releases Firmware Update for Beats 360",
+   "url": "https://www.macrumors.com/2026/09/22/apple-beats-360-firmware-update/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-22T18:05:40.000Z",
+   "summary": "Apple today released a firmware update for the Beats 360 over-ear headphones, so customers ordering the headphones will have new software available when they arrive. The firmware has a 4A262 version number, up from the prior 4A260 firmware. We don't know what's included in the firmware update, but…"
+  },
+  {
+   "id": "8334a6251f425847",
+   "title": "OpenAI upgrading ChatGPT and Codex with two more GPT-6 models",
+   "url": "https://9to5mac.com/2026/09/22/openai-upgrading-chatgpt-and-codex-with-two-more-gpt-6-models/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-09-22T18:02:45.000Z",
+   "summary": "Earlier this month, OpenAI released the first GPT-6 model with Astra. Now GPT-6 is expanding with new GPT-6 Sol and GPT-6 Luna models. more…"
+  },
+  {
+   "id": "4a2296303aa15e75",
+   "title": "Introducing GPT-6 Sol and Luna",
+   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-22T18:00:00.000Z",
+   "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
+  },
+  {
+   "id": "b6a6a5f9f04b5419",
+   "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+   "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-22T18:00:00.000Z",
+   "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
+  },
+  {
+   "id": "cd143681b13f8263",
+   "title": "How far away should you sit from your computer monitor or laptop?",
+   "url": "https://www.engadget.com/2264095/how-far-you-should-sit-from-computer-monitor-laptop/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T18:00:00.000Z",
+   "summary": "Don't have your monitor sitting just anywhere; the distance, tilt and angles are all important to avoid strain while working."
+  },
+  {
+   "id": "e742e13c686c3712",
+   "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+   "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T17:46:02.000Z",
+   "summary": "126 points · 74 comments"
+  },
   {
    "id": "8f487966215ae2db",
    "title": "San Francisco sues Trump Media for selling early access to Trump posts",
@@ -865,6 +1270,24 @@
    "summary": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale."
   },
   {
+   "id": "1ccbf63768042d67",
+   "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+   "url": "https://benchmarkheaven.com/jev-models",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T13:01:03.000Z",
+   "summary": "28 points · 1 comments"
+  },
+  {
+   "id": "19134cdfb01582da",
+   "title": "Show HN: Training a model to identify AI web content from structure alone",
+   "url": "https://arxiv.org/abs/2609.15369",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-22T13:00:49.000Z",
+   "summary": "21 points · 5 comments"
+  },
+  {
    "id": "21af995ff1cee38b",
    "title": "Waymo is offering transit discounts again, this time with Visa",
    "url": "https://www.theverge.com/transportation/998184/waymo-public-transportation-discount-subway-bus-visa",
@@ -1288,6 +1711,15 @@
    "summary": "26 points · 6 comments"
   },
   {
+   "id": "9f51e206ea4e3bab",
+   "title": "What California is learning from solar panels built over irrigation canals",
+   "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T03:10:05.000Z",
+   "summary": "35 points · 23 comments"
+  },
+  {
    "id": "a9da910cc6045d6d",
    "title": "watchOS 27.2 beta 2 brings the App Switcher back with a new gesture",
    "url": "https://9to5mac.com/2026/09/21/watchos-27-2-beta-2-brings-the-app-switcher-back-with-a-new-gesture/",
@@ -1306,6 +1738,15 @@
    "summary": "Apple has asked the court overseeing its lawsuit against OpenAI and other defendants to let its own experts review forensic images used in the case, while also seeking documents related to parts of OpenAI’s hardware R&D. Here are the details. more…"
   },
   {
+   "id": "f6c7c6e173880b56",
+   "title": "People hooked on vapes try a new way to quit: cigarettes",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T01:21:20.000Z",
+   "summary": "52 points · 48 comments"
+  },
+  {
    "id": "c775cce7e0568a17",
    "title": "Claude Status – Elevated errors for multiple models",
    "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
@@ -1322,6 +1763,15 @@
    "section": "tech",
    "publishedAt": "2026-09-22T00:30:00.000Z",
    "summary": "Power outages can damage your tech, but the bigger risk happens when the electricity comes back on. Don't let your tech get fried."
+  },
+  {
+   "id": "c758f8761b55fbe5",
+   "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+   "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-22T00:24:00.000Z",
+   "summary": "48 points · 19 comments"
   },
   {
    "id": "bf8c611110f0cabd",
@@ -1466,6 +1916,15 @@
    "section": "tech",
    "publishedAt": "2026-09-21T23:00:00.000Z",
    "summary": "Don't count your old Windows laptop out yet. Installing ChromeOS Flex is a great option to keep it usable, even if it's not as fast as it once was."
+  },
+  {
+   "id": "4ed32323c98750f0",
+   "title": "Markdown in /src",
+   "url": "https://htmx.org/essays/markdown-in-src/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T22:47:54.000Z",
+   "summary": "48 points · 15 comments"
   },
   {
    "id": "faa212c03f86dfb9",
@@ -2555,6 +3014,15 @@
    "section": "tech",
    "publishedAt": "2026-09-21T13:40:08.000Z",
    "summary": "iOS 27 has arrived, and with it a handful of improvements for CarPlay. Here’s everything new for CarPlay in iOS 27. more…"
+  },
+  {
+   "id": "2a27484796510246",
+   "title": "George Lucas Returns to Earth, Bearing Gifts",
+   "url": "https://commonedge.org/george-lucas-returns-to-earth-bearing-gifts/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T13:40:03.000Z",
+   "summary": "45 points · 22 comments"
   },
   {
    "id": "f489e16535293ff9",
@@ -5383,6 +5851,15 @@
    "summary": "237 points · 106 comments"
   },
   {
+   "id": "450382139e588e1f",
+   "title": "How did AMD Ryzen get 50% faster in two years?",
+   "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-18T19:01:03.000Z",
+   "summary": "128 points · 27 comments"
+  },
+  {
    "id": "e44394e3a9ce90cb",
    "title": "The Implications of Linguistic Illegibility for LLM Security",
    "url": "https://arxiv.org/abs/2609.02852",
@@ -7505,6 +7982,15 @@
    "section": "tech",
    "publishedAt": "2026-09-17T15:40:19.000Z",
    "summary": "67 points · 42 comments"
+  },
+  {
+   "id": "d60199b97db73395",
+   "title": "Rabbit Hole: Minimum L-seams",
+   "url": "https://www.fractalkitty.com/rabbit-hole-minimum-l-seams/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-17T15:40:18.000Z",
+   "summary": "19 points · 5 comments"
   },
   {
    "id": "f2ee53f28aa64ee2",
