@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-21T23:14:04.941Z",
+ "updatedAt": "2026-09-22T01:48:56.311Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,109 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 31
+   "count": 30
   }
  ],
  "items": [
+  {
+   "id": "2f46479c5a663b2b",
+   "title": "Apple challenges OpenAI’s forensic analysis in trade secrets case, seeks access to hardware R&D",
+   "url": "https://9to5mac.com/2026/09/21/apple-challenges-openais-forensic-analysis-in-trade-secrets-case-seeks-access-to-hardware-rd/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-09-22T01:37:18.000Z",
+   "summary": "Apple has asked the court overseeing its lawsuit against OpenAI and other defendants to let its own experts review forensic images used in the case, while also seeking documents related to parts of OpenAI’s hardware R&D. Here are the details. more…"
+  },
+  {
+   "id": "c775cce7e0568a17",
+   "title": "Claude Status – Elevated errors for multiple models",
+   "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-22T01:05:19.000Z",
+   "summary": "42 points · 20 comments"
+  },
+  {
+   "id": "7027b6b011cfadb8",
+   "title": "Why it's important to unplug your PC during a power outage",
+   "url": "https://www.engadget.com/2261632/why-important-unplug-pc-power-outage/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T00:30:00.000Z",
+   "summary": "Power outages can damage your tech, but the bigger risk happens when the electricity comes back on. Don't let your tech get fried."
+  },
+  {
+   "id": "bf8c611110f0cabd",
+   "title": "Socrates vs. the Written Word (2011)",
+   "url": "https://wondermark.com/socrates-vs-writing/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T00:06:55.000Z",
+   "summary": "3 points · 0 comments"
+  },
+  {
+   "id": "b172a47d845e3ae5",
+   "title": "Why is your laptop fan so loud?",
+   "url": "https://www.engadget.com/2261591/why-laptop-fan-so-loud/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T00:00:00.000Z",
+   "summary": "Laptop fans do an important job, but sometimes they get annoyingly loud. Here's what it might mean and whether you should be concerned."
+  },
+  {
+   "id": "1294e5d73f94eeca",
+   "title": "A cut cable disrupted hundreds of flights across the US",
+   "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-21T23:48:56.000Z",
+   "summary": "A JetBlue airplane past an FAA air traffic control tower at Philadelphia International Airport (PHL) in Philadelphia, Pennsylvania, US, on Friday, Oct. 24, 2025. JetBlue Airways Corp. is expected to release earnings figures on October 28. Photographer: Ryan Collerd/Bloomberg via Getty Images |…"
+  },
+  {
+   "id": "0cb6fbe97f8aa274",
+   "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+   "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-21T23:44:28.000Z",
+   "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
+  },
+  {
+   "id": "58ef7e8d3efabe64",
+   "title": "These drones could cover up to 98 percent of the world's oceans by 2028",
+   "url": "https://www.engadget.com/2261587/argo-deep-drones-cover-98-percent-of-oceans-by-2028/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-21T23:30:00.000Z",
+   "summary": "New ocean-sensing drones are being built to withstand the deepest depths of the ocean."
+  },
+  {
+   "id": "3d1e9a32ecf4e5f7",
+   "title": "Here’s what’s really going on with GM’s CarPlay strategy (or lack thereof)",
+   "url": "https://9to5mac.com/2026/09/21/heres-whats-really-going-on-with-gms-carplay-strategy-or-lack-thereof/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-21T23:18:47.000Z",
+   "summary": "Despite headlines to the contrary, GM isn’t changing its position on CarPlay and Android Auto support. The automaker is not bringing phone projection support back to any cars from which it has already been removed. Here’s what’s really happening. more…"
+  },
+  {
+   "id": "cd027d1ab66a5e38",
+   "title": "Looking forward to Git 2.56 – and 3.0",
+   "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T23:16:51.000Z",
+   "summary": "29 points · 7 comments"
+  },
+  {
+   "id": "f57079b7bfc08976",
+   "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
+   "url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-21T23:15:32.000Z",
+   "summary": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech companies face mounting scrutiny over how much water their data centers use. Amazon…"
+  },
   {
    "id": "3ec881ae4bbe4b3d",
    "title": "Apple CEO John Ternus Talks iPhone Duo Design, Siri AI, and Becoming CEO",
@@ -98,6 +197,15 @@
    "section": "tech",
    "publishedAt": "2026-09-21T23:12:03.000Z",
    "summary": "Apple today stopped signing iOS 26.6.2, which means iPhone users can no longer downgrade to non-iOS 27 system versions. Here’s why. more…"
+  },
+  {
+   "id": "971398afbf37cced",
+   "title": "Spymarks, Not Watermarks",
+   "url": "https://brand.io/article/spymarks/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T23:03:49.000Z",
+   "summary": "110 points · 25 comments"
   },
   {
    "id": "6b3028fdd632541b",
@@ -791,6 +899,15 @@
    "section": "tech",
    "publishedAt": "2026-09-21T16:23:07.000Z",
    "summary": "Apple's new iPhone 18 Pro and iPhone 18 Pro Max began arriving to customers on Friday, and unfortunately some early adopters are experiencing Face ID issues. According to a Reddit post spotted by 9to5Mac, Face ID authentication for specific actions such as unlocking a locked app sometimes fails to…"
+  },
+  {
+   "id": "2c90587afcdc26f7",
+   "title": "The agents, they just want to talk",
+   "url": "https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T16:22:26.000Z",
+   "summary": "12 points · 2 comments"
   },
   {
    "id": "61d75f94a7e4c8e5",
@@ -1565,6 +1682,15 @@
    "section": "tech",
    "publishedAt": "2026-09-21T11:30:01.000Z",
    "summary": "Apple's 20th-anniversary iPhone lineup could feature slightly larger displays than the iPhone 18 Pro models, if a new leak shared on Weibo is accurate. Prolific Chinese leaker Digital Chat Station claims that early iPhone 20 Pro display specifications include a 6.41-inch screen with a resolution of…"
+  },
+  {
+   "id": "4fc06f881e3ad7ab",
+   "title": "First Shader from Zero in Godot 4",
+   "url": "https://www.gdquest.com/library/first_shader_godot4_portal/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T10:57:44.000Z",
+   "summary": "31 points · 2 comments"
   },
   {
    "id": "c060329290d92e20",
@@ -2663,6 +2789,15 @@
    "section": "tech",
    "publishedAt": "2026-09-20T02:19:33.000Z",
    "summary": "79 points · 20 comments"
+  },
+  {
+   "id": "12cc52bbaba198a9",
+   "title": "More Floating Point Alternatives",
+   "url": "https://wizardzines.com/comics/floating-point-alternatives/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T00:55:27.000Z",
+   "summary": "7 points · 3 comments"
   },
   {
    "id": "b5e846ba1bc6b77e",
