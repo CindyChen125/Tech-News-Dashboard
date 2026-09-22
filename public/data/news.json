@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-22T21:13:47.465Z",
+ "updatedAt": "2026-09-22T23:47:06.157Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1218
+   "count": 1219
   },
   {
    "name": "Google DeepMind",
@@ -82,6 +82,186 @@
  ],
  "items": [
   {
+   "id": "632e908769bcad15",
+   "title": "U.S. government urges Supreme Court to reverse Apple contempt ruling over App Store commission",
+   "url": "https://9to5mac.com/2026/09/22/u-s-government-urges-supreme-court-to-reverse-apple-contempt-ruling-over-app-store-commission/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-22T23:43:00.000Z",
+   "summary": "Several legal and business groups, in addition to the U.S. government, filed briefs with the Supreme Court this week in the Apple vs. Epic Games lawsuit, urging the justices to reverse at least part of the contempt ruling against Apple. Here are the details. more…"
+  },
+  {
+   "id": "8d22dab5a7c29ef3",
+   "title": "Apple Releases First Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
+   "url": "https://www.macrumors.com/2026/09/22/apple-releases-ios-27-2-public-beta/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-22T23:32:52.000Z",
+   "summary": "Apple today seeded the first betas of iOS 27.2, iPadOS 27.2, macOS Golden Gate 27.2, tvOS 27.2, and watchOS 27.2. The software comes a day after Apple provided the second betas to developers. To get the new betas, you can sign up on Apple's beta testing website. After you're signed up, the betas…"
+  },
+  {
+   "id": "c9034728c30be5a8",
+   "title": "iOS 27: How to hide or replace the audio button in iMessages",
+   "url": "https://www.engadget.com/2264685/how-to-remove-voice-button-iphone-imessages-ios-27/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T23:30:00.000Z",
+   "summary": "The fact that the \"send\" button shares real estate with the \"record\" button can make dealing with iMessage aggravating."
+  },
+  {
+   "id": "55c3fec90ff6cc6b",
+   "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+   "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-22T23:21:49.000Z",
+   "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater."
+  },
+  {
+   "id": "19a7c51d0f774806",
+   "title": "Apple releases first iOS 27.2 public beta with new iPhone Health app",
+   "url": "https://9to5mac.com/2026/09/22/apple-releases-first-ios-27-2-public-beta-with-new-iphone-health-app/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-22T23:06:29.000Z",
+   "summary": "Six days ago, Apple released iOS 27.2 developer beta 1, skipping over iOS 27.1 beta. Following yesterday’s developer beta 2 release, Apple has now issued the first iOS 27.2 public beta version, with the new iPhone Health app included. Apple has also turned on the ability to schedule and purchase…"
+  },
+  {
+   "id": "8488c2b43ab41e40",
+   "title": "Apple rolls out second RCs for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1 [U: Public]",
+   "url": "https://9to5mac.com/2026/09/22/apple-rolls-out-second-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-22T23:05:25.000Z",
+   "summary": "Update September 22, 7:04 p.m.: Apple has now rolled out the corresponding public Release Candidates, with the same builds as the second developer RCs. Less than a week after releasing macOS 26.7.1 and macOS 15.8.1 RC 1, Apple is now rolling out the second release candidates ahead of their official…"
+  },
+  {
+   "id": "b67bb2570fac1d17",
+   "title": "Apple releases macOS 27.2 Golden Gate public beta 1",
+   "url": "https://9to5mac.com/2026/09/22/apple-releases-macos-27-2-golden-gate-public-beta-1/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-22T23:01:35.000Z",
+   "summary": "After releasing the second developer beta for macOS 27.2 Golden Gate yesterday, Apple is now rolling out the public beta as well. Here are the details. more…"
+  },
+  {
+   "id": "bbde560ed135fc71",
+   "title": "Improve your Apple CarPlay experience by doing these simple things",
+   "url": "https://www.engadget.com/2264598/improve-apple-carplay-experience-doing-simple-things/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T23:00:00.000Z",
+   "summary": "CarPlay works well from the start, but you can enjoy a better driving experience by changing some options."
+  },
+  {
+   "id": "b0de6b87d59cb9c4",
+   "title": "macOS 27 gives you more control over Liquid Glass",
+   "url": "https://9to5mac.com/2026/09/22/macos-27-gives-you-more-control-over-liquid-glass/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-22T22:47:12.000Z",
+   "summary": "9to5Mac is brought to you by CleanMyMac by MacPaw. With the release of macOS 27 Golden Gate, use CleanMyMac first to free up space, optimize your system, and ensure your new Mac runs at 100% on day one. Learn more. macOS 27 Golden Gate is a huge upgrade over macOS 26 Tahoe, and not just because of…"
+  },
+  {
+   "id": "7ff89add8d25adf2",
+   "title": "Riot is pulling voice chat from League of Legends 26.20",
+   "url": "https://www.engadget.com/2266017/riot-is-pulling-voice-chat-from-league-of-legends-26-20/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T22:45:50.000Z",
+   "summary": "So close and yet so far..."
+  },
+  {
+   "id": "0425a18c5b7a12ae",
+   "title": "What does anti-aliasing actually do to your PC games?",
+   "url": "https://www.engadget.com/2264367/what-anti-aliasing-does-pc-games/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T22:30:00.000Z",
+   "summary": "Anti-aliasing is an important settings for PC games, but not all methods that achieve the goal of smoother edges work the same way."
+  },
+  {
+   "id": "8eb0e4a5712094df",
+   "title": "Paramount will need to release way more movies to make this merger work",
+   "url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-22T22:26:07.000Z",
+   "summary": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest production houses. In addition to spending at least $300 million more on film and TV…"
+  },
+  {
+   "id": "0ac42c385b8abbac",
+   "title": "The current balance of power in open models",
+   "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T22:03:46.000Z",
+   "summary": "13 points · 2 comments"
+  },
+  {
+   "id": "878fea9ed4189176",
+   "title": "Why are some songs grayed out on Apple Music (And how to fix it)",
+   "url": "https://www.engadget.com/2264296/apple-music-songs-grayed-out-why-how-to-fix/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T22:00:00.000Z",
+   "summary": "If you've had some songs in your Apple Music app turn gray and become unavailable, there are some things you can try."
+  },
+  {
+   "id": "608afbd12992f82f",
+   "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+   "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-22T21:56:43.000Z",
+   "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
+  },
+  {
+   "id": "96753d72a40c5517",
+   "title": "DoorDash will pay $131.5 million for missing and miscalculated NYC delivery worker wages",
+   "url": "https://www.engadget.com/2265996/doordash-will-pay-131-5-million-for-missing-and-miscalculated-nyc-delivery-worker-wages/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T21:53:08.000Z",
+   "summary": "The company blames technical errors and a difference of opinion on how wages should be calculated for pay irregularities."
+  },
+  {
+   "id": "2070a7e7c4fd2a0b",
+   "title": "Apple expands Tap to Pay on iPhone across eight Latin American markets",
+   "url": "https://9to5mac.com/2026/09/22/apple-expands-tap-to-pay-on-iphone-across-eight-latin-american-markets/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-22T21:50:44.000Z",
+   "summary": "Apple today announced that Tap to Pay on iPhone is now available in eight additional Latin American countries, with support from six payment platforms across the region. Here are the details. more…"
+  },
+  {
+   "id": "a30d4b81c3dc89a1",
+   "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
+   "url": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-22T21:42:14.000Z",
+   "summary": "There is no single definitive test for these worms, but the tail is fairly convincing."
+  },
+  {
+   "id": "d171c5e1b2ca2640",
+   "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+   "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-09-22T21:25:18.000Z",
+   "summary": "The frontier AI model race has entered its comparison shopping phase."
+  },
+  {
+   "id": "8ba1be12894ff110",
+   "title": "Apple adds RAW support for 11 digital cameras across iPhone, iPad, Mac, and Vision Pro",
+   "url": "https://9to5mac.com/2026/09/22/apple-adds-raw-support-for-11-digital-cameras-across-iphone-ipad-mac-and-vision-pro/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-22T21:19:53.000Z",
+   "summary": "Apple today updated its official list of digital camera RAW formats supported across its platforms, adding support for 11 models from several manufacturers. Here are the details. more…"
+  },
+  {
    "id": "022316f8c4be5f10",
    "title": "The UV index is not the warm sensation of sunlight on bare skin",
    "url": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
@@ -98,6 +278,15 @@
    "section": "tech",
    "publishedAt": "2026-09-22T21:05:39.000Z",
    "summary": "7 points · 0 comments"
+  },
+  {
+   "id": "34280f4ae3e5fed9",
+   "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+   "url": "https://foxscript.org/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T21:00:30.000Z",
+   "summary": "126 points · 92 comments"
   },
   {
    "id": "d7ac59ae0532d6e0",
@@ -134,6 +323,15 @@
    "section": "tech",
    "publishedAt": "2026-09-22T20:40:44.000Z",
    "summary": "Keeping with Apple’s pledge that Tim Cook would remain involved in Apple’s government relations around the world after stepping down as CEO, he met this week with Ursula von der Leyen, President of the European Commission. Here are the details. more…"
+  },
+  {
+   "id": "28543e60d07a33ce",
+   "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
+   "url": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-22T20:38:30.000Z",
+   "summary": "Cities defend permit requirements, say ISPs aren't building networks fast enough."
   },
   {
    "id": "50b027a65816a991",
@@ -242,6 +440,15 @@
    "section": "tech",
    "publishedAt": "2026-09-22T19:48:08.000Z",
    "summary": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earlier this month, would be \"available\" on older…"
+  },
+  {
+   "id": "50758a1de87c079a",
+   "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+   "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-09-22T19:45:47.000Z",
+   "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier."
   },
   {
    "id": "93229aae0a48ee53",
@@ -1457,6 +1664,15 @@
    "section": "tech",
    "publishedAt": "2026-09-22T12:00:00.000Z",
    "summary": "The humanoid robot was ready to work as soon as it was put together. It walked right out to receive its staff badge."
+  },
+  {
+   "id": "74e3d6e5f7061819",
+   "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+   "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-22T12:00:00.000Z",
+   "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
   },
   {
    "id": "14a1753119b1ad83",
@@ -2782,6 +2998,15 @@
    "summary": "The iPhone 18 Pro and Pro Max introduces a new smaller Face ID system, with the Infrared camera now hidden behind the screen, near where the time is shown in the status bar. It appears there may be a software glitch with that component in the shipping release of iOS 27. A number of reports from 18…"
   },
   {
+   "id": "2599bf40d44fd871",
+   "title": "Apple's Dimensional Drawings",
+   "url": "https://512pixels.net/2026/09/apple-dimensional-drawings/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T15:20:04.000Z",
+   "summary": "5 points · 1 comments"
+  },
+  {
    "id": "cb6f5899ad9014c0",
    "title": "Security Bite: iOS 27 now lets apps ask your iPhone if you’re being scammed",
    "url": "https://9to5mac.com/2026/09/21/security-bite-ios-27-now-lets-apps-ask-your-iphone-if-youre-being-scammed/",
@@ -3592,6 +3817,15 @@
    "summary": "55 points · 32 comments"
   },
   {
+   "id": "556a50103a770338",
+   "title": "The trouble with 'ntile()'",
+   "url": "https://blog.djnavarro.net/posts/2026-09-20_the-trouble-with-ntile/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T03:23:26.000Z",
+   "summary": "16 points · 0 comments"
+  },
+  {
    "id": "6ebe9000cd6ed0ed",
    "title": "Apple Fitness+ Layoffs Reported Ahead of Potential 'Major' Changes",
    "url": "https://www.macrumors.com/2026/09/20/apple-fitness-plus-layoffs-reported/",
@@ -3635,6 +3869,15 @@
    "section": "tech",
    "publishedAt": "2026-09-21T02:02:45.000Z",
    "summary": "36 points · 2 comments"
+  },
+  {
+   "id": "416651a49a294f9e",
+   "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+   "url": "https://github.com/xCuri0/ReBarUEFI",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T01:07:46.000Z",
+   "summary": "30 points · 10 comments"
   },
   {
    "id": "2315fb675f09c91a",
