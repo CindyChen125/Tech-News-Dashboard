@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-22T07:39:36.524Z",
+ "updatedAt": "2026-09-22T13:21:56.336Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -23,7 +23,7 @@
    "name": "Hugging Face",
    "section": "ai",
    "ok": true,
-   "count": 864
+   "count": 865
   },
   {
    "name": "MIT Tech Review",
@@ -81,6 +81,393 @@
   }
  ],
  "items": [
+  {
+   "id": "ed10f5fde7b8277e",
+   "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
+   "url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-22T13:20:00.000Z",
+   "summary": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale."
+  },
+  {
+   "id": "21af995ff1cee38b",
+   "title": "Waymo is offering transit discounts again, this time with Visa",
+   "url": "https://www.theverge.com/transportation/998184/waymo-public-transportation-discount-subway-bus-visa",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-22T13:00:00.000Z",
+   "summary": "Waymo has made several attempts over the years at offering transit discounts to its customers in the hopes of getting them to more frequently use the company's robotaxis to connect with a train or a bus. The Alphabet-owned company announced the latest effort today, teaming up with Visa to offer a…"
+  },
+  {
+   "id": "4bf426bb2f51bcc3",
+   "title": "These discreet hearing aid glasses now have better voice boosting and battery life",
+   "url": "https://www.theverge.com/tech/998243/essilorluxottica-nuance-audio-plus-otc-hearing-aid-glasses",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-22T13:00:00.000Z",
+   "summary": "EssilorLuxottica, the company that Meta partnered with for its Ray-Ban smart glasses, announced a new version of its Nuance Audio glasses that are designed to double as discreet over-the-counter hearing aids. The new Nuance Audio Plus still manages to squeeze their FDA cleared hearing aid tech into…"
+  },
+  {
+   "id": "292cb75b83e5e857",
+   "title": "Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future",
+   "url": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-22T13:00:00.000Z",
+   "summary": "To the investors at Bill Gates's Breakthrough Energy, the coming wave of electrification will make data center energy demands look quaint by comparison. Here's how they're preparing."
+  },
+  {
+   "id": "de99a89f12ae6082",
+   "title": "Everyone can find a reason to dislike data center construction",
+   "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-22T13:00:00.000Z",
+   "summary": "Inside two years of fraught AI data center debates in Pennsylvania."
+  },
+  {
+   "id": "a0f2132f1a7fbcfd",
+   "title": "Sonos Beam Ultra review: A huge Atmos upgrade for $699",
+   "url": "https://www.engadget.com/2265077/sonos-beam-ultra-review/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T13:00:00.000Z",
+   "summary": "The Sonos Beam Ultra isn't quite mid-range at $699, but it sounds almost as good as the huge Sonos Arc."
+  },
+  {
+   "id": "ef3c79268e17180f",
+   "title": "Sonos Ace Ultra review: Giving the people what they want",
+   "url": "https://www.engadget.com/2264528/sonos-ace-ultra-headphones-review/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T13:00:00.000Z",
+   "summary": "The Ace Ultra is an obvious upgrade over the original Ace headphones, with headphone linking performing reliably already, even in its early phase."
+  },
+  {
+   "id": "24c11e82568883d5",
+   "title": "The creator of Windows Task Manager has 'vibe coded' a new version that runs on macOS and Linux",
+   "url": "https://www.engadget.com/2262039/vibe-coded-modern-task-manager-runs-on-mac-and-linux/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T13:00:00.000Z",
+   "summary": "Three decades after he wrote the original Windows Task Manager at Microsoft, Dave Plummer is back with a new iteration that works on macOS and Linux too."
+  },
+  {
+   "id": "0607d083790a8976",
+   "title": "Adobe Premiere mobile is now available on Android",
+   "url": "https://www.engadget.com/2265059/adobe-premiere-mobile-android/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T13:00:00.000Z",
+   "summary": "Adobe has released its Premiere editing app for Android, a year after its iOS launch."
+  },
+  {
+   "id": "81001c92a6997260",
+   "title": "The new Mac mini and Mac Studio are available today",
+   "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
+   "source": "Apple Newsroom",
+   "section": "tech",
+   "publishedAt": "2026-09-22T12:59:21.039Z",
+   "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app."
+  },
+  {
+   "id": "1755d97b094b9f34",
+   "title": "New Mac mini drops support for aftermarket storage upgrades",
+   "url": "https://9to5mac.com/2026/09/22/m6-mac-mini-upgrade-storage-change/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-22T12:50:03.000Z",
+   "summary": "When Apple released the M4 Mac mini two years ago, teardowns quickly revealed a pleasant surprise: the internal SSD was not soldered to the logic board. This allowed for aftermarket storage upgrades, and we even showed you how to do it. With the new M6 and M5 Pro Mac mini updates, however, it…"
+  },
+  {
+   "id": "d498961506e1ff38",
+   "title": "Turning your old PC into a media server is easier than it sounds",
+   "url": "https://www.engadget.com/2264701/how-to-turn-your-old-pc-into-nas-media-server/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T12:30:00.000Z",
+   "summary": "Just load up your 100-percent legally sourced media files and go!"
+  },
+  {
+   "id": "83f9703970b92cfd",
+   "title": "Former Apple retail chief’s new ‘Shop Different’ book now available",
+   "url": "https://9to5mac.com/2026/09/22/former-apple-retail-chiefs-new-shop-different-book-now-available/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-22T12:23:35.000Z",
+   "summary": "Ron Johnson, Apple’s former senior vice president of retail operations, is out with a new book today called ‘Shop Different: How Retail Revealed Apple’s Genius.’ In the book, Johnson tells the story of working alongside Steve Jobs to craft Apple’s retail strategy. more…"
+  },
+  {
+   "id": "5d057beb0e90db34",
+   "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+   "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-22T12:23:05.000Z",
+   "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue."
+  },
+  {
+   "id": "7170309bd917cca9",
+   "title": "Oppo’s new phone is the first with three 200-megapixel cameras",
+   "url": "https://www.theverge.com/gadgets/998688/oppo-find-x10-pro-max-200-megapixel-cameras-china",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-22T12:18:35.000Z",
+   "summary": "All three rear cameras use 200-megapixel sensors. | Image: Oppo Oppo's new Find X10 Pro Max flagship phone, launched today in China, is the first anywhere to use 200-megapixel sensors on all three of its rear cameras. A 17-stop dynamic range for the main camera, delivered thanks to what Oppo calls…"
+  },
+  {
+   "id": "a53dbcd8072602b7",
+   "title": "AI Has No Wisdom and Neither Will You",
+   "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-22T12:11:09.000Z",
+   "summary": "123 points · 145 comments"
+  },
+  {
+   "id": "b99503492bb3e508",
+   "title": "Peloton is back with a ‘cheaper’ folding treadmill",
+   "url": "https://www.theverge.com/tech/998272/peloton-tread-flex-fitness-treadmills",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-22T12:10:08.000Z",
+   "summary": "Peloton said phones aren’t the only things that can fold. Last year, Peloton did a sweeping refresh of its hardware that added cameras, fans, and AI-powered software called Peloton IQ. This year, it's zeroing in on its treadmill lineup - refreshing its two existing Treads and adding the new, more…"
+  },
+  {
+   "id": "a3b719902fddc49f",
+   "title": "New Mac Mini and Mac Studio Now Available for Same-Day Pickup at Apple Stores",
+   "url": "https://www.macrumors.com/2026/09/22/new-mac-mini-mac-studio-same-day-pickup/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-22T12:00:42.000Z",
+   "summary": "Apple launches its new Mac mini and Mac Studio models today in 30 countries and regions, including the U.S, and same-day pickup is now available at many Apple Store locations. To order a product with ‌Apple Store‌ pickup, add the product to your bag on Apple.com, proceed to checkout, select the…"
+  },
+  {
+   "id": "f142eeba06d4ebbf",
+   "title": "It’s time for the Mac Neo",
+   "url": "https://www.theverge.com/report/998501/apple-mac-mini-m6-price-mac-neo-concept",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-22T12:00:00.000Z",
+   "summary": "Come on, how adorable would this be? | Image: The Verge, Apple The Mac Mini is a great little desktop computer, and back when it cost $599, it was easy to recommend to anyone who wanted something speedy, simple, and cheap. The new M6 model is even better, but it starts at $899, and its 12-core CPU…"
+  },
+  {
+   "id": "9f0d9437a7095641",
+   "title": "XPENG's Iron humanoid robot walked out immediately after being assembled",
+   "url": "https://www.engadget.com/2261658/xpeng-building-humanoid-robots-walked-out-after-assembled/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T12:00:00.000Z",
+   "summary": "The humanoid robot was ready to work as soon as it was put together. It walked right out to receive its staff badge."
+  },
+  {
+   "id": "14a1753119b1ad83",
+   "title": "One of the most powerful weather apps for iPhone just came to CarPlay",
+   "url": "https://9to5mac.com/2026/09/22/one-of-the-most-powerful-weather-apps-for-iphone-just-came-to-carplay/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-22T11:56:11.000Z",
+   "summary": "One of the best things about Apple’s CarPlay platform is the robust availability of third-party apps from iPhone. This week, RadarScope, the popular and powerful iPhone weather app, was updated with support for CarPlay. more…"
+  },
+  {
+   "id": "b2f052acd599ec22",
+   "title": "Meta patches Muse exploit that let attackers control the AI agent",
+   "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-22T11:53:58.000Z",
+   "summary": "The zero-day exploit required local access to the user’s device, but gave potential attackers access to Muse accounts. | Image: The Verge Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The…"
+  },
+  {
+   "id": "eb1e9399a5f10aa7",
+   "title": "Apple Still Working on Anti-Snatching Feature That Locks Stolen iPhones",
+   "url": "https://www.macrumors.com/2026/09/22/apple-still-working-on-iphone-anti-snatching/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-22T11:45:06.000Z",
+   "summary": "New references in the latest iOS 27.2 beta show that Apple continues to develop a new feature which will lock your iPhone if it's snatched from your hand by a thief. As previously reported, the feature will use the gyroscope, accelerometer, and other sensors to determine when an iPhone has been…"
+  },
+  {
+   "id": "5c8932c52279249d",
+   "title": "Type Punning in C and C++",
+   "url": "https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T11:29:47.000Z",
+   "summary": "32 points · 12 comments"
+  },
+  {
+   "id": "322490033128c269",
+   "title": "Don’t be fooled by this summer of AI hype",
+   "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+   "source": "MIT Tech Review",
+   "section": "ai",
+   "publishedAt": "2026-09-22T11:04:51.000Z",
+   "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly)…"
+  },
+  {
+   "id": "7b2e85c041f087b8",
+   "title": "NASA chief: I'm only interested in \"good deals\" from international partners",
+   "url": "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-22T11:00:37.000Z",
+   "summary": "\"There was absolutely a time where we were trying to make everyone happy.\""
+  },
+  {
+   "id": "8b2e405fcf9e9a68",
+   "title": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
+   "url": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-22T11:00:00.000Z",
+   "summary": "Meta is giving plastic recycling a boost in a new deal with startup MacroCycle, which is building its first commercial plant."
+  },
+  {
+   "id": "43faa2bcfcf7cb12",
+   "title": "Peloton has made a foldable (treadmill)",
+   "url": "https://www.engadget.com/2264548/peloton-tread-flex-vision-launch/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T11:00:00.000Z",
+   "summary": "The Tread Flex is the company's first fold-up treadmill, and also its cheapest to date."
+  },
+  {
+   "id": "d66594d70ab53275",
+   "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+   "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T10:36:44.000Z",
+   "summary": "112 points · 129 comments"
+  },
+  {
+   "id": "e8b439a4881d7ec6",
+   "title": "Polymarket is reportedly lobbying European nations not to be treated as a gambling website",
+   "url": "https://www.engadget.com/2265021/polymarket-lobbying-eu-regulators-to-not-be-seen-as-gambling-website/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T10:35:48.000Z",
+   "summary": "Polymarket, which enables people to bet on the outcomes of events, is telling regulators it's not for gambling."
+  },
+  {
+   "id": "efe473359d6f62f5",
+   "title": "Apple Quietly Excludes Older iPhones From New Camera Feature",
+   "url": "https://www.macrumors.com/2026/09/22/apple-backtracks-camera-feature-compatibility/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-22T10:15:46.000Z",
+   "summary": "Apple's new Texture and Grain controls for Photographic Styles are not available on iPhones other than the latest iPhone 18 Pro models and upcoming iPhone Duo, despite the company's original wording suggesting otherwise. When Apple announced the iPhone 18 Pro and iPhone 18 Pro Max earlier this…"
+  },
+  {
+   "id": "fa4c95b5ab0332b9",
+   "title": "Apple opens a dedicated concert venue with spatial audio and multi-cam video recording",
+   "url": "https://www.engadget.com/2265008/apple-music-hall-live-event-recording/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-22T10:14:37.000Z",
+   "summary": "Apple Music Hall in London seems tailor-made for Apple Music Live concerts."
+  },
+  {
+   "id": "646dfd6ccc4608b9",
+   "title": "Can you forget how you feel about Meta?",
+   "url": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-22T10:00:01.000Z",
+   "summary": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-being and mental health. It’s difficult to see coverage that misrepresents our work and our motives,”…"
+  },
+  {
+   "id": "2c798f142705ebba",
+   "title": "Apple @ Work Podcast: Phishing simulations for the AI era",
+   "url": "https://9to5mac.com/2026/09/22/phishing-simulations-for-the-ai-era/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-09-22T10:00:00.000Z",
+   "summary": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000…"
+  },
+  {
+   "id": "09f4b798e14fd275",
+   "title": "Verda (Finland) raises $189M in Series B",
+   "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T09:36:31.000Z",
+   "summary": "50 points · 17 comments"
+  },
+  {
+   "id": "b5421809efffe94d",
+   "title": "OpenAI faces lawsuit from British Columbia over Tumbler Ridge shooting",
+   "url": "https://www.engadget.com/2264989/openai-tumbler-ridge-shooting-lawsuit/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-22T08:47:27.000Z",
+   "summary": "The Canadian province of British Columbia has sued OpenAI for failing to notify authorities about the Tumbler Ridge shooter's chats."
+  },
+  {
+   "id": "ffedfe75aaf44c26",
+   "title": "App Switcher Returns in watchOS 27.2 Beta With New Launch Gesture",
+   "url": "https://www.macrumors.com/2026/09/22/app-switcher-returns-watchos-27-2-beta/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-22T08:41:09.000Z",
+   "summary": "Apple has apparently listened to user feedback and brought back the App Switcher screen in the latest watchOS 27.2 beta, but accessing it is a little different than before. In watchOS 26 and earlier versions, a double press of the Digital Crown would bring up the App Switcher, where you could…"
+  },
+  {
+   "id": "39b46927564beda6",
+   "title": "AMD's random number generator can't generate a 0?",
+   "url": "https://board.flatassembler.net/topic.php?t=24261",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T08:39:43.000Z",
+   "summary": "140 points · 91 comments"
+  },
+  {
+   "id": "a192836eaef1d86e",
+   "title": "Apple’s first live music venue is opening beneath its UK headquarters",
+   "url": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-22T08:35:54.000Z",
+   "summary": "The venue is opening below Battersea Power Station, also well recognized for featuring on the cover of Pink Floyd’s Animals album. | Image: Apple Apple is preparing to open a new \"state-of-the-art\" live music venue in the UK, a 600-capacity space for hosting performances, recording sessions, and…"
+  },
+  {
+   "id": "3984bc50b3352720",
+   "title": "Apple Music Hall Spatial Audio Venue Opens in Battersea Power Station",
+   "url": "https://www.macrumors.com/2026/09/22/apple-music-hall-battersea-power-station/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-22T08:07:39.000Z",
+   "summary": "Apple has announced the opening of Apple Music Hall, a state-of-the-art 600-capacity music venue located in London's Battersea Power Station. Apple says it is \"designed to connect artists and fans through bespoke, intimate performances unlike anywhere else.\" Apple says the hall incorporates…"
+  },
+  {
+   "id": "ed7783ac2b654bb4",
+   "title": "I said no and Apple said yes",
+   "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T08:04:55.000Z",
+   "summary": "381 points · 298 comments"
+  },
+  {
+   "id": "d3fb4124ea130a60",
+   "title": "Apple Music opens new live music venue in London",
+   "url": "https://9to5mac.com/2026/09/22/apple-music-opens-new-live-music-venue-in-london/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-22T07:51:30.000Z",
+   "summary": "Apple is opening a new live music venue in Battersea Power Station, London. The new location is called Apple Music Hall, and even has its own website where fans can sign up to get alerted when the first tickets are available. The 600-person capacity venue will be the stage for intimate…"
+  },
+  {
+   "id": "21e49cbfdd889e30",
+   "title": "iCloud storage notification glitch puts unremovable red badge on Settings app",
+   "url": "https://9to5mac.com/2026/09/22/icloud-storage-notification-glitch-puts-unremovable-red-badge-on-settings-app/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-22T07:40:50.000Z",
+   "summary": "There’s an annoying little iPhone notification glitch impacting some users on iOS 27. For those affected, the Settings app gets a red badge prompting an alert to ‘Activate iCloud Storage’. However, tapping on this alert simply navigates to the iCloud storage purchase screen and the alert does not…"
+  },
   {
    "id": "d070dd2063aa9e19",
    "title": "Can gzip be a language model?",
@@ -184,6 +571,15 @@
    "id": "11fb7697065b7169",
    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
    "url": "https://huggingface.co/blog/omlx",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-09-22T00:00:00.000Z",
+   "summary": ""
+  },
+  {
+   "id": "3804f259ccb89981",
+   "title": "Transformers now runs llama.cpp quants",
+   "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
    "source": "Hugging Face",
    "section": "ai",
    "publishedAt": "2026-09-22T00:00:00.000Z",
@@ -1576,6 +1972,15 @@
    "summary": "Apple is using a 128GB NAND flash die in Apple Watch Series 12 and Ultra 4 models, claims a Chinese hardware researcher, despite both devices officially offering only 64GB of storage. It's unclear why Apple would limit the accessible capacity, but it could conceivably be reserving some of it for…"
   },
   {
+   "id": "61de1af9fef8d65a",
+   "title": "A build graph that rolls dice",
+   "url": "https://fzakaria.com/2026/09/20/a-build-graph-that-rolls-dice",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T12:50:13.000Z",
+   "summary": "9 points · 2 comments"
+  },
+  {
    "id": "3f242774d2bfe42d",
    "title": "Apple Fitness+ team hit by layoffs, as ‘major changes’ reportedly loom",
    "url": "https://9to5mac.com/2026/09/21/apple-fitness-team-hit-by-layoffs-as-major-changes-reportedly-loom/",
@@ -2125,6 +2530,15 @@
    "summary": "29 points · 34 comments"
   },
   {
+   "id": "3daf45d62b5db314",
+   "title": "What It's Like to Work in One of America's Data Centers",
+   "url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T21:18:58.000Z",
+   "summary": "29 points · 14 comments"
+  },
+  {
    "id": "ce8be56decc88952",
    "title": "Nobody pays for FOSS, we can force them to",
    "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
@@ -2411,6 +2825,15 @@
    "section": "tech",
    "publishedAt": "2026-09-20T16:02:00.000Z",
    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!"
+  },
+  {
+   "id": "278f1d3f4c0c44e0",
+   "title": "Video games inspire great UX (2019)",
+   "url": "https://jenson.org/games/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T16:00:13.000Z",
+   "summary": "26 points · 1 comments"
   },
   {
    "id": "d928334e6c3b95b6",
@@ -2780,6 +3203,15 @@
    "section": "tech",
    "publishedAt": "2026-09-20T09:57:35.000Z",
    "summary": "28 points · 26 comments"
+  },
+  {
+   "id": "4967e38d76cf9eac",
+   "title": "A font that reads what you wrote",
+   "url": "https://rohanadwankar.github.io/posts/semfont.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T09:38:16.000Z",
+   "summary": "43 points · 19 comments"
   },
   {
    "id": "0b834f68bbc4ca9d",
