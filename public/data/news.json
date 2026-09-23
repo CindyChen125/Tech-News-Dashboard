@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-23T09:54:07.555Z",
+ "updatedAt": "2026-09-23T14:56:32.698Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1219
+   "count": 1222
   },
   {
    "name": "Google DeepMind",
@@ -81,6 +81,528 @@
   }
  ],
  "items": [
+  {
+   "id": "3657ada21bf35f14",
+   "title": "Two years of OpenAI Academy",
+   "url": "https://openai.com/index/two-years-of-openai-academy",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-23T14:56:32.698Z",
+   "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
+  },
+  {
+   "id": "900e17c2bdf1514f",
+   "title": "iOS 27.2 makes FaceTime’s best new feature even better",
+   "url": "https://9to5mac.com/2026/09/23/ios-27-2-makes-facetimes-best-new-feature-even-better/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-23T14:45:32.000Z",
+   "summary": "iOS 27 introduced Dual Capture support for FaceTime, letting you show your front and rear camera views at the same time. And in iOS 27.2, that upgrade is expanding to now support Group FaceTime calls. more…"
+  },
+  {
+   "id": "12d932dcc94b6a88",
+   "title": "Eight Sleep’s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
+   "url": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-23T14:45:00.000Z",
+   "summary": "Eight Sleep said the new pod is now 20% faster than the previous generation"
+  },
+  {
+   "id": "1f2a191c43c61eb6",
+   "title": "YouTube is building AI creator tools that do almost everything for them",
+   "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-23T14:30:00.000Z",
+   "summary": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling creators what they should do. At the annual creator-focused…"
+  },
+  {
+   "id": "97d0d53e3f7653e5",
+   "title": "YouTube releases new AI features for creators within its Studio app",
+   "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-23T14:30:00.000Z",
+   "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
+  },
+  {
+   "id": "bb63fe3a31fa61b7",
+   "title": "YouTube’s new ‘Short Series’ feature brings episodic viewing to Shorts",
+   "url": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-23T14:30:00.000Z",
+   "summary": "As microdrama apps gain traction, YouTube is clearly betting that episodic short-form storytelling will stick around. And that the format belongs on Shorts. At its Made On YouTube event on Wednesday, the company announced “Shorts Series,” a new tool that lets creators organize their Shorts into…"
+  },
+  {
+   "id": "85aaf4705fcee3f7",
+   "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
+   "url": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-23T14:30:00.000Z",
+   "summary": "Many of these tools hinge on using generative AI to try out a variety of different tactics on a video to find what works best."
+  },
+  {
+   "id": "856388a13d138e20",
+   "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+   "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-23T14:30:00.000Z",
+   "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT."
+  },
+  {
+   "id": "cfda87fa810597aa",
+   "title": "YouTube will let you build your own algorithm with AI",
+   "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-23T14:30:00.000Z",
+   "summary": "ouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request."
+  },
+  {
+   "id": "876324bd29cd6817",
+   "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
+   "url": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-23T14:30:00.000Z",
+   "summary": "YouTube's AI feature can now help you compare products as you shop."
+  },
+  {
+   "id": "7e608b056d6762cf",
+   "title": "Discord will now automatically estimate your age",
+   "url": "https://www.theverge.com/tech/999305/discord-updated-age-assurance-global-rollout",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-23T14:27:49.000Z",
+   "summary": "Discord is rolling out a new global age assurance system, seven months after pausing its previous verification measures following backlash from users. Starting today in every country except Australia and the UK, Discord will automatically assign users to an estimated age group based on \"multiple…"
+  },
+  {
+   "id": "806e57b9ec93dac7",
+   "title": "Apple Podcasts Subscriptions Will Soon Support Video",
+   "url": "https://www.macrumors.com/2026/09/23/apple-podcasts-subscriptions-to-support-video/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-23T14:26:51.000Z",
+   "summary": "Apple Podcasts Subscriptions will soon support video, allowing creators to offer subscriber-exclusive episodes, ad-free video, early access, and bonus content, Apple today announced. Tag: Apple Podcasts This article, \"Apple Podcasts Subscriptions Will Soon Support Video\" first appeared on…"
+  },
+  {
+   "id": "e309284e14f82fc2",
+   "title": "Montreal adopts bylaw banning insults against police, municipal employees",
+   "url": "https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T14:22:54.000Z",
+   "summary": "19 points · 7 comments"
+  },
+  {
+   "id": "6e084e4766669266",
+   "title": "Here’s the trailer for Nathan Fielder’s Elizabeth Holmes documentary, in theaters October 16",
+   "url": "https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-23T14:21:41.000Z",
+   "summary": "In this cursed timeline, we have been gifted something so unfathomable that we could never have imagined it."
+  },
+  {
+   "id": "7794fc5f3126a9a0",
+   "title": "Next year’s iPhone Pro models have ‘near-borderless’ design: report",
+   "url": "https://9to5mac.com/2026/09/23/next-years-iphone-pro-models-have-near-borderless-design-report/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-23T14:21:35.000Z",
+   "summary": "Apple reportedly has a big redesign coming to next year’s iPhone Pro models, and a new ETNews report outlines what to expect from the “near-borderless” design and display. more…"
+  },
+  {
+   "id": "b8f422dd5a0709de",
+   "title": "Apple Watch Ultra 3 Drops to Record Low $599.97 on Amazon",
+   "url": "https://www.macrumors.com/2026/09/23/apple-watch-ultra-3-599/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-23T14:15:02.000Z",
+   "summary": "Amazon has knocked the price of the previous generation Apple Watch Ultra 3 to $599.97, down from $799.00. This $199 markdown is available in the Natural color with Anchor Blue Ocean Band, and as of writing this is the only model we're tracking at this new all-time low price. Note: MacRumors is an…"
+  },
+  {
+   "id": "5fa72e1f0f928dc3",
+   "title": "Jev in practice: typed decisions, scoped authority",
+   "url": "https://tenuo.ai/blog/jev-scoped-authority",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T14:11:14.000Z",
+   "summary": "11 points · 3 comments"
+  },
+  {
+   "id": "e25f8c4f67b45da2",
+   "title": "AT&T Responds to iOS 27's New iPhone Handoff Feature",
+   "url": "https://www.macrumors.com/2026/09/23/att-on-ios-27-iphone-handoff/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-23T14:06:09.000Z",
+   "summary": "Apple added a new iPhone Handoff feature to iOS 27 that allows you to switch between two iPhones while using the same phone number on each device. T-Mobile and Deutsche Telekom are the first carriers to offer iPhone Handoff, and Apple said Verizon and EE will add support later this year, but AT&T…"
+  },
+  {
+   "id": "bc36afa976b2a799",
+   "title": "Launch Discounts Arrive for New Mac Mini and Mac Studio, Plus Massive Deal on Samsung's Portable SSD",
+   "url": "https://www.macrumors.com/2026/09/23/launch-mac-mini-studio-deals/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-23T14:02:46.000Z",
+   "summary": "Amazon has the first post-launch discounts on Apple's brand new Mac mini and Mac Studio, with up to $49 off select models. One of the best deals is on the M5 Max Mac Studio with 36GB RAM and a 512GB SSD, on sale for $2,449.99, down from $2,499.00. Note: MacRumors is an affiliate partner with…"
+  },
+  {
+   "id": "141f593b99630a43",
+   "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-23T14:00:00.000Z",
+   "summary": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25, 11:59 p.m. PT. Register here."
+  },
+  {
+   "id": "982c2d4cab954d91",
+   "title": "McDonald’s is testing ads on its drive-thru menus",
+   "url": "https://www.theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-23T13:52:39.000Z",
+   "summary": "McDonald's is putting ads on its drive-thru menu as part of a \"limited\" pilot at company-owned restaurants, according to a report from Bloomberg. Drive-thru locations included in the test will show ads from other brands on digital menu boards after a customer places their order, which they'll see…"
+  },
+  {
+   "id": "48cb5b92710c7c91",
+   "title": "Nobody does it like Remedy",
+   "url": "https://www.theverge.com/games/999268/control-resonant-review-ps5-xbox",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-23T13:45:00.000Z",
+   "summary": "Video games have given us plenty of ways to traverse huge open worlds, but none have felt quite as oddly exhilarating as manipulating gravity in Control Resonant's twisted version of New York City. It's a game that lets you flip, twist, and fly through the air, while exploring settings that look…"
+  },
+  {
+   "id": "6eb2dfd89d5c7efb",
+   "title": "Stripe built its internal AI platform",
+   "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-23T13:38:00.000Z",
+   "summary": "22 points · 10 comments"
+  },
+  {
+   "id": "5b7628f968bb62ef",
+   "title": "America gave up its rare earth edge. China took full advantage.",
+   "url": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-23T13:37:05.000Z",
+   "summary": "Decades of cheaper imports left US dependent on China for crucial rare earth processing."
+  },
+  {
+   "id": "6b5b0f93c35570b6",
+   "title": "tvOS 27.2 adds new HomePod surround sound feature to Apple TV 4K",
+   "url": "https://9to5mac.com/2026/09/23/tvos-27-2-adds-new-homepod-surround-sound-feature-to-apple-tv-4k/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-23T13:36:11.000Z",
+   "summary": "Apple TV users have long been able to set HomePods as speakers for audio output. But tvOS 27.2 looks poised to offer a big upgrade, with HomePod surround sound now available in the beta. more…"
+  },
+  {
+   "id": "78118ad28621b861",
+   "title": "iOS 27 gives Apple Mail my most wished for feature upgrade",
+   "url": "https://9to5mac.com/2026/09/23/ios-27-gives-apple-mail-my-most-wished-for-feature-upgrade/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-23T13:10:17.000Z",
+   "summary": "Apple’s Mail app in iOS 27 includes the feature upgrade that’s been at the top of my wishlist for years: search that “just works.” more…"
+  },
+  {
+   "id": "906e28de861f7624",
+   "title": "The Price of Intelligence Is Falling Rapidly",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T13:08:59.000Z",
+   "summary": "37 points · 26 comments"
+  },
+  {
+   "id": "7fc4179b4dac9b40",
+   "title": "The GitHub wiki is an anti-pattern",
+   "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T13:05:49.000Z",
+   "summary": "71 points · 48 comments"
+  },
+  {
+   "id": "9528656bf44b4a20",
+   "title": "I Don't Want the Details",
+   "url": "https://michaelheap.com/i-dont-want-the-details/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T13:04:44.000Z",
+   "summary": "100 points · 68 comments"
+  },
+  {
+   "id": "0fa9c9627fedbecc",
+   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-23T13:00:00.000Z",
+   "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
+  },
+  {
+   "id": "eec8257e50ffedc2",
+   "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+   "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-23T13:00:00.000Z",
+   "summary": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations."
+  },
+  {
+   "id": "5afcad7ff3217133",
+   "title": "LinkedIn adds new tools to fight fake profiles and bogus work histories",
+   "url": "https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-23T13:00:00.000Z",
+   "summary": "LinkedIn is rolling out new verification tools that let members vouch for colleagues’ work experience and give companies more control over accounts that falsely claim to employ them."
+  },
+  {
+   "id": "b696b5e315f56cf9",
+   "title": "PitPro’s first tire-changing robot goes live in Canada",
+   "url": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-23T13:00:00.000Z",
+   "summary": "The startup says its automated system can change four tires in under 15 minutes."
+  },
+  {
+   "id": "54e13aa216e4959d",
+   "title": "Samsung accidentally freezes its smart fridges with a software update",
+   "url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T12:57:59.000Z",
+   "summary": "124 points · 114 comments"
+  },
+  {
+   "id": "e13e0966dd0029cf",
+   "title": "AT&T seemingly has no plans to support Apple’s new iPhone Handoff feature",
+   "url": "https://9to5mac.com/2026/09/23/att-iphone-handoff-support/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-23T12:53:56.000Z",
+   "summary": "Apple last week launched a new iPhone Handoff feature, which lets you use a single phone number across two iPhones. The number intelligently moves between each iPhone based on whichever one you pick up. iPhone Handoff requires support from cellular carriers, and it sounds like AT&T isn’t interested…"
+  },
+  {
+   "id": "9baa073667de7567",
+   "title": "Show HN: Ive Sent It – online courier for files, with signed proof of delivery",
+   "url": "https://ivesentit.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T12:36:01.000Z",
+   "summary": "15 points · 12 comments"
+  },
+  {
+   "id": "38bd6c8e7a8ac757",
+   "title": "Claude Code reads AGENTS.md only when telemetry is on",
+   "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-23T12:15:33.000Z",
+   "summary": "289 points · 131 comments"
+  },
+  {
+   "id": "6c6a7ae28cc8c616",
+   "title": "Comma’s hands-off driving tech under investigation after 2 fatal crashes",
+   "url": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-23T12:12:39.000Z",
+   "summary": "The investigation involves at least some crashes where it appears drivers were using \"forked\" versions of Comma's software."
+  },
+  {
+   "id": "7cdba3d9ddb20971",
+   "title": "Xiaomi’s new 18 Pro phones improve on Samsung’s privacy display",
+   "url": "https://www.theverge.com/tech/999253/xiaomi-18-pro-max-privacy-display-launch-china",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-23T12:04:45.000Z",
+   "summary": "Both 18 Pro phones feature rear displays, just like last year’s 17 Pro models. | Image: Xiaomi Xiaomi's new 18 Pro and 18 Pro Max launched in China today, and feature a more flexible take on the privacy display tech introduced this year on Samsung's Galaxy S26 Ultra. They combine it with returning…"
+  },
+  {
+   "id": "a334a6d9a591400e",
+   "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
+   "url": "https://questdb.com/careers/pre-sales-engineer-north-america/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T12:01:04.000Z",
+   "summary": "0 points · 0 comments"
+  },
+  {
+   "id": "8652fc25b175cab3",
+   "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+   "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-23T12:00:00.000Z",
+   "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft."
+  },
+  {
+   "id": "b3c1fd99354a08e9",
+   "title": "Never use ChatGPT for these five tasks",
+   "url": "https://www.engadget.com/2265219/chatgpt-tasks-never-use-for/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-23T12:00:00.000Z",
+   "summary": "ChatGPT and other chatbots are useful for a lot, but remember that what you type into them is not protected and could cause trouble later."
+  },
+  {
+   "id": "bc49d10893b62d09",
+   "title": "New iPhone Setting Lets Users Shake Off Motion-Sensing Ads",
+   "url": "https://www.macrumors.com/2026/09/23/iphone-setting-shake-off-motion-sensing-ads/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-23T11:49:55.000Z",
+   "summary": "Apple is testing an iPhone setting for users in China that lets them add apps to a list that prevents them from accessing the device's motion sensors. Apple hasn't explicitly said what the setting is in response to, but Chinese apps sometimes show \"shake-to-open\" ads on launch, and they can be…"
+  },
+  {
+   "id": "52e92d2bb6c82f77",
+   "title": "Apple links landmarks on its Maps app to Hidden Histories podcast episodes",
+   "url": "https://www.engadget.com/2266233/apple-links-landmarks-on-its-maps-app-to-hidden-histories-podcast-episodes/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-23T11:44:31.000Z",
+   "summary": "Apple has added podcast guides for select US landmarks within Maps, discussing their histories and lesser-known stories."
+  },
+  {
+   "id": "724160c54211b7d5",
+   "title": "DJI Osmo 360 II review: A little more video power, a lot more repairability",
+   "url": "https://www.engadget.com/2260043/dji-osmo-360-ii-review/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-23T11:30:00.000Z",
+   "summary": "Replaceable lenses are the hot new feature for an action camera."
+  },
+  {
+   "id": "21b8372cedfa4752",
+   "title": "Two Git ignore files nobody told me about",
+   "url": "https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T11:28:47.000Z",
+   "summary": "47 points · 31 comments"
+  },
+  {
+   "id": "d77800f3d55e0ee4",
+   "title": "UK competition watchdog wants to give Android and Chrome users more search engine choices",
+   "url": "https://www.engadget.com/2266226/uk-competition-watchdog-wants-to-give-android-and-chrome-users-more-search-engine-choices/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-23T11:21:42.000Z",
+   "summary": "UK regulator is trying to introduce more search choices where Google has the tightest control: Android and Chrome."
+  },
+  {
+   "id": "5dc4653129ead9ed",
+   "title": "Apple increases interest rate for Apple Card Savings Account",
+   "url": "https://9to5mac.com/2026/09/23/apple-increases-interest-rate-for-apple-card-savings-account/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-23T11:18:16.000Z",
+   "summary": "Good news for Apple Card Savings Account users this morning. Apple and Goldman Sachs have increased the interest rate on the account from 3.4% to 3.5% today. more…"
+  },
+  {
+   "id": "b0d51913578a7d6a",
+   "title": "Small undersea volcanoes may unleash outsized tsunamis",
+   "url": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-23T11:15:30.000Z",
+   "summary": "Post-eruption imaging of the Hunga caldera gives new details of its collapse."
+  },
+  {
+   "id": "8a7ded69b2042718",
+   "title": "Z80 REPL",
+   "url": "https://abagames.github.io/z80-repl/index.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T11:04:52.000Z",
+   "summary": "78 points · 10 comments"
+  },
+  {
+   "id": "f399c052e34bf001",
+   "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-23T11:02:39.000Z",
+   "summary": "Patreon cofounder Sam Yam is joining OpenAI to lead Creator Product. | Image: The Verge OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, cofounder and technology chief Sam Yam announced on X that…"
+  },
+  {
+   "id": "ffccaf7d9204e925",
+   "title": "A new report from Europe raises serious alarms about orbital collisions",
+   "url": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-23T11:00:17.000Z",
+   "summary": "\"I think we are going to lose the ability to use certain orbits.\""
+  },
+  {
+   "id": "8095893b651172e4",
+   "title": "Eight Sleep’s new cooling hub is small enough to hide under your bed",
+   "url": "https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-23T11:00:00.000Z",
+   "summary": "Eight Sleep announced the next version of its \"intelligent sleep system\" designed to regulate the temperature of your bed in response to tracked health and sleep metrics like breathing and heart rate. The company calls its new Pod 6 system its \"most significant hardware launch to date,\" and it's…"
+  },
+  {
+   "id": "e97571b6cfd746af",
+   "title": "Eight Sleep announces the Pod 6, its newest smart mattress cover",
+   "url": "https://www.engadget.com/2264386/eight-sleep-announces-the-pod-6-its-newest-smart-mattress-cover/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-23T11:00:00.000Z",
+   "summary": "It's $2,000 and it doesn't even read you a bedtime story."
+  },
+  {
+   "id": "01445fe511f5ed53",
+   "title": "Volkswagen brings Tetris and other games to its infotainment displays",
+   "url": "https://www.engadget.com/2262478/volkswagen-brings-tetris-and-other-games-to-its-infotainment-displays/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-23T11:00:00.000Z",
+   "summary": "Pac-Man is doing sponcon... look how they've massacred my boy."
+  },
+  {
+   "id": "30ba49874629a7b0",
+   "title": "How to watch Meta unveil its new smart glasses at Connect 2026",
+   "url": "https://www.engadget.com/2265769/how-to-watch-meta-connect-2026-unveil-new-smart-glasses/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-23T11:00:00.000Z",
+   "summary": "The company is expected to reveal its first-ever camera-free glasses."
+  },
+  {
+   "id": "6222bc9627109620",
+   "title": "Apple Intelligence Taking Up 30GB+ on Some Macs Running macOS 27",
+   "url": "https://www.macrumors.com/2026/09/23/apple-intelligence-30gb-some-macs-macos-27/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-23T10:30:15.000Z",
+   "summary": "After you install macOS 27 Golden Gate, Apple automatically downloads a multi-gigabyte AI model to your Mac the next time it's connected to the internet. Unlike previous versions of macOS, you can't prevent it. Siri AI, and by extension Apple Intelligence, are now a mandatory part of your system…"
+  },
+  {
+   "id": "789339d6b0d782d3",
+   "title": "Tokens Too Cheap to Meter",
+   "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T09:21:17.000Z",
+   "summary": "62 points · 37 comments"
+  },
   {
    "id": "8fe27b493e0d39fb",
    "title": "Netherlands bracing for potentially devastating US sanctions against the ICC",
@@ -217,6 +739,15 @@
    "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI…"
   },
   {
+   "id": "de0d2849a65802d6",
+   "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
+   "url": "https://github.com/pkimpel/retro-1620",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T00:06:25.000Z",
+   "summary": "9 points · 2 comments"
+  },
+  {
    "id": "acf8879056343f04",
    "title": "The pros and cons of using a password manager over an authenticator app",
    "url": "https://www.engadget.com/2264763/using-password-manager-instead-of-authenticator-app-pros-cons/",
@@ -224,6 +755,15 @@
    "section": "tech",
    "publishedAt": "2026-09-23T00:00:00.000Z",
    "summary": "There's no perfect solution, but different authentication methods can work better in some circumstances than others."
+  },
+  {
+   "id": "3fe4b136bb235d16",
+   "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+   "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-23T00:00:00.000Z",
+   "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
   },
   {
    "id": "af6563ea35e8c9d9",
@@ -19376,15 +19916,6 @@
    "section": "ai",
    "publishedAt": "2026-08-25T00:00:00.000Z",
    "summary": ""
-  },
-  {
-   "id": "69a4c7ac53176d24",
-   "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-   "url": "https://openai.com/index/gpt-5-6-in-kiro",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-08-24T12:00:00.000Z",
-   "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
   }
  ]
 }
