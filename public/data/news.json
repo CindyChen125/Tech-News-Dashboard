@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-24T17:04:35.534Z",
+ "updatedAt": "2026-09-24T20:27:06.335Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,330 @@
   }
  ],
  "items": [
+  {
+   "id": "8312a6822b5d844a",
+   "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+   "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-24T19:59:26.000Z",
+   "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers…"
+  },
+  {
+   "id": "ec0deb2de2b6d469",
+   "title": "Apple Maps just added two new features in iOS 27",
+   "url": "https://9to5mac.com/2026/09/24/heres-everything-new-for-apple-maps-in-ios-27/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-24T19:55:15.000Z",
+   "summary": "iOS 27 is packed with a wide array of new features for iPhone, including in Apple Maps. Here are the two tentpole iOS 27 features for Apple Maps, plus some miscellaneous improvements. more…"
+  },
+  {
+   "id": "c2df1d5c52de9a6e",
+   "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+   "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T19:54:21.000Z",
+   "summary": "6 points · 0 comments"
+  },
+  {
+   "id": "d3949e019bdb6374",
+   "title": "Apple Music to Host Free Head Trip Festival Livestream",
+   "url": "https://www.macrumors.com/2026/09/24/apple-music-head-trip-livestream/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-24T19:48:43.000Z",
+   "summary": "Apple Music is teaming up with Goldenvoice to livestream the Head Trip music festival that's taking place in Indio, California, on October 10 and 11. Head Trip will feature Calvin Harris, Fisher with Chris Lake, Peggy Gou with Four Tet, Swedish House Mafia, Skrillex, Dom Dolla with Kettama, and…"
+  },
+  {
+   "id": "46ca24c2b9144fcc",
+   "title": "New York Times Cooking is coming to Meta's AI and display glasses",
+   "url": "https://www.engadget.com/2268183/new-york-times-cooking-is-coming-to-metas-ai-and-display-glasses/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-24T19:24:34.000Z",
+   "summary": "The app is getting a \"hands-free\" mode that can narrate recipe steps."
+  },
+  {
+   "id": "3073dd3b816d2a8e",
+   "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+   "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-24T19:15:00.000Z",
+   "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT."
+  },
+  {
+   "id": "760097bd3817f101",
+   "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+   "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-24T19:14:27.000Z",
+   "summary": "15 points · 1 comments"
+  },
+  {
+   "id": "45fa8f1e64b1f454",
+   "title": "macOS 27 Top Features: much more than just Siri AI [Video]",
+   "url": "https://9to5mac.com/2026/09/24/macos-27-top-features-much-more-than-just-siri-ai-video/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-09-24T19:13:04.000Z",
+   "summary": "Although Apple’s revamped personal assistant is no doubt the headlining feature in macOS 27 Golden Gate, there are many other new features and refinements in this year’s update that don’t involve Siri AI. Read our post as I cherry-pick a few of my favorite new macOS 27 updates, and be sure to watch…"
+  },
+  {
+   "id": "3160c2f76da9a39d",
+   "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+   "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-24T19:00:42.000Z",
+   "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
+  },
+  {
+   "id": "f69c99a44d7944d0",
+   "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+   "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-24T18:52:38.000Z",
+   "summary": "Feather is betting on a customizable, $30,000 platform built for software developers."
+  },
+  {
+   "id": "700de42208e33246",
+   "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
+   "url": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-24T18:52:23.000Z",
+   "summary": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man."
+  },
+  {
+   "id": "b7ea9bceaace5ad3",
+   "title": "We finally have a trailer for that four-hour Elon Musk documentary",
+   "url": "https://www.engadget.com/2268124/we-finally-have-a-trailer-for-that-four-hour-elon-musk-documentary/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-24T18:52:14.000Z",
+   "summary": "It was directed by Alex Gibney, who has made films about Enron, Scientology and Elizabeth Holmes."
+  },
+  {
+   "id": "c2f91865cc9127b6",
+   "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
+   "url": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-24T18:39:47.000Z",
+   "summary": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots."
+  },
+  {
+   "id": "6d11d6389980d6cf",
+   "title": "Stable (YC W20) Is Hiring Product Engineers",
+   "url": "https://www.usestable.com/careers/product-engineer",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T18:29:18.000Z",
+   "summary": "0 points · 0 comments"
+  },
+  {
+   "id": "91dd9023317469a6",
+   "title": "Creatine uptake enhances antitumor immunity",
+   "url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T18:24:52.000Z",
+   "summary": "112 points · 126 comments"
+  },
+  {
+   "id": "4eb84bfa9d825faa",
+   "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+   "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-24T18:20:58.000Z",
+   "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear."
+  },
+  {
+   "id": "c158ad78eb43f459",
+   "title": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
+   "url": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-24T18:19:23.000Z",
+   "summary": "CyberPowerPC’s RTX 5070-equipped prebuilt. While PC component prices remain high, you can save a good bit of money on a system by purchasing a prebuilt desktop. Walmart has a well-equipped CyberPowerPC gaming PC on sale for $1,549, almost $600 off its original price of $2,139. It’s powered by an…"
+  },
+  {
+   "id": "b87a50b17a412b10",
+   "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+   "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-24T18:11:44.000Z",
+   "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online."
+  },
+  {
+   "id": "59060195e4c62ab4",
+   "title": "Apple has three products launching soon that we’ve waited a long time for",
+   "url": "https://9to5mac.com/2026/09/24/apple-has-three-products-launching-soon-that-weve-waited-a-long-time-for/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-24T18:09:32.000Z",
+   "summary": "Apple had a big September, but it’s set to keep momentum going in October with several rumored product unveilings soon that we’ve waited a long time for. more…"
+  },
+  {
+   "id": "9a42cf3ae1b918eb",
+   "title": "Jensen Huang talks about AI and climate change like a supervillain",
+   "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-24T18:04:44.000Z",
+   "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the same…"
+  },
+  {
+   "id": "195777e11770060c",
+   "title": "New York continues to fight prediction markets with a lawsuit against Polymarket",
+   "url": "https://www.engadget.com/2268006/new-york-continues-to-fight-prediction-markets-with-a-lawsuit-against-polymarket/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-24T17:55:44.000Z",
+   "summary": "The state now has illegal gambling charges underway against four of these businesses."
+  },
+  {
+   "id": "b8f0d37b45277fc0",
+   "title": "Meta is going to let you build games with AI right on your phone",
+   "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-24T17:52:29.000Z",
+   "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will be…"
+  },
+  {
+   "id": "d595ff6d374ce5b3",
+   "title": "Google is sending a teensy-tiny AI data center to space",
+   "url": "https://www.engadget.com/2267975/google-is-sending-a-teensy-tiny-ai-data-center-to-space/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-24T17:45:37.000Z",
+   "summary": "It's an experiment to see how the chips hold up in the harsh vacuum of the cosmos."
+  },
+  {
+   "id": "c6a509b619a365f1",
+   "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+   "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-24T17:39:24.000Z",
+   "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories."
+  },
+  {
+   "id": "85cff89b08a68cc1",
+   "title": "watchOS 27.2 Code Hints at iPhone-Style Screenshot Previews",
+   "url": "https://www.macrumors.com/2026/09/24/watchos-27-2-screenshot-previews/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-24T17:36:33.000Z",
+   "summary": "watchOS 27.2 could introduce a feature that lets Apple Watch screenshots be previewed with options to share or delete, similar to how screenshots work on the iPhone. Signs of the feature were found in watchOS 27.2 by code explorer pdfu. The option is hidden behind a feature flag that's not enabled…"
+  },
+  {
+   "id": "d0cd68d69517115b",
+   "title": "9to5Mac Daily: September 24, 2026 – iPhone Handoff, iOS 27 updates",
+   "url": "https://9to5mac.com/2026/09/24/9to5mac-daily-september-24-2026-iphone-handoff-ios-27-updates/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-24T17:36:23.000Z",
+   "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff:Stuff helps you get everything out of your head…"
+  },
+  {
+   "id": "62d79d0e60df6469",
+   "title": "Turtle Beach Rematch review: The cutest Switch 2 controller of the bunch",
+   "url": "https://www.engadget.com/2267930/turtle-beach-rematch-review/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-24T17:30:00.000Z",
+   "summary": "Official Nintendo designs and RGB lighting give the Rematch an adorable edge."
+  },
+  {
+   "id": "facbb80c849b2978",
+   "title": "Apple Watch Ultra 4 includes a new watch face bezel option",
+   "url": "https://9to5mac.com/2026/09/24/apple-watch-ultra-4-includes-a-new-watch-face-bezel-option/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-24T17:29:05.000Z",
+   "summary": "Apple Watch Ultra includes a few more ways to customize your watch face than Series models. These include Ultra-only faces, colors and fonts, and a bezel-type complication. Apple Watch Ultra 4 goes even further, adding a new option in the bezel configuration category. more…"
+  },
+  {
+   "id": "7bc12c5416205c13",
+   "title": "A Million Agents Is a Distributed System Problem",
+   "url": "https://www.instacloud.com/blogs/a-million-agents-is-a-distributed-systems-problem",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T17:26:23.000Z",
+   "summary": "15 points · 4 comments"
+  },
+  {
+   "id": "85a5b741ab7d273f",
+   "title": "watchOS 27.2 includes hidden overhaul for Apple Watch screenshots",
+   "url": "https://9to5mac.com/2026/09/24/watchos-27-2-includes-hidden-overhaul-for-apple-watch-screenshots/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-24T17:24:26.000Z",
+   "summary": "watchOS 27.2 is coming next month with new Apple Watch features, and leaker pdfu just found a big change in the works for screenshots too. more…"
+  },
+  {
+   "id": "3299de6f170efb5c",
+   "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+   "url": "https://github.com/devdotfast/whiteboard",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T17:21:36.000Z",
+   "summary": "117 points · 41 comments"
+  },
+  {
+   "id": "433956ae8408c71e",
+   "title": "Beats 360 Headphones Now Available in Apple Stores",
+   "url": "https://www.macrumors.com/2026/09/24/beats-360-apple-store-launch/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-24T17:14:22.000Z",
+   "summary": "The new Beats 360 headphones are available for purchase at many Apple Stores around the world as of today. Retailers like Best Buy and Target also have some stock available in stores. Apple's Beats brand announced the headphones earlier this week after teasing them for several months. The Beats 360…"
+  },
+  {
+   "id": "99c24eaaba3f5bb3",
+   "title": "Muse will apparently let you download its entire filesystem",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-24T17:14:12.000Z",
+   "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app…"
+  },
+  {
+   "id": "c5fcd987e59aa515",
+   "title": "Muse sure looks a lot like OpenClaw",
+   "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-24T17:10:38.000Z",
+   "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fundraising at a $2.5…"
+  },
+  {
+   "id": "237f1b84c5f7fc32",
+   "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
+   "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-24T17:07:55.000Z",
+   "summary": "Databricks has brought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree."
+  },
+  {
+   "id": "cc16609f5e32ac41",
+   "title": "It took MapQuest until 2026 to add public transit directions",
+   "url": "https://www.engadget.com/2267895/it-took-mapquest-until-2026-to-add-public-transit-directions/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-24T17:02:02.000Z",
+   "summary": "The 30-year-old map service is quickly getting with the times."
+  },
   {
    "id": "0c2dead618e43e79",
    "title": "Now Google Chrome shares tabs to new devices that save where you were",
@@ -181,6 +505,15 @@
    "summary": "A company called Inmo that makes several different variations of smart glasses has issued a recall for its Air3 because the left temple \"can overheat during extended use, posing a risk of serious injury or death due to burn hazard.\" To date there have been 10 reports of users experiencing a…"
   },
   {
+   "id": "93a7437e1892cc89",
+   "title": "Why is the liver so weirdly regenerative?",
+   "url": "https://dynomight.substack.com/p/liver",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T16:23:00.000Z",
+   "summary": "97 points · 78 comments"
+  },
+  {
    "id": "bb04c21a2b5f51bd",
    "title": "Introducing Gemini 3.8 Live with Live Avatar",
    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
@@ -188,6 +521,15 @@
    "section": "ai",
    "publishedAt": "2026-09-24T16:20:39.000Z",
    "summary": ""
+  },
+  {
+   "id": "8a37d42bc30a31e2",
+   "title": "Google's first Suncatcher orbital data center test launches October 1",
+   "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-24T16:16:34.000Z",
+   "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time."
   },
   {
    "id": "77bbbb52a978f9c0",
@@ -233,6 +575,15 @@
    "section": "tech",
    "publishedAt": "2026-09-24T16:02:52.000Z",
    "summary": "27 points · 17 comments"
+  },
+  {
+   "id": "9475fbd84d6726aa",
+   "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+   "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-09-24T16:01:16.000Z",
+   "summary": "\"There will obviously be legal consequences,\" prime minister promises."
   },
   {
    "id": "c7bee4199f6ad1f2",
@@ -305,6 +656,24 @@
    "section": "tech",
    "publishedAt": "2026-09-24T15:50:26.000Z",
    "summary": "77 points · 23 comments"
+  },
+  {
+   "id": "51cf41c3831ee563",
+   "title": "Formula 1 looks at 3.0 L V8 turbos and smaller hybrids for 2030",
+   "url": "https://arstechnica.com/cars/2026/09/formula-1-looks-at-3-0-l-v8-turbos-and-smaller-hybrids-for-2030/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-24T15:48:29.000Z",
+   "summary": "F1 wants smaller, lighter cars that are not energy-starved like the 2026 hybrids."
+  },
+  {
+   "id": "245f0c3dde7b8859",
+   "title": "Experiencing writing at our recent Chinese calligraphy workshop",
+   "url": "https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T15:40:03.000Z",
+   "summary": "19 points · 1 comments"
   },
   {
    "id": "57dde91adf6a114c",
@@ -460,6 +829,15 @@
    "summary": "Square today announced a new Apple Business integration that makes it easier for businesses to ensure they have up-to-date information across Apple Maps, Apple Wallet, and Siri AI. Tags: Apple Business, Square This article, \"Square Announces Apple Business Integration\" first appeared on…"
   },
   {
+   "id": "4b04e2df3201067e",
+   "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+   "url": "https://eprint.iacr.org/2026/2131.pdf",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T14:26:32.000Z",
+   "summary": "32 points · 3 comments"
+  },
+  {
    "id": "fb1eb0f9eec8efb9",
    "title": "iOS 27 lets you create your own custom iPhone wallpapers",
    "url": "https://9to5mac.com/2026/09/24/ios-27-lets-you-create-your-own-iphone-wallpapers/",
@@ -521,6 +899,15 @@
    "section": "tech",
    "publishedAt": "2026-09-24T14:00:00.000Z",
    "summary": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off."
+  },
+  {
+   "id": "afce964eec8cd11a",
+   "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T13:53:29.000Z",
+   "summary": "41 points · 72 comments"
   },
   {
    "id": "df8abda537ce5b47",
@@ -730,6 +1117,15 @@
    "summary": "6 points · 0 comments"
   },
   {
+   "id": "19d7f125f84d7664",
+   "title": "Search – A small, fast WebKit browser for macOS",
+   "url": "https://github.com/driceroland/Search",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T09:11:52.000Z",
+   "summary": "51 points · 17 comments"
+  },
+  {
    "id": "f8a2bb9eaf03a6ee",
    "title": "Nikon's new Z5 IIC is a cheaper Z5 II without the electronic viewfinder",
    "url": "https://www.engadget.com/2267374/nikon-z5-iic-cheaper-version-z5ii/",
@@ -782,6 +1178,15 @@
    "section": "tech",
    "publishedAt": "2026-09-24T07:23:07.000Z",
    "summary": "5 points · 0 comments"
+  },
+  {
+   "id": "671440cc7e54f073",
+   "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+   "url": "https://cms-sfx-demo.apeleg.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T07:22:17.000Z",
+   "summary": "26 points · 12 comments"
   },
   {
    "id": "801454b5937b650b",
@@ -1144,6 +1549,15 @@
    "summary": "Samsung phones have a few different triangle symbols that can display in the status bar in different scenarios. This is how to tell what they mean."
   },
   {
+   "id": "56a9b88a3c5618a7",
+   "title": "Show HN: Make cursed fonts like Times New Bastard",
+   "url": "https://bastardica.mitpit.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T22:53:28.000Z",
+   "summary": "201 points · 37 comments"
+  },
+  {
    "id": "46c19b462af24827",
    "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
    "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
@@ -1378,6 +1792,15 @@
    "summary": "$11M competition showed wildfire detection is still easier than stopping fires."
   },
   {
+   "id": "ae55a2b19d751dc2",
+   "title": "Geothermal heat map of US hot springs",
+   "url": "https://www.soakingsprings.com/hot-springs/geothermal-map",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T20:12:10.000Z",
+   "summary": "43 points · 15 comments"
+  },
+  {
    "id": "83011990d3ae96cb",
    "title": "Apple Releases watchOS 27.0.1 With Fix for Restart Bug",
    "url": "https://www.macrumors.com/2026/09/23/watchos-27-0-1-release/",
@@ -1421,6 +1844,15 @@
    "section": "tech",
    "publishedAt": "2026-09-23T19:55:14.000Z",
    "summary": "233 points · 88 comments"
+  },
+  {
+   "id": "6d3bc70d9606ce0a",
+   "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+   "url": "https://github.com/Parcha-ai/agentrun",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T19:42:58.000Z",
+   "summary": "28 points · 1 comments"
   },
   {
    "id": "848a3d29e3c39597",
@@ -1889,6 +2321,15 @@
    "section": "tech",
    "publishedAt": "2026-09-23T15:37:47.000Z",
    "summary": "25 points · 1 comments"
+  },
+  {
+   "id": "aa22d93a6864f9ad",
+   "title": "Rails World 2026 Opening Keynote [video]",
+   "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T15:33:33.000Z",
+   "summary": "137 points · 109 comments"
   },
   {
    "id": "999667360c39ca42",
@@ -3421,6 +3862,15 @@
    "summary": "Don't have your monitor sitting just anywhere; the distance, tilt and angles are all important to avoid strain while working."
   },
   {
+   "id": "3fa27dcdbb94f8c7",
+   "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+   "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T17:49:46.000Z",
+   "summary": "103 points · 37 comments"
+  },
+  {
    "id": "e742e13c686c3712",
    "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
    "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
@@ -3545,6 +3995,15 @@
    "section": "tech",
    "publishedAt": "2026-09-22T16:55:40.000Z",
    "summary": "The English hospitals recovered patient care data only."
+  },
+  {
+   "id": "f123cab56d002534",
+   "title": "Show HN: Treepeat – Code similarity detection using Tree-sitter",
+   "url": "https://github.com/dsummersl/treepeat",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T16:53:25.000Z",
+   "summary": "29 points · 1 comments"
   },
   {
    "id": "5e22b8f66b05523a",
@@ -4384,6 +4843,15 @@
    "summary": "Just load up your 100-percent legally sourced media files and go!"
   },
   {
+   "id": "e57c3ab5c32155e2",
+   "title": "Fearless SIMD v1.0",
+   "url": "https://linebender.org/blog/fearless-simd-1-0/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T12:23:37.000Z",
+   "summary": "95 points · 17 comments"
+  },
+  {
    "id": "83f9703970b92cfd",
    "title": "Former Apple retail chief’s new ‘Shop Different’ book now available",
    "url": "https://9to5mac.com/2026/09/22/former-apple-retail-chiefs-new-shop-different-book-now-available/",
@@ -5113,6 +5581,15 @@
    "summary": "Apple continues to work on a feature that automatically locks an iPhone when it detects that the device has been snatched from its owner’s hand. Here are the details. more…"
   },
   {
+   "id": "a65d75cf3e1b2ef5",
+   "title": "Security auditing in the age of (good enough) AI",
+   "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-21T21:53:01.000Z",
+   "summary": "39 points · 1 comments"
+  },
+  {
    "id": "05d73fd6808c2033",
    "title": "Bungie leaders now say the studio's 'not done with Destiny'",
    "url": "https://www.engadget.com/2264759/bungie-leaders-now-say-the-studio-is-not-done-with-destiny/",
@@ -5210,6 +5687,15 @@
    "section": "tech",
    "publishedAt": "2026-09-21T20:12:12.000Z",
    "summary": "383 points · 189 comments"
+  },
+  {
+   "id": "a322e4b19c4a2529",
+   "title": "The forgotten battle of East Lansing",
+   "url": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T20:07:08.000Z",
+   "summary": "55 points · 4 comments"
   },
   {
    "id": "0a6b32dbeb1b75c6",
@@ -5993,6 +6479,15 @@
    "section": "tech",
    "publishedAt": "2026-09-21T14:30:00.000Z",
    "summary": "The PS5 has both disc-based and digital-only consoles; the right one for you depends on how you play your games and what else you use the console for."
+  },
+  {
+   "id": "1aa932f33af2f355",
+   "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
+   "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T14:30:00.000Z",
+   "summary": "52 points · 9 comments"
   },
   {
    "id": "ce91d734286ed8f4",
