@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-23T22:14:22.682Z",
+ "updatedAt": "2026-09-24T00:51:25.302Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,303 @@
  ],
  "items": [
   {
+   "id": "3be5d6a1ec123a52",
+   "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+   "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-24T00:46:17.000Z",
+   "summary": "The tiny hardware device creates another mobile home for its AI agent Muse."
+  },
+  {
+   "id": "51c39c72191db274",
+   "title": "Meta is making a standalone Muse AI gadget",
+   "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-24T00:15:20.000Z",
+   "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smart watch without the strap - just a big screen, plus a little…"
+  },
+  {
+   "id": "b6cc9eb48258d01d",
+   "title": "ChatGPT in Siri 'Persistently Underperforming,' Says OpenAI",
+   "url": "https://www.macrumors.com/2026/09/23/openai-siri-chatgpt-underperforming/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-09-24T00:15:17.000Z",
+   "summary": "OpenAI saw disappointing results working with Apple to integrate ChatGPT in Siri, according to court documents filed [PDF] in its ongoing legal fight with Elon Musk's company SpaceXAI (xAI at the time the lawsuit was filed). Apple added ChatGPT to ‌Siri‌ in December 2024, but users had to go…"
+  },
+  {
+   "id": "5ababc0ec7481f28",
+   "title": "Everything announced at Meta Connect 2026",
+   "url": "https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-24T00:07:34.000Z",
+   "summary": "VR glasses, Aviator-style Ray-Ban Meta specs, Ace Attorney in virtual reality and much more."
+  },
+  {
+   "id": "96426152960be3ff",
+   "title": "Meta put Muse in a Tamagotchi like 'Charm' device",
+   "url": "https://www.engadget.com/2267229/meta-put-muse-in-a-tamagotchi-like-charm-device/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-24T00:05:03.000Z",
+   "summary": "Meta Charm is a Tamagotchi-like device with Muse AI."
+  },
+  {
+   "id": "b71d1dcac437a030",
+   "title": "Meta will stop training its AI on 'visual data' from its smart glasses — if you opt out",
+   "url": "https://www.engadget.com/2267227/meta-will-stop-training-its-ai-on-visual-data-from-its-smart-glasses-if-you-opt-out/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-24T00:00:44.000Z",
+   "summary": "Somewhere, a contractor just breathed a sigh of relief."
+  },
+  {
+   "id": "9b6f1a10ff955c7b",
+   "title": "Meta Connect 2026: The 7 biggest announcements",
+   "url": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-24T00:00:33.000Z",
+   "summary": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style frame with a tethered puck. Meta also announced new pairs of screen-free smart…"
+  },
+  {
+   "id": "496a1cf5d0910cda",
+   "title": "Meta VR Glasses hands-on: Hand and eye tracking is so much better than a controller",
+   "url": "https://www.engadget.com/2267222/meta-vr-glasses-hands-on-hand-tracking/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-24T00:00:00.000Z",
+   "summary": "Instead of a new Quest headset, the company showed off a more portable but less immersive device today."
+  },
+  {
+   "id": "a95f207a8e2dea55",
+   "title": "OpenAI says Apple Intelligence users showed little interest in ChatGPT integration",
+   "url": "https://9to5mac.com/2026/09/23/openai-says-apple-intelligence-users-showed-little-interest-in-chatgpt-integration/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-09-23T23:58:31.000Z",
+   "summary": "As reported by The Financial Times, new court filings show that OpenAI was disappointed by the adoption of ChatGPT through Apple Intelligence, which it says “dramatically underperformed” after launching in 2024. Here are the details. more…"
+  },
+  {
+   "id": "ec910142839f9d43",
+   "title": "Meta's new holographic avatars are here and they're surprisingly real",
+   "url": "https://www.engadget.com/2267223/meta-holograph-avatar-for-ai-and-vr-glasses-update-hands-on/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-23T23:53:01.000Z",
+   "summary": "They're a notable improvement over the company's earlier attempts at digital likeness."
+  },
+  {
+   "id": "886ea001de897403",
+   "title": "Meta VR Glasses",
+   "url": "https://www.meta.com/vr-glasses/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T23:47:56.000Z",
+   "summary": "126 points · 73 comments"
+  },
+  {
+   "id": "5c215ecb895eaab2",
+   "title": "Meta is trying VR glasses (again), this time with more IMAX",
+   "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-23T23:47:35.000Z",
+   "summary": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options."
+  },
+  {
+   "id": "345b430bbab08d68",
+   "title": "Meta Ray-Ban Display getting feature updates including holographic avatar support",
+   "url": "https://www.engadget.com/2267220/meta-ray-ban-display-getting-feature-updates-including-holographic-avatar-support/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-23T23:44:51.000Z",
+   "summary": "The smart glasses are also arriving in five new markets this fall."
+  },
+  {
+   "id": "8760dfcb40efcf63",
+   "title": "Meta's $1,300 VR Glasses look like the Vision Pro sequel Apple should be making",
+   "url": "https://www.engadget.com/2267218/meta-vr-glasses-price-specs-apple-vision-pro-comparison/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-23T23:42:52.000Z",
+   "summary": "Sorry Apple, it looks like Meta's VR Glasses are the real Vision Pro successor."
+  },
+  {
+   "id": "b1f5de4c188b0779",
+   "title": "Meta’s next VR device isn’t a headset — it’s glasses",
+   "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-23T23:42:10.000Z",
+   "summary": "The Meta VR Glasses. | Photo by Brett Putman / The Verge Meta is launching new VR hardware: a pair of glasses. The new Meta VR Glasses sit on your ears like a typical pair of glasses instead of being strapped over your head, but they still have immersive displays for watching movies, playing games…"
+  },
+  {
+   "id": "92b3b274870d3f3a",
+   "title": "Muse is coming to Meta smart glasses",
+   "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-23T23:40:56.000Z",
+   "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a…"
+  },
+  {
+   "id": "aef21d96b7007a3e",
+   "title": "Meta introduces camera-free AI glasses",
+   "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-23T23:39:44.000Z",
+   "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."
+  },
+  {
+   "id": "1458d2bfb098d09b",
+   "title": "Meta's next smart glasses collab is with Blackpink's Lisa",
+   "url": "https://www.engadget.com/2267215/meta-glasses-lisa-edition/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-23T23:37:43.000Z",
+   "summary": "Blackpink in your upper-facial area."
+  },
+  {
+   "id": "d4c9927c37eb2faa",
+   "title": "Meta ditches the camera on its newest smart glasses",
+   "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-23T23:37:17.000Z",
+   "summary": "The Ray-Ban Meta Audio Glasses have no cameras. | Photo by Brett Putman / The Verge Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect…"
+  },
+  {
+   "id": "58a5942ee21041e8",
+   "title": "Ray-Ban Meta Gen 3 hands-on: Better battery life and a price hike",
+   "url": "https://www.engadget.com/2267213/ray-ban-meta-gen-3-hands-on-better-battery-life/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-23T23:35:54.000Z",
+   "summary": "The latest lineup comes in two new frame styles: Aviator and Zena."
+  },
+  {
+   "id": "07bd02371bec7051",
+   "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+   "url": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-23T23:33:22.000Z",
+   "summary": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\""
+  },
+  {
+   "id": "351a0e818e51d64d",
+   "title": "Meta announces Ray-Ban Meta Audio, its first smart glasses without a camera",
+   "url": "https://www.engadget.com/2267212/meta-announces-ray-ban-meta-audio-its-first-smart-glasses-without-a-camera/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-23T23:33:00.000Z",
+   "summary": "That's one way to avoid the whole surreptitious recording issues."
+  },
+  {
+   "id": "db61a95c8f2f45bd",
+   "title": "Meta brings FDA-cleared hearing enhancement to its smart glasses",
+   "url": "https://www.engadget.com/2267211/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-23T23:29:55.000Z",
+   "summary": "After a free trial it'll cost $150 to add on, or require a Meta One subscription."
+  },
+  {
+   "id": "5872291461ea6f06",
+   "title": "Meta's Muse AI agent is coming to its AI glasses",
+   "url": "https://www.engadget.com/2267210/meta-muse-ai-agent-smart-glasses/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-23T23:28:12.000Z",
+   "summary": "Have your virtual assistant book a flight while you're jogging."
+  },
+  {
+   "id": "f0594bf601c63100",
+   "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+   "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-23T23:19:42.000Z",
+   "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to communicate with your…"
+  },
+  {
+   "id": "86c373803c123dbd",
+   "title": "The purpose of the triangle symbol on your Samsung Galaxy phone",
+   "url": "https://www.engadget.com/2265257/triangle-symbol-samsung-galaxy-phone-meaning-data-saver-setting/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-23T23:00:00.000Z",
+   "summary": "Samsung phones have a few different triangle symbols that can display in the status bar in different scenarios. This is how to tell what they mean."
+  },
+  {
+   "id": "46c19b462af24827",
+   "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+   "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T22:45:49.000Z",
+   "summary": "39 points · 4 comments"
+  },
+  {
+   "id": "da08a0221c6bf606",
+   "title": "Meta Connect 2026: The biggest news and announcements",
+   "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-23T22:45:00.000Z",
+   "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant…"
+  },
+  {
+   "id": "933ae0038a6d346b",
+   "title": "Linux support is coming to Snapdragon X2 Series",
+   "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T22:38:16.000Z",
+   "summary": "99 points · 46 comments"
+  },
+  {
+   "id": "9ad615b29123804d",
+   "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+   "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-23T22:30:00.000Z",
+   "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about in a recent…"
+  },
+  {
+   "id": "76c4b669e08e2637",
+   "title": "Anthropic says its biology lab has already found something big",
+   "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-23T22:17:39.000Z",
+   "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop."
+  },
+  {
+   "id": "ee7204e57c34943c",
+   "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
+   "url": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-23T22:17:25.000Z",
+   "summary": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\""
+  },
+  {
+   "id": "da14ce70c287bcb1",
+   "title": "Mercury 2.5 LLM hits 770 tokens per second",
+   "url": "https://artificialanalysis.ai/models/mercury-2-5",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-23T22:16:19.000Z",
+   "summary": "34 points · 12 comments"
+  },
+  {
    "id": "019ce3681601e17b",
    "title": "Watch the trailer for Apple TV’s ‘Where’s Wanda?’ season 2",
    "url": "https://9to5mac.com/2026/09/23/watch-the-trailer-for-apple-tvs-wheres-wanda-season-2/",
@@ -89,6 +386,24 @@
    "section": "tech",
    "publishedAt": "2026-09-23T22:11:54.000Z",
    "summary": "Apple TV today released the trailer for the second season of “Where’s Wanda?,” a German-language dark comedy returning to the service on October 21. Watch it below. more…"
+  },
+  {
+   "id": "b70cbc3ffd38b349",
+   "title": "We just shipped support for the ugliest part of HTTP: Vary",
+   "url": "https://blog.cloudflare.com/vary-support/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T22:03:21.000Z",
+   "summary": "53 points · 6 comments"
+  },
+  {
+   "id": "a0dc686f1857bec7",
+   "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
+   "url": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-23T21:46:36.000Z",
+   "summary": "It's unclear what will happen if FBI misses ShinyHunters' deadline."
   },
   {
    "id": "3d10b14c2470b26d",
@@ -118,6 +433,15 @@
    "summary": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?"
   },
   {
+   "id": "10b5b9f63aa73b5b",
+   "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
+   "url": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-23T21:18:53.000Z",
+   "summary": "The Disney+ ad-free plan is now more expensive than Netflix's."
+  },
+  {
    "id": "6c31bbb80287b5b8",
    "title": "MacWhisper update brings real-time meeting transcripts, improved speaker recognition, more",
    "url": "https://9to5mac.com/2026/09/23/macwhisper-update-brings-real-time-meeting-transcripts-improved-speaker-recognition-more/",
@@ -136,6 +460,15 @@
    "summary": "Financial extortion doesn't seem to be the group's goal this time."
   },
   {
+   "id": "54d800a742c447ae",
+   "title": "Here's the Torcal, the first fully electric Bentley",
+   "url": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-23T21:06:07.000Z",
+   "summary": "It sounds like a V8, rides like a Flying Spur, but handles like a Continental GT."
+  },
+  {
    "id": "42bf149d4437fd86",
    "title": "OpenAI breaches Medicare, Albanese reveals",
    "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
@@ -152,6 +485,15 @@
    "section": "tech",
    "publishedAt": "2026-09-23T21:01:48.000Z",
    "summary": "32 points · 13 comments"
+  },
+  {
+   "id": "2d668e7c6782e2bb",
+   "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+   "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-09-23T20:52:28.000Z",
+   "summary": "Trump focus on winning “AI race” may deter China from sharing safety intel."
   },
   {
    "id": "76b989cfce8b085a",
@@ -3482,6 +3824,15 @@
    "section": "tech",
    "publishedAt": "2026-09-22T03:10:05.000Z",
    "summary": "35 points · 23 comments"
+  },
+  {
+   "id": "c69096168e34b95c",
+   "title": "The \"Windows XP Box\" (2003)",
+   "url": "https://www.mini-itx.com/projects/windowsxpbox/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T03:09:04.000Z",
+   "summary": "30 points · 3 comments"
   },
   {
    "id": "cd7679a1c135b184",
@@ -20744,33 +21095,6 @@
    "section": "ai",
    "publishedAt": "2026-08-25T07:00:00.000Z",
    "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
-  },
-  {
-   "id": "eb771581b4695ca0",
-   "title": "Disrupting a new covert influence campaign from Russia",
-   "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-08-25T00:00:00.000Z",
-   "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West."
-  },
-  {
-   "id": "cd237ebac262d93d",
-   "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-   "url": "https://openai.com/index/introducing-admin-plugin",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-08-25T00:00:00.000Z",
-   "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
-  },
-  {
-   "id": "ec655ba6d0d5cfb5",
-   "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-   "url": "https://huggingface.co/blog/gradio-workflow-guide",
-   "source": "Hugging Face",
-   "section": "ai",
-   "publishedAt": "2026-08-25T00:00:00.000Z",
-   "summary": ""
   }
  ]
 }
