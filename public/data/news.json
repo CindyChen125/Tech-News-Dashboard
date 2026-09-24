@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-24T00:51:25.302Z",
+ "updatedAt": "2026-09-24T06:06:37.488Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1228
+   "count": 1229
   },
   {
    "name": "Google DeepMind",
@@ -82,6 +82,78 @@
  ],
  "items": [
   {
+   "id": "a4244c3d396d5a3d",
+   "title": "Six-year-old breaks women's world Rubik's Cube record [video]",
+   "url": "https://www.youtube.com/watch?v=UCMRgvyTm08",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T05:07:58.000Z",
+   "summary": "21 points · 2 comments"
+  },
+  {
+   "id": "efa86d7c04392ae7",
+   "title": "Contrastive Language Models",
+   "url": "https://contrastive-lm.notion.site/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T04:20:59.000Z",
+   "summary": "5 points · 3 comments"
+  },
+  {
+   "id": "39e3a33e2525c5d2",
+   "title": "Ideas on modernizing the open-source desktop",
+   "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T02:52:09.000Z",
+   "summary": "35 points · 12 comments"
+  },
+  {
+   "id": "50e2d5911c9dad42",
+   "title": "Meta announces camera-free glasses, dedicated Muse AI gadget, more",
+   "url": "https://9to5mac.com/2026/09/23/meta-announces-camera-free-glasses-dedicated-muse-ai-gadget-more/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-09-24T01:24:44.000Z",
+   "summary": "Meta announced today a series of AI-powered devices, including the Muse Charm, a palm-sized gadget designed specifically for its new Muse AI assistant. Here are the details. more…"
+  },
+  {
+   "id": "542567092082fcbf",
+   "title": "Australia says OpenAI agent hacked into government website",
+   "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-24T01:24:00.000Z",
+   "summary": "95 points · 61 comments"
+  },
+  {
+   "id": "e1a12969e3f092c0",
+   "title": "FLAWED's Flaws and What This Means for Industry Research",
+   "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T01:16:33.000Z",
+   "summary": "19 points · 4 comments"
+  },
+  {
+   "id": "48a29c19af51cb7c",
+   "title": "Everything new coming to Meta’s AI agent Muse",
+   "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-24T01:13:32.000Z",
+   "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses."
+  },
+  {
+   "id": "67ddeed55889fb9f",
+   "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+   "url": "https://github.com/nestrilabs/virtio-nvgpu",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T01:02:23.000Z",
+   "summary": "54 points · 20 comments"
+  },
+  {
    "id": "3be5d6a1ec123a52",
    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
    "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
@@ -89,6 +161,24 @@
    "section": "ai",
    "publishedAt": "2026-09-24T00:46:17.000Z",
    "summary": "The tiny hardware device creates another mobile home for its AI agent Muse."
+  },
+  {
+   "id": "d3ac8ee75fe6cab6",
+   "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
+   "url": "https://carbon.ms/self-hosted",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T00:45:17.000Z",
+   "summary": "20 points · 11 comments"
+  },
+  {
+   "id": "b1fa1db1de3f6523",
+   "title": "Feds Target AI Critics as \"Foreign Agents\"",
+   "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-24T00:41:31.000Z",
+   "summary": "198 points · 182 comments"
   },
   {
    "id": "51c39c72191db274",
@@ -1045,6 +1135,15 @@
    "summary": "Xbox appears to be ready to launch its own version of PlayStation's platinum trophies. A new update to the Xbox PC app has revealed Mythic Achievements, which according to data in the app will appear once a player completes all the Achievements in a game. Mythic Achievements appear on screen with a…"
   },
   {
+   "id": "b37af2f64475b83a",
+   "title": "Why 'What's Opera, Doc?' looks like that",
+   "url": "https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T15:37:47.000Z",
+   "summary": "25 points · 1 comments"
+  },
+  {
    "id": "999667360c39ca42",
    "title": "Gemini 3.8 text-to-speech",
    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
@@ -1853,6 +1952,15 @@
    "section": "tech",
    "publishedAt": "2026-09-23T02:13:52.000Z",
    "summary": "82 points · 62 comments"
+  },
+  {
+   "id": "b44a7fcd87384933",
+   "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+   "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-23T02:00:00.000Z",
+   "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries."
   },
   {
    "id": "8f124eb80885ac3c",
@@ -3097,6 +3205,15 @@
    "summary": "Trump adopts Scalia’s ire for feds protecting populations of endangered animals."
   },
   {
+   "id": "dc59491c8da56a99",
+   "title": "Data liberation: Apache Kafka's native cluster mirroring",
+   "url": "https://developers.redhat.com/articles/2026/09/22/data-liberation-apache-kafka-native-cluster-mirroring",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T14:18:09.000Z",
+   "summary": "6 points · 0 comments"
+  },
+  {
    "id": "d528a12207a35318",
    "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
    "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
@@ -3455,6 +3572,15 @@
    "section": "tech",
    "publishedAt": "2026-09-22T12:50:03.000Z",
    "summary": "When Apple released the M4 Mac mini two years ago, teardowns quickly revealed a pleasant surprise: the internal SSD was not soldered to the logic board. This allowed for aftermarket storage upgrades, and we even showed you how to do it. With the new M6 and M5 Pro Mac mini updates, however, it…"
+  },
+  {
+   "id": "75fded6973a52cab",
+   "title": "Lazydraw: Terminal ASCII editor for drawing diagrams and sketches",
+   "url": "https://github.com/mpospirit/lazydraw",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T12:30:57.000Z",
+   "summary": "5 points · 0 comments"
   },
   {
    "id": "d498961506e1ff38",
@@ -3869,6 +3995,15 @@
    "section": "tech",
    "publishedAt": "2026-09-22T01:21:20.000Z",
    "summary": "52 points · 48 comments"
+  },
+  {
+   "id": "8c3f427040a53b1d",
+   "title": "Making portable my unportable transputer C compiler",
+   "url": "https://nanochess.org/transputer_c_compiler.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T01:07:46.000Z",
+   "summary": "25 points · 3 comments"
   },
   {
    "id": "c775cce7e0568a17",
@@ -4418,6 +4553,15 @@
    "section": "ai",
    "publishedAt": "2026-09-21T18:53:01.000Z",
    "summary": "73 points · 37 comments"
+  },
+  {
+   "id": "5cb6b52520a60628",
+   "title": "Solving for faster SHA-1 collision detection",
+   "url": "https://sam.dev/blog/faster-sha1-collision-detection",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T18:46:17.000Z",
+   "summary": "17 points · 3 comments"
   },
   {
    "id": "13232828f31be247",
@@ -6308,6 +6452,15 @@
    "section": "tech",
    "publishedAt": "2026-09-20T16:30:00.000Z",
    "summary": "The Society of Motion Picture and Television Engineers has a simple method for calculating the ideal viewing distance based on your TV size."
+  },
+  {
+   "id": "3789ee98013701cf",
+   "title": "Lambda MicroEgg",
+   "url": "https://www.philipzucker.com/lambda_miller_egg/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-20T16:05:10.000Z",
+   "summary": "34 points · 0 comments"
   },
   {
    "id": "dbdcef75218aa5bf",
