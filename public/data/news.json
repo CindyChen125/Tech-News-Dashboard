@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-25T01:52:06.491Z",
+ "updatedAt": "2026-09-25T07:41:23.810Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,51 @@
   }
  ],
  "items": [
+  {
+   "id": "ded05240174a49ed",
+   "title": "How to Check Your Mac's Manufacture Date in macOS 27",
+   "url": "https://www.macrumors.com/how-to/check-your-mac-manufacture-date-macos/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-25T07:14:29.000Z",
+   "summary": "If you installed macOS 27 Golden Gate, here's a way to find out when your Mac was manufactured. Apple has restored access to information that effectively disappeared when it randomized its serial numbers a few years ago. On your Mac, go to System Settings ➝ General ➝ About, then click \"Regulatory…"
+  },
+  {
+   "id": "f3e6aaf2df3c4800",
+   "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+   "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T07:03:46.000Z",
+   "summary": "5 points · 0 comments"
+  },
+  {
+   "id": "c9c79bfe6cdbf646",
+   "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+   "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-25T05:00:00.000Z",
+   "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
+  },
+  {
+   "id": "e2f81655912b610e",
+   "title": "Jev Based Code Review",
+   "url": "https://github.com/egma-ai/jev-code-reviewer",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T04:49:23.000Z",
+   "summary": "8 points · 2 comments"
+  },
+  {
+   "id": "ef5cb158358719a9",
+   "title": "Here’s the Tesla Semi… again",
+   "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-25T02:12:57.000Z",
+   "summary": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers…"
+  },
   {
    "id": "f449ec961112c934",
    "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
