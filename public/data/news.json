@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-25T18:31:21.518Z",
+ "updatedAt": "2026-09-25T21:48:06.656Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,258 @@
  ],
  "items": [
   {
+   "id": "d14cb03cc885a800",
+   "title": "\"Someone just sent me an ad that features an AI version of me. What do I do?\"",
+   "url": "https://bsky.app/profile/lebassett.bsky.social/post/3mwel345jr22s",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-25T21:15:55.000Z",
+   "summary": "11 points · 1 comments"
+  },
+  {
+   "id": "fc86915ed344dee2",
+   "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+   "url": "https://swarmtraces.org/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-25T21:09:27.000Z",
+   "summary": "5 points · 0 comments"
+  },
+  {
+   "id": "1609f2c4ac1608e5",
+   "title": "Apple faces class action over Apple Pay fees charged to card issuers",
+   "url": "https://9to5mac.com/2026/09/25/apple-faces-class-action-over-apple-pay-fees-charged-to-card-issuers/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-25T21:01:42.000Z",
+   "summary": "U.S. District Judge Jeffrey S. White has certified a class-action lawsuit accusing Apple of charging payment card issuers inflated fees for Apple Pay transactions. Here are the details. more…"
+  },
+  {
+   "id": "09ca58cd65ef3d24",
+   "title": "Too AI; Didn't Read",
+   "url": "https://www.tai-dr.com/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-25T20:37:56.000Z",
+   "summary": "85 points · 75 comments"
+  },
+  {
+   "id": "64c70957e480450a",
+   "title": "How to stop Meta training its AI models on your smart glasses' visual data",
+   "url": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-25T20:35:15.000Z",
+   "summary": "The setting affects whether workers can review photos and videos from your glasses."
+  },
+  {
+   "id": "ed748df24934ff32",
+   "title": "Meta opens early access program for new Muse features",
+   "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-25T20:34:53.000Z",
+   "summary": "Anyone interested in joining has to ask Muse to put them on the list."
+  },
+  {
+   "id": "76228d40738e95fd",
+   "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
+   "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-25T20:33:58.000Z",
+   "summary": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery."
+  },
+  {
+   "id": "1ba5002f1432dc86",
+   "title": "Rising sea destroys homes, erases beaches in California",
+   "url": "https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T20:13:23.000Z",
+   "summary": "34 points · 27 comments"
+  },
+  {
+   "id": "48675fafc253079a",
+   "title": "New Mexico jury rules Meta misled state residents about data privacy",
+   "url": "https://www.engadget.com/2269422/new-mexico-jury-rules-meta-misled-state-residents-about-data-privacy/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-25T20:12:54.000Z",
+   "summary": "The company is still paying for the Cambridge Analytica scandal."
+  },
+  {
+   "id": "69f91ddf9c058458",
+   "title": "Apple Music Hall confirms first eight shows, starting with Elton John",
+   "url": "https://9to5mac.com/2026/09/25/apple-music-hall-confirms-first-eight-shows-starting-with-elton-john/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-25T20:08:16.000Z",
+   "summary": "Apple today revealed the first eight shows coming to its new Apple Music Hall in London, with Elton John set to kick things off next week. Here are the details. more…"
+  },
+  {
+   "id": "062be3e24e5e9c9f",
+   "title": "9to5Mac Overtime 083: iPod Shuffle vibes",
+   "url": "https://9to5mac.com/2026/09/25/9to5mac-overtime-083-ipod-shuffle-vibes/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-25T20:00:00.000Z",
+   "summary": "The Overtime team discusses Apple’s rumored screenless fitness tracker and explores why it’s so compelling. Fernando also shares his hands-on experience with the iPhone 18 Pro, the new Apple Watch Series 12, and the Apple Watch Ultra 4. Plus, they cover some disappointing news regarding aftermarket…"
+  },
+  {
+   "id": "f5449c9a2f4be680",
+   "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
+   "url": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-25T19:34:42.000Z",
+   "summary": "Better thermals and battery life make this iterative update nicer to use."
+  },
+  {
+   "id": "80f12dd0a0d58239",
+   "title": "Bug: Border radius has infected VSCode editor",
+   "url": "https://github.com/microsoft/vscode/issues/338035",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T19:27:37.000Z",
+   "summary": "56 points · 28 comments"
+  },
+  {
+   "id": "78bfb862ae1f578e",
+   "title": "Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding",
+   "url": "https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T19:26:10.000Z",
+   "summary": "47 points · 22 comments"
+  },
+  {
+   "id": "a1b5156c36a48128",
+   "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+   "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-25T19:22:29.000Z",
+   "summary": "An antitrust lawsuit accusing Apple of blocking tap-to-pay competition is moving forward and will see banks and credit unions able to band together to sue Apple. U.S. District Judge Jeffrey White this week certified a class in the lawsuit. It will include any U.S. entities that issued any payment…"
+  },
+  {
+   "id": "8a89f2d29d1a619c",
+   "title": "Apple Card adds new feature in iOS 27 that every card should have",
+   "url": "https://9to5mac.com/2026/09/25/apple-card-adds-new-feature-in-ios-27-that-every-card-should-have/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-25T19:19:06.000Z",
+   "summary": "iOS 27 brings a variety of new features to Apple Wallet, including one exclusive to Apple Card that I wish every card offered: a hub for all recurring transactions. more…"
+  },
+  {
+   "id": "c4fa9e5e932370cb",
+   "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+   "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-25T19:13:38.000Z",
+   "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more."
+  },
+  {
+   "id": "0b4b9e033e8ca9ba",
+   "title": "Advice to a Beginning Graduate Student (2001)",
+   "url": "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T19:12:45.000Z",
+   "summary": "42 points · 14 comments"
+  },
+  {
+   "id": "ea289780ab991968",
+   "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+   "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-09-25T19:11:05.000Z",
+   "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring”"
+  },
+  {
+   "id": "a86f8020f7006ef3",
+   "title": "Apple TV has too many good shows on now and I can’t keep up",
+   "url": "https://9to5mac.com/2026/09/25/apple-tv-has-too-many-good-shows-on-now-and-i-cant-keep-up/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-25T19:07:36.000Z",
+   "summary": "Apple TV has been called “the new HBO” for its focus on quality over quantity. But recently, the streamer has starting ramping its lineup of shows I want to watch, and I can’t keep up. more…"
+  },
+  {
+   "id": "838a410b71fd3dbe",
+   "title": "Apple Finally Shares tvOS 27 Release Notes With List of New Features",
+   "url": "https://www.macrumors.com/2026/09/25/tvos-27-release-notes/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-25T19:07:10.000Z",
+   "summary": "Apple today finally shared release notes for tvOS 27, nearly two weeks after releasing the software update. Many of the new features and changes listed were already known, but we are sharing the notes for the sake of completeness. tvOS 27 was released on Monday, September 14, but the Apple TV does…"
+  },
+  {
+   "id": "da1f217f9ffa5cc7",
+   "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+   "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-25T18:48:33.000Z",
+   "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
+  },
+  {
+   "id": "bc2f861dea68d89d",
+   "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
+   "url": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-25T18:42:57.000Z",
+   "summary": "US judge reviews deal with California, says it must not be result of collusion."
+  },
+  {
+   "id": "370585252dcdb268",
+   "title": "Cricut's new DIY machines let you print and cut your own stickers",
+   "url": "https://www.engadget.com/2269278/cricuts-new-diy-machines-let-you-print-and-cut-your-own-stickers/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-25T18:39:54.000Z",
+   "summary": "Surely my sticker budget will break even eventually."
+  },
+  {
+   "id": "3b94a10417e8d7e7",
+   "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+   "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T18:37:05.000Z",
+   "summary": "96 points · 21 comments"
+  },
+  {
+   "id": "c16a8e00c524e132",
+   "title": "Candy Crush maker signs collective bargaining agreement, averting strike",
+   "url": "https://www.engadget.com/2269263/candy-crush-maker-signs-collective-bargaining-agreement-averting-strike/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-25T18:35:21.000Z",
+   "summary": "That's one way to topple a King."
+  },
+  {
+   "id": "026dbe3d7c0303a7",
+   "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+   "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-25T18:33:59.000Z",
+   "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout."
+  },
+  {
+   "id": "23d217428bbc3c56",
+   "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+   "url": "https://ollaya.dev/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T18:33:50.000Z",
+   "summary": "209 points · 60 comments"
+  },
+  {
    "id": "738d44594839536a",
    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
    "url": "https://openai.com/index/proaction",
@@ -89,6 +341,15 @@
    "section": "ai",
    "publishedAt": "2026-09-25T18:31:21.518Z",
    "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
+  },
+  {
+   "id": "fe189cd43a85fcff",
+   "title": "Astronomer watches Starlink satellites sinking to build a 'planetary barometer'",
+   "url": "https://www.theregister.com/science/2026/09/25/astronomer-watches-starlink-satellites-sinking-to-build-a-planetary-barometer/5299036",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T18:29:49.000Z",
+   "summary": "43 points · 14 comments"
   },
   {
    "id": "c18daadfb17b64bd",
@@ -100,6 +361,15 @@
    "summary": "Earlier this week, Amazon knocked the price of the previous generation Apple Watch Ultra 3 down to $599.97, from $799.00. This $199 markdown quickly disappeared, but now we're seeing a new Ultra 3 model (Black with Black Ocean Band) hit this new all-time low price. Note: MacRumors is an affiliate…"
   },
   {
+   "id": "676978357e263386",
+   "title": "Is solar's growth finally slowing in the US?",
+   "url": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-25T18:27:18.000Z",
+   "summary": "Renewables easily cover changes in US demand, which is rising by 2% in 2026."
+  },
+  {
    "id": "6655fbfe9d041679",
    "title": "Roku’s first OLED TVs are up to $400 off, starting at $699",
    "url": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
@@ -109,6 +379,15 @@
    "summary": "Roku’s new OLED TVs are already marked down. | Image: The Verge Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vision and HDR 10…"
   },
   {
+   "id": "a1e795b0960922a8",
+   "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+   "url": "https://mouse.dev/blog/muse-special/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-25T18:18:06.000Z",
+   "summary": "76 points · 34 comments"
+  },
+  {
    "id": "643de6f11bc12738",
    "title": "Apple Code Confirms iPad 12 Specs: A19, 8GB RAM, N1, C1X Modem",
    "url": "https://www.macrumors.com/2026/09/25/ipad-12-feature-leak/",
@@ -116,6 +395,15 @@
    "section": "tech",
    "publishedAt": "2026-09-25T18:01:23.000Z",
    "summary": "The next low-cost iPad will be equipped with an A19 chip, C1X modem, N1 networking chip, and 8GB RAM, according to details found in Apple's code by MacRumors contributor Aaron Perris. We've heard some of these same specifications in prior rumors, so this is more of a confirmation than a new leak…"
+  },
+  {
+   "id": "22e5bb67e38dc559",
+   "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+   "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-09-25T17:57:37.000Z",
+   "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding."
   },
   {
    "id": "bfe3c053f52356cd",
@@ -361,6 +649,15 @@
    "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As…"
   },
   {
+   "id": "ac2a0b2aa392ce30",
+   "title": "After seven years, a spacecraft company is releasing its Otters into the wild",
+   "url": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-25T15:35:23.000Z",
+   "summary": "\"There is always a tension that comes with seeing the first of anything fly.\""
+  },
+  {
    "id": "0f4abeabde20b51c",
    "title": "Gravity Seems Holographic. What Does That Mean for Reality?",
    "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
@@ -413,6 +710,15 @@
    "section": "tech",
    "publishedAt": "2026-09-25T15:24:50.000Z",
    "summary": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year."
+  },
+  {
+   "id": "22fb40b6c9df721a",
+   "title": "US being left behind in EV charging speeds as China goes sub-5 min to 70%",
+   "url": "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-25T15:21:55.000Z",
+   "summary": "The new LFP battery charges from 10 to 70% in 4.5 minutes at just 65˚C."
   },
   {
    "id": "dfcee651d95f079b",
@@ -478,6 +784,15 @@
    "summary": "Apple has a big October ahead, with several major hardware and software launches coming. Here’s everything to expect from Apple in October. more…"
   },
   {
+   "id": "a2a4742bb403f6df",
+   "title": "Show HN: Jev Plays Pokémon Red",
+   "url": "https://jev-pokemon.vercel.app/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T14:28:07.000Z",
+   "summary": "75 points · 39 comments"
+  },
+  {
    "id": "4f3c9418e707c428",
    "title": "Factorio that you can touch",
    "url": "https://factorio.com/blog/post/fff-447",
@@ -512,6 +827,15 @@
    "section": "tech",
    "publishedAt": "2026-09-25T14:10:00.000Z",
    "summary": "For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2, then the Japan-set spinoff Silent Hill F. Now I find myself slowly crawling through a quaint Scottish town in Silent Hill: Townfall, trying my best not to get…"
+  },
+  {
+   "id": "e8597657229c5891",
+   "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
+   "url": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-25T14:07:46.000Z",
+   "summary": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost."
   },
   {
    "id": "4cb586777fb2c5e4",
@@ -566,6 +890,15 @@
    "section": "tech",
    "publishedAt": "2026-09-25T13:47:21.000Z",
    "summary": "4 points · 2 comments"
+  },
+  {
+   "id": "a17d42154555f81c",
+   "title": "Trump administration takes Musk’s side in fight over EU tech rules",
+   "url": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-25T13:45:49.000Z",
+   "summary": "Washington says Brussels overreached when it fined X €120 million under the DSA."
   },
   {
    "id": "bc4053aa2611b6f2",
@@ -701,6 +1034,24 @@
    "section": "tech",
    "publishedAt": "2026-09-25T11:38:31.000Z",
    "summary": "60 points · 13 comments"
+  },
+  {
+   "id": "bf1eed0666514a7f",
+   "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+   "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-09-25T11:00:28.000Z",
+   "summary": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\""
+  },
+  {
+   "id": "d7756e7e886079f3",
+   "title": "Rocket Report: Era of cheap launch is over? Astra sets early 2027 target for return",
+   "url": "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-25T11:00:10.000Z",
+   "summary": "\"The customer got comfortable with a high reliability and a low price.\""
   },
   {
    "id": "af629b6d11c561a2",
@@ -926,6 +1277,15 @@
    "section": "tech",
    "publishedAt": "2026-09-24T23:42:39.000Z",
    "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip…"
+  },
+  {
+   "id": "a92bfa30f4eb1c92",
+   "title": "Remembering Johannes Doerfert",
+   "url": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T23:36:50.000Z",
+   "summary": "8 points · 0 comments"
   },
   {
    "id": "a2c8041dcfc2cdc8",
@@ -2276,6 +2636,15 @@
    "section": "tech",
    "publishedAt": "2026-09-24T06:25:03.000Z",
    "summary": "Apple in iOS 27 introduced iPhone Handoff, a new eSIM feature that allows you to use the same number on two iPhones and seamlessly swap between them. The number is only active on one iPhone at a time, so it's not like having two independently active lines. It's also different from Apple's existing…"
+  },
+  {
+   "id": "648c12ee59c80749",
+   "title": "Browsers Situationship: When Browsers Agree but the Spec Doesn't",
+   "url": "https://www.atbrakhi.dev/blog/browsers-situationship",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T05:52:39.000Z",
+   "summary": "7 points · 2 comments"
   },
   {
    "id": "a7634bd0f09f33f3",
@@ -5950,6 +6319,15 @@
    "summary": "Just load up your 100-percent legally sourced media files and go!"
   },
   {
+   "id": "bdd0d1e175991618",
+   "title": "Bwbach, My Guardian Goblin",
+   "url": "https://robertmay.photography/journal/bwbach-my-guardian-goblin",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T12:25:57.000Z",
+   "summary": "17 points · 10 comments"
+  },
+  {
    "id": "e57c3ab5c32155e2",
    "title": "Fearless SIMD v1.0",
    "url": "https://linebender.org/blog/fearless-simd-1-0/",
@@ -7559,6 +7937,15 @@
    "section": "tech",
    "publishedAt": "2026-09-21T15:00:00.000Z",
    "summary": "Getting an adapter can open up a world of connectivity and charging options, but specs and brand matter quite a lot. Here's what to look for."
+  },
+  {
+   "id": "d1a45b439ccaf7d0",
+   "title": "Show HN: Make math automatic with Mathy",
+   "url": "https://gmays.com/making-math-automatic-with-mathy/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T14:49:05.000Z",
+   "summary": "49 points · 5 comments"
   },
   {
    "id": "44ec7d6cec0ecfa0",
@@ -23534,15 +23921,6 @@
    "section": "ai",
    "publishedAt": "2026-08-27T03:00:00.000Z",
    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
-  },
-  {
-   "id": "85127ffdab28598d",
-   "title": "The inside story on why OpenAI agents hacked Hugging Face",
-   "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-   "source": "MIT Tech Review",
-   "section": "ai",
-   "publishedAt": "2026-08-26T19:00:00.000Z",
-   "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they…"
   }
  ]
 }
