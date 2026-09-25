@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-24T23:24:51.705Z",
+ "updatedAt": "2026-09-25T01:52:06.491Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,69 @@
  ],
  "items": [
   {
+   "id": "f449ec961112c934",
+   "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+   "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-25T01:25:53.000Z",
+   "summary": "Microsoft CEO Satya Nadella introducing the company’s Copilot Plus PC initiative. | Image: Allison Johnson Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and…"
+  },
+  {
+   "id": "a6f422cb98272119",
+   "title": "Apple shares video highlighting new child safety features across its devices",
+   "url": "https://9to5mac.com/2026/09/24/apple-shares-video-highlighting-new-child-safety-features-across-its-devices/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-25T01:17:50.000Z",
+   "summary": "Apple’s YouTube channel shared a video today showcasing how parents can manage the new and existing features of Apple’s Child Accounts. Watch it below. more…"
+  },
+  {
+   "id": "61ed4b0723d9427f",
+   "title": "‘Knife Edge: Chasing Michelin Stars’ season 2 premieres on Apple TV",
+   "url": "https://9to5mac.com/2026/09/24/knife-edge-chasing-michelin-stars-season-2-premieres-on-apple-tv/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-25T01:00:44.000Z",
+   "summary": "“Knife Edge: Chasing Michelin Stars,” Apple TV’s docuseries about the pursuit of the culinary world’s highest honors, is back. Here are the details. more…"
+  },
+  {
+   "id": "1ff3631f82992fff",
+   "title": "Rare ‘Antennagate’ press conference Q&A video surfaces online",
+   "url": "https://9to5mac.com/2026/09/24/rare-antennagate-press-conference-qa-video-surfaces-online/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-25T00:31:14.000Z",
+   "summary": "The Q&A session of one of Apple’s most notable events in the last 20 years has surfaced online, and you should watch it before it vanishes. Watch it below. more…"
+  },
+  {
+   "id": "e48c8d7fbe35e753",
+   "title": "Apple and Qualcomm renew global patent licensing agreement",
+   "url": "https://9to5mac.com/2026/09/24/apple-and-qualcomm-renew-global-patent-licensing-agreement/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-24T23:51:06.000Z",
+   "summary": "Qualcomm and Apple have renewed their global patent licensing agreement, extending a deal that was previously set to expire in 2027. Here are the details. more…"
+  },
+  {
+   "id": "b823d3b0fae4ede7",
+   "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+   "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-24T23:50:55.000Z",
+   "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly…"
+  },
+  {
+   "id": "930d3e70258216ab",
+   "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+   "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-24T23:42:39.000Z",
+   "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip…"
+  },
+  {
    "id": "a2c8041dcfc2cdc8",
    "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
    "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
@@ -127,6 +190,15 @@
    "summary": "No more Beavis and Butt-Head in your matches."
   },
   {
+   "id": "e3ae02408df7c274",
+   "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+   "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-24T22:29:48.000Z",
+   "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\""
+  },
+  {
    "id": "515e1772dfbdd560",
    "title": "TestFlight App Gets New iOS 27 Features",
    "url": "https://www.macrumors.com/2026/09/24/testflight-ios-27-update/",
@@ -161,6 +233,15 @@
    "section": "ai",
    "publishedAt": "2026-09-24T21:56:17.000Z",
    "summary": "Meta's newest smart glasses are an iterative, expensive update."
+  },
+  {
+   "id": "a7f38cde71f70c77",
+   "title": "Donald Duck's uncle was partly based on Wernher von Braun",
+   "url": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-24T21:40:07.000Z",
+   "summary": "Introducing the \"world-famous authority on outer space...\""
   },
   {
    "id": "d0ea980fa2e918d4",
@@ -1853,6 +1934,15 @@
    "section": "tech",
    "publishedAt": "2026-09-23T22:03:21.000Z",
    "summary": "53 points · 6 comments"
+  },
+  {
+   "id": "9bb0dd2c6d72c974",
+   "title": "The Bayeux Tapestry: Woven by the Victors",
+   "url": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T21:54:35.000Z",
+   "summary": "4 points · 0 comments"
   },
   {
    "id": "a0dc686f1857bec7",
@@ -4546,6 +4636,15 @@
    "summary": "56 points · 12 comments"
   },
   {
+   "id": "77360391431cf5cd",
+   "title": "Writing Parquet files using Haskell",
+   "url": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-22T15:02:39.000Z",
+   "summary": "14 points · 0 comments"
+  },
+  {
    "id": "aeed35a24e777a38",
    "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
    "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
@@ -5633,6 +5732,15 @@
    "section": "tech",
    "publishedAt": "2026-09-21T23:29:42.000Z",
    "summary": "8 points · 0 comments"
+  },
+  {
+   "id": "22d10761de189cd2",
+   "title": "Motor Characterization for Small Running Robots (2016)",
+   "url": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-21T23:27:31.000Z",
+   "summary": "27 points · 1 comments"
   },
   {
    "id": "3d1e9a32ecf4e5f7",
@@ -22688,33 +22796,6 @@
    "section": "ai",
    "publishedAt": "2026-08-26T09:00:00.000Z",
    "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet…"
-  },
-  {
-   "id": "6fc216483a438edb",
-   "title": "The Hugging Face incident and the road ahead",
-   "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-08-26T00:00:00.000Z",
-   "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment."
-  },
-  {
-   "id": "69d7a4a88c439de8",
-   "title": "How loveholidays is making everyone a builder with Codex",
-   "url": "https://openai.com/index/loveholidays",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-08-26T00:00:00.000Z",
-   "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster."
-  },
-  {
-   "id": "11f79fda3d68f30c",
-   "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-   "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-   "source": "Hugging Face",
-   "section": "ai",
-   "publishedAt": "2026-08-26T00:00:00.000Z",
-   "summary": ""
   }
  ]
 }
