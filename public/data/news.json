@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-25T21:48:06.656Z",
+ "updatedAt": "2026-09-26T00:34:34.261Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,87 @@
  ],
  "items": [
   {
+   "id": "8bd214b52ff84788",
+   "title": "Brazil Bans Online Betting",
+   "url": "https://www.reuters.com/world/americas/brazils-lula-bans-online-betting-operations-reelection-race-tightens-2026-09-25/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T00:08:00.000Z",
+   "summary": "15 points · 0 comments"
+  },
+  {
+   "id": "c0e0548e8c00ef31",
+   "title": "macOS 27 adds new Apple Intelligence features to your favorite apps",
+   "url": "https://9to5mac.com/2026/09/25/macos-27-adds-new-apple-intelligence-features-to-your-favorite-apps/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-25T23:24:55.000Z",
+   "summary": "9to5Mac is brought to you by CleanMyMac by MacPaw. With the release of macOS 27 Golden Gate, use CleanMyMac first to free up space, optimize your system, and ensure your new Mac runs at 100% on day one. Learn more. Apple has released macOS 27 Golden Gate to the public after several months of beta…"
+  },
+  {
+   "id": "0f65232becba0865",
+   "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+   "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-25T23:11:10.000Z",
+   "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans."
+  },
+  {
+   "id": "42752ff458b7601d",
+   "title": "Apple’s dimensional drawings offer a fascinating look at its product designs",
+   "url": "https://9to5mac.com/2026/09/25/apples-dimensional-drawings-offer-a-fascinating-look-at-its-product-designs/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-25T23:07:09.000Z",
+   "summary": "Not everyone knows this (and I won’t even pretend that I did), but Apple publishes remarkably detailed dimensional drawings for dozens of its devices to help accessory makers design products around them. Here are the details. more…"
+  },
+  {
+   "id": "2cc7cfa197a26223",
+   "title": "Automattic has a new board after failed attempt to put CEO on leave",
+   "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-25T23:04:34.000Z",
+   "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board."
+  },
+  {
+   "id": "b1b163d64865d538",
+   "title": "Tell HN: Codex Is Down [fixed]",
+   "url": "https://news.ycombinator.com/item?id=49851032",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T22:51:44.000Z",
+   "summary": "61 points · 64 comments"
+  },
+  {
+   "id": "781b94a26c2fcbe5",
+   "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+   "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-25T22:20:47.000Z",
+   "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
+  },
+  {
+   "id": "10c76d811ebcd616",
+   "title": "TestFlight now works in landscape as Apple prepares for iPhone Duo",
+   "url": "https://9to5mac.com/2026/09/25/testflight-now-works-in-landscape-as-apple-prepares-for-iphone-duo/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-25T22:19:53.000Z",
+   "summary": "Apple updated TestFlight this week with support for landscape orientation, and for macOS 27 Golden Gate’s new resizable iPhone Mirroring window. Here are the details. more…"
+  },
+  {
+   "id": "e3d904e669f5a681",
+   "title": "What even is an OS now?",
+   "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T21:36:56.000Z",
+   "summary": "66 points · 75 comments"
+  },
+  {
    "id": "d14cb03cc885a800",
    "title": "\"Someone just sent me an ad that features an AI version of me. What do I do?\"",
    "url": "https://bsky.app/profile/lebassett.bsky.social/post/3mwel345jr22s",
@@ -100,6 +181,15 @@
    "summary": "5 points · 0 comments"
   },
   {
+   "id": "bbced2889c811943",
+   "title": "Teaching a World Model to Play Pokemon",
+   "url": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T21:02:48.000Z",
+   "summary": "5 points · 6 comments"
+  },
+  {
    "id": "1609f2c4ac1608e5",
    "title": "Apple faces class action over Apple Pay fees charged to card issuers",
    "url": "https://9to5mac.com/2026/09/25/apple-faces-class-action-over-apple-pay-fees-charged-to-card-issuers/",
@@ -107,6 +197,15 @@
    "section": "tech",
    "publishedAt": "2026-09-25T21:01:42.000Z",
    "summary": "U.S. District Judge Jeffrey S. White has certified a class-action lawsuit accusing Apple of charging payment card issuers inflated fees for Apple Pay transactions. Here are the details. more…"
+  },
+  {
+   "id": "2d84f16aed09a8e6",
+   "title": "Excel now supports multiple values in a single cell",
+   "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T20:55:00.000Z",
+   "summary": "71 points · 55 comments"
   },
   {
    "id": "09ca58cd65ef3d24",
@@ -179,6 +278,33 @@
    "section": "tech",
    "publishedAt": "2026-09-25T20:00:00.000Z",
    "summary": "The Overtime team discusses Apple’s rumored screenless fitness tracker and explores why it’s so compelling. Fernando also shares his hands-on experience with the iPhone 18 Pro, the new Apple Watch Series 12, and the Apple Watch Ultra 4. Plus, they cover some disappointing news regarding aftermarket…"
+  },
+  {
+   "id": "7cbe70b639d62d6b",
+   "title": "How we learned to stop worrying and love campus surveillance",
+   "url": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T19:56:57.000Z",
+   "summary": "86 points · 63 comments"
+  },
+  {
+   "id": "3299dfd9e56866ec",
+   "title": "A new way to manage memory: no garbage collection, extremely fast & safe access",
+   "url": "https://ulanguage.org/memory",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T19:53:08.000Z",
+   "summary": "10 points · 3 comments"
+  },
+  {
+   "id": "447ab5c05c7aa2b3",
+   "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+   "url": "https://news.ycombinator.com/item?id=49848955",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T19:37:55.000Z",
+   "summary": "74 points · 52 comments"
   },
   {
    "id": "f5449c9a2f4be680",
@@ -1097,6 +1223,24 @@
    "section": "tech",
    "publishedAt": "2026-09-25T10:19:36.000Z",
    "summary": "86 points · 71 comments"
+  },
+  {
+   "id": "00f27f128e711b2b",
+   "title": "An airport cooled by natural ventilation",
+   "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T10:16:50.000Z",
+   "summary": "39 points · 16 comments"
+  },
+  {
+   "id": "d6eb0e94a5991382",
+   "title": "I wrote a ray tracer in Brainfuck",
+   "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T10:08:41.000Z",
+   "summary": "20 points · 7 comments"
   },
   {
    "id": "fe45e6264cfe3dc9",
@@ -3430,6 +3574,15 @@
    "summary": "\"It’s film noir and a hard-boiled detective story, but it’s got a lot more comedy and a lot more action.\""
   },
   {
+   "id": "cd1bc40202855ffc",
+   "title": "Loopjacking in A2A Implementations: Hijacking Human-in-the-Loop Approvals",
+   "url": "https://adithyanak.com/loopjacking-in-a2a-implementations/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T18:23:47.000Z",
+   "summary": "4 points · 0 comments"
+  },
+  {
    "id": "f8d3e3127d4afb9c",
    "title": "Data centers are black boxes, but California wants to change that",
    "url": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
@@ -3608,6 +3761,15 @@
    "section": "tech",
    "publishedAt": "2026-09-23T17:10:58.000Z",
    "summary": "\"Beijing's intended strategy is to dominate the high ground of the twenty-first century.\""
+  },
+  {
+   "id": "e3dc3ae56f016f68",
+   "title": "Why didn't anybody tell me about Redis Hash Slots?",
+   "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-23T17:07:10.000Z",
+   "summary": "6 points · 0 comments"
   },
   {
    "id": "caf7e73008a2ee1f",
