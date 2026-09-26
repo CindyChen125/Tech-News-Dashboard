@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-26T18:32:18.600Z",
+ "updatedAt": "2026-09-26T21:30:15.127Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,87 @@
  ],
  "items": [
   {
+   "id": "3c96f244d1f5c386",
+   "title": "Apple hit with $5.7 billion in damages over haptic patents",
+   "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-26T21:30:01.000Z",
+   "summary": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve…"
+  },
+  {
+   "id": "9f89a42f2bf053c3",
+   "title": "Insurers claim AI is already increasing healthcare costs",
+   "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-26T21:02:06.000Z",
+   "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
+  },
+  {
+   "id": "5218e7b33d6e00bd",
+   "title": "TikTok agrees to pay at least $100M in Alabama settlement",
+   "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-26T20:24:45.000Z",
+   "summary": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children."
+  },
+  {
+   "id": "f69fb3ade7f0585c",
+   "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+   "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T20:08:50.000Z",
+   "summary": "10 points · 0 comments"
+  },
+  {
+   "id": "c54583883ea1839a",
+   "title": "This external GPU uses Wi-Fi to transform any device into a gaming rig",
+   "url": "https://www.engadget.com/2269877/this-external-gpu-uses-wi-fi-to-transform-any-device-into-a-gaming-rig/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-26T19:45:00.000Z",
+   "summary": "The WiCi One is available for preorders starting at $1,999."
+  },
+  {
+   "id": "6bcf0b9f95a5e0d1",
+   "title": "Decap is the man behind the drums behind your favorite song",
+   "url": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-26T19:30:00.000Z",
+   "summary": "Drums on film. | Image: Decap I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs…"
+  },
+  {
+   "id": "e833cad58fd71aca",
+   "title": "Indie App Spotlight: ‘QuillCue’ levels up your Siri AI experience with stored prompts",
+   "url": "https://9to5mac.com/2026/09/26/indie-app-spotlight-quillcue-siri-ai-prompts/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-09-26T19:30:00.000Z",
+   "summary": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact. iOS 27 debuted to the public almost two weeks ago, with the flagship feature being Siri AI. While Siri AI…"
+  },
+  {
+   "id": "3f82352d605d169e",
+   "title": "Minecraft is getting a new dimension called The Sift in 2027",
+   "url": "https://www.engadget.com/2269867/minecraft-is-getting-a-new-dimension-called-the-sift-in-2027/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-26T19:19:53.000Z",
+   "summary": "The Sift will first be released with Minecraft Dungeons 2 later this month before arriving in the base game."
+  },
+  {
+   "id": "cadcbf08066ae933",
+   "title": "What type of power cord does a PS5 use?",
+   "url": "https://www.engadget.com/2265348/playstation-power-cord-what-type/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-26T18:45:00.000Z",
+   "summary": "You probably don't think much about your PlayStation's power cord unless it needs to be replaced. If that time comes, here's what to know."
+  },
+  {
    "id": "940bb04acacb568d",
    "title": "You can use your old laptop to make a smart home hub",
    "url": "https://www.engadget.com/2265491/you-can-use-your-old-laptop-to-make-a-smart-home-hub/",
@@ -89,6 +170,15 @@
    "section": "tech",
    "publishedAt": "2026-09-26T18:30:00.000Z",
    "summary": "An old netbook can automate the devices that otherwise aren't interested in talking to one another."
+  },
+  {
+   "id": "bad7a956d596ed8f",
+   "title": "DeepSeek Elastic Compute (DSec)",
+   "url": "https://arxiv.org/abs/2609.22978",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-26T18:22:41.000Z",
+   "summary": "50 points · 12 comments"
   },
   {
    "id": "5dcab4ba599b7a5c",
@@ -116,6 +206,15 @@
    "section": "tech",
    "publishedAt": "2026-09-26T17:32:35.000Z",
    "summary": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly…"
+  },
+  {
+   "id": "7a21a898e4126a9e",
+   "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+   "url": "https://github.com/reladraw/reladraw",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T17:10:40.000Z",
+   "summary": "87 points · 25 comments"
   },
   {
    "id": "3638bde8dd726f9c",
@@ -224,6 +323,15 @@
    "section": "tech",
    "publishedAt": "2026-09-26T15:30:00.000Z",
    "summary": "NVIDIA's $16,000 RTX PRO 6000 can beat the RTX 5090, but gamers aren't who it's built for."
+  },
+  {
+   "id": "0cd442a7c662e92c",
+   "title": "Plunging test scores are a slow-moving catastrophe",
+   "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T15:24:08.000Z",
+   "summary": "141 points · 261 comments"
   },
   {
    "id": "27558c2030d9b4ff",
@@ -2548,6 +2656,15 @@
    "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff:Stuff helps you get everything out of your head…"
   },
   {
+   "id": "07abc9bbf869a2e2",
+   "title": "The Rise of Audio AR",
+   "url": "https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T17:31:28.000Z",
+   "summary": "19 points · 5 comments"
+  },
+  {
    "id": "62d79d0e60df6469",
    "title": "Turtle Beach Rematch review: The cutest Switch 2 controller of the bunch",
    "url": "https://www.engadget.com/2267930/turtle-beach-rematch-review/",
@@ -2699,6 +2816,15 @@
    "section": "tech",
    "publishedAt": "2026-09-24T16:53:14.000Z",
    "summary": "The new Charlie range now supports both 120 and 240-volt outlets, so it's easier to install too."
+  },
+  {
+   "id": "332988a0fa931c39",
+   "title": "LA Metro has some of the slowest escalators on Earth",
+   "url": "https://basin.la/articles/ninety-feet-a-minute.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T16:52:24.000Z",
+   "summary": "14 points · 7 comments"
   },
   {
    "id": "0f539fb55209ae24",
