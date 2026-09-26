@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-26T21:30:15.127Z",
+ "updatedAt": "2026-09-26T23:50:58.718Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,82 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 30
+   "count": 32
   }
  ],
  "items": [
+  {
+   "id": "348d7dff433bc019",
+   "title": "Your old GPU could be worth more than you think",
+   "url": "https://www.engadget.com/2267877/your-old-gpu-worth-more-than-you-think/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-26T23:45:00.000Z",
+   "summary": "Your old GPU could be a goldmine thanks to the RAMaggedon."
+  },
+  {
+   "id": "4054459eca2ef04a",
+   "title": "Claude Deleted 48k Files",
+   "url": "https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r=",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-26T23:42:06.000Z",
+   "summary": "4 points · 0 comments"
+  },
+  {
+   "id": "28ca4bed59273bec",
+   "title": "Why your iPhone hates printer cables",
+   "url": "https://www.engadget.com/2266565/why-iphone-hates-printer-cables/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-26T23:30:00.000Z",
+   "summary": "AirPrint is the easiest path to printing on iPhone; other apps enable this, but printing with a cable isn't supported."
+  },
+  {
+   "id": "ef9346287c7b2f89",
+   "title": "How to factory reset your Google Home Mini",
+   "url": "https://www.engadget.com/2266523/how-to-factory-reset-google-home-mini/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-26T23:00:00.000Z",
+   "summary": "Google Home Mini speakers may have been discontinued, but there are plenty still being used. If you have one, let's talk about how to reset it."
+  },
+  {
+   "id": "8909b3d81356dfc0",
+   "title": "iPhone 18 Pro vs. iPhone 17 Pro: What's new?",
+   "url": "https://www.engadget.com/2267863/iphone-18-pro-vs-17-pro-comparison-explained/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-26T22:45:00.000Z",
+   "summary": "The iPhone 18 Pro iterates on the iPhone 17 Pro while making some minor improvements, but what exactly is different?"
+  },
+  {
+   "id": "3e8c89442c227f76",
+   "title": "God's Eye UAP – documented UFO cases on a 3D globe, with the evidence",
+   "url": "https://domw99.github.io/Gods-Eye-UAPs/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T22:41:13.000Z",
+   "summary": "10 points · 0 comments"
+  },
+  {
+   "id": "596d252195664eee",
+   "title": "How high is too high for speakers in your home sound system?",
+   "url": "https://www.engadget.com/2266518/how-high-too-high-speakers-home-sound-system/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-26T22:30:00.000Z",
+   "summary": "Too much height makes dialogue and fine details sound less direct."
+  },
+  {
+   "id": "9f2618d5933fe75f",
+   "title": "Stop bringing your phone in the shower: How steam can ruin 'waterproof' phones",
+   "url": "https://www.engadget.com/2266522/why-steam-ruins-phone-more-than-water/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-26T22:00:00.000Z",
+   "summary": "Phone manufacturers are pretty direct in their guidance on this one."
+  },
   {
    "id": "3c96f244d1f5c386",
    "title": "Apple hit with $5.7 billion in damages over haptic patents",
@@ -199,6 +271,15 @@
    "summary": "At least one social media company seems to be reversing its stance on whether it will accept advertising for Alex Gibney’s upcoming documentary about Elon Musk."
   },
   {
+   "id": "82c0044e58244005",
+   "title": "Japan moves to tighten rules for foreigners",
+   "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T17:43:11.000Z",
+   "summary": "102 points · 246 comments"
+  },
+  {
    "id": "2af25e71e6327592",
    "title": "Kids turned the comment section of an NPR podcast into a group chat",
    "url": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
@@ -206,6 +287,15 @@
    "section": "tech",
    "publishedAt": "2026-09-26T17:32:35.000Z",
    "summary": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly…"
+  },
+  {
+   "id": "9ff7197e6451d7b7",
+   "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+   "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T17:26:54.000Z",
+   "summary": "9 points · 2 comments"
   },
   {
    "id": "7a21a898e4126a9e",
@@ -559,6 +649,15 @@
    "summary": "280 points · 111 comments"
   },
   {
+   "id": "32e86ee2f6a8219a",
+   "title": "Reading’s Bayeux Tapestry",
+   "url": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T10:48:40.000Z",
+   "summary": "8 points · 0 comments"
+  },
+  {
    "id": "d31408ba69934630",
    "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
    "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
@@ -667,6 +766,15 @@
    "summary": "8 points · 0 comments"
   },
   {
+   "id": "4c412dddb562b3b9",
+   "title": "An agent used DNS to reach an external chatbot",
+   "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-26T04:14:11.000Z",
+   "summary": "12 points · 9 comments"
+  },
+  {
    "id": "1351b26395ad4941",
    "title": "Pencils Down, Notation Up",
    "url": "https://intertwingly.net/blog/2026/09/25/Pencils-Down-Notation-Up.html",
@@ -712,6 +820,15 @@
    "summary": "OpenAI and the other defendants in Apple’s trade secret misappropriation lawsuit made a new filing, asking the court to strike two expert declarations and disregard other evidence Apple recently submitted. Here are the details. more…"
   },
   {
+   "id": "13d13c9b00879e5c",
+   "title": "How one Twitch chat message became code execution on a streamer’s PC",
+   "url": "https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T01:13:38.000Z",
+   "summary": "11 points · 2 comments"
+  },
+  {
    "id": "21776c23e63d8098",
    "title": "At Meta Connect, the company’s smart glasses were everywhere",
    "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
@@ -737,6 +854,15 @@
    "section": "tech",
    "publishedAt": "2026-09-26T00:45:01.000Z",
    "summary": "6 points · 2 comments"
+  },
+  {
+   "id": "c69da92df3e3d1e1",
+   "title": "Generate fonts where every LLM token is the same width",
+   "url": "https://ampdot.mesh.host/token-space-fonts.html",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-26T00:30:03.000Z",
+   "summary": "16 points · 5 comments"
   },
   {
    "id": "462bf72cada53995",
@@ -881,6 +1007,15 @@
    "section": "tech",
    "publishedAt": "2026-09-25T21:10:51.000Z",
    "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026."
+  },
+  {
+   "id": "a2cb70d28f0e7918",
+   "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+   "url": "https://www.gptbeyond.com/try?home=1",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T21:09:28.000Z",
+   "summary": "25 points · 6 comments"
   },
   {
    "id": "fc86915ed344dee2",
@@ -1738,6 +1873,24 @@
    "summary": "114 points · 53 comments"
   },
   {
+   "id": "c571ca09cb1b5476",
+   "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T13:49:06.000Z",
+   "summary": "124 points · 350 comments"
+  },
+  {
+   "id": "f4e796ea0af3d1f9",
+   "title": "Does Georgism work? Five years later",
+   "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T13:48:38.000Z",
+   "summary": "5 points · 0 comments"
+  },
+  {
    "id": "a23047c458a32deb",
    "title": "What happens when you analyze your favorite college football team like the CIA?",
    "url": "https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia",
@@ -2107,6 +2260,15 @@
    "summary": "129 points · 76 comments"
   },
   {
+   "id": "89b93ce41d71edcd",
+   "title": "Evolving programming languages in the AI era",
+   "url": "https://dashbit.co/blog/evolving-ai-era",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-25T02:34:39.000Z",
+   "summary": "4 points · 1 comments"
+  },
+  {
    "id": "ef5cb158358719a9",
    "title": "Here’s the Tesla Semi… again",
    "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
@@ -2314,6 +2476,15 @@
    "summary": "81 points · 17 comments"
   },
   {
+   "id": "d3b94f86ba5fa571",
+   "title": "Dutch designer made DE9: Closer to the Edit into a playable web-based instrument",
+   "url": "https://www.creativeboom.com/work/why-merijn-straathof-turned-a-landmark-techno-album-into-a-playable-web-based-instrument/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-24T21:30:18.000Z",
+   "summary": "3 points · 1 comments"
+  },
+  {
    "id": "659921bcabecf35b",
    "title": "Nicolas Cage is anything but subtle in the Madden trailer",
    "url": "https://www.engadget.com/2268356/nicolas-cage-is-anything-but-subtle-in-the-madden-trailer/",
@@ -2339,6 +2510,15 @@
    "section": "tech",
    "publishedAt": "2026-09-24T20:53:39.000Z",
    "summary": "29 points · 17 comments"
+  },
+  {
+   "id": "4027b74fc0451b28",
+   "title": "How I changed teaching after AI managed to do all my homework assignments",
+   "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-24T20:51:50.000Z",
+   "summary": "115 points · 115 comments"
   },
   {
    "id": "7183d2f03ea2d68a",
