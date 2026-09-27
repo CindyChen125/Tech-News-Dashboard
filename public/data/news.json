@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-27T05:11:39.490Z",
+ "updatedAt": "2026-09-27T10:42:20.621Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,33 @@
   }
  ],
  "items": [
+  {
+   "id": "f97fa81a89b84452",
+   "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+   "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-27T08:44:04.000Z",
+   "summary": "159 points · 82 comments"
+  },
+  {
+   "id": "3cfb584a39599a06",
+   "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+   "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-27T06:19:33.000Z",
+   "summary": "214 points · 181 comments"
+  },
+  {
+   "id": "3d50b6d2ea6abf8d",
+   "title": "The internet discovers TLA+. Now what?",
+   "url": "https://reasonable.io/blog/tla-tutorial/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-27T05:26:15.000Z",
+   "summary": "16 points · 7 comments"
+  },
   {
    "id": "c2082914278ea04b",
    "title": "If we do not stop to help each other, what do we become?",
@@ -631,6 +658,15 @@
    "summary": "Your PS5 or Xbox Series console can use either setup, but you should consider what's best for your space first."
   },
   {
+   "id": "b1ad4a89d460d3fd",
+   "title": "Improving site performance by shipping more CSS",
+   "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T13:10:05.000Z",
+   "summary": "45 points · 29 comments"
+  },
+  {
    "id": "b10bc212c48d7468",
    "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
    "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
@@ -818,6 +854,15 @@
    "section": "tech",
    "publishedAt": "2026-09-26T08:31:02.000Z",
    "summary": "7 points · 1 comments"
+  },
+  {
+   "id": "6ebd4142a1dbc880",
+   "title": "Flip Fluid on Flip Dots",
+   "url": "https://mitxela.com/projects/flipflip",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T07:50:24.000Z",
+   "summary": "97 points · 10 comments"
   },
   {
    "id": "c30f4b3f432f876d",
@@ -1187,6 +1232,15 @@
    "section": "tech",
    "publishedAt": "2026-09-25T20:53:54.000Z",
    "summary": "30 points · 23 comments"
+  },
+  {
+   "id": "027b085461619e57",
+   "title": "Finally, A True Blue Rose Exists",
+   "url": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T20:44:38.000Z",
+   "summary": "10 points · 0 comments"
   },
   {
    "id": "09ca58cd65ef3d24",
@@ -1594,6 +1648,15 @@
    "summary": "It's been six years since the original model."
   },
   {
+   "id": "13e80c0eba46082e",
+   "title": "LP Voting and Investor Consent for AIFs",
+   "url": "https://taghash.io/blog/lp-voting-and-investor-consent-for-aifs-a-practical-workflow",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T17:23:38.000Z",
+   "summary": "4 points · 0 comments"
+  },
+  {
    "id": "d359fac836be074f",
    "title": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
    "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
@@ -1925,6 +1988,15 @@
    "section": "tech",
    "publishedAt": "2026-09-25T14:24:42.000Z",
    "summary": "180 points · 32 comments"
+  },
+  {
+   "id": "afffa3e9e11640ed",
+   "title": "C's Flexible Integer Sizes Were Not a Design Mistake",
+   "url": "https://pikuma.com/blog/c-integer-sizes-not-a-mistake",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T14:23:33.000Z",
+   "summary": "32 points · 39 comments"
   },
   {
    "id": "76730cbd57ebc038",
@@ -25244,15 +25316,6 @@
    "section": "ai",
    "publishedAt": "2026-08-31T04:00:00.000Z",
    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
-  },
-  {
-   "id": "f0dea2b9790e7f6c",
-   "title": "Our decision on Cursor following its acquisition by SpaceX",
-   "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-08-28T06:00:00.000Z",
-   "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
   }
  ]
 }
