@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-27T15:37:40.468Z",
+ "updatedAt": "2026-09-27T19:43:50.888Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,150 @@
  ],
  "items": [
   {
+   "id": "8fcc630de218a235",
+   "title": "Bill Gates says it's 'completely irresponsible' for AI to not have safeguards",
+   "url": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-27T19:12:29.000Z",
+   "summary": "The Microsoft co-founder said that the more present danger is bad actors with access to AI tools."
+  },
+  {
+   "id": "398518bebe8a0f6d",
+   "title": "Should you ditch your tablet for a foldable phone?",
+   "url": "https://www.engadget.com/2267889/ditch-tablet-for-foldable-phone/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-27T18:45:00.000Z",
+   "summary": "Foldables expand to almost the size of an iPad Mini."
+  },
+  {
+   "id": "8abb60f9d831e7d9",
+   "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+   "url": "https://loficities.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-27T18:44:30.000Z",
+   "summary": "41 points · 7 comments"
+  },
+  {
+   "id": "d3cb54c8564a69f5",
+   "title": "BYD says its new solid-state EV battery tech is nearly ready for the open road",
+   "url": "https://www.engadget.com/2265495/byd-new-solid-state-battery-ev-almost-ready-2027/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-27T18:30:00.000Z",
+   "summary": "The Chinese company is one of several car makers expected to adopt solid-state batteries in the next few years."
+  },
+  {
+   "id": "906f1bd3efadabf4",
+   "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+   "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-27T18:02:43.000Z",
+   "summary": "7 points · 0 comments"
+  },
+  {
+   "id": "1b269826bd48e76b",
+   "title": "The pros and cons of using a foldable phone",
+   "url": "https://www.engadget.com/2266434/foldable-phone-pros-cons/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-27T18:00:00.000Z",
+   "summary": "Foldable phones are gaining momentum, but have they been refined enough to make it to the mainstream? Here are some things to consider."
+  },
+  {
+   "id": "5d2156e02f9fd830",
+   "title": "Ember-1",
+   "url": "https://fireworks.ai/blog/ember-1",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-27T17:31:53.000Z",
+   "summary": "135 points · 66 comments"
+  },
+  {
+   "id": "2ca9d4984876eeba",
+   "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-27T17:21:07.000Z",
+   "summary": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident…"
+  },
+  {
+   "id": "f0dc4ef09bf6230d",
+   "title": "Why the iPhone Duo could be beneficial for Samsung's Galaxy Z Fold 8",
+   "url": "https://www.engadget.com/2267585/why-iphone-duo-benefitcial-for-samsung-galaxy-fold-8/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-27T16:45:00.000Z",
+   "summary": "Apple's iPhone Duo is far from the first foldable phone, but it could upset the foldable market in all-new ways."
+  },
+  {
+   "id": "5895572ecf099d17",
+   "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+   "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-27T16:30:00.000Z",
+   "summary": "\"AI is the devil and I its maker.\""
+  },
+  {
+   "id": "79a7857aa814bbeb",
+   "title": "There are no \"rogue\" AI agents",
+   "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-27T16:19:46.000Z",
+   "summary": "243 points · 177 comments"
+  },
+  {
+   "id": "d6e9cd02a07e7d97",
+   "title": "How to use Android's Desktop mode to turn your phone into a tiny PC",
+   "url": "https://www.engadget.com/2267572/how-to-use-desktop-mode-android-phone/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-27T16:15:00.000Z",
+   "summary": "You can plug recent Pixel phones into a monitor to get a desktop-style interface."
+  },
+  {
+   "id": "0279ab2142cdc2d7",
+   "title": "TechCrunch Mobility: AV companies pick their lanes",
+   "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-27T16:02:00.000Z",
+   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+  },
+  {
+   "id": "2b90589bbe069fc5",
+   "title": "Show HN: TinyAIArena watch AI agents battle it out",
+   "url": "https://tinyaiarena.com/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-27T15:51:28.000Z",
+   "summary": "64 points · 32 comments"
+  },
+  {
+   "id": "be7d2ca51f796071",
+   "title": "How to use Spotify's Running Mode on iOS and Android",
+   "url": "https://www.engadget.com/2267524/how-to-use-spotify-running-mode-ios-android-guide/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-27T15:45:00.000Z",
+   "summary": "Maximize your stride with Spotify's AI-powered running features."
+  },
+  {
+   "id": "5d2f381874a33bed",
+   "title": "PostmarketOS is rebranding as Nura",
+   "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-27T15:31:15.000Z",
+   "summary": "117 points · 21 comments"
+  },
+  {
    "id": "65c8ecf9ec363a5b",
    "title": "Amazon Just Knocked $900 Off Apple's Latest 16-Inch MacBook Pro",
    "url": "https://www.macrumors.com/2026/09/27/2026-macbook-pro-900-off/",
@@ -89,6 +233,15 @@
    "section": "tech",
    "publishedAt": "2026-09-27T15:30:35.000Z",
    "summary": "Amazon has introduced a major discount on the 16-inch MacBook Pro with the M5 Max chip, 32-Core GPU, 36GB RAM, and 2TB SSD, now available for $3,499.00, down from $4,399.00. This is a massive $900 markdown on the high-end MacBook Pro, and it's joining a few other MacBook Pro discounts on Amazon…"
+  },
+  {
+   "id": "2f0f0cff8ad76e36",
+   "title": "The Normalization of Inexplicable Failures",
+   "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-27T15:26:40.000Z",
+   "summary": "193 points · 69 comments"
   },
   {
    "id": "0a8214f046178a6b",
@@ -145,6 +298,15 @@
    "summary": "109 points · 69 comments"
   },
   {
+   "id": "52c5aef6907a2b0f",
+   "title": "Fragment of oldest known peace treaty found in Turkey",
+   "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-27T14:35:10.000Z",
+   "summary": "25 points · 5 comments"
+  },
+  {
    "id": "20425776f5813d6b",
    "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
    "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
@@ -170,6 +332,15 @@
    "section": "ai",
    "publishedAt": "2026-09-27T13:45:00.000Z",
    "summary": "Speaking with an AI chatbot can be a little awkward, but companies like Google and OpenAI are working on fixing that."
+  },
+  {
+   "id": "5dc17c07af5fac95",
+   "title": "Show HN: Building a Markdown editor for Mac, iOS and web",
+   "url": "https://www.markdown.beauty/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-27T13:44:45.000Z",
+   "summary": "47 points · 30 comments"
   },
   {
    "id": "dfe2b3ed881fdb0e",
@@ -305,6 +476,24 @@
    "section": "tech",
    "publishedAt": "2026-09-27T08:44:04.000Z",
    "summary": "159 points · 82 comments"
+  },
+  {
+   "id": "a5c0ab94bc7a1e2e",
+   "title": "Best iPhone 18 Pro cases now available for purchase [Update #2]",
+   "url": "https://9to5mac.com/2026/09/27/best-iphone-18-pro-cases-now-available/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-27T08:24:00.000Z",
+   "summary": "It is time to take a look at the best new iPhone 18 Pro cases. Apple has a new slate of Silicone and TechWoven models in color-matched treatments, joined by loads of our favorite third-party solutions we have been using for years. From built-in stands in new burgundy colorways, ultra grippy…"
+  },
+  {
+   "id": "08361cdf462a7d80",
+   "title": "Show HN: Trail – new kind of logic game",
+   "url": "https://trail.franzai.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-27T07:02:20.000Z",
+   "summary": "18 points · 7 comments"
   },
   {
    "id": "3cfb584a39599a06",
@@ -514,6 +703,15 @@
    "summary": "10 points · 0 comments"
   },
   {
+   "id": "64b19ff044dc9d51",
+   "title": "Faster prompt lookup drafting in llama.cpp",
+   "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-26T19:57:24.000Z",
+   "summary": "36 points · 3 comments"
+  },
+  {
    "id": "c54583883ea1839a",
    "title": "This external GPU uses Wi-Fi to transform any device into a gaming rig",
    "url": "https://www.engadget.com/2269877/this-external-gpu-uses-wi-fi-to-transform-any-device-into-a-gaming-rig/",
@@ -521,6 +719,15 @@
    "section": "tech",
    "publishedAt": "2026-09-26T19:45:00.000Z",
    "summary": "The WiCi One is available for preorders starting at $1,999."
+  },
+  {
+   "id": "a39f3b41fa33179f",
+   "title": "Video CDs Break Windows Explorer",
+   "url": "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T19:30:39.000Z",
+   "summary": "43 points · 14 comments"
   },
   {
    "id": "6bcf0b9f95a5e0d1",
@@ -1144,6 +1351,15 @@
    "summary": "25 points · 18 comments"
   },
   {
+   "id": "eb014766c1034e52",
+   "title": "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers",
+   "url": "https://generalroboticslab.com/cartesian_handv1",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T05:27:39.000Z",
+   "summary": "18 points · 4 comments"
+  },
+  {
    "id": "28be4f31fd661217",
    "title": "A single function Jev-like wrapper for LLMs, including vision models",
    "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
@@ -1178,6 +1394,15 @@
    "section": "tech",
    "publishedAt": "2026-09-26T03:23:31.000Z",
    "summary": "42 points · 23 comments"
+  },
+  {
+   "id": "da92d7e6f0164df2",
+   "title": "Walgit: A Git server that is one binary in front of an object store",
+   "url": "https://github.com/rgodha24/walgithub",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T03:09:50.000Z",
+   "summary": "58 points · 7 comments"
   },
   {
    "id": "9093ccfd83951b89",
@@ -1376,6 +1601,15 @@
    "section": "tech",
    "publishedAt": "2026-09-25T22:19:53.000Z",
    "summary": "Apple updated TestFlight this week with support for landscape orientation, and for macOS 27 Golden Gate’s new resizable iPhone Mirroring window. Here are the details. more…"
+  },
+  {
+   "id": "984a15ca69a4d2d3",
+   "title": "Kicki: A DECsystem1060 – Interim Computer Museum",
+   "url": "https://icm.museum/blog/?p=207",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T22:11:57.000Z",
+   "summary": "7 points · 1 comments"
   },
   {
    "id": "e3d904e669f5a681",
@@ -2213,6 +2447,15 @@
    "section": "tech",
    "publishedAt": "2026-09-25T14:44:02.000Z",
    "summary": "Apple has a big October ahead, with several major hardware and software launches coming. Here’s everything to expect from Apple in October. more…"
+  },
+  {
+   "id": "3300d2c359dbbefc",
+   "title": "John Coltrane Centenary's – Impulse Records Release the Legendary Tiberi Tapes",
+   "url": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-25T14:38:06.000Z",
+   "summary": "22 points · 5 comments"
   },
   {
    "id": "a2a4742bb403f6df",
