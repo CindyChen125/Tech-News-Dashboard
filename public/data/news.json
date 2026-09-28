@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-28T01:35:19.371Z",
+ "updatedAt": "2026-09-28T07:36:46.233Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,69 @@
   }
  ],
  "items": [
+  {
+   "id": "51ebb8962b8d00fd",
+   "title": "You can now preorder the tiny Boox Picco ereader",
+   "url": "https://www.engadget.com/2268196/you-can-now-preorder-the-tiny-boox-picco-ereader/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-28T07:00:00.000Z",
+   "summary": "It's so cuuuuuuute!"
+  },
+  {
+   "id": "6b6da18b02c7062d",
+   "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+   "url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-28T04:30:00.000Z",
+   "summary": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market."
+  },
+  {
+   "id": "f685792c7f34a0ee",
+   "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+   "url": "https://arxiv.org/abs/2110.01834",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-28T03:23:53.000Z",
+   "summary": "73 points · 12 comments"
+  },
+  {
+   "id": "d00d39598f2b99e1",
+   "title": "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
+   "url": "https://efraingaray.com/en/blog/tabpfn-vs-xgboost/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-28T02:27:40.000Z",
+   "summary": "19 points · 9 comments"
+  },
+  {
+   "id": "6b235f9878a64107",
+   "title": "Owed a billion dollars in Nvidia stock",
+   "url": "https://colo.to/nvidia-stock-narrative.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-28T02:05:13.000Z",
+   "summary": "520 points · 208 comments"
+  },
+  {
+   "id": "73c35ade9fa2d427",
+   "title": "Packing Binary Is Fun",
+   "url": "https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-28T01:33:51.000Z",
+   "summary": "8 points · 2 comments"
+  },
+  {
+   "id": "309b1acef527e808",
+   "title": "Was silent reading unusual during Augustine's time?",
+   "url": "https://www.historyofinformation.com/detail.php?entryid=4341",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-28T01:22:28.000Z",
+   "summary": "43 points · 16 comments"
+  },
   {
    "id": "d42cc10538a5ed48",
    "title": "Self-parking car using genetic algorithm (2021)",
@@ -323,6 +386,15 @@
    "section": "tech",
    "publishedAt": "2026-09-27T19:04:19.000Z",
    "summary": "39 points · 14 comments"
+  },
+  {
+   "id": "3a9fa1053c89167c",
+   "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+   "url": "https://www.inkandswitch.com/essay/malleable-software/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-27T19:01:31.000Z",
+   "summary": "57 points · 23 comments"
   },
   {
    "id": "398518bebe8a0f6d",
@@ -1477,6 +1549,15 @@
    "summary": "A roundup of recent reviews from Engadget."
   },
   {
+   "id": "3cbffb36e7295907",
+   "title": "The Greatest Pun in JavaScript",
+   "url": "https://shukla.io/blog/2026-09/pun.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T11:18:43.000Z",
+   "summary": "19 points · 8 comments"
+  },
+  {
    "id": "b647c775949f85fe",
    "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
    "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
@@ -1693,6 +1774,15 @@
    "summary": "135 points · 24 comments"
   },
   {
+   "id": "e8254d75c346f8a2",
+   "title": "Functional Mechanical Sympathy [video]",
+   "url": "https://www.youtube.com/watch?v=jSHmDnUZCm8",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T01:26:56.000Z",
+   "summary": "7 points · 0 comments"
+  },
+  {
    "id": "eff2403abb13ee25",
    "title": "OpenAI accuses Apple of improperly adding new evidence to trade secrets case",
    "url": "https://9to5mac.com/2026/09/25/openai-accuses-apple-of-improperly-adding-new-evidence-to-trade-secrets-case/",
@@ -1754,6 +1844,15 @@
    "section": "tech",
    "publishedAt": "2026-09-26T00:29:48.000Z",
    "summary": "11 points · 12 comments"
+  },
+  {
+   "id": "04b0fc8e8a0caabc",
+   "title": "Deterministic Concurrency [video]",
+   "url": "https://www.youtube.com/watch?v=25x0UuSCKuU",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T00:14:04.000Z",
+   "summary": "21 points · 2 comments"
   },
   {
    "id": "0e43818eeaa6b7b7",
