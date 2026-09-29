@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-29T15:03:45.300Z",
+ "updatedAt": "2026-09-29T19:57:47.764Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1235
+   "count": 1238
   },
   {
    "name": "Google DeepMind",
@@ -34,9 +34,8 @@
   {
    "name": "Apple Newsroom",
    "section": "tech",
-   "ok": false,
-   "count": 0,
-   "error": "fetch failed"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "The Verge",
@@ -53,9 +52,8 @@
   {
    "name": "TechCrunch",
    "section": "tech",
-   "ok": false,
-   "count": 0,
-   "error": "fetch failed"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "Engadget",
@@ -84,6 +82,690 @@
  ],
  "items": [
   {
+   "id": "c0db9e755cc4b409",
+   "title": "Apple Pay Reportedly Launching in India Today",
+   "url": "https://www.macrumors.com/2026/09/29/apple-pay-reportedly-launching-in-india-today/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-29T19:52:45.000Z",
+   "summary": "Apple Pay is set to launch in India later today (Wednesday local time), starting with Axis Bank credit cards on the Visa and Mastercard networks, according to TechCrunch. Related Roundup: Apple Pay Tags: India, TechCrunch Related Forum: Apple Music, Apple Pay/Card, iCloud, Fitness+ This article…"
+  },
+  {
+   "id": "534370552c097dd2",
+   "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+   "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-29T19:52:37.000Z",
+   "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut."
+  },
+  {
+   "id": "ef063ffca09ad45b",
+   "title": "Google partners with known nerd Henry Cavill on a video game to showcase Googlebooks",
+   "url": "https://www.engadget.com/2272594/google-henry-cavill-make-video-game-googlebook/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-29T19:49:27.000Z",
+   "summary": "The final result will be published in November."
+  },
+  {
+   "id": "09dc3826da4c357f",
+   "title": "How El Niño Made the Atlantic Hurricane Season Disappear",
+   "url": "https://www.wsj.com/us-news/climate-environment/how-el-nino-made-the-atlantic-hurricane-season-disappear-142b9ac9",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T19:41:20.000Z",
+   "summary": "4 points · 0 comments"
+  },
+  {
+   "id": "551e59450c7eb100",
+   "title": "Apple announces when you can start the iPhone Duo pre-order process",
+   "url": "https://9to5mac.com/2026/09/29/apple-announces-when-you-can-start-the-iphone-duo-pre-order-process/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-29T19:33:20.000Z",
+   "summary": "iPhone Duo pre-orders start on Friday, October 16, but Apple just announced when you can get an early start on the process. Here are the details. more…"
+  },
+  {
+   "id": "37738cc07b2f8f91",
+   "title": "Memory Companies Have Destroyed the Consumer Market",
+   "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T19:27:41.000Z",
+   "summary": "12 points · 0 comments"
+  },
+  {
+   "id": "c92ecbd413847645",
+   "title": "AI needs $6T in annual revenue to justify data centre boom",
+   "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-29T19:21:25.000Z",
+   "summary": "34 points · 8 comments"
+  },
+  {
+   "id": "60e5a3335bbf319f",
+   "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
+   "url": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T19:15:58.000Z",
+   "summary": "27 points · 7 comments"
+  },
+  {
+   "id": "a561c5f9741f8e79",
+   "title": "Xbox just unveiled Mythic Achievements, which are basically PlayStation platinum trophies",
+   "url": "https://www.engadget.com/2272478/xbox-mythic-achievements-are-here/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-29T19:05:58.000Z",
+   "summary": "They signal to the world that someone has fully completed a game. And they apply retroactively to titles you've already finished."
+  },
+  {
+   "id": "b01fc1edb439d0f7",
+   "title": "Early fall Prime Day deals now live: MacBook, AirTag 2, MagSafe gear, TVs, smart speakers, more",
+   "url": "https://9to5mac.com/2026/09/29/early-fall-prime-day-deals-now-live/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-29T19:05:02.000Z",
+   "summary": "Amazon’s early fall Prime Day sale is in full swing with thousands of price drops already up for grabs. While there will be plenty more Apple gear dropping in price come next week, we are already seeing AirTag 2 at the lowest price yet, $500 off this M5 Pro MacBook Pro, up to $150 off MacBook Air…"
+  },
+  {
+   "id": "e942feacf63175a5",
+   "title": "iOS 27.2: Three new features coming soon to your iPhone",
+   "url": "https://9to5mac.com/2026/09/29/ios-27-2-three-new-features-coming-soon-to-your-iphone/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-29T18:53:52.000Z",
+   "summary": "iOS 27.0.1 just launched yesterday, but Apple is already well on its way to preparing iOS 27.2 as a forthcoming iPhone update (with 27.1 likely iPhone Duo-only). Here are three new features coming with iOS 27.2. more…"
+  },
+  {
+   "id": "6b71f53ba8ad2ef8",
+   "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
+   "url": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-29T18:48:03.000Z",
+   "summary": "Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week. See what’s happening, find your people, and start building your calendar."
+  },
+  {
+   "id": "05422e481b0077cc",
+   "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
+   "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-29T18:45:00.000Z",
+   "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially."
+  },
+  {
+   "id": "ea38e40857a62216",
+   "title": "There's now an official US government AI chatbot",
+   "url": "https://www.engadget.com/2272424/america-gov-is-us-government-ai-chatbot/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-29T18:43:58.000Z",
+   "summary": "The administration wants America.gov to be the main portal for federal services."
+  },
+  {
+   "id": "00d15ba135ffa5e2",
+   "title": "Apple Releases New AirPods Beta Firmware",
+   "url": "https://www.macrumors.com/2026/09/29/apple-releases-new-airpods-beta-firmware-september/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-29T18:38:03.000Z",
+   "summary": "Apple today released new beta firmware for the AirPods Pro 2, AirPods Pro 3, AirPods 4, AirPods 5, and AirPods Max 2. The firmware has a build number of 9B5042a and is rolling out for developers and public beta testers. There's no word on what's included in the firmware update because Apple doesn't…"
+  },
+  {
+   "id": "4c8bc2ad3d484ca4",
+   "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+   "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-29T18:35:00.000Z",
+   "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
+  },
+  {
+   "id": "83ce10c471385165",
+   "title": "AirPods Pro 3 and more just got new firmware update in beta",
+   "url": "https://9to5mac.com/2026/09/29/airpods-pro-3-and-more-just-got-new-firmware-update-in-beta/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-29T18:34:24.000Z",
+   "summary": "Apple has new beta firmware rolling out now for AirPods Pro 3, AirPods Pro 2, and select other models. Here are the details. more…"
+  },
+  {
+   "id": "b377a4488f0b9ead",
+   "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
+   "url": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-29T18:34:00.000Z",
+   "summary": "So is SpaceX just being selfish or what?"
+  },
+  {
+   "id": "fd8ff015657830d5",
+   "title": "Gemini and Find Hub can help you locate your important documents — here's how",
+   "url": "https://www.engadget.com/2270766/gemini-find-hub-locate-important-documents/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-29T18:30:00.000Z",
+   "summary": "You can use Find Hub and Gemini to keep track of your documents without the need for a compatible tag."
+  },
+  {
+   "id": "efdc00c8214d755c",
+   "title": "Apple Shares New Guide for Using iOS 27 Parental Controls",
+   "url": "https://www.macrumors.com/2026/09/29/apple-ios-27-parental-control-guide/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-29T18:28:50.000Z",
+   "summary": "Apple today shared a guide meant to help parents use the child safety tools in iOS 27, iPadOS 27, and macOS Golden Gate. Apple says \"Building Healthy Digital Habits: A Guide for Families\" was developed in partnership with the American Academy of Pediatrics (AAP). The six-step guide covers balancing…"
+  },
+  {
+   "id": "f33e0c2c52c5f88c",
+   "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+   "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-09-29T18:11:09.000Z",
+   "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\""
+  },
+  {
+   "id": "20d3fa70f406c471",
+   "title": "The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging",
+   "url": "https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T18:09:50.000Z",
+   "summary": "50 points · 37 comments"
+  },
+  {
+   "id": "7fe1cb87ff3bc587",
+   "title": "Apple's new iPhone and iPad security feature can protect you from scammers",
+   "url": "https://www.engadget.com/2271157/apple-iphone-ipad-impersonator-risk-detection-new-security-feature/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-29T18:00:00.000Z",
+   "summary": "One of iOS 27's coolest security features didn't make headlines, but it could stop you from falling for a scam."
+  },
+  {
+   "id": "13f0321c080e2220",
+   "title": "Apple Creator Studio and Final Cut Camera Get New Features",
+   "url": "https://www.macrumors.com/2026/09/29/apple-creator-studio-new-features/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-29T17:57:56.000Z",
+   "summary": "Apple today updated Apple Creator Studio and Final Cut Camera for iOS to add new features. Final Cut Camera, Apple's professional iPhone filming app, now supports the variable aperture feature on the iPhone 18 Pro. Users can tweak aperture and select between aperture priority and shutter priority…"
+  },
+  {
+   "id": "7baa52a5e5b1a76e",
+   "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+   "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-29T17:45:51.000Z",
+   "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies."
+  },
+  {
+   "id": "95fece77c66cc42b",
+   "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-29T17:35:03.000Z",
+   "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research…"
+  },
+  {
+   "id": "756c0ffb7f3a6b35",
+   "title": "Apple Explains Why It Removed ICE Tracking Apps Last Year",
+   "url": "https://www.macrumors.com/2026/09/29/apple-explains-why-it-removed-ice-tracking-apps/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-29T17:33:49.000Z",
+   "summary": "In a July 2026 letter addressed to U.S. Representative Jamie Raskin (D-MD), Apple said its decision to remove ICEBlock and similar apps that crowdsourced the real-time locations of U.S. Immigration and Customs Enforcement (ICE) agents from the App Store was \"prompted by concerns\" about \"agent…"
+  },
+  {
+   "id": "0aa5d96433e51cd6",
+   "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T17:31:26.000Z",
+   "summary": "16 points · 8 comments"
+  },
+  {
+   "id": "6499cbaa0b4cf6a5",
+   "title": "Apple releases guide to help families ‘build healthy digital habits’",
+   "url": "https://9to5mac.com/2026/09/29/apple-releases-guide-to-help-families-build-healthy-digital-habits/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-29T17:31:25.000Z",
+   "summary": "Apple has teamed up with the American Academy of Pediatrics (AAP) to launch a new guide to “help families create healthy digital habits.” The new guide follows Apple’s launch of a range of new child safety features in iOS 27. more…"
+  },
+  {
+   "id": "a20426179087ed3c",
+   "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
+   "url": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-29T17:29:14.000Z",
+   "summary": "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional."
+  },
+  {
+   "id": "57a727db218deb4a",
+   "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
+   "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-29T17:27:09.000Z",
+   "summary": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop."
+  },
+  {
+   "id": "b1ffc3ec9e92c97a",
+   "title": "ChatGPT Pro 500",
+   "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-29T17:26:27.000Z",
+   "summary": "139 points · 143 comments"
+  },
+  {
+   "id": "02a2b705232eaa66",
+   "title": "AI-powered app maker Wabi pivots to a messaging experience",
+   "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-29T17:20:00.000Z",
+   "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks."
+  },
+  {
+   "id": "2fcfe7d78d0c8301",
+   "title": "Razer’s low-latency wireless gaming keyboard is almost half off",
+   "url": "https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-29T17:19:07.000Z",
+   "summary": "Razer’s DeathStalker V2 Pro is discounted in both black and white. | Image: The Verge Woot has the Razer DeathStalker V2 Pro TKL on sale for $130, a significant discount from its usual $219.99 price point. This keyboard is built for competitive gaming, with a low latency 2.4GHz wireless connection…"
+  },
+  {
+   "id": "00c71acdafaf8436",
+   "title": "OpenAI launches Dots, its bubbly agentic avatar",
+   "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-29T17:17:15.000Z",
+   "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
+  },
+  {
+   "id": "daef42b2054fd665",
+   "title": "Pages, Keynote, Numbers, and Pixelmator Pro just got new features",
+   "url": "https://9to5mac.com/2026/09/29/pages-keynote-numbers-and-pixelmator-pro-just-got-new-features/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-29T17:15:52.000Z",
+   "summary": "Today alongside a big update to Final Cut Camera, Apple announced that it’s rolling out updated versions of Pages, Keynote, Numbers, Pixelmator Pro, and Freeform. Here’s what’s new. more…"
+  },
+  {
+   "id": "7e236e52d75610bb",
+   "title": "OpenAI launches Dots, its Muse competitor",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-29T17:15:00.000Z",
+   "summary": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly…"
+  },
+  {
+   "id": "ccd4bc9779ff7937",
+   "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+   "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-29T17:15:00.000Z",
+   "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes."
+  },
+  {
+   "id": "9c6c3a322f8159ee",
+   "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+   "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-29T17:15:00.000Z",
+   "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows."
+  },
+  {
+   "id": "6e1a2956cdf98306",
+   "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+   "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-29T17:15:00.000Z",
+   "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
+  },
+  {
+   "id": "9b05ee889ff98fd4",
+   "title": "ChatGPT Space is a shared hub for work projects and personal AI agents",
+   "url": "https://www.engadget.com/2272248/chatgpt-space-for-work/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-29T17:15:00.000Z",
+   "summary": "ChatGPT is coming to Slack and Microsoft Teams too."
+  },
+  {
+   "id": "3f015f967c930526",
+   "title": "OpenAI adds $500(!) Pro subscription, nerfs its existing $200 tier",
+   "url": "https://www.engadget.com/2272106/openai-adds-dollar500-pro-subscription-nerfs-its-existing-dollar200-tier/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-29T17:15:00.000Z",
+   "summary": "How long until every other AI company does the same?"
+  },
+  {
+   "id": "5660adc599c93fb6",
+   "title": "Dots are OpenAI's new personal agents and soon you'll be able to control several of them",
+   "url": "https://www.engadget.com/2272230/dots-are-openais-new-personal-agents-and-soon-youll-be-able-to-control-several-of-them/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-29T17:15:00.000Z",
+   "summary": "Sure, seems safe."
+  },
+  {
+   "id": "c7cddb50d128606b",
+   "title": "Tcl/Tk 9.1 Released",
+   "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T17:13:38.000Z",
+   "summary": "133 points · 32 comments"
+  },
+  {
+   "id": "2faffd5087d6d16c",
+   "title": "Amazon Expands $779.99 Apple Watch Ultra 4 Deal to More Models",
+   "url": "https://www.macrumors.com/2026/09/29/amazon-779-99-apple-watch-ultra-4/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-29T17:13:30.000Z",
+   "summary": "The new Apple Watch Ultra 4 just launched this month, and Amazon is offering the first cash discounts on select models. You can get the Apple Watch Ultra 4 for $779.99, down from $799.00. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase…"
+  },
+  {
+   "id": "401d81e53affc40e",
+   "title": "Protesters gather at OpenAI’s DevDay",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-29T17:12:27.000Z",
+   "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" More than a dozen organizations came together to…"
+  },
+  {
+   "id": "b9409e78c264df92",
+   "title": "Switch Siri AI for ChatGPT on Your Mac",
+   "url": "https://www.macrumors.com/how-to/make-chatgpt-answer-siri-mac/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-09-29T17:08:53.000Z",
+   "summary": "In macOS 27 Golden Gate, Siri AI is a lot smarter than before, so it doesn't always flail and attempt to hand your questions over to ChatGPT. However, if you still prefer OpenAI's chatbot for certain queries, you can still ask for it explicitly. In macOS Tahoe, Siri would suggest passing a request…"
+  },
+  {
+   "id": "6975ae849c18f0a9",
+   "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
+   "url": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
+   "source": "Apple Newsroom",
+   "section": "tech",
+   "publishedAt": "2026-09-29T17:00:57.163Z",
+   "summary": "Final Cut Camera gets a major update with a new design, support for variable aperture on iPhone 18 Pro, and more pro options with iOS 27."
+  },
+  {
+   "id": "ffa65cf12517e29a",
+   "title": "Final Cut Camera updated with support for iPhone 18 Pro features, more",
+   "url": "https://9to5mac.com/2026/09/29/final-cut-camera-iphone-18-pro-features/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-29T17:00:40.000Z",
+   "summary": "Apple is rolling out a big update to Final Cut Camera today, the pro video app it first released for iPhone back in 2024. The update introduces a new design along with support for variable aperture on iPhone 18 Pro. more…"
+  },
+  {
+   "id": "2a56676973458afd",
+   "title": "McDonald's is reportedly using AI to \"dynamically\" price its burgers",
+   "url": "https://www.engadget.com/2272211/mcdonalds-is-reportedly-using-ai-to-dynamically-price-its-burgers/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-29T17:00:25.000Z",
+   "summary": "Its food isn't the only thing leaving a bad taste in customers' mouths."
+  },
+  {
+   "id": "f8035204c116eb56",
+   "title": "New updates coming to Apple Creator Studio",
+   "url": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
+   "source": "Apple Newsroom",
+   "section": "tech",
+   "publishedAt": "2026-09-29T17:00:02.643Z",
+   "summary": "Apple today introduced updates to Apple Creator Studio, its groundbreaking collection of creative and productivity apps."
+  },
+  {
+   "id": "79e0337133f38b25",
+   "title": "Apple releases new guide to help families build healthy digital habits",
+   "url": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
+   "source": "Apple Newsroom",
+   "section": "tech",
+   "publishedAt": "2026-09-29T16:59:08.275Z",
+   "summary": "Today, in partnership with the American Academy of Pediatrics, Apple released a new guide to help families create healthy digital habits."
+  },
+  {
+   "id": "3396bbaefabc3720",
+   "title": "Apple Says Emergency SOS via Satellite Now Available in Norway",
+   "url": "https://www.macrumors.com/2026/09/29/emergency-sos-via-satellite-in-norway/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-29T16:57:05.000Z",
+   "summary": "Emergency SOS via satellite is now available in Norway, according to an Apple support document updated today. Tags: Emergency SOS via Satellite, iPhone Satellite Features This article, \"Apple Says Emergency SOS via Satellite Now Available in Norway\" first appeared on MacRumors.com Discuss this…"
+  },
+  {
+   "id": "4e5f6500ea751559",
+   "title": "Can a chatbot fix the government maze? The White House is about to find out",
+   "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-29T16:55:56.000Z",
+   "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues."
+  },
+  {
+   "id": "6ed2f4cdeb4f9003",
+   "title": "How to get your money's worth from Xbox Game Pass Ultimate",
+   "url": "https://www.engadget.com/2270994/xbox-game-pass-ultimate-get-moneys-worth/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-29T16:45:00.000Z",
+   "summary": "If you don't value day-one releases or the other perks on offer, Ultimate might not be the tier for you."
+  },
+  {
+   "id": "0eb44adb212934b0",
+   "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+   "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-29T16:30:48.000Z",
+   "summary": "367 points · 243 comments"
+  },
+  {
+   "id": "b10f88cf584a49f8",
+   "title": "AppleCare Guide: Is it Worth Paying For?",
+   "url": "https://www.macrumors.com/guide/applecare/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-29T16:29:33.000Z",
+   "summary": "Most Apple products come with a one-year limited warranty that covers hardware failures and manufacturing defects, and up to 90 days of complimentary technical support. To extend your coverage further, Apple offers AppleCare+ and AppleCare One, with theft and loss coverage available for eligible…"
+  },
+  {
+   "id": "01fcfddd20eb8abe",
+   "title": "What if Jev spoke Arrow?",
+   "url": "https://columnar.tech/blog/what-if-jev-spoke-arrow/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T16:25:09.000Z",
+   "summary": "19 points · 5 comments"
+  },
+  {
+   "id": "11606d04f3fae499",
+   "title": "Xbox’s Mythic Achievements are here and they’re just like PlayStation Platinum trophies",
+   "url": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-29T16:17:01.000Z",
+   "summary": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trophies and are unlocked once you've earned every original achievement for a game. \"Mythic…"
+  },
+  {
+   "id": "6926e1b78ea7f26e",
+   "title": "The reason why prebuilt PCs might be a better buy in 2026",
+   "url": "https://www.engadget.com/2270975/prebuilt-pcs-why-better-buy-in-2026/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-29T16:15:00.000Z",
+   "summary": "Building a PC has long provided a better value while letting you get exactly what you want. But off-the-shelf PCs can be more affordable in today's climate."
+  },
+  {
+   "id": "923e04770e97e721",
+   "title": "Apple Reportedly Planned to Replace 5,000 Support Employees With AI",
+   "url": "https://www.macrumors.com/2026/09/29/apple-reportedly-planned-5000-applecare-layoffs/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-09-29T16:11:17.000Z",
+   "summary": "Apple recently considered laying off about 5,000 support employees, but it has put those plans on hold indefinitely, according to Bloomberg's Mark Gurman. The report said that Apple believed that AI-powered phone and web agents could take over some of the responsibilities performed by the employees…"
+  },
+  {
+   "id": "7f36dee6ac9a9a1c",
+   "title": "Apple’s new CEO could change when it launches phones and laptops",
+   "url": "https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-29T16:09:44.000Z",
+   "summary": "John Ternus, Apple's new CEO, wants Apple to launch products more often than its usual splashy moments in the fall and the spring, according to a Bloomberg report detailing some of Ternus's initial plans for the company. Apple regularly holds iPhone launch events in September and often announces…"
+  },
+  {
+   "id": "36904ee4fe3fa0bc",
+   "title": "OpenAI makes 20+ announcements at DevDay event including always-on agents called dots, watch live",
+   "url": "https://9to5mac.com/2026/09/29/openai-teases-20-announcements-at-devday-watch-live/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-09-29T16:03:40.000Z",
+   "summary": "OpenAI has teased 20+ announcements as part of its DevDay 2026 event. The event will be streamed live. You can see everything announced today below. more…"
+  },
+  {
+   "id": "3dd5dedb34c502cf",
+   "title": "Here’s how many iPhone Duo units Apple is reportedly making",
+   "url": "https://9to5mac.com/2026/09/29/heres-how-many-iphone-duo-units-apple-is-reportedly-making/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-29T16:02:53.000Z",
+   "summary": "A recent report from Chinese outlet Jiemian News offers an update on iPhone Duo production, including how many units are being made, assembly troubles, and more. more…"
+  },
+  {
+   "id": "bacba3a50ce725c4",
+   "title": "OpenAI DevDay 2026: The biggest news and announcements",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-29T16:00:00.000Z",
+   "summary": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots, its AI agent product that rivals Meta’s recently-launched Muse…"
+  },
+  {
+   "id": "7073ac4772267fe0",
+   "title": "This might be our first look at Google’s Pixel 11A",
+   "url": "https://www.theverge.com/tech/1002072/google-pixel-11a-leaked-renders-first-look",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-29T15:57:10.000Z",
+   "summary": "The only noticable difference is that the camera oval is shorter. | Image: Android Headlines Google isn't making any significant design changes to its upcoming midrange Pixel update, judging by the leaks shared by Android Headlines. The image renders made by OnLeaks are potentially our first look…"
+  },
+  {
+   "id": "afc64def23fecdda",
+   "title": "Apple Planning to Launch Products Faster and More Often",
+   "url": "https://www.macrumors.com/2026/09/29/apple-to-launch-products-faster-and-more-often/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-29T15:55:40.000Z",
+   "summary": "Apple CEO John Ternus is undertaking efforts to restructure the company to accelerate product development and introduce new products more frequently, according to Bloomberg's Mark Gurman. Ternus apparently wants Apple to \"broaden its range of devices and create a leaner organization with a greater…"
+  },
+  {
+   "id": "063566f7b42c5c41",
+   "title": "Do you really need a travel router? Here's what to know",
+   "url": "https://www.engadget.com/2270789/travel-router-do-you-need-one/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-29T15:45:00.000Z",
+   "summary": "Travel routers simplify the process of connecting a half-dozen devices to hotel Wi-Fi, but they aren't necessary in simpler setups."
+  },
+  {
+   "id": "c26a7afd0076e8c7",
+   "title": "How IMAX Dome theaters offer a different experience to regular IMAX",
+   "url": "https://www.engadget.com/2270867/how-imax-dome-different-experience-regular-compared/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-29T15:45:00.000Z",
+   "summary": "It's a less-cinematic experience that's been the highlight of many museum field trips."
+  },
+  {
+   "id": "60b68d334088b16a",
+   "title": "PS5 Relapse Exploit",
+   "url": "https://github.com/ntfargo/Relapse-Exploit",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T15:44:41.000Z",
+   "summary": "125 points · 64 comments"
+  },
+  {
+   "id": "36d07b7550785721",
+   "title": "John Ternus has big plans to make Apple ‘leaner’ and release more products",
+   "url": "https://9to5mac.com/2026/09/29/john-ternus-apple-new-products-leaner/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-29T15:39:23.000Z",
+   "summary": "New CEO John Ternus has plans to “overhaul” Apple in an attempt to make it “run faster and leaner,” according to a new report from Bloomberg. This includes introducing more products, eliminating “middle-management positions,” and much more. more…"
+  },
+  {
+   "id": "21852473b1ff2cdd",
+   "title": "Deals: M5 MacBook Air, MacBook Pro $500 off, Mac Studio, accessories from $20 or less, more",
+   "url": "https://9to5mac.com/2026/09/29/deals-macbook-air-macbook-pro-mac-studio-accessories/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-29T15:35:22.000Z",
+   "summary": "The early fall Amazon Prime Day sale rolls in with a collection of new discounts, alongside the solid $50 price drop on the brand new Mac Studio and up to $150 off M5 MacBook Air models. We are also now tracking deep $500 price drop on both the Silver and Space Black 2TB M5 Pro MacBook Pro, ongoing…"
+  },
+  {
+   "id": "ae9cd83791158032",
+   "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+   "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-09-29T15:30:38.000Z",
+   "summary": ""
+  },
+  {
+   "id": "858a74a1f6245698",
+   "title": "Affordable alternatives to Sonos speakers",
+   "url": "https://www.engadget.com/2269365/affordable-alternatives-to-sonos-speakers/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-29T15:30:00.000Z",
+   "summary": "Getting good multi-room audio doesn't have to break the bank."
+  },
+  {
+   "id": "a9be04775973971c",
+   "title": "Senate report claims Iran is using Tether's stablecoin to evade sanctions",
+   "url": "https://www.engadget.com/2272053/senate-report-claims-iran-is-using-tethers-stablecoin-to-evade-sanctions/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-29T15:29:32.000Z",
+   "summary": "Cryptocurrency linked to crime; in other news: fork found in drawer."
+  },
+  {
+   "id": "36f9fc964abf7ba8",
+   "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+   "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-29T15:12:07.000Z",
+   "summary": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate."
+  },
+  {
    "id": "fdaee51cc5266608",
    "title": "OpenAI Dev Day 2026: Live updates on the latest ChatGPT and Codex announcements",
    "url": "https://www.engadget.com/2271985/openai-dev-day-live-blog-chatgpt-news/",
@@ -91,6 +773,33 @@
    "section": "ai",
    "publishedAt": "2026-09-29T15:00:10.000Z",
    "summary": "CEO Sam Altman is expected to take the stage today."
+  },
+  {
+   "id": "dafa9fbfbd6996c2",
+   "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
+   "url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-29T15:00:00.000Z",
+   "summary": "Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions."
+  },
+  {
+   "id": "2482f30b038c6edf",
+   "title": "Oura shelves its $2.2B IPO, citing ‘uncertainty’ in the market",
+   "url": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-29T14:56:55.000Z",
+   "summary": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders."
+  },
+  {
+   "id": "93d9873c863ae5b3",
+   "title": "This study looks at how and with whom connected cars share your data",
+   "url": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-29T14:49:44.000Z",
+   "summary": "Between the cars and their companion apps, you’re exposed to a lot of trackers."
   },
   {
    "id": "3a1726b1fef26d76",
@@ -237,6 +946,15 @@
    "summary": "The tech should reduce audio distortion for these over-ear ANC cans."
   },
   {
+   "id": "683ee18e74384c95",
+   "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+   "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-29T13:53:01.000Z",
+   "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom."
+  },
+  {
    "id": "f365703781ef8292",
    "title": "Apple TV unveils chilling serial killer thriller based on bestselling novel",
    "url": "https://9to5mac.com/2026/09/29/apple-tv-unveils-chilling-serial-killer-thriller-based-on-bestselling-novel/",
@@ -273,6 +991,15 @@
    "summary": "Meta last year launched a school partnership program for Instagram, in which it promised to prioritize student reports of cyberbullying. The company has now expanded the program to allow schools to post stories and notes that only their own students can view – alongside support for clubs, teams…"
   },
   {
+   "id": "672deeaed577783b",
+   "title": "Meta is expanding its AI agent Muse to small businesses",
+   "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-29T13:47:30.000Z",
+   "summary": "The tech giant says the agent can help owners run their business and find new customers."
+  },
+  {
    "id": "8aa06c7b44ef844f",
    "title": "How much VRAM should you look for in a graphics card?",
    "url": "https://www.engadget.com/2270642/how-much-vram-look-for-graphics-card/",
@@ -298,6 +1025,15 @@
    "section": "tech",
    "publishedAt": "2026-09-29T13:30:00.000Z",
    "summary": "A self-heating mug is a great idea, but for $150, Ember's third-generation flagship is a tough sell."
+  },
+  {
+   "id": "68294e4aa902ea99",
+   "title": "Still running iOS 26? Update your iPhones, iPads, and Macs for this urgent security fix",
+   "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-29T13:25:21.000Z",
+   "summary": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using."
   },
   {
    "id": "c33cce7dc4812a4d",
@@ -424,6 +1160,24 @@
    "section": "tech",
    "publishedAt": "2026-09-29T13:00:00.000Z",
    "summary": "QALO, better known for making silicone jewelry, is launching its own Whoop-esque fitness band."
+  },
+  {
+   "id": "92e2a9d5b119f0a1",
+   "title": "Fireflies adds dictation to its desktop notetaking apps",
+   "url": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-29T13:00:00.000Z",
+   "summary": "Fireflies said that it won't charge extra for the new dictation feature, which can be used with any desktop app."
+  },
+  {
+   "id": "8cb1d928a840fe65",
+   "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+   "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-29T12:45:05.000Z",
+   "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events."
   },
   {
    "id": "86b17343da163bd5",
@@ -624,6 +1378,24 @@
    "summary": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000…"
   },
   {
+   "id": "afef72f97c48960f",
+   "title": "DevDay 2026 Recap",
+   "url": "https://openai.com/index/devday-2026-recap",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-29T10:00:00.000Z",
+   "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
+  },
+  {
+   "id": "c798f2b161f8761f",
+   "title": "Introducing GPT-6.1 Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-29T10:00:00.000Z",
+   "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
+  },
+  {
    "id": "dbda11d5ef0616f9",
    "title": "Anthropic lost $8 billion last year and said its AI could destroy humanity",
    "url": "https://www.engadget.com/2271659/anthropic-lost-8-billion-says-it-could-destroy-humanity/",
@@ -811,6 +1583,15 @@
    "section": "tech",
    "publishedAt": "2026-09-29T00:04:54.000Z",
    "summary": "We've seen previews of iOS 27 running on the iPhone Duo, including a new StandBy mode that activates even when the iPhone isn't charging. Apple showed the mode in press materials, but leaker pdfu today shared a more in-depth look at some of the options. There are multiple StandBy faces available on…"
+  },
+  {
+   "id": "df8e0f598c9747f5",
+   "title": "Introducing dots",
+   "url": "https://openai.com/index/introducing-dots",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-29T00:00:00.000Z",
+   "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
   },
   {
    "id": "508bfb416bba68d5",
@@ -1063,6 +1844,15 @@
    "section": "tech",
    "publishedAt": "2026-09-28T20:18:05.000Z",
    "summary": "89 points · 21 comments"
+  },
+  {
+   "id": "5a123641e9725b22",
+   "title": "Virus Stole a Human Gene and Won't Let Go of It",
+   "url": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-28T20:07:14.000Z",
+   "summary": "43 points · 6 comments"
   },
   {
    "id": "d0bb7b749d91a64b",
@@ -1875,6 +2665,15 @@
    "summary": "13 points · 3 comments"
   },
   {
+   "id": "5fa092d1a4fda1e2",
+   "title": "A Staff Engineer's Guide to Inventing Work",
+   "url": "https://sujithjay.com/inventing-work",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-28T14:46:07.000Z",
+   "summary": "103 points · 27 comments"
+  },
+  {
    "id": "7fc70c166438d199",
    "title": "Robot dogs on farms do a lot more than just guarding",
    "url": "https://www.engadget.com/2268588/farmers-new-job-for-robot-dogs/",
@@ -1945,6 +2744,15 @@
    "section": "tech",
    "publishedAt": "2026-09-28T14:05:00.000Z",
    "summary": "Modulate deploys its models to detect deepfake, fraud and scam"
+  },
+  {
+   "id": "07453a40b36e9600",
+   "title": "Walking Men",
+   "url": "https://bookofjoe2.blogspot.com/2026/09/walking-men.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-28T14:00:17.000Z",
+   "summary": "63 points · 21 comments"
   },
   {
    "id": "c8fd106217d95aef",
@@ -2539,6 +3347,15 @@
    "section": "tech",
    "publishedAt": "2026-09-27T21:38:44.000Z",
    "summary": "For the past year, we’ve been looking forward to a new iPad mini refresh, and it’s sounding like its just around the corner. A new leak last week from Aaron Perris unveiled that the product should feature an A20 Pro chip and thinner bezels, and we already know it’ll feature OLED and a water…"
+  },
+  {
+   "id": "68233ef9d93237a1",
+   "title": "NAND-16: a computer built from 277,248 NAND gates",
+   "url": "https://somethingbig.ai/computer",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-27T21:26:06.000Z",
+   "summary": "42 points · 25 comments"
   },
   {
    "id": "cbb7ac0d9c7f886a",
