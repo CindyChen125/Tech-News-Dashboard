@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-29T01:51:02.994Z",
+ "updatedAt": "2026-09-29T08:22:25.163Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1234
+   "count": 1235
   },
   {
    "name": "Google DeepMind",
@@ -81,6 +81,42 @@
   }
  ],
  "items": [
+  {
+   "id": "0bfc56242bf93a67",
+   "title": "OpenAI reportedly cancels GPT-6.1 Astra's release over deceptive behavior",
+   "url": "https://www.engadget.com/2271626/openai-cancels-gpt-6-1-astra-release-deceptive-behavior/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-29T08:15:26.000Z",
+   "summary": "According to The New York Times, OpenAI scrapped GPT-6.1 Astra's release because it didn't meet safety standards."
+  },
+  {
+   "id": "c2691de785487878",
+   "title": "Opera for Android now comes with a free eSIM and 3GB of data",
+   "url": "https://www.engadget.com/2271064/opera-for-android-now-comes-with-a-free-esim-and-3gb-of-data/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-29T08:00:00.000Z",
+   "summary": "It's limited to Opera users in certain countries, however."
+  },
+  {
+   "id": "0d7cd7f24ff0e891",
+   "title": "OpenAI: Tomorrow we are re-opening the Pro $200 subscription",
+   "url": "https://twitter.com/thsottiaux/status/2104823812042940713",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-29T07:07:53.000Z",
+   "summary": "39 points · 28 comments"
+  },
+  {
+   "id": "2cb64f469f53fa25",
+   "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+   "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-29T05:13:43.000Z",
+   "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity."
+  },
   {
    "id": "578f6fe5adeafc53",
    "title": "Emmy wins and recent premieres help Apple TV reach highest weekly viewership ever",
@@ -233,6 +269,15 @@
    "section": "tech",
    "publishedAt": "2026-09-28T22:53:05.000Z",
    "summary": "9to5Mac is brought to you by CleanMyMac by MacPaw. With the release of macOS 27 Golden Gate, use CleanMyMac first to free up space, optimize your system, and ensure your new Mac runs at 100% on day one. Learn more. One of the many new features included in macOS 27 Golden Gate is Safari’s new…"
+  },
+  {
+   "id": "729781bfb979efb2",
+   "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
+   "url": "https://jonclegg.github.io/pacman-bakeoff/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-28T22:43:12.000Z",
+   "summary": "47 points · 34 comments"
   },
   {
    "id": "8f5ddc17b0b51cb5",
@@ -584,6 +629,15 @@
    "section": "ai",
    "publishedAt": "2026-09-28T19:00:00.000Z",
    "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+  },
+  {
+   "id": "9547f4d18851b0eb",
+   "title": "Towards safety cases for frontier AI training",
+   "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-28T19:00:00.000Z",
+   "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
   },
   {
    "id": "437bece7b7f143fc",
@@ -980,6 +1034,15 @@
    "section": "tech",
    "publishedAt": "2026-09-28T16:31:28.000Z",
    "summary": "73 points · 21 comments"
+  },
+  {
+   "id": "d92b5ffd716dfeb8",
+   "title": "Phyllotaxis: An audio-reactive LED display",
+   "url": "https://jagi.studio/posts/phyllotaxis/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-28T16:18:57.000Z",
+   "summary": "119 points · 12 comments"
   },
   {
    "id": "f29f9a37f60107f9",
@@ -1558,6 +1621,15 @@
    "summary": "Apple is working on a \"completely revamped\" Vision Pro headset that could go in any of four directions and likely won't arrive before late 2028 or early 2029, according to Bloomberg's Mark Gurman. Writing in his latest Power On newsletter, Gurman said Apple's Vision team is exploring four concepts…"
   },
   {
+   "id": "fdd982ff486be36f",
+   "title": "The systems that no one will test",
+   "url": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-28T10:51:46.000Z",
+   "summary": "36 points · 8 comments"
+  },
+  {
    "id": "5467c433ba8896da",
    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
    "url": "https://git.mills.io/prologic/parley",
@@ -1909,6 +1981,15 @@
    "summary": "6 points · 0 comments"
   },
   {
+   "id": "cc72b52ddce7ae1d",
+   "title": "Booted up in 1993, this server still runs – but not for much longer (2017)",
+   "url": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-27T20:13:22.000Z",
+   "summary": "16 points · 3 comments"
+  },
+  {
    "id": "134d6c5de7392cdc",
    "title": "When did Google get so weird?",
    "url": "https://sancho.bearblog.dev/google-weird/",
@@ -2224,6 +2305,15 @@
    "summary": "41 points · 13 comments"
   },
   {
+   "id": "5df3fe755e88f1c8",
+   "title": "Who Killed Paulina Borsook's Career?",
+   "url": "https://www.wired.com/story/paulina-borsook-profile/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-27T14:25:00.000Z",
+   "summary": "47 points · 16 comments"
+  },
+  {
    "id": "587e67456e5d643f",
    "title": "Why letting Claude clean your TV's bloatware isn't the best idea",
    "url": "https://www.engadget.com/2267074/why-claude-cleaning-tv-bloatware-not-best-idea/",
@@ -2456,6 +2546,15 @@
    "section": "tech",
    "publishedAt": "2026-09-27T02:40:26.000Z",
    "summary": "64 points · 10 comments"
+  },
+  {
+   "id": "4988417033566300",
+   "title": "Simulating Airband AM Radios",
+   "url": "https://bitbashing.io/am-radio.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-27T02:01:35.000Z",
+   "summary": "29 points · 3 comments"
   },
   {
    "id": "cd5f378b7a380200",
@@ -2735,6 +2834,15 @@
    "section": "tech",
    "publishedAt": "2026-09-26T17:43:11.000Z",
    "summary": "102 points · 246 comments"
+  },
+  {
+   "id": "3b60505fa1e26774",
+   "title": "Show HN: Museum of Numbers",
+   "url": "https://numbermuseum.com/2147483647",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T17:36:47.000Z",
+   "summary": "21 points · 8 comments"
   },
   {
    "id": "2af25e71e6327592",
