@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-29T19:57:47.764Z",
+ "updatedAt": "2026-09-29T23:39:29.808Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,316 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 30
+   "count": 31
   }
  ],
  "items": [
+  {
+   "id": "ead170ad1879119f",
+   "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+   "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-29T23:30:55.000Z",
+   "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry."
+  },
+  {
+   "id": "85cd46f574d1a5b5",
+   "title": "The AI industry wants models to assist in legal battles, but will they help?",
+   "url": "https://www.engadget.com/2271692/ai-industry-want-use-models-legal-battle-law-assistance/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-29T23:30:00.000Z",
+   "summary": "After lawyers were fined for submitting AI filings packed with fictitious case law, AI companies are releasing new tools to ensure that doesn't happen again."
+  },
+  {
+   "id": "d49e2f9618e6c35c",
+   "title": "Can you still use your router if it doesn't get firmware updates?",
+   "url": "https://www.engadget.com/2271679/router-no-firmware-updates-can-still-use/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-29T23:00:00.000Z",
+   "summary": "Internet router manufacturers often do a good job of keeping their devices updated, but what should you do once they cease support? Here are some simple tips."
+  },
+  {
+   "id": "63c29b16f3d68a18",
+   "title": "How our vibe coded website looks like a designer made it",
+   "url": "https://railcode.dev/blog/vibe-coded-website",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T22:59:28.000Z",
+   "summary": "21 points · 17 comments"
+  },
+  {
+   "id": "6db4f782674f6266",
+   "title": "OpenAI Launches Always-On 'Dots' Agents to Rival Meta's Muse",
+   "url": "https://www.macrumors.com/2026/09/29/openai-launches-dots/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-09-29T22:45:10.000Z",
+   "summary": "OpenAI today announced the launch of \"Dots\" to compete with Meta's popular Muse agent. OpenAI describes Dots as always-on agents \"built to handle everything.\" Dots use the GPT–6 Astra model and have a cloud computer with a web browser, much like Muse. The agents learn from feedback over time, and…"
+  },
+  {
+   "id": "9cc8b066b83c34a5",
+   "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+   "url": "https://github.com/ninjahawk/livenerf",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T22:36:14.000Z",
+   "summary": "63 points · 31 comments"
+  },
+  {
+   "id": "4e63fda044fc17e4",
+   "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+   "url": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-29T22:30:37.000Z",
+   "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon."
+  },
+  {
+   "id": "027d9d034d548fb5",
+   "title": "How to prepare your Samsung Galaxy for the One UI 9 update",
+   "url": "https://www.engadget.com/2271451/prepare-samsung-galaxy-one-ui-9-update/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-29T22:30:00.000Z",
+   "summary": "With Samsung's One UI 9 rollout chugging along the globe, there's no better time to make a few quick checks before you make the switch."
+  },
+  {
+   "id": "a39aed91d498e450",
+   "title": "Trump orders US government to call AI ‘Super Intelligence’",
+   "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-29T22:25:45.000Z",
+   "summary": "Image: Carolyn Van Houten/The Washington Post via Getty Images The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new…"
+  },
+  {
+   "id": "a240cceb68432239",
+   "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+   "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-29T22:20:59.000Z",
+   "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
+  },
+  {
+   "id": "41db522850d2fa8d",
+   "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+   "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-29T22:18:35.000Z",
+   "summary": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies."
+  },
+  {
+   "id": "6ef6a60a81e648bb",
+   "title": "UnoDOS",
+   "url": "https://github.com/hmofet/unodos",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T22:10:23.000Z",
+   "summary": "8 points · 3 comments"
+  },
+  {
+   "id": "ec91e14b163ceab9",
+   "title": "BMW’s revamped i3 boasts up to 468 miles of range",
+   "url": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-29T22:01:00.000Z",
+   "summary": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German automaker is finally starting to fill in the blanks on the i3. Let's start with…"
+  },
+  {
+   "id": "6b103be808fcfe6b",
+   "title": "How do translation earbuds actually work?",
+   "url": "https://www.engadget.com/2271253/translation-earbuds-how-work-explained/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-29T22:00:00.000Z",
+   "summary": "Translation earbuds are gaining momentum, but actually using them may not be quite the experience you're expecting."
+  },
+  {
+   "id": "9ea9c1b3b03e0f48",
+   "title": "Apple TV renews French drama ‘Carême’ for season two",
+   "url": "https://9to5mac.com/2026/09/29/apple-tv-renews-french-drama-careme-for-season-two/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-29T21:55:56.000Z",
+   "summary": "Apple TV today announced that French-language drama “Carême” has been renewed for a second season. Here are the details. more…"
+  },
+  {
+   "id": "bca3ea2989bc8212",
+   "title": "Protests against OpenAI get increasingly creative",
+   "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-09-29T21:52:58.000Z",
+   "summary": "New sculpture depicts AI leaders escaping a sinking ship."
+  },
+  {
+   "id": "a337f9a07a2a9867",
+   "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+   "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-29T21:51:36.000Z",
+   "summary": "EliseAI raises $350M, doubles valuation in a year."
+  },
+  {
+   "id": "8179bb482bdc70ef",
+   "title": "Suspected ShinyHunters leader arrested in the Netherlands",
+   "url": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-29T21:50:31.000Z",
+   "summary": "Dutch police say they arrested a 24-year-old Amsterdam man in connection with ShinyHunters, the hacking group that claimed responsibility for high-profile attacks on Ticketmaster, Rockstar Games, and more recently, the FBI. In a press release, Dutch authorities state that they arrested the suspect…"
+  },
+  {
+   "id": "00ef3fa416377d96",
+   "title": "Elon Musk’s AI-powered Grokipedia is updating again",
+   "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-29T21:49:09.000Z",
+   "summary": "Elon Musk | Image: Laura Normand / The Verge Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates…"
+  },
+  {
+   "id": "7ff87df54ec0ae23",
+   "title": "Deser: Rethinking Rust Serialization",
+   "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T21:48:27.000Z",
+   "summary": "9 points · 3 comments"
+  },
+  {
+   "id": "03e28ea781544168",
+   "title": "AirPods 5 Teardown: Batteries Removable, Case Still Tough",
+   "url": "https://www.macrumors.com/2026/09/29/ifixit-airpods-5-teardown/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-29T21:38:41.000Z",
+   "summary": "Repair site iFixit today took apart Apple's AirPods 5 for one of its traditional teardown videos. It turns out the new AirPods are slightly more repairable than prior models, but it's still not a simple home fix. The ‌AirPods 5‌ use pronged batteries that Apple previously used in the AirPods 3, but…"
+  },
+  {
+   "id": "8773956ac0e9ae01",
+   "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
+   "url": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-29T21:20:12.000Z",
+   "summary": "The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures."
+  },
+  {
+   "id": "fb2772918abd2627",
+   "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+   "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-09-29T21:14:49.000Z",
+   "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion."
+  },
+  {
+   "id": "2625be678b2c2cea",
+   "title": "iPhone 18 Pro Owners Complain of Speaker Crackling or Popping",
+   "url": "https://www.macrumors.com/2026/09/29/iphone-18-pro-speaker-crackling/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-29T21:03:14.000Z",
+   "summary": "Some iPhone 18 Pro owners have noticed an unusual crackling sound coming from the speaker of the device, leading to complaints on the MacRumors forums and Reddit. Users have called it a crackle, a faint tick or pop, or random clicking. Many say the problem is with the earpiece speaker, and both the…"
+  },
+  {
+   "id": "761a011340d86aa0",
+   "title": "9to5Mac Daily: September 29, 2026 – iOS 27.0.1, iPhone Duo features",
+   "url": "https://9to5mac.com/2026/09/29/daily-september-29-2026/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-29T21:01:25.000Z",
+   "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff:Stuff helps you get everything out of your head…"
+  },
+  {
+   "id": "2d393cb569fa076c",
+   "title": "Codenames Party is the latest addition to Netflix Games",
+   "url": "https://www.engadget.com/2272720/codenames-party-is-the-latest-addition-to-netflix-games/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-29T21:00:07.000Z",
+   "summary": "The word association game introduces a new Party Mode for streaming subscribers."
+  },
+  {
+   "id": "3ac6f6c441b849c0",
+   "title": "iFixit teardown of the new AirPods 5 reveals first real repairability improvement",
+   "url": "https://9to5mac.com/2026/09/29/ifixit-teardown-of-the-new-airpods-5-reveals-first-real-repairability-improvement/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-29T20:54:37.000Z",
+   "summary": "iFixit’s teardown of the new AirPods 5 is now up, revealing an important, albeit tiny, repairability improvement. Watch it below. more…"
+  },
+  {
+   "id": "dc3ae72615199c3f",
+   "title": "Apple's iOS 27.0.1 update arrives with fixes for Face ID and touchscreen issues",
+   "url": "https://www.engadget.com/2272713/ios-27-0-1-iphone-update-face-id-touchscreen-issue-fixes/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-29T20:51:37.000Z",
+   "summary": "Why you should update your iPhone 18 Pro to iOS 27.0.1."
+  },
+  {
+   "id": "c7221a9287ed481f",
+   "title": "You Can 'Get Ready' for iPhone Duo Pre-Orders on October 12",
+   "url": "https://www.macrumors.com/2026/09/29/iphone-duo-get-ready-oct-12/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-29T20:44:06.000Z",
+   "summary": "People who plan to purchase an iPhone Duo can go through the \"Get Ready\" process starting on Monday, October 12. The new detail was added to the iPhone Duo product page yesterday, according to Reddit. Get Ready lets users select a preferred color and capacity, confirm their carrier status, choose…"
+  },
+  {
+   "id": "b40251f502dbd2b8",
+   "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
+   "url": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-29T20:23:40.000Z",
+   "summary": "FCC unlikely to stop Trump ads described as illegal taxpayer-funded propaganda."
+  },
+  {
+   "id": "232b8ad34f099369",
+   "title": "Apple faces renewed scrutiny over removal of ICEBlock from the App Store",
+   "url": "https://9to5mac.com/2026/09/29/apple-faces-renewed-scrutiny-over-removal-of-iceblock-from-the-app-store/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-29T20:18:24.000Z",
+   "summary": "CNN reports that Rep. Jamie Raskin sent a letter to Apple this week challenging the company’s explanation for removing ICEBlock from the App Store last year. Here are the details. more…"
+  },
+  {
+   "id": "220729cc067846c6",
+   "title": "Apple updates Final Cut Camera to support the iPhone 18 Pro's variable aperture",
+   "url": "https://www.engadget.com/2272667/apple-updates-final-cut-camera-to-support-the-iphone-18-pro-s-variable-aperture/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-29T20:17:31.000Z",
+   "summary": "The company is also rolling out new features across several of its Creator Studio apps."
+  },
+  {
+   "id": "557b365007e753cd",
+   "title": "Mozilla deploys a new-look Firefox across desktop and mobile",
+   "url": "https://www.engadget.com/2272664/mozilla-deploys-a-new-look-firefox-across-desktop-and-mobile/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-29T20:16:45.000Z",
+   "summary": "The redesigned browser brings back compact mode and adds a theme picker."
+  },
+  {
+   "id": "efd1e8ffaf5213e7",
+   "title": "OpenAI’s latest features take direct aim at the app store model",
+   "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-29T20:15:47.000Z",
+   "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike."
+  },
   {
    "id": "c0db9e755cc4b409",
    "title": "Apple Pay Reportedly Launching in India Today",
@@ -127,6 +433,15 @@
    "summary": "iPhone Duo pre-orders start on Friday, October 16, but Apple just announced when you can get an early start on the process. Here are the details. more…"
   },
   {
+   "id": "24bbf2ee0e22c0b2",
+   "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+   "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T19:30:17.000Z",
+   "summary": "144 points · 76 comments"
+  },
+  {
    "id": "37738cc07b2f8f91",
    "title": "Memory Companies Have Destroyed the Consumer Market",
    "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
@@ -152,6 +467,15 @@
    "section": "tech",
    "publishedAt": "2026-09-29T19:15:58.000Z",
    "summary": "27 points · 7 comments"
+  },
+  {
+   "id": "8261045c9b03c5e4",
+   "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+   "url": "https://space.bl2.net/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T19:08:01.000Z",
+   "summary": "74 points · 22 comments"
   },
   {
    "id": "a561c5f9741f8e79",
@@ -260,6 +584,24 @@
    "section": "tech",
    "publishedAt": "2026-09-29T18:28:50.000Z",
    "summary": "Apple today shared a guide meant to help parents use the child safety tools in iOS 27, iPadOS 27, and macOS Golden Gate. Apple says \"Building Healthy Digital Habits: A Guide for Families\" was developed in partnership with the American Academy of Pediatrics (AAP). The six-step guide covers balancing…"
+  },
+  {
+   "id": "433020080a8051c2",
+   "title": "We’re forgetting what darkness feels like",
+   "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T18:22:40.000Z",
+   "summary": "6 points · 0 comments"
+  },
+  {
+   "id": "5c124a5e7e563d65",
+   "title": "Vermont replacing power plants with home batteries",
+   "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T18:19:02.000Z",
+   "summary": "23 points · 12 comments"
   },
   {
    "id": "f33e0c2c52c5f88c",
@@ -395,6 +737,15 @@
    "section": "ai",
    "publishedAt": "2026-09-29T17:17:15.000Z",
    "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
+  },
+  {
+   "id": "8e36c15e41916cc0",
+   "title": "Show HN: A working 3D model of an Enigma machine",
+   "url": "https://enigma.design/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T17:15:56.000Z",
+   "summary": "11 points · 0 comments"
   },
   {
    "id": "daef42b2054fd665",
@@ -604,6 +955,15 @@
    "summary": "19 points · 5 comments"
   },
   {
+   "id": "e6498c64fe89c6f5",
+   "title": "Needed 1+1, built a functional programming language",
+   "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T16:18:26.000Z",
+   "summary": "4 points · 0 comments"
+  },
+  {
    "id": "11606d04f3fae499",
    "title": "Xbox’s Mythic Achievements are here and they’re just like PlayStation Platinum trophies",
    "url": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
@@ -793,6 +1153,15 @@
    "summary": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders."
   },
   {
+   "id": "14fc24f77bf851d0",
+   "title": "Show HN: NSL – WSL for Linux",
+   "url": "https://frostyard.github.io/nsl/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T14:51:36.000Z",
+   "summary": "74 points · 56 comments"
+  },
+  {
    "id": "93d9873c863ae5b3",
    "title": "This study looks at how and with whom connected cars share your data",
    "url": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/",
@@ -919,6 +1288,15 @@
    "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent earlier this…"
   },
   {
+   "id": "3fbb3d9c5feb4f77",
+   "title": "America.gov",
+   "url": "https://america.gov/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T14:04:57.000Z",
+   "summary": "271 points · 223 comments"
+  },
+  {
    "id": "6f58cbefc4749f57",
    "title": "The best early October Prime Day deals happening now",
    "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
@@ -1007,6 +1385,33 @@
    "section": "tech",
    "publishedAt": "2026-09-29T13:45:00.000Z",
    "summary": "Graphics card prices are one of many victims of the memory shortage, but how much VRAM do you need to future-proof your setup?"
+  },
+  {
+   "id": "4f78dd908d9d8a72",
+   "title": "Ask HN: What are you reading?",
+   "url": "https://news.ycombinator.com/item?id=49893157",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T13:44:43.000Z",
+   "summary": "115 points · 282 comments"
+  },
+  {
+   "id": "768883fc45eb3675",
+   "title": "Building a certificate authority for the whole Internet",
+   "url": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T13:44:00.000Z",
+   "summary": "26 points · 7 comments"
+  },
+  {
+   "id": "53f47311f939c577",
+   "title": "Backblaze drive stats for Q2 2026",
+   "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T13:34:20.000Z",
+   "summary": "37 points · 0 comments"
   },
   {
    "id": "cb2170b20c6ae34e",
@@ -1324,6 +1729,15 @@
    "summary": "132 points · 58 comments"
   },
   {
+   "id": "c4cb042ea9fa593b",
+   "title": "Language models for text classification: From bag-of-words to Jev",
+   "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T11:06:25.000Z",
+   "summary": "9 points · 0 comments"
+  },
+  {
    "id": "b8c1e631c8491da4",
    "title": "Duo-Man turns your 2026 iPhone Duo into a 1980s Sony Walkman",
    "url": "https://9to5mac.com/2026/09/29/duo-man-turns-your-2026-iphone-duo-into-a-1980s-sony-walkman/",
@@ -1486,6 +1900,15 @@
    "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity."
   },
   {
+   "id": "633a3f675165c201",
+   "title": "When oil prices spike, where does the money go?",
+   "url": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T04:14:11.000Z",
+   "summary": "7 points · 0 comments"
+  },
+  {
    "id": "578f6fe5adeafc53",
    "title": "Emmy wins and recent premieres help Apple TV reach highest weekly viewership ever",
    "url": "https://9to5mac.com/2026/09/28/emmy-wins-and-recent-premieres-help-apple-tv-reach-highest-weekly-viewership-ever/",
@@ -1538,6 +1961,15 @@
    "section": "tech",
    "publishedAt": "2026-09-29T00:41:45.000Z",
    "summary": "3 points · 1 comments"
+  },
+  {
+   "id": "c6de3fc5be99f07f",
+   "title": "Show HN: Corral – Kill every command your agent starts",
+   "url": "https://github.com/Cardinal44/corral",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T00:35:05.000Z",
+   "summary": "8 points · 0 comments"
   },
   {
    "id": "14a4888a353a3bb6",
@@ -3376,6 +3808,15 @@
    "summary": "28 points · 15 comments"
   },
   {
+   "id": "2b04261cd646439b",
+   "title": "Solving a corn puzzle with CP-SAT",
+   "url": "https://thill.me/2026/07/16/corn-puzzle-sat-solver.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-27T20:58:54.000Z",
+   "summary": "31 points · 13 comments"
+  },
+  {
    "id": "761e59bbf3b6d214",
    "title": "Engram is a sampler that turns broken AI hallucinations into music",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
@@ -3853,6 +4294,15 @@
    "summary": "The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One Laptop Per Child initiative, and the XO-1 laptop designed to be given away, were…"
   },
   {
+   "id": "77037bea4d4cba34",
+   "title": "Stuck in the Suez Canal – the short version (2021)",
+   "url": "https://cathsenker.co.uk/stuck-in-the-suez-canal-the-short-version/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-27T12:17:39.000Z",
+   "summary": "33 points · 2 comments"
+  },
+  {
    "id": "2e4600790407c331",
    "title": "How to use Android apps on your Windows PC (and why you might want to)",
    "url": "https://www.engadget.com/2266521/how-to-use-android-apps-on-windows-pc/",
@@ -4238,6 +4688,15 @@
    "section": "tech",
    "publishedAt": "2026-09-26T19:19:53.000Z",
    "summary": "The Sift will first be released with Minecraft Dungeons 2 later this month before arriving in the base game."
+  },
+  {
+   "id": "2997040262a3a6cf",
+   "title": "Commodore 64: Mercenary",
+   "url": "https://gamesexplained.com/c64/mercenary/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-26T19:00:46.000Z",
+   "summary": "15 points · 3 comments"
   },
   {
    "id": "cadcbf08066ae933",
