@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-30T11:20:19.132Z",
+ "updatedAt": "2026-09-30T16:59:02.372Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1238
+   "count": 1239
   },
   {
    "name": "Google DeepMind",
@@ -23,7 +23,7 @@
    "name": "Hugging Face",
    "section": "ai",
    "ok": true,
-   "count": 869
+   "count": 870
   },
   {
    "name": "MIT Tech Review",
@@ -82,6 +82,600 @@
  ],
  "items": [
   {
+   "id": "69056cfdf13a4330",
+   "title": "Asus won’t say how it escaped the US router ban",
+   "url": "https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-30T16:44:20.000Z",
+   "summary": "This spring, the United States banned all future foreign-made consumer routers - effectively all future routers - unless their makers could 1) convince the US government that they weren't a national security threat, and 2) submit \"a detailed, time-bound plan to establish or expand manufacturing in…"
+  },
+  {
+   "id": "cffe13d7211bb799",
+   "title": "‘Xbox is not for sale’ says Microsoft’s gaming chief",
+   "url": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-30T16:24:30.000Z",
+   "summary": "Asha Sharma. | Image: The Verge, Microsoft Xbox CEO Asha Sharma has denied reports that Microsoft is considering selling off its Xbox business. The Information reported in June that Microsoft CEO Satya Nadella and CFO Amy Hood had been considering spinning out Xbox entirely, and then reported…"
+  },
+  {
+   "id": "8b8e134f9daf2a7b",
+   "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+   "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-30T16:24:23.000Z",
+   "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off."
+  },
+  {
+   "id": "f1fae978ca20572a",
+   "title": "Tinder now offers group hangouts as an alternative to one-on-one dates",
+   "url": "https://www.engadget.com/2273422/tinder-now-offers-group-hangouts-as-an-alternative-to-one-on-one-dates/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-30T16:22:25.000Z",
+   "summary": "At least in theory, it's a little less nerve-wracking."
+  },
+  {
+   "id": "97f6c01791ad6829",
+   "title": "Apple Watch Series 12, Ultra 4 adding two new features soon",
+   "url": "https://9to5mac.com/2026/09/30/apple-watch-series-12-ultra-4-adding-two-new-features-soon/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-30T16:13:02.000Z",
+   "summary": "Apple Watch Series 12 and Apple Watch Ultra 4 have arrived, and later this year they’ll get even more powerful with two new features: Siri Recap and Live Rewind. Here are the details. more…"
+  },
+  {
+   "id": "20e6344f834d56d0",
+   "title": "Xbox's disc-to-digital feature is now available for everyone",
+   "url": "https://www.engadget.com/2273385/xboxs-disc-to-digital-feature-is-now-available-for-everyone/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-30T16:07:24.000Z",
+   "summary": "Many (if not all) Xbox Series X and Xbox One games are supported."
+  },
+  {
+   "id": "ba3e1c9e7aaa923f",
+   "title": "Apple Watch SE 3 vs. Series 12 Buyer's Guide: Which Should You Buy?",
+   "url": "https://www.macrumors.com/guide/apple-watch-se-3-vs-series-12/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-30T16:05:19.000Z",
+   "summary": "The Apple Watch SE 3 starts at $249, while the Apple Watch Series 12 starts at $399. The $150 difference buys a more advanced health sensing system, a larger display, longer battery life, and more options for tracking training and recovery. The two watches still share many features, including an…"
+  },
+  {
+   "id": "9677fdfafb130fb5",
+   "title": "DoorDash launches an AI agent you can text to order food",
+   "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-30T16:00:24.000Z",
+   "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub."
+  },
+  {
+   "id": "7c4c3a4b3ed4d3ef",
+   "title": "The Halide camera app now offers full control of the iPhone 18 Pro’s aperture",
+   "url": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-30T16:00:00.000Z",
+   "summary": "A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's main camera. Halide isn't the first alternative to the native iOS camera app to add support for the new feature, but…"
+  },
+  {
+   "id": "3874a0c4486c434b",
+   "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+   "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-30T16:00:00.000Z",
+   "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
+  },
+  {
+   "id": "3e1918456ebb01aa",
+   "title": "Freckle's smartphone aims to get kids back outside on their own",
+   "url": "https://www.engadget.com/2273319/freckles-smartphone-aims-to-get-kids-back-outside-on-their-own/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-30T16:00:00.000Z",
+   "summary": "Freckle's smartphone encourages kids to get outside. What a concept!"
+  },
+  {
+   "id": "b21bff895de86ca0",
+   "title": "Halide 3.2 pro camera arrives with iPhone 18 Pro aperture feature and two new looks",
+   "url": "https://9to5mac.com/2026/09/30/halide-3-2-pro-camera-arrives-with-iphone-18-pro-aperture-feature-and-two-new-looks/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-30T16:00:00.000Z",
+   "summary": "In May, Lux Optics launched the all-new Halide Mark III pro camera app for iPhone. Today, Halide is back with its first update for iPhone 18 Pro, plus new features for all iPhone photographers. more…"
+  },
+  {
+   "id": "d3846c81f0f287dd",
+   "title": "Instinct’s new product recommendations are giving some users the ick",
+   "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-30T15:56:28.000Z",
+   "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for."
+  },
+  {
+   "id": "575c50c3ab2a1953",
+   "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
+   "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-30T15:54:59.000Z",
+   "summary": "14 points · 3 comments"
+  },
+  {
+   "id": "94a8d64f2e844bcb",
+   "title": "iPad Mini 8 to Offer These 10 New Features",
+   "url": "https://www.macrumors.com/2026/09/30/ipad-mini-8-rumored-features/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-30T15:54:43.000Z",
+   "summary": "Last week, our exclusive leak revealed that the next-generation iPad mini will feature Apple's latest A20 Pro chip, a landscape front camera, and a redesigned speaker system, but that is not all, as plenty of other upgrades have been rumored. Here are 10 new features and changes expected for the…"
+  },
+  {
+   "id": "8da99bcf6c9bbb0a",
+   "title": "The AI Race Just Got Awkward",
+   "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-30T15:50:11.000Z",
+   "summary": "247 points · 211 comments"
+  },
+  {
+   "id": "4ea848eba153c8a7",
+   "title": "Affordable alternatives to DJI's Osmo Pocket 4",
+   "url": "https://www.engadget.com/2271706/affordable-alternatives-to-djis-osmo-pocket-4/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-30T15:30:00.000Z",
+   "summary": "The best options when DJI's gimbal camera is too expensive or unavailable."
+  },
+  {
+   "id": "b35607d3270bef19",
+   "title": "Deals: iPhone 17 Pro Max, MacBook Pro, HomeKit Prime Day discounts, Apple Watch bands from $7, more",
+   "url": "https://9to5mac.com/2026/09/30/deals-iphone-17-pro-max-macbook-pro-prime-day-bands/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-30T15:28:09.000Z",
+   "summary": "Joining the updated early fall Prime Day sale at Amazon and the giant ongoing $500 price drop on this M5 Pro MacBook Pro, today’s 9to5Toys Lunch Break is headlined by official MagSafe Battery at 40% off. You’ll also find loads of charger deals, TVs, smart speakers, and more waiting down below. more…"
+  },
+  {
+   "id": "1b414a512813f057",
+   "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
+   "url": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-30T15:26:02.000Z",
+   "summary": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO."
+  },
+  {
+   "id": "aa19e909d221e897",
+   "title": "Nintendo's Mario Kart Tour mobile game is officially dead",
+   "url": "https://www.engadget.com/2273291/nintendos-mario-kart-tour-mobile-game-is-officially-dead/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-30T15:23:57.000Z",
+   "summary": "It joins other smartphone titles in the graveyard, like Miitomo, Dr. Mario World and Dragalia Lost."
+  },
+  {
+   "id": "fb3e94f79bfc6ef8",
+   "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-30T15:18:49.000Z",
+   "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your credit card. Since the launch, Meta’s also…"
+  },
+  {
+   "id": "ed30cb2e798ddd4d",
+   "title": "Introducing SynthID Bio",
+   "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+   "source": "Google DeepMind",
+   "section": "ai",
+   "publishedAt": "2026-09-30T15:03:07.000Z",
+   "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
+  },
+  {
+   "id": "dfd53a643c7e6fb0",
+   "title": "New Apple TV comedy has 100% Rotten Tomatoes, here’s the trailer",
+   "url": "https://9to5mac.com/2026/09/30/new-apple-tv-comedy-has-100-rotten-tomatoes-heres-the-trailer/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-30T15:03:02.000Z",
+   "summary": "Apple TV currently has a packed lineup of new shows airing, and it’s about to add another. Small Prophets is a British comedy premiering next week that has a 100% Rotten Tomatoes score. Here’s the trailer. more…"
+  },
+  {
+   "id": "d4393b399d959d4b",
+   "title": "DoorDash drone deliveries are first coming to northern California with Chipotle and Popeyes on board",
+   "url": "https://www.engadget.com/2273249/doordash-drone-deliveries-are-first-coming-to-northern-california-with-chipotle-and-popeyes-on-board/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-30T14:59:17.000Z",
+   "summary": "You can now text your DoorDash orders instead of using the app or website."
+  },
+  {
+   "id": "43da74622c1f2503",
+   "title": "Google reportedly tests paying publishers for AI search results",
+   "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-30T14:51:49.000Z",
+   "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its AI features on web…"
+  },
+  {
+   "id": "d5de6dd81efb69b0",
+   "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
+   "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-30T14:50:55.000Z",
+   "summary": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety measures as the rapid development of artificial intelligence continues. But there seems to be a catch."
+  },
+  {
+   "id": "28dfed1c72cfa8ea",
+   "title": "Amazon Takes Up to $150 Off Select M5 MacBook Air Models",
+   "url": "https://www.macrumors.com/2026/09/30/amazon-m5-macbook-air/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-30T14:49:09.000Z",
+   "summary": "Amazon today is taking up to $150 off the M5 MacBook Air, with discounts on both 13-inch and 15-inch models. These remain the best prices we've seen on the M5 MacBook Air in the wake of Apple's summertime price hikes. Note: MacRumors is an affiliate partner with Amazon. When you click a link and…"
+  },
+  {
+   "id": "58ebc390f4c3cfbd",
+   "title": "SDF Public Access Unix System ... est. 1987",
+   "url": "https://sdf.org/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-30T14:36:02.000Z",
+   "summary": "8 points · 1 comments"
+  },
+  {
+   "id": "aecc82d3f3cd7e04",
+   "title": "A Brief History of the Bloomberg Terminal",
+   "url": "https://spectrum.ieee.org/bloomberg-terminal",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-30T14:34:07.000Z",
+   "summary": "44 points · 11 comments"
+  },
+  {
+   "id": "4f8c05d7691d3a6f",
+   "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
+   "url": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-30T14:32:03.000Z",
+   "summary": "Fitbit Air costs around $146 in India, roughly $47 more than its U.S. pricing."
+  },
+  {
+   "id": "5c3d69b07a528a41",
+   "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+   "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-30T14:30:00.000Z",
+   "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers…"
+  },
+  {
+   "id": "b839a8c23cb907de",
+   "title": "Instagram rolls out an AI video assistant for creators",
+   "url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-30T14:30:00.000Z",
+   "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice."
+  },
+  {
+   "id": "4480b90a79b0d9fb",
+   "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-30T14:30:00.000Z",
+   "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits."
+  },
+  {
+   "id": "ae4e54ac0cba0b65",
+   "title": "Meta introduces a new AI assistant for its Instagram creators",
+   "url": "https://www.engadget.com/2273111/meta-introduces-a-new-ai-assistant-for-its-instagram-creators/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-30T14:30:00.000Z",
+   "summary": "The Edits assistant offers personalized guidance based on your audience and best-performing content."
+  },
+  {
+   "id": "c3f52015fdd6fe35",
+   "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+   "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-30T14:27:11.000Z",
+   "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight."
+  },
+  {
+   "id": "cc46cc955c4e06b3",
+   "title": "DoorDash Unveils AI Food Ordering Through Apple's Messages App",
+   "url": "https://www.macrumors.com/2026/09/30/doordash-order-through-messages-app/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-09-30T14:24:34.000Z",
+   "summary": "DoorDash is inviting U.S. customers to join a waitlist for an AI assistant that can take food orders through Apple's Messages app (via Bloomberg). The phone number used in the conversation connects the request to a customer's DoorDash account. The assistant can use previous purchases and…"
+  },
+  {
+   "id": "57da0edbdad37d3f",
+   "title": "Apple’s new hardware October 13 won’t include one rumored product: report",
+   "url": "https://9to5mac.com/2026/09/30/apples-new-hardware-october-13-wont-include-one-rumored-product-report/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-30T14:15:30.000Z",
+   "summary": "New Apple products are reportedly launching October 13, including the rumored ‘HomePad’ device. But according to Mark Gurman at Bloomberg, there’s one rumored product not coming next month: a new full-size HomePod with Siri AI. more…"
+  },
+  {
+   "id": "8f067cdaec108452",
+   "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-30T14:15:00.000Z",
+   "summary": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders."
+  },
+  {
+   "id": "6f54972b2474f0d2",
+   "title": "If only all games had Control Resonant's Assist Mode",
+   "url": "https://www.engadget.com/2271764/control-resonant-assist-mode/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-30T14:00:00.000Z",
+   "summary": "Sometimes you don't want a casual mode, but you also want a challenging game to cut you some slack. Control Resonant does that."
+  },
+  {
+   "id": "3d9aa41da58872e8",
+   "title": "What TLA+ can and can't check",
+   "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-30T13:57:06.000Z",
+   "summary": "9 points · 1 comments"
+  },
+  {
+   "id": "36efe4e1aa6ad00d",
+   "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+   "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-30T13:50:50.000Z",
+   "summary": "64 points · 31 comments"
+  },
+  {
+   "id": "d166f0af34b8dad9",
+   "title": "WhatsApp adds new parental controls for teen accounts",
+   "url": "https://techcrunch.com/2026/09/30/whatsapp-adds-new-parental-controls-for-teen-accounts/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-30T13:50:16.000Z",
+   "summary": "Parents can limit how teens use channels, whose Status they can see, who can see their Status updates, and control who can add teens to groups."
+  },
+  {
+   "id": "d3893406b2655f46",
+   "title": "Amazon’s new Fire TV Stick 4K comes with an actually good remote",
+   "url": "https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-30T13:43:54.000Z",
+   "summary": "Amazon’s new Fire TV Stick 4K is slimmer and faster, but its biggest upgrade may be the thing you’ll actually hold in your hand: a redesigned remote that’s easier to use, especially in the dark."
+  },
+  {
+   "id": "1c9d5565be0697d5",
+   "title": "DoorDash now lets you order by text in Apple Messages",
+   "url": "https://9to5mac.com/2026/09/30/doordash-now-lets-you-order-by-text-in-apple-messages/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-30T13:35:16.000Z",
+   "summary": "DoorDash today launched a new way to order your next meal: via text in Apple’s Messages app, powered by AI. Here are the details. more…"
+  },
+  {
+   "id": "e034c9a35844c99b",
+   "title": "Fake iPhone Duo preorder page can steal crypto wallet data and more",
+   "url": "https://9to5mac.com/2026/09/30/fake-iphone-duo-preorder-page-can-steal-crypto-wallet-data-and-more/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-30T13:33:34.000Z",
+   "summary": "iPhone Duo pre-orders start on Friday, October 16, but scammers are trying to trick people into visiting a fake website to place their order now. The website with the malware convincingly replicates the look of the real thing and claims to offer a $500 discount voucher as an “Authorized Partner…"
+  },
+  {
+   "id": "a6baffd829f8eb4f",
+   "title": "Apple Still Plans to Release a New Full-Sized HomePod",
+   "url": "https://www.macrumors.com/2026/09/30/apple-still-plans-to-update-larger-homepod/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-30T13:11:52.000Z",
+   "summary": "Bloomberg's Mark Gurman today briefly mentioned that \"Apple aims to eventually update its larger HomePod,\" assuring that the company remains committed to the full-sized speaker, which was discontinued in 2021 and reintroduced in 2023. The report said a new HomePod mini, new Apple TV 4K, and an…"
+  },
+  {
+   "id": "95cd27348641f03c",
+   "title": "Amazon’s new Fire TV Stick 4K can pull power directly from your TV",
+   "url": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-30T13:00:16.000Z",
+   "summary": "The new Fire TV Stick 4K will be a little easier to set up than Amazon's previous 4K streaming sticks since it no longer requires a power adapter. You can power the device directly from your TV's USB port, like the updated entry-level Fire TV Stick Amazon launched earlier this year. The Fire TV…"
+  },
+  {
+   "id": "be577cad22b74f5f",
+   "title": "The Sonos Ace Ultra are the headphones Sonos should have made the first time",
+   "url": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-30T13:00:00.000Z",
+   "summary": "The Ace Ultra look like the Ace, but they’re better on the inside. The original Sonos Ace headphones should have been a triumphant entry into a new product category. Instead, they were overshadowed by Sonos's disastrous app redesign. And while the original Ace are well built, sound good, and are…"
+  },
+  {
+   "id": "b7573135f5aa855f",
+   "title": "Potato by air",
+   "url": "https://www.theverge.com/report/1002172/potato-by-air-wing-drone-delivery",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-30T13:00:00.000Z",
+   "summary": "Artist’s rendition | Image:The Verge, Getty Images The Wing Hummingbird 7000W-B delivery drone weighs less than 15 pounds. It has 16 propellers - four for horizontal movement and 12 for vertical - a top speed of 60 miles per hour, a carrying capacity of up to 2.7 pounds, and a delivery radius of…"
+  },
+  {
+   "id": "9e36a92b5c2d1d56",
+   "title": "You can text DoorDash’s AI bot to ‘order my usual’ and it will figure the rest out",
+   "url": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-09-30T13:00:00.000Z",
+   "summary": "DoorDash is also expanding its Dasher returns feature nationwide in November. | Image: DoorDash / The Verge DoorDash is launching new ways to use the local delivery platform, including text message ordering, drone deliveries, and retail returns. The new message ordering feature builds on…"
+  },
+  {
+   "id": "15017430dbd33319",
+   "title": "Charter Space raises $5M to bring insurance to the stars",
+   "url": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-30T13:00:00.000Z",
+   "summary": "As Charter explains on its website, a common experience for space companies is that regular insurers \"heard a bunch of scary science words and freaked out.\""
+  },
+  {
+   "id": "99173766275b105c",
+   "title": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature",
+   "url": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-09-30T13:00:00.000Z",
+   "summary": "Tinder has been pushing users toward more real-world experiences for some time."
+  },
+  {
+   "id": "18bdf379f5957e54",
+   "title": "Amazon's new Fire TV interface and mobile app will come with Alexa+ upgrades",
+   "url": "https://www.engadget.com/2273042/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-30T13:00:00.000Z",
+   "summary": "The Amazon Fire TV interface and mobile app will get a dedicated hub for a more powerful Alexa+ this November."
+  },
+  {
+   "id": "f003767e8c61c093",
+   "title": "Shure's MV6 Gen 2 microphone gives creators more control over their audio",
+   "url": "https://www.engadget.com/2268112/shures-mv6-gen-2-microphone-gives-creators-more-control-over-their-audio/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-30T13:00:00.000Z",
+   "summary": "The USB microphone comes in a new color, has updated audio controls and can even work with an iPhone or iPad."
+  },
+  {
+   "id": "7da43c058c03e673",
+   "title": "Amazon simplifies its Fire TV streaming device lineup",
+   "url": "https://www.engadget.com/2272817/amazon-simplifies-its-fire-tv-streaming-device-lineup/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-30T13:00:00.000Z",
+   "summary": "The days of picking between Select, Plus and Max are over."
+  },
+  {
+   "id": "03ee2e3961e2ca65",
+   "title": "Amazon unveils a thinner and faster Fire TV Stick 4K, plus a new remote",
+   "url": "https://www.engadget.com/2272834/amazon-unveils-a-thinner-and-faster-fire-tv-stick-4k-plus-a-new-remote/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-30T13:00:00.000Z",
+   "summary": "It will cost just $30 during the Prime Day deals event next week, and retail for $60 otherwise."
+  },
+  {
+   "id": "5a4e76bf195b8880",
+   "title": "The clever way Apple embedded Face ID beneath the iPhone 18 Pro screen",
+   "url": "https://9to5mac.com/2026/09/30/the-clever-way-apple-embedded-face-id-beneath-the-iphone-18-pro-screen/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-30T12:35:23.000Z",
+   "summary": "In the iPhone 18 Pro, Apple has taken one of the next steps toward its long-term vision of the iPhone as a single slab of glass: embedding the Face ID module beneath the display. Achieving this without having the Face ID array be visible through the display and without compromising the quality of…"
+  },
+  {
+   "id": "b9912e3ab9bc8a68",
+   "title": "Apple's smart home hub could arrive next month",
+   "url": "https://www.engadget.com/2273039/apples-smart-home-hub-could-arrive-next-month/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-30T12:27:08.000Z",
+   "summary": "Apple's smart home hub with a six-inch display may finally be ready to go."
+  },
+  {
+   "id": "30e7a41442d49c19",
+   "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
+   "url": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-30T12:00:00.000Z",
+   "summary": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI."
+  },
+  {
+   "id": "d6adb1266b4b9332",
+   "title": "Airbnb adds AI search, more social features",
+   "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-09-30T12:00:00.000Z",
+   "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations."
+  },
+  {
+   "id": "5e863cdb5c726df8",
+   "title": "Samsung Galaxy Tab S12 Ultra review: The apex Android tablet",
+   "url": "https://www.engadget.com/2272526/samsung-galaxy-tab-s12-ultra-review/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-30T12:00:00.000Z",
+   "summary": "Starting at $1,400, the Samsung Galaxy Tab S12 Ultra is super expensive. But that's the price you'll have to pay for the best Android tablet."
+  },
+  {
+   "id": "a4a814424ef466af",
+   "title": "Airbnb is adding a personalized map and other discovery tools",
+   "url": "https://www.engadget.com/2272794/airbnb-is-adding-a-personalized-map-and-other-discovery-tools/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-30T12:00:00.000Z",
+   "summary": "The rental service is getting more social and more AI."
+  },
+  {
+   "id": "c4f4e1d9aa106207",
+   "title": "The Samsung Galaxy SmartTag 3's special feature is being a pet activity monitor",
+   "url": "https://www.engadget.com/2272675/the-samsung-galaxy-smarttag-3-special-feature-is-being-a-pet-activity-monitor/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-30T12:00:00.000Z",
+   "summary": "Not only can it keep tabs on your furball's location, it can monitor their motion and sleep too."
+  },
+  {
+   "id": "e2bc371535d691fc",
+   "title": "Apple Working to Expand HomeKit",
+   "url": "https://www.macrumors.com/2026/09/30/apple-working-to-expand-homekit/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-30T11:46:32.000Z",
+   "summary": "Apple is working to revamp HomeKit amid a new push into the smart home market, according to Bloomberg's Mark Gurman. In a report that detailed the impending launch of next-generation Apple TV and HomePod mini models, as well as Apple's all-new smart home hub, Gurman said that the company is…"
+  },
+  {
+   "id": "530d02f1a97b35de",
+   "title": "Apple Smart Home Hub to Feature iMac G4-Style Design",
+   "url": "https://www.macrumors.com/2026/09/30/apple-home-hub-imac-g4-style-design/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-30T11:36:13.000Z",
+   "summary": "Apple's long-rumored smart home hub will have an iMac G4-style design and a host of unique features, Bloomberg's Mark Gurman reports. The smart home hub is said to feature a square 6-inch display, with variants that can be placed on a countertop or mounted on a wall. It features a single FaceTime…"
+  },
+  {
+   "id": "d04348f50605fbe1",
+   "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+   "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-09-30T11:15:14.000Z",
+   "summary": "The move will be part of a major overhaul of the ecosystem for website authentication."
+  },
+  {
    "id": "74a50e45054dffe7",
    "title": "Apple’s ‘HomePad’ will reportedly launch on October 13th",
    "url": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
@@ -134,6 +728,15 @@
    "section": "tech",
    "publishedAt": "2026-09-30T10:30:18.000Z",
    "summary": "Apple Pay is now available in India, but it only supports cards by Axis Bank for now."
+  },
+  {
+   "id": "d31ace575e729804",
+   "title": "Helping small businesses put AI to work",
+   "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-30T10:00:00.000Z",
+   "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
   },
   {
    "id": "860d9273525afbfe",
@@ -296,6 +899,15 @@
    "section": "tech",
    "publishedAt": "2026-09-30T00:00:00.000Z",
    "summary": "Your old router shouldn't be destined for the recycling bin. You can repurpose it to extend your current network and much more."
+  },
+  {
+   "id": "3403f8fdc1b43b80",
+   "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+   "url": "https://huggingface.co/blog/open-tts-leaderboard",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-09-30T00:00:00.000Z",
+   "summary": ""
   },
   {
    "id": "ead170ad1879119f",
@@ -2143,6 +2755,15 @@
    "summary": "39 points · 28 comments"
   },
   {
+   "id": "ed95bac1ee9938cf",
+   "title": "Mathematical Origami",
+   "url": "https://mathigon.org/origami",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T06:45:46.000Z",
+   "summary": "69 points · 15 comments"
+  },
+  {
    "id": "2cb64f469f53fa25",
    "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
    "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
@@ -2467,6 +3088,15 @@
    "summary": "26 points · 7 comments"
   },
   {
+   "id": "8b6705dd6a4e8542",
+   "title": "Reverse-engineering a $35 backup camera display (AMT630A)",
+   "url": "https://github.com/mogrinz/AMT630A",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-28T21:06:30.000Z",
+   "summary": "18 points · 1 comments"
+  },
+  {
    "id": "101f0f73a1add015",
    "title": "Palantir founder purchases large swath of forest in Sweden",
    "url": "https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/",
@@ -2501,6 +3131,15 @@
    "section": "tech",
    "publishedAt": "2026-09-28T20:39:33.000Z",
    "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist."
+  },
+  {
+   "id": "ee1612c6869a4e97",
+   "title": "I Could've Accessed 17T Microsoft Records",
+   "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-28T20:32:46.000Z",
+   "summary": "96 points · 47 comments"
   },
   {
    "id": "ac2da068878f348c",
@@ -3338,6 +3977,15 @@
    "section": "ai",
    "publishedAt": "2026-09-28T15:15:00.000Z",
    "summary": "AI companies are able to improve their models by submitting users' conversations as training data. Opting out is easy, you just need to know where to look."
+  },
+  {
+   "id": "eecdbe3917cb4b0b",
+   "title": "Getting out of the way: my robotics crash course",
+   "url": "https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-28T15:12:43.000Z",
+   "summary": "29 points · 7 comments"
   },
   {
    "id": "ce5d7f0d50243174",
