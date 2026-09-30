@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-30T05:25:09.074Z",
+ "updatedAt": "2026-09-30T11:20:19.132Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,118 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 31
+   "count": 30
   }
  ],
  "items": [
+  {
+   "id": "74a50e45054dffe7",
+   "title": "Apple’s ‘HomePad’ will reportedly launch on October 13th",
+   "url": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-09-30T11:11:24.000Z",
+   "summary": "Apple's long-rumored smart home hub will reportedly be revealed on October 13th. Bloomberg's Mark Gurman reports that the smart home device will be revealed alongside a new HomePod mini and an upgraded Apple TV device. All three products are set to showcase Siri AI, Apple's overhauled AI-powered…"
+  },
+  {
+   "id": "e7d0a2264b999ce7",
+   "title": "Three New Apple Smart Home Products Coming on October 13",
+   "url": "https://www.macrumors.com/2026/09/30/apple-home-products-coming-on-october-13/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-30T11:04:06.000Z",
+   "summary": "Apple plans to introduce a series of new smart home products on Tuesday, October 13, according to Bloomberg's Mark Gurman. Apple reportedly plans to debut its long-awaited smart home hub device, a new HomePod mini, and a new Apple TV. The new ‌HomePod mini‌ and ‌Apple TV‌ are set to retain their…"
+  },
+  {
+   "id": "a4598c33b53d91ad",
+   "title": "Apple’s HomePad smart home hub launching on Oct 13 with iMac G4 design – Bloomberg",
+   "url": "https://9to5mac.com/2026/09/30/apples-homepad-smart-home-hub-launching-on-oct-13-bloomberg/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-30T10:52:30.000Z",
+   "summary": "Apple’s long-awaited smart home hub, which we’ve been referring to as the HomePad, is set to launch on October 13, according to Bloomberg. The device is said to feature a 6-inch display and a design inspired by the iMac G4, and will launch alongside a HomePod mini update with new colors and a new…"
+  },
+  {
+   "id": "a8c1e3786de58469",
+   "title": "Small number of iPhone 18 Pro users report speaker ‘pops’ or ‘clicks’",
+   "url": "https://9to5mac.com/2026/09/30/small-number-of-iphone-18-pro-users-report-speaker-pops-or-clicks/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-09-30T10:46:18.000Z",
+   "summary": "A small number of iPhone 18 Pro users are reporting an issue where the speaker sometimes “pops” or “clicks,” describing it as a faint sound when doing things like switching apps … more…"
+  },
+  {
+   "id": "d02470ab5a9fc9ed",
+   "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+   "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+   "source": "MIT Tech Review",
+   "section": "ai",
+   "publishedAt": "2026-09-30T10:40:30.000Z",
+   "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised…"
+  },
+  {
+   "id": "bfe10bb75296cc4c",
+   "title": "Apple Pay finally arrives in India on a limited basis",
+   "url": "https://www.engadget.com/2272991/apple-pay-arrives-india/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-30T10:30:18.000Z",
+   "summary": "Apple Pay is now available in India, but it only supports cards by Axis Bank for now."
+  },
+  {
+   "id": "860d9273525afbfe",
+   "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+   "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-30T09:59:03.000Z",
+   "summary": "33 points · 29 comments"
+  },
+  {
+   "id": "64f2a8db36dd45d2",
+   "title": "Pi.dev: You Said No MCP",
+   "url": "https://earendil.com/posts/you-said-no-mcp/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-30T09:55:23.000Z",
+   "summary": "96 points · 32 comments"
+  },
+  {
+   "id": "2580992167040f55",
+   "title": "The US government's new AI chatbot gives Minecraft's end poem a bureaucratic twist",
+   "url": "https://www.engadget.com/2272978/the-us-governments-new-ai-chatbot-gives-minecrafts-end-poem-a-bureaucratic-twist/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-09-30T09:48:35.000Z",
+   "summary": "The new America.gov chatbot will write you a remixed version of Minecraft's end poem, then deny ever doing it."
+  },
+  {
+   "id": "1508a3d506deac97",
+   "title": "Sony implements a lottery system to deal with the PS5 Pro shortage in Japan",
+   "url": "https://www.engadget.com/2272946/sony-lottery-system-ps5-pro-japan/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-09-30T07:55:04.000Z",
+   "summary": "Gamers in Japan will have to prove they actually use their PS consoles to be able to buy a PS5 Pro."
+  },
+  {
+   "id": "16480b91527b7d71",
+   "title": "Why Is Sam Altman a Free Man?",
+   "url": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-30T07:32:40.000Z",
+   "summary": "146 points · 93 comments"
+  },
+  {
+   "id": "5ff4fc6f338a27ca",
+   "title": "September 2026: The world today, as seen by one Polish guy",
+   "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-30T07:12:31.000Z",
+   "summary": "283 points · 156 comments"
+  },
   {
    "id": "0d278db668fe9ed9",
    "title": "Tesla takes on $30B in credit as it approaches unprofitability",
@@ -206,6 +314,15 @@
    "section": "ai",
    "publishedAt": "2026-09-29T23:30:00.000Z",
    "summary": "After lawyers were fined for submitting AI filings packed with fictitious case law, AI companies are releasing new tools to ensure that doesn't happen again."
+  },
+  {
+   "id": "a198c083f5230e23",
+   "title": "Floppy Emu Hardware Failure Analysis Results",
+   "url": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T23:10:26.000Z",
+   "summary": "12 points · 3 comments"
   },
   {
    "id": "d49e2f9618e6c35c",
@@ -1900,6 +2017,15 @@
    "summary": "95 points · 94 comments"
   },
   {
+   "id": "840027f707d01fe0",
+   "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
+   "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T10:05:56.000Z",
+   "summary": "7 points · 2 comments"
+  },
+  {
    "id": "311cc00dec01d0d4",
    "title": "Your car’s data privacy problems are worse than you think",
    "url": "https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford",
@@ -2035,6 +2161,15 @@
    "summary": "7 points · 0 comments"
   },
   {
+   "id": "ba75169bbaa73057",
+   "title": "Solving Factorio Quality",
+   "url": "https://exyr.org/2026/solving-factorio-quality/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T02:27:54.000Z",
+   "summary": "101 points · 33 comments"
+  },
+  {
    "id": "578f6fe5adeafc53",
    "title": "Emmy wins and recent premieres help Apple TV reach highest weekly viewership ever",
    "url": "https://9to5mac.com/2026/09/28/emmy-wins-and-recent-premieres-help-apple-tv-reach-highest-weekly-viewership-ever/",
@@ -2078,6 +2213,15 @@
    "section": "tech",
    "publishedAt": "2026-09-29T01:00:00.000Z",
    "summary": "The Headphone 1 Pro flagship headphones keep Nothing’s aesthetic while adding some surprises. | Photo: John Higgins / The Verge Nothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while the…"
+  },
+  {
+   "id": "6e7b997426ab9c04",
+   "title": "Built Dental Scope",
+   "url": "https://dental-scope.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T00:47:19.000Z",
+   "summary": "35 points · 7 comments"
   },
   {
    "id": "9fbe093eaf563bf2",
@@ -2474,6 +2618,15 @@
    "section": "ai",
    "publishedAt": "2026-09-28T19:43:11.000Z",
    "summary": "Siri AI is a major upgrade and highlight of iOS 27 and more. But only newer Apple devices support the overhauled Siri. Here’s the full list of Siri AI-compatible hardware across iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro. more…"
+  },
+  {
+   "id": "dfb94400605cb6de",
+   "title": "Raleigh Vektar Restoration (2020)",
+   "url": "https://retromash.com/2020/06/26/raleigh-vektar-restoration-part-1-the-arrival/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-28T19:37:50.000Z",
+   "summary": "20 points · 3 comments"
   },
   {
    "id": "a7261ec99c65020c",
@@ -3059,6 +3212,15 @@
    "section": "tech",
    "publishedAt": "2026-09-28T15:43:09.000Z",
    "summary": "In a widely expected move, Volkswagen announced Monday that it will replace the recently retired ID.4 crossover with the upcoming ID.Tiguan. The decision is an acknowledgment by the German automaker that its more recognizable nameplates like Tiguan are likely an easier sell with consumers…"
+  },
+  {
+   "id": "737ac15d318eca45",
+   "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
+   "url": "https://github.com/ciromattia/kcc",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-28T15:39:42.000Z",
+   "summary": "27 points · 4 comments"
   },
   {
    "id": "b06a9eb000d78076",
@@ -29987,24 +30149,6 @@
    "section": "ai",
    "publishedAt": "2026-08-31T18:00:00.000Z",
    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging…"
-  },
-  {
-   "id": "9671817574b76da2",
-   "title": "OpenAI supports California’s bill to advance youth AI safety",
-   "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-08-31T07:00:00.000Z",
-   "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
-  },
-  {
-   "id": "395c23c9f9b3e390",
-   "title": "Polimill builds Japan's next-generation public AI infrastructure",
-   "url": "https://openai.com/index/polimill",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-08-31T07:00:00.000Z",
-   "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
   }
  ]
 }
