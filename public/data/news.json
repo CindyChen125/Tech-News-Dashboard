@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-01T00:48:22.287Z",
+ "updatedAt": "2026-10-01T07:09:11.849Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,78 @@
  ],
  "items": [
   {
+   "id": "685aefdb8f66916b",
+   "title": "Suits Are Better Tech Than Modern Clothes",
+   "url": "https://devz.cl/posts/the-lost-tech-in-contemporary-clothing/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T05:48:56.000Z",
+   "summary": "50 points · 81 comments"
+  },
+  {
+   "id": "579c46b685cbac61",
+   "title": "Fuck Android Developer Verification Program",
+   "url": "https://twitter.com/0xcrypto/status/2105515822643114182",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T04:32:38.000Z",
+   "summary": "140 points · 41 comments"
+  },
+  {
+   "id": "83c06bea9710b87c",
+   "title": "Apple TV is down",
+   "url": "https://www.engadget.com/2274184/apple-tv-is-down/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-01T04:22:21.000Z",
+   "summary": "Several Apple services went down for maintenance on the afternoon of September 30. Only Apple TV remains inaccessible."
+  },
+  {
+   "id": "171355e6a7919c36",
+   "title": "Is sandboxing sufficient to contain rogue agents?",
+   "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T03:27:41.000Z",
+   "summary": "19 points · 18 comments"
+  },
+  {
+   "id": "4b9f60ce654644cc",
+   "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
+   "url": "https://github.com/TantrixAuto/yantra",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T02:30:48.000Z",
+   "summary": "23 points · 13 comments"
+  },
+  {
+   "id": "6649a6d78c064b51",
+   "title": "WhatsApp expands parental controls to teen accounts with group alerts, Meta AI restrictions",
+   "url": "https://9to5mac.com/2026/09/30/whatsapp-expands-parental-controls-to-teen-accounts-with-group-alerts-meta-ai-restrictions/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-10-01T02:09:00.000Z",
+   "summary": "After introducing parent-managed accounts for pre-teens earlier this year, WhatsApp today expanded its parental controls to teen accounts, adding group activity alerts and additional restrictions for Meta AI. Here are the details. more…"
+  },
+  {
+   "id": "3dae3a80367cd058",
+   "title": "Vivo’s X Fold 6 accidentally feels like a throwback",
+   "url": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-01T02:00:00.000Z",
+   "summary": "The X Fold 6 looks like foldables did three months ago. It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and aspect ratio feel oddly old-fashioned. The X Fold 6 is much the…"
+  },
+  {
+   "id": "455fd4e1b75a02dc",
+   "title": "How to watch NASA's Crew-13 launch",
+   "url": "https://www.engadget.com/2274090/how-to-watch-nasa-crew-13-launch/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-01T01:20:00.000Z",
+   "summary": "How to watch NASA's Crew-13 launch"
+  },
+  {
    "id": "a4bcc64f6fbb9ab0",
    "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
    "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
@@ -89,6 +161,15 @@
    "section": "tech",
    "publishedAt": "2026-10-01T00:23:45.000Z",
    "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly…"
+  },
+  {
+   "id": "9f9df0ed69b7d0f7",
+   "title": "Apple's Smart Home Hub: Everything We Know So Far",
+   "url": "https://www.macrumors.com/guide/apple-command-center/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-09-30T23:58:30.000Z",
+   "summary": "Apple is working on a new smart home accessory that will serve as a hub for interacting with Siri AI, controlling HomeKit devices, watching videos, checking the calendar and the weather, and generally offering up useful information to everyone in the household. This guide aggregates everything that…"
   },
   {
    "id": "20ac382a6ec240d2",
@@ -2764,6 +2845,15 @@
    "summary": "125 points · 64 comments"
   },
   {
+   "id": "1a33132c1ca7940a",
+   "title": "PlayBook: A Programmable Paper Notebook [video]",
+   "url": "https://www.youtube.com/watch?v=GurWDZ8ENpA",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T15:40:03.000Z",
+   "summary": "9 points · 2 comments"
+  },
+  {
    "id": "36d07b7550785721",
    "title": "John Ternus has big plans to make Apple ‘leaner’ and release more products",
    "url": "https://9to5mac.com/2026/09/29/john-ternus-apple-new-products-leaner/",
@@ -3653,6 +3743,15 @@
    "section": "tech",
    "publishedAt": "2026-09-29T04:14:11.000Z",
    "summary": "7 points · 0 comments"
+  },
+  {
+   "id": "8dc279c85d6880bf",
+   "title": "Clipboard Normalizer",
+   "url": "https://www.jefftk.com/p/clipboard-normalizer-in-mac-app-store",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T04:13:28.000Z",
+   "summary": "8 points · 4 comments"
   },
   {
    "id": "ba75169bbaa73057",
@@ -31652,15 +31751,6 @@
    "section": "ai",
    "publishedAt": "2026-09-01T12:00:00.000Z",
    "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
-  },
-  {
-   "id": "44a6978f708e266f",
-   "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-   "url": "https://openai.com/index/gilbert-tobin",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-01T01:00:00.000Z",
-   "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
   }
  ]
 }
