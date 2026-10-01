@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-01T07:09:11.849Z",
+ "updatedAt": "2026-10-01T14:44:42.997Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,438 @@
   }
  ],
  "items": [
+  {
+   "id": "02a827437edb0177",
+   "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-01T14:36:50.000Z",
+   "summary": "A pop-up shop for \"dots,\" a personal assistant agent at OpenAI DevDay 2026. (Photo by Heather Diehl/Getty Images) | Getty Images At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early…"
+  },
+  {
+   "id": "9cb10db2697347ec",
+   "title": "iPadOS 27.2: Two new features coming soon to your iPad",
+   "url": "https://9to5mac.com/2026/10/01/ipados-27-2-two-new-features-coming-soon-to-your-ipad/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-01T14:27:32.000Z",
+   "summary": "iPadOS 27.2 is coming later this month as a new iPad software update, here are two new features it will bring. more…"
+  },
+  {
+   "id": "b5deec6647ba4e68",
+   "title": "MacBook Pro With OLED Touch Screen Rumored to Launch in October or November",
+   "url": "https://www.macrumors.com/2026/10/01/oled-macbook-pro-release-date/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-01T14:24:07.000Z",
+   "summary": "On his first-ever Power On podcast today, Bloomberg's Mark Gurman said that he believes Apple will introduce its long-rumored 14-inch and 16-inch MacBook Pro models with touch-enabled OLED displays in October or November this year. \"Apple, I believe, will introduce its first touchscreen MacBook Pro…"
+  },
+  {
+   "id": "20a29686eb340d41",
+   "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+   "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-01T14:00:00.000Z",
+   "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power…"
+  },
+  {
+   "id": "2981d208f965f3bf",
+   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+   "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-01T14:00:00.000Z",
+   "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps."
+  },
+  {
+   "id": "ce5a318f76f90ca0",
+   "title": "Apple's All-New Home Hub Rumored to Launch in These Four Colors",
+   "url": "https://www.macrumors.com/2026/10/01/apple-home-hub-four-colors-rumored/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-01T13:48:42.000Z",
+   "summary": "Apple reportedly plans to unveil its long-rumored smart home hub on Tuesday, October 13, and a proven leaker known as \"pdfu\" has revealed that the device may be available in up to four finishes: Silver, Space Gray, Starlight, and Rose Pink. MacRumors contributor Aaron Perris uncovered the same four…"
+  },
+  {
+   "id": "eb48517ab0ce552d",
+   "title": "What even is a ‘microdrama’?",
+   "url": "https://www.theverge.com/entertainment/1003297/microdramas-neighbours-epis-roseberry-reelshort-dramabox-vertical-video",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-01T13:30:00.000Z",
+   "summary": "On Monday, Variety reported that RoseBerry Media is recutting episodes of the Australian soap opera Neighbours \"into microdramas.\" These clips will be available on Epis, a short-form vertical video streaming platform. Though Neighbours ran for 41 seasons from 1985 to 2025, at launch, RoseBerry is…"
+  },
+  {
+   "id": "b9106473d1e121a5",
+   "title": "‘HomePad’ could launch in these four colors, per leaker",
+   "url": "https://9to5mac.com/2026/10/01/homepad-could-launch-in-these-four-colors-per-leaker/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-01T13:20:29.000Z",
+   "summary": "Apple’s new smart home hub, commonly called ‘HomePad,’ is reportedly launching October 13. And a new leak reveals the colors it might launch in. more…"
+  },
+  {
+   "id": "6bc486d2251c0793",
+   "title": "Samsung raised prices on the Galaxy S26 by $100",
+   "url": "https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-01T13:17:16.000Z",
+   "summary": "The base Galaxy S26 with 256GB of storage costs nearly $1,000 after Samsung raised prices in the US by $100 or more, Phone Arena reports. The Galaxy S26 and S26 Plus were already $100 more expensive than their S25 predecessors when they launched earlier this year, which Samsung said RAM price hikes…"
+  },
+  {
+   "id": "3f65c4a7a5b1a04f",
+   "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+   "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T13:05:51.000Z",
+   "summary": "86 points · 30 comments"
+  },
+  {
+   "id": "af94358f4e1421d4",
+   "title": "Here’s everything new Apple TV has coming in October",
+   "url": "https://9to5mac.com/2026/10/01/heres-everything-new-apple-tv-has-coming-in-october-2026/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-01T13:03:20.000Z",
+   "summary": "Apple TV has a strong current lineup headlined by hits like Slow Horses, Ted Lasso, Dark Matter, and new Matthew McConaughey comedy Brothers. But there’s a lot more coming soon. Here’s everything new Apple TV has premiering in October. more…"
+  },
+  {
+   "id": "a4976142b1d25886",
+   "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+   "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-01T13:01:02.000Z",
+   "summary": "27 points · 12 comments"
+  },
+  {
+   "id": "5f15eed096a700b9",
+   "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+   "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-01T13:00:55.000Z",
+   "summary": "68 points · 19 comments"
+  },
+  {
+   "id": "5e5251d0bc596225",
+   "title": "Gears of War: E-Day is a great game launching at a terrible time",
+   "url": "https://www.theverge.com/games/1002768/gears-of-war-eday-review-xbox",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-01T13:00:00.000Z",
+   "summary": "There are few blockbuster games that are as confident as Gears of War: E-Day. A prequel to one of Xbox's most transformative titles, E-Day knows exactly what it wants to be: a brutal, tense, and self-aware action game, one that is stronger because it doesn't deviate from that premise. Twenty years…"
+  },
+  {
+   "id": "2e46a1e8a13d4eca",
+   "title": "Amazon is launching colorful new Kindles — and a case with physical page-turn buttons",
+   "url": "https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-01T13:00:00.000Z",
+   "summary": "The base Kindle (shown here), Kindle Paperwhite, and Colorsoft come in aluminum options, not just plastic. | Photo: Cameron Faulkner / The Verge Kindles don't usually change much with each new version, but Amazon is launching next-generation models today that look and feel a whole lot nicer. The…"
+  },
+  {
+   "id": "180b896fa2c8d43b",
+   "title": "Amazon’s Carrie is a cyberbullying nightmare",
+   "url": "https://www.theverge.com/entertainment/1002835/carrie-review-amazon-prime-video",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-01T13:00:00.000Z",
+   "summary": "Do we really need a new version of Carrie? That's the question that plagues any attempt to reimagine the classic horror tale. Stephen King's 1974 novel remains one of his most iconic, and the film version from Brian De Palma and Sissy Spacek two years later remains unsurpassed, despite a handful…"
+  },
+  {
+   "id": "a9258953235c5aa9",
+   "title": "HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+   "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-01T13:00:00.000Z",
+   "summary": "Does this range of colors look a little familiar? | Image: HP HP is announcing a new laptop that's squarely aimed at Apple's MacBook Neo. The 2026 HP OmniBook 5 14 starts at $699.99 with an Intel Core 5 315 \"Wildcat Lake\" processor, 8GB of RAM, and a 256GB SSD. Much of that sounds pretty familiar…"
+  },
+  {
+   "id": "9c6e79d199d38dfb",
+   "title": "Hearing tech startup Legato launches its AI hearing glasses",
+   "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-01T13:00:00.000Z",
+   "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids."
+  },
+  {
+   "id": "49bdab0429f74c9a",
+   "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
+   "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-01T13:00:00.000Z",
+   "summary": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI."
+  },
+  {
+   "id": "a737b08773f18aaf",
+   "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
+   "url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-01T13:00:00.000Z",
+   "summary": "The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good."
+  },
+  {
+   "id": "aba39656a80dcde2",
+   "title": "Amazon introduces Kindle Click, a $35 remote for turning pages",
+   "url": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-01T13:00:00.000Z",
+   "summary": "The compact Bluetooth remote is designed to let readers turn pages without touching their Kindle."
+  },
+  {
+   "id": "f069a8a7a6ad399f",
+   "title": "Amazon introduces new Kindle Paperwhite, Colorsoft and entry-level models",
+   "url": "https://www.engadget.com/2274300/amazon-launches-new-kindle-paperwhite-colorsoft-models-late-2026/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-01T13:00:00.000Z",
+   "summary": "Amazon's new Kindle e-readers come with flat-surface displays and new colors."
+  },
+  {
+   "id": "b6bf3e9cd0917662",
+   "title": "HP's Omnibook 5 features an OLED screen and costs $699",
+   "url": "https://www.engadget.com/2273550/hps-omnibook-5-features-an-oled-screen-and-costs-dollar699/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-01T13:00:00.000Z",
+   "summary": "It also lasts up to 42 hours on a single charge."
+  },
+  {
+   "id": "ae97a2705413a822",
+   "title": "Neurable launches its newest brain-scanning headphones",
+   "url": "https://www.engadget.com/2271652/neurable-one-eeg-headphones/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-01T13:00:00.000Z",
+   "summary": "Neurable is launching a new pair of EEG-equipped headphones to keep an eye on your brainwaves while you work, rest and play."
+  },
+  {
+   "id": "9c870a672d4a068d",
+   "title": "Amazon's latest Kindle accessories bring physical buttons back to its ereaders",
+   "url": "https://www.engadget.com/2274088/amazon-latest-kindle-accessories-bring-physical-buttons-to-ereaders/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-01T13:00:00.000Z",
+   "summary": "BookTok will probably rejoice."
+  },
+  {
+   "id": "bf09a2f343a86c0a",
+   "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
+   "url": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T12:55:27.000Z",
+   "summary": "167 points · 79 comments"
+  },
+  {
+   "id": "c1bd6af41dab32de",
+   "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+   "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T12:48:59.000Z",
+   "summary": "109 points · 122 comments"
+  },
+  {
+   "id": "4621d076d5eda271",
+   "title": "How to speed up the Rust compiler in September 2026",
+   "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T12:44:38.000Z",
+   "summary": "70 points · 23 comments"
+  },
+  {
+   "id": "8e2c1c1dea5fd554",
+   "title": "iPhone 18 Pro Aperture Control Goes Fully Manual in Halide 3.2",
+   "url": "https://www.macrumors.com/2026/10/01/iphone-18-pro-aperture-control-fully-manual-halide/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-01T12:39:41.000Z",
+   "summary": "Award-winning camera app Halide Mark III has been updated to version 3.2, bringing dedicated support for iPhone 18 Pro by broadening user control over the device's new variable aperture camera system. Apple's stock Camera app lets iPhone 18 Pro owners choose from a four-stop variable aperture…"
+  },
+  {
+   "id": "c49e2e3f65d92da8",
+   "title": "The iPhone 18 Pro is selling well in China for three reasons",
+   "url": "https://9to5mac.com/2026/10/01/the-iphone-18-pro-is-selling-well-in-china-for-three-reasons/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-01T12:10:57.000Z",
+   "summary": "A new market intelligence report says that the iPhone 18 Pro and Pro Max are selling well in China, making Apple the best-selling brand in the country during the launch week. Counterpoint Research has said there are three reasons for the popularity of Apple’s latest iPhone … more…"
+  },
+  {
+   "id": "af4ace175b9b8a48",
+   "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+   "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-01T12:00:00.000Z",
+   "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach."
+  },
+  {
+   "id": "89b5db51935d6c1a",
+   "title": "Apple Stores Receive 'Do Not Open' Boxes Ahead of Smart Home Products Launch",
+   "url": "https://www.macrumors.com/2026/10/01/apple-stores-receive-do-not-open-boxes/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-01T11:59:27.000Z",
+   "summary": "Apple Stores around the world are preparing to install new product presentations starting on Thursday, October 8. Apple retail stores received confidential boxes earlier this week featuring \"Do Not Open Until October 8\" stickers on them. They are believed to contain new visual merchandise, which…"
+  },
+  {
+   "id": "b1af8000ec70277e",
+   "title": "This fake Mac Zoom installer has a sneaky way to bypass Gatekeeper",
+   "url": "https://9to5mac.com/2026/10/01/this-fake-mac-zoom-installer-has-a-sneaky-way-to-bypass-gatekeeper/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-01T11:39:20.000Z",
+   "summary": "Cybersecurity company Jamf has discovered a fake Mac installer for the videoconferencing app Zoom that uses a sneaky way to bypass Apple’s Gatekeeper protection against malware. The malware does actually install Zoom, but also an infostealer that captures data and sends it to the attacker’s server…"
+  },
+  {
+   "id": "3b576601520f7dd1",
+   "title": "iPhone 18 Pro Sales Jump in China Ahead of iPhone Duo Launch",
+   "url": "https://www.macrumors.com/2026/10/01/strong-iphone-18-pro-launch-sales-china/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-01T11:37:34.000Z",
+   "summary": "Sales of iPhone 18 Pro models in China were 12% higher in the three days after launching than sales of iPhone 17 Pro models were during their entire first week last year, according to Counterpoint Research. Related Roundups: iPhone 18 Pro, iPhone Duo Tags: China, Counterpoint Buyer's Guide: iPhone…"
+  },
+  {
+   "id": "4ffcc91fe722f5ba",
+   "title": "PS5 emulation is suddenly making big strides on PC",
+   "url": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-01T11:30:41.000Z",
+   "summary": "Games like Astro Bot and Demon’s Souls are running ably without a console."
+  },
+  {
+   "id": "2401a8620b76463c",
+   "title": "Reddit is making two changes some long-time users won’t like",
+   "url": "https://9to5mac.com/2026/10/01/reddit-is-making-two-changes-some-long-time-users-wont-like/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-01T11:17:07.000Z",
+   "summary": "Reddit has announced two upcoming changes which are likely to prove unpopular with some long-time users. The company has already placed one restriction on Old Reddit, and it has now announced a second one. Additionally, RSS support is being discontinued … more…"
+  },
+  {
+   "id": "88ae95fc31e76334",
+   "title": "NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift",
+   "url": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-01T11:15:15.000Z",
+   "summary": "\"We did some really, really cool stuff. I'm absolutely gutted we weren't able to get further.\""
+  },
+  {
+   "id": "ed3361f3269445a6",
+   "title": "StreetComplete on iOS is now in public beta",
+   "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T10:59:57.000Z",
+   "summary": "247 points · 57 comments"
+  },
+  {
+   "id": "1de3b2c14d68e5d9",
+   "title": "Apple TV Still Down for Some Users Following Apple Services Outage",
+   "url": "https://www.macrumors.com/2026/10/01/apple-tv-still-down-for-some-users/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-01T10:51:48.000Z",
+   "summary": "Apple TV appears to be unavailable for some users, following a recent outage of Apple Services that began on September 30. The original outage took down the App Store, Apple Fitness+, Apple Music, and several other services, but those are all now back online. Only Apple TV is still not working for…"
+  },
+  {
+   "id": "d20674bb45cd005c",
+   "title": "HomePad setup process seemingly revealed, sharing feature with iPhone Duo",
+   "url": "https://9to5mac.com/2026/10/01/homepad-setup-process-seemingly-revealed-sharing-feature-with-iphone-duo/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-01T10:50:40.000Z",
+   "summary": "A leaker who previously found iPhone Duo features in Apple code has now done the same for the HomePad. The setup process for the upcoming device shares a feature with Apple’s foldable iPhone. The leaker suggests that the setup process will be carried out in the Home app, and they shared three…"
+  },
+  {
+   "id": "5ac8f47311e45277",
+   "title": "Neon will make a truly open-source SCP movie after A24 controversy",
+   "url": "https://www.engadget.com/2274276/neon-scp-foundation-movie-open-source/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-01T10:41:44.000Z",
+   "summary": "Movie studios are turning to the horror fiction site SCP Foundation and showing how dealing with that community can go right, and wrong."
+  },
+  {
+   "id": "39b7a0397e4c08d4",
+   "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+   "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T10:21:36.000Z",
+   "summary": "98 points · 46 comments"
+  },
+  {
+   "id": "6e0b702ce5b67aba",
+   "title": "PSA: Apple Mail on Mac May Stop Syncing Microsoft 365 Accounts Today",
+   "url": "https://www.macrumors.com/2026/10/01/apple-mail-mac-stop-sync-microsoft-365/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-01T10:17:27.000Z",
+   "summary": "Microsoft today began disabling Exchange Web Services (EWS) by default in Exchange Online, which will cut off the protocol that Apple's Mail and Calendar apps on Mac still rely on to sync Microsoft 365 work accounts. The cutoff has been on the cards for a fairly long time, as Microsoft stopped…"
+  },
+  {
+   "id": "ecceaf9a22cec854",
+   "title": "Huawei made a whole camera to attach to its latest phone",
+   "url": "https://www.theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-01T10:15:48.000Z",
+   "summary": "I’m sorry, this is just a camera that makes phone calls. | Image: Huawei Over the last few years, Chinese Android manufacturers have followed Vivo's example of launching add-on \"teleconverter\" lenses for their flagship phones, enabling long-distance photography that the phones on their own could…"
+  },
+  {
+   "id": "24ca517f1fc2ea80",
+   "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+   "url": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T09:48:18.000Z",
+   "summary": "0 points · 0 comments"
+  },
+  {
+   "id": "d5d8fe4d61462731",
+   "title": "Security Bite Podcast: The new era of bug hunting with OpenHack’s Ananay Arora",
+   "url": "https://9to5mac.com/2026/10/01/security-bite-podcast-the-new-era-of-bug-hunting-with-openhacks-ananay-arora/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-01T09:30:00.000Z",
+   "summary": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated…"
+  },
+  {
+   "id": "4d8c293fd7e0cba2",
+   "title": "Google's first Gemini 4 model is 'Argon'",
+   "url": "https://www.engadget.com/2274263/google-gemini-4-model-argon/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-01T09:26:30.000Z",
+   "summary": "Google trained Gemini 4 Argon to be highly capable in knowledge work, cybersecurity defense and creative writing."
+  },
+  {
+   "id": "42d245c677838273",
+   "title": "California's new law bans companies from relying on AI to fire workers",
+   "url": "https://www.engadget.com/2274224/california-law-bans-companies-from-relying-on-ai-to-fire-workers/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-01T07:36:44.000Z",
+   "summary": "California enacts new laws aimed at companies using AI to initiate job cuts or monitor employees."
+  },
   {
    "id": "685aefdb8f66916b",
    "title": "Suits Are Better Tech Than Modern Clothes",
@@ -1315,6 +1747,15 @@
    "summary": "9 points · 1 comments"
   },
   {
+   "id": "d399427b72afb3b2",
+   "title": "Los Alamos bets on ENIAC: Nuclear Monte Carlo simulations, 1947–1948 (2014) [pdf]",
+   "url": "https://www.tomandmaria.com/Tom/Writing/LosAlamosBetsOnENIAC.pdf",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-30T13:53:46.000Z",
+   "summary": "34 points · 0 comments"
+  },
+  {
    "id": "36efe4e1aa6ad00d",
    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
    "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
@@ -1664,6 +2105,15 @@
    "section": "tech",
    "publishedAt": "2026-09-30T09:27:04.000Z",
    "summary": "174 points · 106 comments"
+  },
+  {
+   "id": "5ee337dd2d74a46f",
+   "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+   "url": "https://github.com/maanHimself/OpenDLSS-NR",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-09-30T08:43:21.000Z",
+   "summary": "176 points · 88 comments"
   },
   {
    "id": "1508a3d506deac97",
@@ -2935,6 +3385,15 @@
    "summary": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders."
   },
   {
+   "id": "26076264928ffc51",
+   "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
+   "url": "https://bookofshapes.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T14:56:22.000Z",
+   "summary": "166 points · 12 comments"
+  },
+  {
    "id": "14fc24f77bf851d0",
    "title": "Show HN: NSL – WSL for Linux",
    "url": "https://frostyard.github.io/nsl/",
@@ -3086,6 +3545,15 @@
    "section": "ai",
    "publishedAt": "2026-09-29T14:08:21.000Z",
    "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent earlier this…"
+  },
+  {
+   "id": "5748f1cc733de878",
+   "title": "Adding Floating-Point Decimals for Fun and Profit",
+   "url": "https://blog.vero.site/post/float",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-29T14:05:13.000Z",
+   "summary": "32 points · 15 comments"
   },
   {
    "id": "3fbb3d9c5feb4f77",
@@ -31733,24 +32201,6 @@
    "section": "ai",
    "publishedAt": "2026-09-01T16:00:00.000Z",
    "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available."
-  },
-  {
-   "id": "852751c5753173b0",
-   "title": "Path to Astra: critical capabilities and frontier safeguards",
-   "url": "https://openai.com/index/path-to-astra",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-01T13:00:00.000Z",
-   "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
-  },
-  {
-   "id": "b5db89be75c3bbba",
-   "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-   "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-01T12:00:00.000Z",
-   "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
   }
  ]
 }
