@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-01T20:19:13.022Z",
+ "updatedAt": "2026-10-02T00:09:38.609Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1242
+   "count": 1243
   },
   {
    "name": "Google DeepMind",
@@ -77,10 +77,316 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 31
+   "count": 30
   }
  ],
  "items": [
+  {
+   "id": "f46551cfcfa9e8bf",
+   "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+   "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-02T00:03:23.000Z",
+   "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that."
+  },
+  {
+   "id": "2df8ed5f2d34cee5",
+   "title": "Several vulnerabilities have been discovered in the Linux kernel",
+   "url": "https://lwn.net/Articles/1097401/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T23:10:44.000Z",
+   "summary": "8 points · 1 comments"
+  },
+  {
+   "id": "841f096dc63ea612",
+   "title": "DoGBench: The first user-facing docs generation benchmark. No model scores >50%",
+   "url": "https://dogbench.ai/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T23:10:32.000Z",
+   "summary": "4 points · 1 comments"
+  },
+  {
+   "id": "747c93cee09ca5a9",
+   "title": "Apple's smart home camera reportedly won't record video",
+   "url": "https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T23:00:10.000Z",
+   "summary": "8 points · 2 comments"
+  },
+  {
+   "id": "1816a6ef789778c0",
+   "title": "Florida county finds 11 unpermitted Flock cameras with unidentified owners",
+   "url": "https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-01T22:57:20.000Z",
+   "summary": "St. Lucie County thought it had 52 Flock cameras, but found many more that were unaccounted for and unpermitted."
+  },
+  {
+   "id": "51c1ba8e5714bbb1",
+   "title": "Apple commissions photographers for new ‘Shot on iPhone Duo’ campaign",
+   "url": "https://9to5mac.com/2026/10/01/apple-commissions-photographers-for-new-shot-on-iphone-duo-campaign/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-01T22:52:42.000Z",
+   "summary": "Today, Apple’s Instagram account published a carousel featuring photos commissioned from photographers Jake Michaels and Jason Nocito to highlight the new iPhone Duo’s cameras. Here are the details. more…"
+  },
+  {
+   "id": "a5f003829852be1c",
+   "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+   "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-01T22:51:36.000Z",
+   "summary": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of \"a new Apple smart home ecosystem,\" alongside…"
+  },
+  {
+   "id": "a7646cf07c569fc4",
+   "title": "2026 International Utility Locate Rodeo",
+   "url": "https://locaterodeo.net/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T22:33:23.000Z",
+   "summary": "8 points · 0 comments"
+  },
+  {
+   "id": "7f4cb354025a53de",
+   "title": "ChatGPT can now help you virtually try on clothes",
+   "url": "https://www.engadget.com/2275295/chatgpt-can-now-help-you-virtually-try-on-clothes/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-01T22:27:39.000Z",
+   "summary": "Images are generated with OpenAI's latest model and you can save clothes you like for later."
+  },
+  {
+   "id": "7b054015f0687e3a",
+   "title": "Venus' mysterious haze is actually cosmic dust",
+   "url": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-01T22:27:04.000Z",
+   "summary": "A physical model show that iron dust and sulfuric acid create the right properties."
+  },
+  {
+   "id": "e0cb2a92ba517cf4",
+   "title": "Apple among biggest corporate lobbyists in Brussels, per report",
+   "url": "https://9to5mac.com/2026/10/01/apple-among-biggest-corporate-lobbyists-in-brussels-per-report/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-01T22:21:27.000Z",
+   "summary": "A new analysis by The Financial Times shows that Apple has met with EU policymakers 257 times since June 2024 and has spent between €8 million and €9 million per year on lobbying. Here are the details. more…"
+  },
+  {
+   "id": "cca9a0de048eefa9",
+   "title": "9to5Mac Daily: October 1, 2026 – iPhone Duo production, AirPods 5 tidbits",
+   "url": "https://9to5mac.com/2026/10/01/daily-october-1-2026/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-01T22:16:36.000Z",
+   "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff:Stuff helps you get everything out of your head…"
+  },
+  {
+   "id": "f995f492be92e83e",
+   "title": "New 'AirFly Drive' Accessory Turns Wired CarPlay Into Wireless CarPlay",
+   "url": "https://www.macrumors.com/2026/10/01/twelve-south-airfly-drive/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-01T22:08:42.000Z",
+   "summary": "Twelve South, a well-known accessory maker for Apple products, has released a new AirFly Drive accessory that turns wired CarPlay into wireless CarPlay. AirFly Drive uses Wi-Fi to establish a connection between your iPhone and vehicle, eliminating the need to use a USB-C cable for CarPlay. Priced…"
+  },
+  {
+   "id": "dd1b0ae60596cf02",
+   "title": "SpaceX describes surgical intervention before launch of latest crew mission",
+   "url": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-01T22:07:33.000Z",
+   "summary": "With Crew-13, Jessica Watkins became the first Black woman to lead a mission into space."
+  },
+  {
+   "id": "14273e09964a126d",
+   "title": "OpenAI fires three employees who allegedly shared info with an external AI safety group",
+   "url": "https://www.engadget.com/2275278/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-01T22:05:43.000Z",
+   "summary": "You can't make this stuff up."
+  },
+  {
+   "id": "c84e409d34ed15ab",
+   "title": "Aweb – Communication for AI Agents",
+   "url": "https://aweb.ai/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-01T22:02:31.000Z",
+   "summary": "12 points · 5 comments"
+  },
+  {
+   "id": "0fb305a6935dd798",
+   "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+   "url": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-01T21:57:08.000Z",
+   "summary": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue."
+  },
+  {
+   "id": "2b0a7c72d717d663",
+   "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+   "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-01T21:55:22.000Z",
+   "summary": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises."
+  },
+  {
+   "id": "a404342905d9fc4d",
+   "title": "GrayKey maker can reportedly bypass the iPhone’s ‘Inactivity Reboot’ security feature",
+   "url": "https://9to5mac.com/2026/10/01/graykey-maker-can-reportedly-bypass-the-iphones-inactivity-reboot-security-feature/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-01T21:36:16.000Z",
+   "summary": "As reported by 404 Media, Magnet Forensics says it has found a way to bypass the iPhone security feature that automatically reboots devices if they haven’t been unlocked for 72 hours. Here are the details. more…"
+  },
+  {
+   "id": "92b377d698197091",
+   "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+   "url": "https://www.cssbed.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T21:21:32.000Z",
+   "summary": "41 points · 9 comments"
+  },
+  {
+   "id": "c5c7697f033bcb89",
+   "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+   "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-01T21:08:11.000Z",
+   "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
+  },
+  {
+   "id": "a24aab5b380ee358",
+   "title": "The death of web development education",
+   "url": "https://molily.de/web-dev-education/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T21:07:37.000Z",
+   "summary": "138 points · 108 comments"
+  },
+  {
+   "id": "64c6a9d8d98f2d01",
+   "title": "Samsung launches its first clip-on earbuds in South Korea",
+   "url": "https://www.engadget.com/2275187/samsung-launches-its-first-clip-on-earbuds-in-south-korea/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-01T20:57:39.000Z",
+   "summary": "A global rollout will follow, although we don't yet know the details."
+  },
+  {
+   "id": "a55482c3419de77e",
+   "title": "Apple Shares Photos Shot on iPhone Duo",
+   "url": "https://www.macrumors.com/2026/10/01/apple-shares-photos-shot-on-iphone-duo/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-01T20:56:29.000Z",
+   "summary": "Apple on Instagram today shared a curated gallery of six photos shot on the iPhone Duo. The photos were shot by American photographers Jake Michaels and Jason Nocito, as part of a project commissioned by Apple. iPhone Duo is equipped with four cameras: A rear 48-megapixel Fusion Main camera A rear…"
+  },
+  {
+   "id": "c1d651fe17e97e3d",
+   "title": "Metro 2033 and Metro: Last Light remasters are getting free next-gen updates this month",
+   "url": "https://www.engadget.com/2275181/metro-2033-and-metro-last-light-remasters-are-getting-free-next-gen-updates/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-01T20:52:37.000Z",
+   "summary": "Take a trip down memory lane with the first two games in the series."
+  },
+  {
+   "id": "d34a744f14915faa",
+   "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+   "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T20:48:37.000Z",
+   "summary": "37 points · 2 comments"
+  },
+  {
+   "id": "1eaf78247a2d9031",
+   "title": "Apple Arcade adds five new games, including Terraria+ and Pusheen’s Place",
+   "url": "https://9to5mac.com/2026/10/01/apple-arcade-adds-five-new-games-including-terraria-and-pusheens-place/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-01T20:44:52.000Z",
+   "summary": "Apple Arcade subscribers got access to five new games today, as Apple had promised in early September. Here are the details. more…"
+  },
+  {
+   "id": "0fd588201d17e08f",
+   "title": "Police may have new ways to access data on locked iPhones",
+   "url": "https://www.engadget.com/2275167/police-may-have-new-ways-to-access-data-on-locked-iphones/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-01T20:43:15.000Z",
+   "summary": "A training video reportedly demonstrates how police can evade an Apple security feature."
+  },
+  {
+   "id": "a5e2197cf9ab98b4",
+   "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+   "url": "https://github.com/Vibra-Ingenn/Janus",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T20:36:47.000Z",
+   "summary": "44 points · 4 comments"
+  },
+  {
+   "id": "5e1ffde3cf9d6951",
+   "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+   "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-01T20:28:45.000Z",
+   "summary": "It has been a bad month for federal government cybersecurity."
+  },
+  {
+   "id": "9ab864df102416ae",
+   "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+   "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T20:23:27.000Z",
+   "summary": "132 points · 130 comments"
+  },
+  {
+   "id": "aa082acbbcb32b2f",
+   "title": "SvelteKit 3",
+   "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T20:14:23.000Z",
+   "summary": "88 points · 26 comments"
+  },
+  {
+   "id": "6d0a938164c14310",
+   "title": "ArXiv's Updated Rate Limit Policy",
+   "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T20:12:15.000Z",
+   "summary": "60 points · 17 comments"
+  },
+  {
+   "id": "48725f983bc316c1",
+   "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+   "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-10-01T20:11:55.000Z",
+   "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue."
+  },
   {
    "id": "06307fb8e64d04e6",
    "title": "Audible announces AI-powered character guides, interactive stories, more",
@@ -127,6 +433,15 @@
    "summary": "Benjamin and Chance discuss the final Apple smart display rumors with a release for the ‘HomePad’ rumored for October 13, although the small square screen form factor remains puzzling. Also, leaked photos of the iPad mini and HomePod mini suggest those long-awaited updates are also imminent, John…"
   },
   {
+   "id": "bb15f124974a4907",
+   "title": "Pi Durable",
+   "url": "https://earendil.com/posts/pi-durable/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T19:24:08.000Z",
+   "summary": "189 points · 19 comments"
+  },
+  {
    "id": "c7673a1b77f3e06a",
    "title": "ChatGPT can now virtually try on clothes for you",
    "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
@@ -152,6 +467,15 @@
    "section": "tech",
    "publishedAt": "2026-10-01T19:20:29.000Z",
    "summary": "Android Central, a blog focused on the Android ecosystem, laid off its staff yesterday, but owner Future confirms to The Verge that the site will continue publishing. Yesterday, four of the six staffers on Android Central's staff page posted publicly about the layoffs, including Shruti Shekar…"
+  },
+  {
+   "id": "4b5ce80429bac611",
+   "title": "Can good design stop content creators from having sex in robotaxis?",
+   "url": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-01T19:19:42.000Z",
+   "summary": "Autonomous vehicle designers have to worry about riders getting frisky in public."
   },
   {
    "id": "095b6a204ac3a8db",
@@ -289,6 +613,15 @@
    "summary": "Can the rest of the country have this please?"
   },
   {
+   "id": "ebdd6672edef38ec",
+   "title": "Vote on which of Hacker News' challenges for AI have been met",
+   "url": "https://stoppels.ch/goalposts/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-01T17:32:43.000Z",
+   "summary": "74 points · 70 comments"
+  },
+  {
    "id": "4ca28c04e134af1d",
    "title": "Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter",
    "url": "https://9to5mac.com/2026/10/01/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
@@ -368,6 +701,15 @@
    "section": "tech",
    "publishedAt": "2026-10-01T17:00:00.000Z",
    "summary": "An iterative upgrade once again for Samsung's laptop-sized tablet line."
+  },
+  {
+   "id": "435f39c3d53e9d7b",
+   "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+   "url": "https://blog.gitbutler.com/git-3-sha-256",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T16:57:03.000Z",
+   "summary": "178 points · 204 comments"
   },
   {
    "id": "9d523c0a5afc3e7a",
@@ -1268,6 +1610,15 @@
    "section": "tech",
    "publishedAt": "2026-10-01T00:23:45.000Z",
    "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly…"
+  },
+  {
+   "id": "6038bbe52976997e",
+   "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+   "url": "https://openai.com/index/the-den-family-social",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-10-01T00:00:00.000Z",
+   "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
   },
   {
    "id": "9f9df0ed69b7d0f7",
@@ -32840,24 +33191,6 @@
    "section": "ai",
    "publishedAt": "2026-09-02T12:00:00.000Z",
    "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
-  },
-  {
-   "id": "f21d0426963cf394",
-   "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-   "url": "https://huggingface.co/blog/allenai/benchmirt",
-   "source": "Hugging Face",
-   "section": "ai",
-   "publishedAt": "2026-09-01T21:39:07.000Z",
-   "summary": ""
-  },
-  {
-   "id": "c541cbb9a724a80f",
-   "title": "The latest AI news we announced in August 2026",
-   "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-   "source": "Google AI",
-   "section": "ai",
-   "publishedAt": "2026-09-01T20:45:00.000Z",
-   "summary": "Here are Google’s latest AI updates from August 2026"
   }
  ]
 }
