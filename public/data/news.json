@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02T00:09:38.609Z",
+ "updatedAt": "2026-10-02T06:07:41.141Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -23,7 +23,7 @@
    "name": "Hugging Face",
    "section": "ai",
    "ok": true,
-   "count": 871
+   "count": 872
   },
   {
    "name": "MIT Tech Review",
@@ -82,6 +82,78 @@
  ],
  "items": [
   {
+   "id": "8ca541c8eda5cdb4",
+   "title": "Shimano Bicycle Museum Review",
+   "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T05:12:58.000Z",
+   "summary": "12 points · 0 comments"
+  },
+  {
+   "id": "7af5d585715c100c",
+   "title": "Meta's Muse is fantastic for web scraping",
+   "url": "https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T04:56:02.000Z",
+   "summary": "31 points · 24 comments"
+  },
+  {
+   "id": "22586d3388d81382",
+   "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+   "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-10-02T04:01:31.000Z",
+   "summary": ""
+  },
+  {
+   "id": "565d18b5ce683f16",
+   "title": "AT&T Acknowledges iPhone 18 Pro Max Issues: 'Update Immediately'",
+   "url": "https://www.macrumors.com/2026/10/01/att-acknowledges-iphone-18-pro-max-issues/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-02T03:42:44.000Z",
+   "summary": "In a text message sent to customers today, AT&T acknowledged that some iPhone 18 Pro Max devices on its network are experiencing cellular issues. AT&T said that customers should immediately update to iOS 27.0.1, despite the fact that many affected users have said that the update does not resolve…"
+  },
+  {
+   "id": "112377658070cc43",
+   "title": "DeepSeek Harness",
+   "url": "https://www.deepseek.com/en/harness/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-02T03:11:20.000Z",
+   "summary": "105 points · 30 comments"
+  },
+  {
+   "id": "3fa9109c43cd1c8f",
+   "title": "How Singapore's government-run dating service works",
+   "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T01:56:52.000Z",
+   "summary": "70 points · 33 comments"
+  },
+  {
+   "id": "f03b80982a8b4559",
+   "title": "Apple TV’s acclaimed ‘The Last First: Winter K2’ documentary now streaming",
+   "url": "https://9to5mac.com/2026/10/01/apple-tvs-acclaimed-the-last-first-winter-k2-documentary-now-streaming/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-02T01:00:20.000Z",
+   "summary": "Sporting a 100% Rotten Tomatoes score, the extreme mountain climbing documentary “The Last First: Winter K2” is now available to Apple TV subscribers. Watch the trailer below. more…"
+  },
+  {
+   "id": "98ad068f80f6038a",
+   "title": "Robotaxi operators will face fines for blocking first responders",
+   "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-02T00:57:57.000Z",
+   "summary": "A new California law places new rules on autonomous vehicles operators"
+  },
+  {
    "id": "f46551cfcfa9e8bf",
    "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
    "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
@@ -89,6 +161,15 @@
    "section": "tech",
    "publishedAt": "2026-10-02T00:03:23.000Z",
    "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that."
+  },
+  {
+   "id": "becad3b46f2f5c8e",
+   "title": "Butterflies use optical illusions to dodge predators",
+   "url": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T23:15:24.000Z",
+   "summary": "32 points · 4 comments"
   },
   {
    "id": "2df8ed5f2d34cee5",
@@ -170,6 +251,15 @@
    "section": "tech",
    "publishedAt": "2026-10-01T22:27:04.000Z",
    "summary": "A physical model show that iron dust and sulfuric acid create the right properties."
+  },
+  {
+   "id": "5d70aa8de24de07e",
+   "title": "Frog and Toad and the Increasingly Capable Machines",
+   "url": "https://www.frogandtoad.ai/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T22:23:38.000Z",
+   "summary": "105 points · 19 comments"
   },
   {
    "id": "e0cb2a92ba517cf4",
@@ -1144,6 +1234,15 @@
    "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps."
   },
   {
+   "id": "a456a94de018a989",
+   "title": "Turbo Haskell",
+   "url": "https://comonad.com/reader/2026/turbo-haskell/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T13:58:25.000Z",
+   "summary": "53 points · 2 comments"
+  },
+  {
    "id": "ce5a318f76f90ca0",
    "title": "Apple's All-New Home Hub Rumored to Launch in These Four Colors",
    "url": "https://www.macrumors.com/2026/10/01/apple-home-hub-four-colors-rumored/",
@@ -1502,6 +1601,15 @@
    "section": "tech",
    "publishedAt": "2026-10-01T09:48:18.000Z",
    "summary": "0 points · 0 comments"
+  },
+  {
+   "id": "1f9fef4a421c8dad",
+   "title": "To grieve, or not to grieve?",
+   "url": "https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T09:47:46.000Z",
+   "summary": "34 points · 4 comments"
   },
   {
    "id": "d5d8fe4d61462731",
