@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02T18:23:42.713Z",
+ "updatedAt": "2026-10-02T22:31:19.616Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,321 @@
  ],
  "items": [
   {
+   "id": "ae6eff87a0b0bfb3",
+   "title": "Lyft agrees to pay $272.5 million to settle worker classification lawsuit",
+   "url": "https://www.engadget.com/2276430/lyft-agrees-to-pay-272-5-million-to-settle-worker-classification-lawsuit/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-02T22:15:53.000Z",
+   "summary": "Uber and Lyft were sued by the state of California in 2020 for misclassifying employees as contractors."
+  },
+  {
+   "id": "fb70e5e3230bcb97",
+   "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+   "url": "https://allenai.org/blog/astabrief",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T21:25:25.000Z",
+   "summary": "5 points · 0 comments"
+  },
+  {
+   "id": "a65222154625ec7f",
+   "title": "Sean Parker is rebuilding Stability AI around music",
+   "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-02T21:09:14.000Z",
+   "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money."
+  },
+  {
+   "id": "af7f50bdfcdb3e05",
+   "title": "Meta open sources code to let you make Muse AI gadgets",
+   "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-02T21:08:37.000Z",
+   "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting…"
+  },
+  {
+   "id": "29548c5da31daa4a",
+   "title": "The Harness Is the Company",
+   "url": "https://blog.sshh.io/p/the-harness-is-the-company",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T21:06:56.000Z",
+   "summary": "23 points · 15 comments"
+  },
+  {
+   "id": "54496e72f191c3ed",
+   "title": "Apple TV releases ‘The Sisters Grimm’ season 2 in full",
+   "url": "https://9to5mac.com/2026/10/02/apple-tv-releases-the-sisters-grimm-season-2-in-full/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-02T21:05:13.000Z",
+   "summary": "Apple TV today released the second season of its animated fantasy adventure series “The Sisters Grimm,” with all six new episodes now available to stream. Here are the details. more…"
+  },
+  {
+   "id": "1779ec189baf7020",
+   "title": "Zig v0.17.0",
+   "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T20:56:36.000Z",
+   "summary": "125 points · 61 comments"
+  },
+  {
+   "id": "32f43b2ff5ddd1be",
+   "title": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement",
+   "url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-02T20:47:02.000Z",
+   "summary": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&T to lose cellular service. Apple released software and carrier updates to prevent the issue from affecting additional users, but the company tells 9to5Mac that affected devices that have already lost service…"
+  },
+  {
+   "id": "24f54564356f14f7",
+   "title": "‘HomePad’ coming: Will Apple hold an October special event?",
+   "url": "https://9to5mac.com/2026/10/02/homepad-coming-will-apple-hold-an-october-special-event/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-02T20:31:33.000Z",
+   "summary": "With Apple reportedly planning to unveil new products on October 13, here’s when the company could announce an event, based on the timing of its previous October announcements. more…"
+  },
+  {
+   "id": "7c733da7760969ab",
+   "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+   "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-02T20:30:27.000Z",
+   "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution."
+  },
+  {
+   "id": "fcf89f12289d3bdd",
+   "title": "Netflix is pivoting away from prestige",
+   "url": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-02T20:30:26.000Z",
+   "summary": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought some of those partnerships to an end in a way that feels indicative of a…"
+  },
+  {
+   "id": "2cae3b9006a32303",
+   "title": "Meta wants people to build their own Muse gadgets, too",
+   "url": "https://www.engadget.com/2276312/meta-muse-gadgets-open-source-smart-home-link/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-02T20:27:14.000Z",
+   "summary": "The company also created its own smart home device, the Muse Home Link"
+  },
+  {
+   "id": "8c23bc2e3aef939f",
+   "title": "Everyone's Packing Up",
+   "url": "https://widdershins.verja.net/everyones-packing-up/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T20:13:04.000Z",
+   "summary": "84 points · 61 comments"
+  },
+  {
+   "id": "a0c57138646cefbc",
+   "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+   "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-02T20:08:40.000Z",
+   "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only…"
+  },
+  {
+   "id": "ab2391b14938a945",
+   "title": "Patient-zero drill put health facilities to the test—40% of them failed",
+   "url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-02T20:07:59.000Z",
+   "summary": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities."
+  },
+  {
+   "id": "b0f7f3b99d175c9d",
+   "title": "Apple Announces 'Full Disk Access' Changes on macOS Due to AI Agents",
+   "url": "https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-10-02T20:04:15.000Z",
+   "summary": "In a post on its developer news website today, Apple announced that it will be introducing \"additional controls\" for the \"Full Disk Access\" setting on macOS due to new risks posed by AI agents. This announcement comes amid the rise of always-on AI agents like Meta's Muse and OpenAI's Dots, which…"
+  },
+  {
+   "id": "84f1ddcc80aec05a",
+   "title": "Batomon Showdown is the hottest new auto battler on the block",
+   "url": "https://www.engadget.com/2276267/batomon-showdown-is-the-hottest-new-auto-battler-on-the-block/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-02T20:03:43.000Z",
+   "summary": "Batomon Showdown is like Pokémon meets Super Auto Pets."
+  },
+  {
+   "id": "4bc80f44f3720ae1",
+   "title": "Sling TV drops its one-day cable passes",
+   "url": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-02T20:00:20.000Z",
+   "summary": "Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk. The feature was announced last year and offered a day pass, a weekend pass, and a week-long pass option to be able to watch…"
+  },
+  {
+   "id": "b8a91c54dae5afe0",
+   "title": "Show HN: Made an open-source Lego AI generator",
+   "url": "https://github.com/anteloc/ldraw-nova",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-02T20:00:15.000Z",
+   "summary": "45 points · 27 comments"
+  },
+  {
+   "id": "ff7b9a98cfe8e538",
+   "title": "9to5Mac Overtime 084: iPhone 18 Pro – a fantastic pro camera experience",
+   "url": "https://9to5mac.com/2026/10/02/9to5mac-overtime-084-iphone-18-pro-a-fantastic-pro-camera-experience/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-02T20:00:00.000Z",
+   "summary": "Jeff and Fernando share their excitement about the iPhone 18 Pro’s camera capabilities and explore whether it could truly replace a mirrorless camera for both photography and videography. Plus, they weigh in on whether you should buy the iPhone 18 Pro now or hold out for the iPhone Duo. 9to5Mac…"
+  },
+  {
+   "id": "b3256a3e45b9246c",
+   "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
+   "url": "https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T19:45:06.000Z",
+   "summary": "83 points · 20 comments"
+  },
+  {
+   "id": "d3aede704f6b02d9",
+   "title": "Samsung and Google are raising prices on their budget phones",
+   "url": "https://www.engadget.com/2276208/samsung-and-google-are-raising-prices-on-their-budget-phones/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-02T19:36:31.000Z",
+   "summary": "Line go up (bad version)."
+  },
+  {
+   "id": "bf27266164ddd840",
+   "title": "AT&T and Apple Just Took Steps Toward Fixing iPhone 18 Pro Max Issue",
+   "url": "https://www.macrumors.com/2026/10/02/att-and-apple-move-to-fix-iphone-18-pro-max-issues/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-02T19:29:52.000Z",
+   "summary": "AT&T and Apple are taking action today as they try to resolve iPhone 18 Pro Max cellular issues, according to MacRumors contributor Aaron Perris. Thousands of iPhone 18 Pro Max users have been unable to connect to the AT&T network for phone calls, text messages, and data. The underlying cause has…"
+  },
+  {
+   "id": "d0ad6ef506d120c9",
+   "title": "Muse Gadgets",
+   "url": "https://gadgets.muse.ai/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T19:26:54.000Z",
+   "summary": "64 points · 37 comments"
+  },
+  {
+   "id": "ff46f0e7edb4eed5",
+   "title": "iOS 27’s Siri gets one thing very right that other AI assistants get wrong",
+   "url": "https://9to5mac.com/2026/10/02/ios-27s-siri-gets-one-thing-very-right-that-other-ai-assistants-get-wrong/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-10-02T19:26:34.000Z",
+   "summary": "Siri AI is a major upgrade to Apple’s assistant that’s now available in iOS 27. And there’s one standout area I’ve noticed where it differs greatly from other AI assistants—for the better. more…"
+  },
+  {
+   "id": "b0bdcc0e5c1a6d48",
+   "title": "Apple sounds the alarm on AI agents and 'Full Disk Access'",
+   "url": "https://www.engadget.com/2276186/apple-sounds-the-alarm-on-ai-agents-and-full-disk-access/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-02T19:22:06.000Z",
+   "summary": "There's an increasingly high cost to convenience."
+  },
+  {
+   "id": "913aa55272fffb78",
+   "title": "\"The only intuitive interface is the nipple\" (2012)",
+   "url": "https://www.greenend.org.uk/rjk/misc/nipple.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T19:18:12.000Z",
+   "summary": "29 points · 31 comments"
+  },
+  {
+   "id": "2a01d30525208676",
+   "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+   "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-02T19:15:51.000Z",
+   "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people."
+  },
+  {
+   "id": "076a6b7933cc4ae7",
+   "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
+   "url": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-02T19:09:49.000Z",
+   "summary": "Critics say workers are still owed far more."
+  },
+  {
+   "id": "077062eb938baf7f",
+   "title": "Apple Pass Designer",
+   "url": "https://developer.apple.com/pass-designer/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T19:06:56.000Z",
+   "summary": "233 points · 158 comments"
+  },
+  {
+   "id": "e4e1f4baa650efa3",
+   "title": "The 2008 economic crisis changed the US's relationship with energy",
+   "url": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-02T18:56:21.000Z",
+   "summary": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth."
+  },
+  {
+   "id": "6bea03fbb0190089",
+   "title": "iPhone Duo video reveals size compared to iPhone 18 Pro Max",
+   "url": "https://9to5mac.com/2026/10/02/iphone-duo-video-reveals-size-compared-to-iphone-18-pro-max/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-02T18:51:20.000Z",
+   "summary": "iPhone Duo has the largest display ever in an iPhone, bigger even than iPhone 18 Pro Max. But how do the two models truly compare in size? A side-by-side video offers a great look. more…"
+  },
+  {
+   "id": "4454aec849119de4",
+   "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+   "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-02T18:39:36.000Z",
+   "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue."
+  },
+  {
+   "id": "2abc6a1b210be7ce",
+   "title": "Apple says it’s tightening macOS privacy controls amid the rise of AI agents",
+   "url": "https://9to5mac.com/2026/10/02/apple-says-its-tightening-macos-privacy-controls-amid-the-rise-of-ai-agents/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-10-02T18:34:06.000Z",
+   "summary": "Amid the rapid rise in AI agents requesting “Full Disk Access” to your Mac, Apple says it is making changes to macOS to protect user privacy. While the company hasn’t shared specifics, Apple says users should understand what it means to give an app such “extraordinary” access to their Mac. more…"
+  },
+  {
+   "id": "a8b88752db7681f8",
+   "title": "HomeKit Weekly: Home Widget 1.10 is the fastest way to check every HomeKit camera at once",
+   "url": "https://9to5mac.com/2026/10/02/home-widget-1-10-is-the-fastest-way-to-check-every-homekit-camera-at-once/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-02T18:31:00.000Z",
+   "summary": "The Home app is a great place to configure your smart home, but it can be slow to control. The tab structure and room hierarchy make sense when you’re setting things up, but they add steps to everything you want to do fifty times a day. Home Widget builds the control panel that Apple didn’t. more…"
+  },
+  {
    "id": "49d3efa3f9af0b28",
    "title": "Research roundup: 6 cool science stories we almost missed",
    "url": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
@@ -107,6 +422,15 @@
    "section": "ai",
    "publishedAt": "2026-10-02T18:11:27.000Z",
    "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier."
+  },
+  {
+   "id": "5cec2db983237822",
+   "title": "From the creator of Redis; run LLM locally with ds4",
+   "url": "https://dwarfstar.sh/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-02T18:01:16.000Z",
+   "summary": "95 points · 22 comments"
   },
   {
    "id": "5a102a5bf117a518",
@@ -415,6 +739,15 @@
    "summary": "If you can live without deep iOS integration and the polished design of the AirPods Max, you could save hundreds."
   },
   {
+   "id": "9917a4aa44162f2f",
+   "title": "One month coding with GLM 5.3 Flash",
+   "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T15:29:15.000Z",
+   "summary": "77 points · 57 comments"
+  },
+  {
    "id": "d515e4acd8323ce6",
    "title": "9to5Mac Daily: October 2, 2026 – MacBook Pro rumors, iPhone Duo display",
    "url": "https://9to5mac.com/2026/10/02/daily-october-2-2026/",
@@ -667,6 +1000,15 @@
    "summary": "185 points · 97 comments"
   },
   {
+   "id": "b7835f26ad97ba01",
+   "title": "Venice’s failed war against Constantinople led to the first bond market",
+   "url": "https://bigthink.com/books/a-fabulous-debt/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T13:17:47.000Z",
+   "summary": "51 points · 15 comments"
+  },
+  {
    "id": "7b5195284f844eef",
    "title": "Rivian’s R2 just helped it set a new sales record",
    "url": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/",
@@ -701,6 +1043,15 @@
    "section": "tech",
    "publishedAt": "2026-10-02T12:50:11.000Z",
    "summary": "The company says around 14 vehicles may be affected, and that it has resolved the issue on the assembly line."
+  },
+  {
+   "id": "ae99061df7021523",
+   "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
+   "url": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T12:46:50.000Z",
+   "summary": "28 points · 3 comments"
   },
   {
    "id": "98e074f2e5a66f40",
@@ -766,6 +1117,24 @@
    "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs…"
   },
   {
+   "id": "192420daf357eef6",
+   "title": "On social reality in China",
+   "url": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T11:42:26.000Z",
+   "summary": "105 points · 106 comments"
+  },
+  {
+   "id": "9560a3b0150a3c92",
+   "title": "Blogging with Gleam, Org-Mode and Pandoc",
+   "url": "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T11:34:28.000Z",
+   "summary": "37 points · 6 comments"
+  },
+  {
    "id": "3cfbd4f0090c3f90",
    "title": "FDA approves artificial heart valve for kids that grows as they do",
    "url": "https://www.engadget.com/2275489/fda-approves-autus-size-adjustable-artificial-heart-valve-for-kids/",
@@ -773,6 +1142,33 @@
    "section": "tech",
    "publishedAt": "2026-10-02T11:19:29.000Z",
    "summary": "The FDA has approved a new artificial heart valve that eliminates the need for multiple surgeries in children with certain congenital heart defects."
+  },
+  {
+   "id": "410759a09d044502",
+   "title": "Our Project Suncatcher prototype satellite is in orbit",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T11:13:02.000Z",
+   "summary": "36 points · 37 comments"
+  },
+  {
+   "id": "95ac16e99d99a558",
+   "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+   "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T11:07:17.000Z",
+   "summary": "134 points · 28 comments"
+  },
+  {
+   "id": "e1c3812038a3f954",
+   "title": "F.02 Decommission",
+   "url": "https://www.figure.ai/news/f-02-decommission",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T10:57:27.000Z",
+   "summary": "47 points · 12 comments"
   },
   {
    "id": "086b754f8d9a7f7b",
@@ -872,6 +1268,15 @@
    "section": "ai",
    "publishedAt": "2026-10-02T03:11:20.000Z",
    "summary": "105 points · 30 comments"
+  },
+  {
+   "id": "bcfe9809aa0287ed",
+   "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+   "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-02T02:51:27.000Z",
+   "summary": "143 points · 33 comments"
   },
   {
    "id": "3fa9109c43cd1c8f",
@@ -1315,6 +1720,15 @@
    "summary": "Audible today announced three features coming to “deepen customers’ connections to their favorite stories.” Here are the details. more…"
   },
   {
+   "id": "0007cdff0c1b55b6",
+   "title": "Loss of cell identity drives human aging: Two new papers",
+   "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T20:02:57.000Z",
+   "summary": "136 points · 31 comments"
+  },
+  {
    "id": "cb756b5346d4a6ee",
    "title": "Google’s new Guided Vision feature can help you read the fine print",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
@@ -1432,6 +1846,15 @@
    "summary": "37 points · 16 comments"
   },
   {
+   "id": "0d9df30755f9cad4",
+   "title": "Anatomy of a Lean proof for software engineers",
+   "url": "https://agostbiro.net/posts/2026-10-anatomy-of-a-lean-proof/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T18:53:28.000Z",
+   "summary": "55 points · 1 comments"
+  },
+  {
    "id": "cc1f44974a79977b",
    "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
    "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
@@ -1475,6 +1898,15 @@
    "section": "tech",
    "publishedAt": "2026-10-01T18:25:46.000Z",
    "summary": "6 points · 4 comments"
+  },
+  {
+   "id": "73dbd09223257bbc",
+   "title": "Mike Tomlin spent 12 years building a Minecraft city",
+   "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T18:20:18.000Z",
+   "summary": "148 points · 41 comments"
   },
   {
    "id": "5c681ffd64977639",
@@ -2078,6 +2510,15 @@
    "section": "tech",
    "publishedAt": "2026-10-01T14:09:10.000Z",
    "summary": "140 points · 53 comments"
+  },
+  {
+   "id": "402ed11df3ecb3d1",
+   "title": "Electrification Special Report 2026 [pdf]",
+   "url": "https://iea.blob.core.windows.net/assets/1c696cc3-e251-46a9-8d4d-9edb2a4e806a/Electrification.pdf",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T14:01:45.000Z",
+   "summary": "8 points · 0 comments"
   },
   {
    "id": "20a29686eb340d41",
