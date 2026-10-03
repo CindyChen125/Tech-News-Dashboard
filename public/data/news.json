@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-03T01:23:47.617Z",
+ "updatedAt": "2026-10-03T07:03:53.735Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,51 @@
  ],
  "items": [
   {
+   "id": "6f6ca5ae0fa94a40",
+   "title": "Apple Says iPhone 18 Pro Max Users With AT&T Cellular Issue Need to Have Device Replaced",
+   "url": "https://www.macrumors.com/2026/10/02/apple-statement-on-iphone-18-pro-max-att-issue/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-03T03:21:12.000Z",
+   "summary": "Apple today confirmed that a \"small number\" of iPhone 18 Pro Max users on the AT&T network have experienced an issue that causes the device to lose cellular service, thereby preventing phone calls, text messages, and data from working. Thousands of users complained about the issue across the Apple…"
+  },
+  {
+   "id": "fdd48bec70095b86",
+   "title": "Extra Big Ass Intelligence",
+   "url": "https://www.extrabigassintelligence.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-03T03:19:10.000Z",
+   "summary": "129 points · 28 comments"
+  },
+  {
+   "id": "9ee83eb20e3060e3",
+   "title": "Cloudflare OHTTP gateway",
+   "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-03T03:15:05.000Z",
+   "summary": "51 points · 10 comments"
+  },
+  {
+   "id": "383b3da49f79fb9f",
+   "title": "Apple acknowledges AT&T network bug on iPhone 18 Pro Max",
+   "url": "https://www.engadget.com/2276489/apple-att-network-bug-iphone-18-pro-max/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-03T02:10:16.000Z",
+   "summary": "Experiencing SOS mode on your iPhone 18 Pro Max with AT&T? Apple confirms a hardware issue and details who needs a replacement."
+  },
+  {
+   "id": "9d922abf1015a7c6",
+   "title": "Newgrounds.com – A community of games, music, and art",
+   "url": "https://www.newgrounds.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-03T00:55:25.000Z",
+   "summary": "159 points · 43 comments"
+  },
+  {
    "id": "c10fed2742f587be",
    "title": "Meta wants your next gadget to be Muse-infused",
    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
@@ -116,6 +161,15 @@
    "section": "tech",
    "publishedAt": "2026-10-03T00:21:57.000Z",
    "summary": "The proposed legislation would extend to all automotica license plate readers."
+  },
+  {
+   "id": "d97eed860f521a12",
+   "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+   "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-10-02T23:03:16.000Z",
+   "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
   },
   {
    "id": "ae6eff87a0b0bfb3",
@@ -197,6 +251,15 @@
    "section": "tech",
    "publishedAt": "2026-10-02T20:47:02.000Z",
    "summary": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&T to lose cellular service. Apple released software and carrier updates to prevent the issue from affecting additional users, but the company tells 9to5Mac that affected devices that have already lost service…"
+  },
+  {
+   "id": "033ebc4f249baa9f",
+   "title": "Barcodes are about to go extinct",
+   "url": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T20:37:07.000Z",
+   "summary": "11 points · 8 comments"
   },
   {
    "id": "24f54564356f14f7",
@@ -343,6 +406,15 @@
    "summary": "AT&T and Apple are taking action today as they try to resolve iPhone 18 Pro Max cellular issues, according to MacRumors contributor Aaron Perris. Thousands of iPhone 18 Pro Max users have been unable to connect to the AT&T network for phone calls, text messages, and data. The underlying cause has…"
   },
   {
+   "id": "d237e6940b84e0b9",
+   "title": "Make Tmux the OS",
+   "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T19:29:07.000Z",
+   "summary": "25 points · 9 comments"
+  },
+  {
    "id": "d0ad6ef506d120c9",
    "title": "Muse Gadgets",
    "url": "https://gadgets.muse.ai/",
@@ -413,6 +485,15 @@
    "section": "tech",
    "publishedAt": "2026-10-02T18:56:21.000Z",
    "summary": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth."
+  },
+  {
+   "id": "316f2cf464b0e2d6",
+   "title": "The Nintendo 64 Partner-N64 Development Kit",
+   "url": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T18:53:34.000Z",
+   "summary": "20 points · 1 comments"
   },
   {
    "id": "6bea03fbb0190089",
@@ -494,6 +575,15 @@
    "section": "ai",
    "publishedAt": "2026-10-02T18:00:00.000Z",
    "summary": "New helpful little guy just dropped. | Photo: Allison Johnson / The Verge It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software…"
+  },
+  {
+   "id": "9453688c511bcf37",
+   "title": "There's a new sea spider in town",
+   "url": "https://nautil.us/theres-a-new-sea-spider-in-town-1285470",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T17:48:54.000Z",
+   "summary": "14 points · 2 comments"
   },
   {
    "id": "37f6fcd1983a5fbd",
@@ -2593,6 +2683,15 @@
    "summary": "8 points · 0 comments"
   },
   {
+   "id": "b8dbe4e72dae51f7",
+   "title": "OKI Develops 124-Layer PCB Technology",
+   "url": "https://www.oki.com/global/press/2025/z25006e.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T14:00:54.000Z",
+   "summary": "24 points · 13 comments"
+  },
+  {
    "id": "20a29686eb340d41",
    "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
    "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
@@ -3113,6 +3212,15 @@
    "section": "tech",
    "publishedAt": "2026-09-30T23:58:30.000Z",
    "summary": "Apple is working on a new smart home accessory that will serve as a hub for interacting with Siri AI, controlling HomeKit devices, watching videos, checking the calendar and the weather, and generally offering up useful information to everyone in the household. This guide aggregates everything that…"
+  },
+  {
+   "id": "4766e62548f7e801",
+   "title": "Nobody Is Listening on Port 8125",
+   "url": "https://yeet.cx/blog/nobody-is-listening-on-8125",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-30T23:56:25.000Z",
+   "summary": "7 points · 0 comments"
   },
   {
    "id": "20ac382a6ec240d2",
