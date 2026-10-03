@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02T22:31:19.616Z",
+ "updatedAt": "2026-10-03T01:23:47.617Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,42 @@
  ],
  "items": [
   {
+   "id": "c10fed2742f587be",
+   "title": "Meta wants your next gadget to be Muse-infused",
+   "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-03T00:45:39.000Z",
+   "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free."
+  },
+  {
+   "id": "2f8e7d78c73049c0",
+   "title": "Where Is the Planet",
+   "url": "http://whereistheplanet.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-03T00:26:19.000Z",
+   "summary": "4 points · 0 comments"
+  },
+  {
+   "id": "aba44170a2ec6724",
+   "title": "Things That Apparently Cause Cancer",
+   "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-03T00:23:11.000Z",
+   "summary": "7 points · 1 comments"
+  },
+  {
+   "id": "f0acb033593689d2",
+   "title": "Sanders introduces bill to ban the federal government from using Flock",
+   "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-03T00:21:57.000Z",
+   "summary": "The proposed legislation would extend to all automotica license plate readers."
+  },
+  {
    "id": "ae6eff87a0b0bfb3",
    "title": "Lyft agrees to pay $272.5 million to settle worker classification lawsuit",
    "url": "https://www.engadget.com/2276430/lyft-agrees-to-pay-272-5-million-to-settle-worker-classification-lawsuit/",
@@ -98,6 +134,15 @@
    "section": "tech",
    "publishedAt": "2026-10-02T21:25:25.000Z",
    "summary": "5 points · 0 comments"
+  },
+  {
+   "id": "679dcf93ebee8a4f",
+   "title": "Someone got Doom in an SQL database",
+   "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-02T21:19:05.000Z",
+   "summary": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps."
   },
   {
    "id": "a65222154625ec7f",
@@ -269,6 +314,15 @@
    "section": "tech",
    "publishedAt": "2026-10-02T19:45:06.000Z",
    "summary": "83 points · 20 comments"
+  },
+  {
+   "id": "50a87d9e22bf4563",
+   "title": "Updates to Full Disk Access in macOS",
+   "url": "https://developer.apple.com/news/?id=p6zjojqw",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T19:37:01.000Z",
+   "summary": "116 points · 68 comments"
   },
   {
    "id": "d3aede704f6b02d9",
@@ -874,6 +928,15 @@
    "summary": "Keurig's new single-serve coffee machine delivers the same convenience that helped popularize its appliances but without the use of recyclable pods made from plastic and aluminum. The company first showed off its Keurig Alta machine two years ago while introducing the puck-shaped pod replacements…"
   },
   {
+   "id": "4b67d598d3257b22",
+   "title": "The Forgetful CPU (Linux on M4)",
+   "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T14:22:12.000Z",
+   "summary": "92 points · 20 comments"
+  },
+  {
    "id": "1a348a57aed69bbe",
    "title": "iPhone Duo can be just $9/month with trade-in using Apple Upgrade",
    "url": "https://9to5mac.com/2026/10/02/iphone-duo-can-be-just-9-month-with-trade-in-using-apple-upgrade/",
@@ -1358,6 +1421,15 @@
    "section": "ai",
    "publishedAt": "2026-10-02T00:00:00.000Z",
    "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
+  },
+  {
+   "id": "51e8a68193055c97",
+   "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
+   "url": "https://github.com/kitao/pyxel",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T23:26:35.000Z",
+   "summary": "67 points · 8 comments"
   },
   {
    "id": "364b6461f78e730e",
@@ -3617,6 +3689,15 @@
    "section": "tech",
    "publishedAt": "2026-09-30T17:47:57.000Z",
    "summary": "Apple Music for Android is getting a big Liquid Glass-inspired redesign with the latest 7.0 beta. more…"
+  },
+  {
+   "id": "1c63b8185ccdb806",
+   "title": "Billions of Triangles Redux",
+   "url": "https://zeux.io/2026/09/30/billions-of-triangles-redux/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-30T17:46:04.000Z",
+   "summary": "4 points · 0 comments"
   },
   {
    "id": "3144f54fe2d7a8d8",
@@ -34523,42 +34604,6 @@
    "section": "ai",
    "publishedAt": "2026-09-03T11:00:00.000Z",
    "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
-  },
-  {
-   "id": "11a127125bace2ca",
-   "title": "Safety overview: GPT-6 Astra",
-   "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-03T00:00:00.000Z",
-   "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
-  },
-  {
-   "id": "329ed67ed1634d90",
-   "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-   "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-   "source": "Hugging Face",
-   "section": "ai",
-   "publishedAt": "2026-09-03T00:00:00.000Z",
-   "summary": ""
-  },
-  {
-   "id": "73a298a58b99d5c1",
-   "title": "Give Your Coding Agents a Memory You Own",
-   "url": "https://huggingface.co/blog/funes",
-   "source": "Hugging Face",
-   "section": "ai",
-   "publishedAt": "2026-09-03T00:00:00.000Z",
-   "summary": ""
-  },
-  {
-   "id": "5c9ffa9691c9e1bf",
-   "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-   "url": "https://huggingface.co/blog/train-to-paint-with-code",
-   "source": "Hugging Face",
-   "section": "ai",
-   "publishedAt": "2026-09-03T00:00:00.000Z",
-   "summary": ""
   }
  ]
 }

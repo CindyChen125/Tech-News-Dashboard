@@ -1,5 +1,41 @@
 [
  {
+  "id": "11a127125bace2ca",
+  "title": "Safety overview: GPT-6 Astra",
+  "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+  "source": "OpenAI",
+  "section": "ai",
+  "publishedAt": "2026-09-03T00:00:00.000Z",
+  "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
+ },
+ {
+  "id": "329ed67ed1634d90",
+  "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+  "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+  "source": "Hugging Face",
+  "section": "ai",
+  "publishedAt": "2026-09-03T00:00:00.000Z",
+  "summary": ""
+ },
+ {
+  "id": "73a298a58b99d5c1",
+  "title": "Give Your Coding Agents a Memory You Own",
+  "url": "https://huggingface.co/blog/funes",
+  "source": "Hugging Face",
+  "section": "ai",
+  "publishedAt": "2026-09-03T00:00:00.000Z",
+  "summary": ""
+ },
+ {
+  "id": "5c9ffa9691c9e1bf",
+  "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+  "url": "https://huggingface.co/blog/train-to-paint-with-code",
+  "source": "Hugging Face",
+  "section": "ai",
+  "publishedAt": "2026-09-03T00:00:00.000Z",
+  "summary": ""
+ },
+ {
   "id": "a7cb0f5faa64839a",
   "title": "Proactive cyber defense for governments and enterprises",
   "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
