@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-03T22:50:43.029Z",
+ "updatedAt": "2026-10-04T02:32:42.850Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,78 @@
  ],
  "items": [
   {
+   "id": "f11a22409e81e110",
+   "title": "Bob Cringely Has Died",
+   "url": "https://news.ycombinator.com/item?id=49949438",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-04T00:50:52.000Z",
+   "summary": "105 points · 15 comments"
+  },
+  {
+   "id": "9f4c784e97774971",
+   "title": "What are amplifiers for and how important are they to your sound system's quality?",
+   "url": "https://www.engadget.com/2273783/amplifier-what-for-how-important-for-sound-system-quality/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-04T00:30:00.000Z",
+   "summary": "If you're looking into a new sound system, you may be wondering if you need an amplifier as well. Here's how to tell and why amps even matter."
+  },
+  {
+   "id": "84c11c83e20371a9",
+   "title": "We're going to need default hard budget caps on pretty much everything",
+   "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-04T00:20:16.000Z",
+   "summary": "189 points · 96 comments"
+  },
+  {
+   "id": "04bab6579bdd7b81",
+   "title": "Apple's \"Clean Design\" Is Stupidity When It Comes to Hiding Fire Extinguishers",
+   "url": "https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-04T00:09:21.000Z",
+   "summary": "48 points · 12 comments"
+  },
+  {
+   "id": "c9838379c403e90b",
+   "title": "How has Apple's Mac Studio changed over the years?",
+   "url": "https://www.engadget.com/2273779/apple-mac-studio-how-changed-over-years/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-04T00:00:00.000Z",
+   "summary": "Explore how Apple's Mac Studio has evolved, with internal upgrades, performance gains, and subtle design changes shaping each new generation of the desktop."
+  },
+  {
+   "id": "7b26d4db09aad125",
+   "title": "What's the difference between battery capacity and battery life?",
+   "url": "https://www.engadget.com/2273775/battery-capacity-vs-life-differences/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-03T23:45:00.000Z",
+   "summary": "Battery capacity often plays into battery life, but an impressive capacity stat doesn't translate to excellent battery life."
+  },
+  {
+   "id": "d6b9cbb47e01b4c5",
+   "title": "Why is this the only pink MacBook available right now?",
+   "url": "https://www.engadget.com/2273771/why-only-pink-macbook-available-right-now/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-03T23:30:00.000Z",
+   "summary": "Is it too much to ask for some more colorful laptops?"
+  },
+  {
+   "id": "f13d74d5c537ed51",
+   "title": "This little-known app lets you display song lyrics on Apple CarPlay",
+   "url": "https://www.engadget.com/2273743/little-known-app-display-song-lyrics-apple-carplay/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-03T23:00:00.000Z",
+   "summary": "You can host your own episode of Carpool Karaoke with the Dynamic Lyrics CarPlay widget."
+  },
+  {
    "id": "dafdb2cac5cf3b91",
    "title": "The Agent Said It Was Done. The Database Disagreed.",
    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
@@ -107,6 +179,15 @@
    "section": "tech",
    "publishedAt": "2026-10-03T22:30:00.000Z",
    "summary": "Your laptop's webcam is not usually an impressive piece of hardware, but you can help make up for its shortcomings."
+  },
+  {
+   "id": "13cd3b20a024dd49",
+   "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+   "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-03T22:18:13.000Z",
+   "summary": "172 points · 121 comments"
   },
   {
    "id": "06ccef57b4f6db08",
@@ -872,6 +953,15 @@
    "section": "tech",
    "publishedAt": "2026-10-03T02:10:16.000Z",
    "summary": "Experiencing SOS mode on your iPhone 18 Pro Max with AT&T? Apple confirms a hardware issue and details who needs a replacement."
+  },
+  {
+   "id": "b0f6ea6c98d92168",
+   "title": "Math's pedagogical curse – Grant Sanderson [video]",
+   "url": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-03T01:11:15.000Z",
+   "summary": "13 points · 6 comments"
   },
   {
    "id": "9d922abf1015a7c6",
@@ -2339,6 +2429,15 @@
    "section": "tech",
    "publishedAt": "2026-10-01T23:26:35.000Z",
    "summary": "67 points · 8 comments"
+  },
+  {
+   "id": "234f111bb75cf3cf",
+   "title": "The Softmax function and its derivative",
+   "url": "https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T23:24:21.000Z",
+   "summary": "15 points · 1 comments"
   },
   {
    "id": "364b6461f78e730e",
@@ -4978,6 +5077,15 @@
    "summary": "35 points · 25 comments"
   },
   {
+   "id": "5b7e20668f8c872b",
+   "title": "So You Think You Could Be an Electrician?",
+   "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-30T15:43:27.000Z",
+   "summary": "17 points · 4 comments"
+  },
+  {
    "id": "4ea848eba153c8a7",
    "title": "Affordable alternatives to DJI's Osmo Pocket 4",
    "url": "https://www.engadget.com/2271706/affordable-alternatives-to-djis-osmo-pocket-4/",
@@ -5309,6 +5417,15 @@
    "section": "tech",
    "publishedAt": "2026-09-30T13:33:34.000Z",
    "summary": "iPhone Duo pre-orders start on Friday, October 16, but scammers are trying to trick people into visiting a fake website to place their order now. The website with the malware convincingly replicates the look of the real thing and claims to offer a $500 discount voucher as an “Authorized Partner…"
+  },
+  {
+   "id": "ff8696e3aeae37aa",
+   "title": "Your body of work thinks back at you",
+   "url": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-09-30T13:20:03.000Z",
+   "summary": "22 points · 1 comments"
   },
   {
    "id": "a6baffd829f8eb4f",
