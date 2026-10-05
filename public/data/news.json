@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-05T00:49:49.880Z",
+ "updatedAt": "2026-10-05T06:55:55.483Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,87 @@
   }
  ],
  "items": [
+  {
+   "id": "8b4fc4a025d9663c",
+   "title": "Anthropic reported diary entry to police, woman faces felony charge",
+   "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-05T05:37:40.000Z",
+   "summary": "37 points · 33 comments"
+  },
+  {
+   "id": "4f232e4145a7d97d",
+   "title": "Replacement of petroleum based products with plant-based materials (2025)",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-05T05:09:43.000Z",
+   "summary": "32 points · 4 comments"
+  },
+  {
+   "id": "49af0d10ddea7e34",
+   "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+   "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-05T04:00:52.000Z",
+   "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls"
+  },
+  {
+   "id": "ea66099cdffdf81d",
+   "title": "Apple's New CEO John Ternus is Making Product Design a 'Major Priority'",
+   "url": "https://www.macrumors.com/2026/10/04/john-ternus-making-design-a-major-priority/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-05T02:35:01.000Z",
+   "summary": "Since becoming Apple's CEO last month, John Ternus has made product design a \"major priority,\" according to Bloomberg's Mark Gurman. \"Ternus already had some involvement with the design studio as Apple's head of hardware engineering, given the close coordination required between the two functions,\"…"
+  },
+  {
+   "id": "594104ecdf393573",
+   "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
+   "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-05T02:31:45.000Z",
+   "summary": "187 points · 150 comments"
+  },
+  {
+   "id": "714203a834f21b67",
+   "title": "Apple Hiring 'iCup' Specialist",
+   "url": "https://www.macrumors.com/2026/10/04/apple-icup-job-listing/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-05T02:11:42.000Z",
+   "summary": "Apple recently posted a job listing for an \"iCup Supply Specialist\" who would be responsible for ensuring that \"all Apple employees have access to freshly brewed coffee in their break room.\" MacRumors contributor Aaron Perris highlighted the job listing this weekend, but it turns out that Apple has…"
+  },
+  {
+   "id": "3aeecd88c2f10424",
+   "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+   "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-05T01:54:08.000Z",
+   "summary": "177 points · 109 comments"
+  },
+  {
+   "id": "44630c99a51a6c76",
+   "title": "MacBook Pro With OLED Display Rumored to Be 'Significantly Lighter'",
+   "url": "https://www.macrumors.com/2026/10/04/oled-macbook-pro-significantly-lighter-rumor/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-05T01:22:06.000Z",
+   "summary": "Bloomberg's Mark Gurman today said the new MacBook Pro models with OLED displays will be \"significantly lighter\" than the existing MacBook Pro models. \"Apple has reengineered the machine's interior, miniaturizing parts and rearranging components to make the computer much easier to carry,\" he said…"
+  },
+  {
+   "id": "9e313bd146ea8ade",
+   "title": "A 40ms Go garbage collector pause caused by swap",
+   "url": "https://frn.sh/go-gc/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-05T01:11:56.000Z",
+   "summary": "61 points · 26 comments"
+  },
   {
    "id": "429eb7d39d709ee8",
    "title": "What are the benefits of having a second monitor?",
@@ -926,6 +1007,15 @@
    "section": "ai",
    "publishedAt": "2026-10-03T22:18:13.000Z",
    "summary": "172 points · 121 comments"
+  },
+  {
+   "id": "ccb82edb0dfc59eb",
+   "title": "We ported the original Doom to SQL",
+   "url": "https://cedardb.com/blog/sqldoom/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-03T22:14:00.000Z",
+   "summary": "30 points · 4 comments"
   },
   {
    "id": "06ccef57b4f6db08",
@@ -3043,6 +3133,15 @@
    "summary": "37 points · 6 comments"
   },
   {
+   "id": "b8d8469f779685b7",
+   "title": "The Tao of Backup",
+   "url": "http://www.taobackup.com/index.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-02T11:19:36.000Z",
+   "summary": "105 points · 25 comments"
+  },
+  {
    "id": "3cfbd4f0090c3f90",
    "title": "FDA approves artificial heart valve for kids that grows as they do",
    "url": "https://www.engadget.com/2275489/fda-approves-autus-size-adjustable-artificial-heart-valve-for-kids/",
@@ -4285,6 +4384,15 @@
    "summary": "The PC market was caught flat-footed by Apple’s MacBook Neo launch earlier this year, and while that laptop’s aggressive pricing strategy has already been forced to adapt to market conditions, it’s only months later we’re seeing Windows-based rivals announce their own respective competitors. Today…"
   },
   {
+   "id": "23f8343950aa12b0",
+   "title": "Safe Optimistic Lock Coupling",
+   "url": "http://databasearchitects.blogspot.com/2026/04/safe-optimistic-lock-coupling.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T15:37:27.000Z",
+   "summary": "5 points · 0 comments"
+  },
+  {
    "id": "06675cbdbfe14d91",
    "title": "Red Hat being phased out of existence?",
    "url": "https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml",
@@ -4816,6 +4924,15 @@
    "summary": "Sales of iPhone 18 Pro models in China were 12% higher in the three days after launching than sales of iPhone 17 Pro models were during their entire first week last year, according to Counterpoint Research. Related Roundups: iPhone 18 Pro, iPhone Duo Tags: China, Counterpoint Buyer's Guide: iPhone…"
   },
   {
+   "id": "89f9779a4fa0b4aa",
+   "title": "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia",
+   "url": "https://www.cambridge.org/core/journals/iraq/article/gods-in-the-classroom-religion-and-education-in-1st-millennium-bce-babylonia/EB059EE81804DCBC1848CACBD6298E0B",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T11:31:08.000Z",
+   "summary": "14 points · 0 comments"
+  },
+  {
    "id": "4ffcc91fe722f5ba",
    "title": "PS5 emulation is suddenly making big strides on PC",
    "url": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
@@ -5030,6 +5147,15 @@
    "section": "tech",
    "publishedAt": "2026-10-01T01:55:51.000Z",
    "summary": "22 points · 1 comments"
+  },
+  {
+   "id": "97666bf03cd4207d",
+   "title": "Fixed Points and Strike Mandates",
+   "url": "https://pvk.ca/Blog/2012/02/19/fixed-points-and-strike-mandates/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-01T01:22:48.000Z",
+   "summary": "12 points · 1 comments"
   },
   {
    "id": "455fd4e1b75a02dc",
