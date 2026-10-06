@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T02:29:38.922Z",
+ "updatedAt": "2026-10-06T09:22:45.466Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -23,7 +23,7 @@
    "name": "Hugging Face",
    "section": "ai",
    "ok": true,
-   "count": 874
+   "count": 875
   },
   {
    "name": "MIT Tech Review",
@@ -81,6 +81,60 @@
   }
  ],
  "items": [
+  {
+   "id": "6d3d7c44b5bc9b28",
+   "title": "This remote-controlled wagon is silly but so very useful",
+   "url": "https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-06T08:00:00.000Z",
+   "summary": "Confession: When BougeRV told me about its remote-controlled wagon with animated lighting, I called it in for a laugh, expecting to eviscerate it in a review. It's ridiculous, to be sure. But the DuneRover also proved very capable, with enough torque to flatten hills even when carrying over 200…"
+  },
+  {
+   "id": "e8fd5872cd3d5471",
+   "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+   "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-10-06T06:44:39.000Z",
+   "summary": ""
+  },
+  {
+   "id": "bd2da50c2ad361c7",
+   "title": "Resurrecting iChat Audio and Video Conferencing",
+   "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-06T03:39:01.000Z",
+   "summary": "45 points · 12 comments"
+  },
+  {
+   "id": "8b7b68e3ddd79020",
+   "title": "Apple reportedly planning second wave of product announcements later this month",
+   "url": "https://9to5mac.com/2026/10/05/apple-reportedly-planning-second-wave-of-product-announcements-later-this-month/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-06T03:25:14.000Z",
+   "summary": "MacRumors reports that in addition to Apple’s expected event on October 13, the company is planning to unveil another batch of new products in the final week of the month. Here are the details. more…"
+  },
+  {
+   "id": "e77f18e99b34cde1",
+   "title": "Apple Announces iPhone Duo Apps Can Now Be Submitted to App Store",
+   "url": "https://www.macrumors.com/2026/10/05/apple-opens-iphone-duo-app-submissions/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-06T03:20:06.000Z",
+   "summary": "Apple today announced that apps optimized for the iPhone Duo can now be submitted for App Store approval, ahead of the foldable device launching on Friday, October 23. Apple shared some tips on its website. Related Roundup: iPhone Duo Tags: App Store, App Store Connect, Xcode Buyer's Guide: iPhone…"
+  },
+  {
+   "id": "f3d63d4a49fa35c4",
+   "title": "Why Common Lisp is now the best programming language",
+   "url": "https://www.vivienhenz.com/common-lisp",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-06T02:51:51.000Z",
+   "summary": "155 points · 213 comments"
+  },
   {
    "id": "c4d142affdbaec3a",
    "title": "Sources: Apple Planning Two Sets of Product Launches in October",
@@ -2341,6 +2395,15 @@
    "summary": "Google's Motion Assist uses moving shapes on your Android's screen to help combat motion sickness. Here's how it works and how to enable it."
   },
   {
+   "id": "3ed6d4296f2a0e8d",
+   "title": "The complement of true is true, except when it's false",
+   "url": "https://dryperspective.github.io/posts/complement-of-true/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-04T12:28:55.000Z",
+   "summary": "10 points · 1 comments"
+  },
+  {
    "id": "8ff2adec337d3cd8",
    "title": "Bill Draper has died",
    "url": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
@@ -2483,6 +2546,15 @@
    "section": "tech",
    "publishedAt": "2026-10-04T06:26:57.000Z",
    "summary": "49 points · 7 comments"
+  },
+  {
+   "id": "6457dcf56fb89b44",
+   "title": "Accountability mechanisms can be joyful (2024)",
+   "url": "https://liquidbrain.net/blog/accountability-and-joy/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-04T06:15:17.000Z",
+   "summary": "33 points · 6 comments"
   },
   {
    "id": "973073e917503209",
@@ -2816,6 +2888,15 @@
    "section": "tech",
    "publishedAt": "2026-10-03T18:43:57.000Z",
    "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
+  },
+  {
+   "id": "543b7913fb5dc7ef",
+   "title": "Protect Your Friends and Loved Ones",
+   "url": "https://ephemeral.cx/2026/07/protect-your-friends-and-loved-ones/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-03T18:32:09.000Z",
+   "summary": "17 points · 3 comments"
   },
   {
    "id": "cb69a8b93462abbb",
@@ -3169,6 +3250,15 @@
    "summary": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000…"
   },
   {
+   "id": "6edc645f67cf4731",
+   "title": "Show HN: Photoc – Command-line tools for photographers",
+   "url": "https://github.com/ahmetomerv/photoc",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-03T13:42:23.000Z",
+   "summary": "33 points · 5 comments"
+  },
+  {
    "id": "13e32c99f883a723",
    "title": "US killer's sentence quashed because of AI video of victim shown in court",
    "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
@@ -3284,6 +3374,15 @@
    "section": "tech",
    "publishedAt": "2026-10-03T12:15:00.000Z",
    "summary": "Before you toss that aging Android, see how it can become a surprisingly handy tool in your daily routine with a few creative repurposing ideas."
+  },
+  {
+   "id": "a2c23e55cc339039",
+   "title": "Show HN: Entombed in a Raycaster",
+   "url": "https://www.stelabouras.com/blog/entombed-raycaster/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-03T12:13:15.000Z",
+   "summary": "21 points · 4 comments"
   },
   {
    "id": "088c34d6ba758ac7",
@@ -38393,24 +38492,6 @@
    "section": "ai",
    "publishedAt": "2026-09-07T00:00:00.000Z",
    "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
-  },
-  {
-   "id": "80e50dbe2dc94551",
-   "title": "An Alien Mind",
-   "url": "https://openai.com/index/an-alien-mind",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-06T09:00:00.000Z",
-   "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
-  },
-  {
-   "id": "32c3b4ab7f727a91",
-   "title": "Research acceleration: The view inside OpenAI",
-   "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-06T08:00:00.000Z",
-   "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
   }
  ]
 }
