@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T01:00:09.225Z",
+ "updatedAt": "2026-10-07T07:10:26.052Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,123 @@
  ],
  "items": [
   {
+   "id": "a4f162e196c69369",
+   "title": "Spotify expands audiobooks to over 180 markets",
+   "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-07T07:00:00.000Z",
+   "summary": "Spotify will make 350,000 titles available in over 120 languages for this expansion"
+  },
+  {
+   "id": "7502863e446b4e78",
+   "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+   "url": "https://github.com/shader-effects-inc/shaders",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-07T05:38:35.000Z",
+   "summary": "11 points · 3 comments"
+  },
+  {
+   "id": "59b867b11cdb508f",
+   "title": "Calling It Quits on ServerFault",
+   "url": "https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-07T04:22:04.000Z",
+   "summary": "65 points · 28 comments"
+  },
+  {
+   "id": "c30ff094c88321e7",
+   "title": "The art of defusing a second world war bomb",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-07T03:43:14.000Z",
+   "summary": "23 points · 5 comments"
+  },
+  {
+   "id": "70fd534ea95295c9",
+   "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+   "url": "https://github.com/nano-muse/nanoMuse",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-07T03:30:44.000Z",
+   "summary": "13 points · 0 comments"
+  },
+  {
+   "id": "5b868d78f914ee77",
+   "title": "OpenWAM: An Open Framework for Composable World-Action Models",
+   "url": "https://openwam.stanford.edu/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-07T03:17:49.000Z",
+   "summary": "7 points · 1 comments"
+  },
+  {
+   "id": "07b363cac3a9e271",
+   "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+   "url": "https://nanochess.org/la_cueva_bbs.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-07T03:16:45.000Z",
+   "summary": "38 points · 9 comments"
+  },
+  {
+   "id": "aef5f813a0698f0d",
+   "title": "Formula 1 on Apple TV is getting Dolby Atmos, starting this month",
+   "url": "https://9to5mac.com/2026/10/06/formula-1-on-apple-tv-is-getting-dolby-atmos-starting-this-month/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-07T03:05:17.000Z",
+   "summary": "Beginning with the U.S. Grand Prix weekend on Friday, October 23, Apple TV will offer Formula 1 coverage in Dolby Atmos on supported devices. Here are the details. more…"
+  },
+  {
+   "id": "6461e0d53821624d",
+   "title": "Strands Decider 2B: a small, open-source, decision model",
+   "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-07T02:02:11.000Z",
+   "summary": "133 points · 26 comments"
+  },
+  {
+   "id": "ee68201a216de1c8",
+   "title": "Apple overtakes Samsung to lead European carrier smartphone sales in Q2, per report",
+   "url": "https://9to5mac.com/2026/10/06/apple-overtakes-samsung-to-lead-european-carrier-smartphone-sales-in-q2-per-report/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-07T02:00:52.000Z",
+   "summary": "A new report from Counterpoint Research shows that Apple overtook Samsung during the second quarter of 2026 to become the leading smartphone brand in Europe’s carrier channel, as operator sales held up better than the broader market. Here are the details. more…"
+  },
+  {
+   "id": "ad142cf68848560b",
+   "title": "ESP32-C3 Adblock",
+   "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-07T01:39:21.000Z",
+   "summary": "61 points · 18 comments"
+  },
+  {
+   "id": "75c66933b9eccbdc",
+   "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+   "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-07T01:27:49.000Z",
+   "summary": "26 points · 6 comments"
+  },
+  {
+   "id": "f374fb70ecb5c38a",
+   "title": "Acclaimed British comedy series ‘Small Prophets’ now available on Apple TV",
+   "url": "https://9to5mac.com/2026/10/06/acclaimed-british-comedy-series-small-prophets-now-available-on-apple-tv/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-07T01:01:16.000Z",
+   "summary": "The first two episodes of “Small Prophets” are now available to stream on Apple TV, following a wave of glowing reviews for the British comedy series. Watch the trailer below. more…"
+  },
+  {
    "id": "926508b52f75b56a",
    "title": "Prime Day Mac deals: New Mac mini $150 off, MacBook Air $200 off, much more",
    "url": "https://9to5mac.com/2026/10/06/prime-day-mac-deals-start-early-new-mac-mini-150-off-macbook-air-200-off-much-more/",
@@ -89,6 +206,15 @@
    "section": "tech",
    "publishedAt": "2026-10-07T00:15:18.000Z",
    "summary": "Update, October 6, 5:09 p.m. PT: Amazon has slashed prices of the new Mac mini even lower as the Prime Day festivities ramp up: 2026 M6 Mac mini 16GB/256GB $769 (Reg. $899) – All-time low 2026 M6 Mac mini 16GB/512GB $950 (Reg. $1,099) – All-time low 2026 M5 Max Mac Pro 24GB/512GB $1,550 (Reg…"
+  },
+  {
+   "id": "9285aae5b580d44f",
+   "title": "How long have wireless gaming controllers been around for?",
+   "url": "https://www.engadget.com/2278016/how-long-wireless-gaming-controllers-been-around/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-07T00:00:00.000Z",
+   "summary": "Game controllers have experimented with losing the cords for longer than you'd think, but early attempts didn't have much success."
   },
   {
    "id": "2aba93a86d62457a",
@@ -622,6 +748,15 @@
    "summary": "The Sonos Beam Gen 2 in white. | Photo by Chris Welch / The Verge The Sonos Beam Gen 2 soundbar is on sale for $359 at Amazon and Best Buy during October Prime Day, a healthy $140 discount from its usual price, and $10 lower than the previous Prime Day price. The biggest draw here may be obvious —…"
   },
   {
+   "id": "2383bc5b1d5b06b6",
+   "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+   "url": "https://news.ycombinator.com/item?id=49982498",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-06T18:54:01.000Z",
+   "summary": "141 points · 87 comments"
+  },
+  {
    "id": "a0f453ba0697a041",
    "title": "Doom on the Vectrex turns the classic shooter into Tron-like vector art",
    "url": "https://www.engadget.com/2279239/doom-on-the-vectrex-turns-the-classic-shooter-into-tron-like-vector-art/",
@@ -908,6 +1043,15 @@
    "section": "tech",
    "publishedAt": "2026-10-06T16:35:00.000Z",
    "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy."
+  },
+  {
+   "id": "d083e89d922f5cc4",
+   "title": "Treg (OpenRouter for Tools)",
+   "url": "https://github.com/superdesigndev/treg",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-06T16:29:59.000Z",
+   "summary": "18 points · 4 comments"
   },
   {
    "id": "cd9e0bebe881cd72",
@@ -1340,6 +1484,15 @@
    "section": "tech",
    "publishedAt": "2026-10-06T13:45:00.000Z",
    "summary": "Internet service providers often offer their routers for a monthly fee, and some let you buy the equipment outright."
+  },
+  {
+   "id": "bfb677d72c41a7fc",
+   "title": "What Is Codemode",
+   "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-06T13:41:03.000Z",
+   "summary": "59 points · 17 comments"
   },
   {
    "id": "e89c65d6288c0f27",
@@ -3493,6 +3646,15 @@
    "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp…"
   },
   {
+   "id": "f9d6d9b008bb9d73",
+   "title": "Anatomy Unzipped: John of Arderne's Sweden Scroll (Ca. 1425–35)",
+   "url": "https://publicdomainreview.org/collection/arderne-scroll/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-05T03:12:10.000Z",
+   "summary": "5 points · 0 comments"
+  },
+  {
    "id": "ea66099cdffdf81d",
    "title": "Apple's New CEO John Ternus is Making Product Design a 'Major Priority'",
    "url": "https://www.macrumors.com/2026/10/04/john-ternus-making-design-a-major-priority/",
@@ -4105,6 +4267,15 @@
    "summary": "137 points · 51 comments"
   },
   {
+   "id": "c7d6d29fb37f28be",
+   "title": "Improving and Stabilizing the Racoon2 IKE Daemon in NetBSD",
+   "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-04T12:45:31.000Z",
+   "summary": "14 points · 4 comments"
+  },
+  {
    "id": "06459ec2f93c374c",
    "title": "Customizing your Samsung Galaxy phone is a bit easier with One UI 9",
    "url": "https://www.engadget.com/2273796/samsung-galaxy-one-ui-9-customization-updates/",
@@ -4310,6 +4481,15 @@
    "section": "tech",
    "publishedAt": "2026-10-04T06:10:57.000Z",
    "summary": "18 points · 0 comments"
+  },
+  {
+   "id": "40317904ec212306",
+   "title": "The cost of lies: A Mineserver story",
+   "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-04T05:17:12.000Z",
+   "summary": "80 points · 30 comments"
   },
   {
    "id": "efd7f6252637beca",
