@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-09T14:19:21.557Z",
+ "updatedAt": "2026-10-09T19:42:21.552Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1259
+   "count": 1287
   },
   {
    "name": "Google DeepMind",
@@ -82,6 +82,492 @@
  ],
  "items": [
   {
+   "id": "db6ff8e985635c18",
+   "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
+   "url": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-09T19:41:11.000Z",
+   "summary": "A jury found an Ohio political blogger guilty of telecommunications harassment after he sent an explicit image of Shrek to a Republican state senator. On Friday, a judge ordered DJ Byrnes, owner of political commentary blog The Rooster, to pay a $200 fine, according to a report from the Columbus…"
+  },
+  {
+   "id": "6f1502ea13da37fc",
+   "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+   "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-09T19:36:56.000Z",
+   "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
+  },
+  {
+   "id": "3528335bd17792ca",
+   "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-09T19:09:44.000Z",
+   "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this…"
+  },
+  {
+   "id": "a1a0214a00bf37c1",
+   "title": "‘HomePad’ is coming next week, with three features I’ve long wanted",
+   "url": "https://9to5mac.com/2026/10/09/homepad-is-coming-next-week-with-three-features-ive-long-wanted/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-09T19:02:07.000Z",
+   "summary": "Apple’s long-rumored ‘HomePad’ product is finally set to be unveiled next Tuesday at the ‘Welcome home’ event. Here are three HomePad features I’ve been waiting a long time for. more…"
+  },
+  {
+   "id": "fb84d35631f48565",
+   "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
+   "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-09T18:57:58.000Z",
+   "summary": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up."
+  },
+  {
+   "id": "8c8176306827a9fc",
+   "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+   "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-09T18:57:06.000Z",
+   "summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off."
+  },
+  {
+   "id": "591e156e54948d54",
+   "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+   "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-09T18:54:52.000Z",
+   "summary": "\"The current decline may be just the beginning of a new downward cycle.\""
+  },
+  {
+   "id": "a574b592e2273a34",
+   "title": "AI disqualification yields new Nikon Small World in Motion winner",
+   "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-10-09T18:44:06.000Z",
+   "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus."
+  },
+  {
+   "id": "5aa375582a7dd0de",
+   "title": "You might want to try being less creative",
+   "url": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T18:39:47.000Z",
+   "summary": "26 points · 11 comments"
+  },
+  {
+   "id": "2d909fe650f2ac6c",
+   "title": "Microsoft-Decision-1, our model for fast decision-making",
+   "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T18:38:44.000Z",
+   "summary": "21 points · 3 comments"
+  },
+  {
+   "id": "3986d4abdca43170",
+   "title": "Your artwork could be featured in the next Debian release",
+   "url": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-09T18:33:26.000Z",
+   "summary": "Debian Linux has put a call out for artist submissions for its next release: Forky."
+  },
+  {
+   "id": "a4f490eb84c4d137",
+   "title": "Brendan Carr says he’ll let Pete Hegseth decide whether TV networks can air the public execution",
+   "url": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-09T18:30:48.000Z",
+   "summary": "FCC chairman Brendan Carr said he will defer to Secretary of Defense Pete Hegseth on whether TV networks can air the planned execution of convicted Fort Hood shooter Nidal Hasan by firing squad. The Pentagon has said the execution will be livestreamed, suggesting it'll appear on an online platform…"
+  },
+  {
+   "id": "e16e9acc047b9395",
+   "title": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
+   "url": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-09T18:24:39.000Z",
+   "summary": "Nationwide 800 MHz spectrum to help Starlink provide mobile coverage indoors."
+  },
+  {
+   "id": "5834ef6d29a6825e",
+   "title": "M7.6 Earthquake in Panama",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T18:22:20.000Z",
+   "summary": "75 points · 26 comments"
+  },
+  {
+   "id": "80677c254409b422",
+   "title": "HomeKit Weekly: Onvis releases a Matter over Thread outdoor smart plug with energy monitoring",
+   "url": "https://9to5mac.com/2026/10/09/homekit-weekly-onvis-releases-a-matter-over-thread-outdoor-smart-plug-with-energy-monitoring/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-09T18:19:00.000Z",
+   "summary": "Onvis has released a new outdoor smart plug that checks all the boxes you’d want in an outdoor smart plug: Matter over Thread, real-time energy monitoring, and IP65 weather resistance. If you’ve been looking for an outdoor plug that works natively with Apple Home without a hub of its own, this is a…"
+  },
+  {
+   "id": "a81a30f376dea0c5",
+   "title": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward",
+   "url": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T18:16:03.000Z",
+   "summary": "9 points · 0 comments"
+  },
+  {
+   "id": "cafe3805555a77ba",
+   "title": "Apple marks first Apple TV 4K ‘vintage’ with new model imminent",
+   "url": "https://9to5mac.com/2026/10/09/apple-marks-first-apple-tv-4k-vintage-with-new-model-imminent/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-09T18:15:44.000Z",
+   "summary": "The original Apple TV 4K from 2017 has just been added to Apple’s “vintage” products list. Here’s what that means. more…"
+  },
+  {
+   "id": "6c13e5ff022a76a9",
+   "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+   "url": "https://carrierexplode.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T18:10:55.000Z",
+   "summary": "55 points · 7 comments"
+  },
+  {
+   "id": "5274eae455e2f5de",
+   "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-09T18:06:57.000Z",
+   "summary": "The original first place video used AI in post-processing. | Image: Dr. Ning Xu Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr…"
+  },
+  {
+   "id": "2d54111d9e653f5b",
+   "title": "Google teases Fitbit Edge launch next week",
+   "url": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-09T18:05:55.000Z",
+   "summary": "Google shared a closeup of its upcoming fitness tracker. | Image: Google It looks like Google is getting ready to take the wraps off its rumored Fitbit Edge next Monday. In a post on X, Google posted a picture of what appears to be the side of the fitness tracker, with the caption: \"Get an Edge on…"
+  },
+  {
+   "id": "10aac54a79b39063",
+   "title": "Bose Lifestyle Ultra Soundbar review: A great home theater option all by itself",
+   "url": "https://www.engadget.com/2282487/bose-lifestyle-ultra-soundbar-review/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-09T18:00:00.000Z",
+   "summary": "Bose's latest soundbar pulls double duty as both a TV and music speaker. Plus, it doesn't need a separate subwoofer for adequate bass."
+  },
+  {
+   "id": "5faefe345331ca6d",
+   "title": "Grok Bot just got its own email address, here’s how to claim yours",
+   "url": "https://9to5mac.com/2026/10/09/grok-bot-just-got-its-own-email-address-heres-how-to-claim-yours/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-10-09T17:42:19.000Z",
+   "summary": "Grok Bot just got a second significant upgrade this week: its own email address. more…"
+  },
+  {
+   "id": "752e63232603aa8d",
+   "title": "The Samsung Galaxy S26 Ultra is down to $950 after Prime Day",
+   "url": "https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-09T17:41:24.000Z",
+   "summary": "Amazon has the Samsung Galaxy S26 Ultra in black with 256GB of storage discounted to $949.99, a healthy discount from its usual price of $1,399.99. This phone’s standout feature is the adjustable privacy display, which can hide your entire screen, or just portions of it, from onlookers and…"
+  },
+  {
+   "id": "2d5dbc853246bc26",
+   "title": "Apple Mail added four convenient new features in iOS 27",
+   "url": "https://9to5mac.com/2026/10/09/heres-everything-new-for-apple-mail-in-ios-27/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-09T17:32:12.000Z",
+   "summary": "iOS 27 brings new features to Apple Wallet, Maps, Notes, Messages, and more—and it packs key upgrades for the Mail app too. Here’s everything new for Apple Mail in iOS 27. more…"
+  },
+  {
+   "id": "c16ff08623e81240",
+   "title": "Amazon’s new Kindles appear to have a light leak problem",
+   "url": "https://www.theverge.com/tech/1008833/amazon-kindle-light-leak",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-09T17:25:39.000Z",
+   "summary": "Some users are reporting that the new Kindles have a light leak issue that is especially apparent when using dark mode. The latest base-model Kindles have a flush bezel that gives them a sleek appearance and looks great… as long as you keep the lights on. But things can change once you turn down…"
+  },
+  {
+   "id": "01cbd42e9798a51b",
+   "title": "MacRumors Giveaway: Win an Apple Watch Series 12 and a Nylon Band From Southern Straps",
+   "url": "https://www.macrumors.com/2026/10/09/macrumors-giveaway-series-12-southern-straps/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-09T17:20:39.000Z",
+   "summary": "For this week's giveaway, we've teamed up with Southern Straps to offer MacRumors readers a chance to win an Apple Watch Series 12 and a nylon band from Southern Straps to go along with it. Southern Straps is a California-based company that has been making high-quality bands for the Apple Watch…"
+  },
+  {
+   "id": "7a431aa4d8c7d41b",
+   "title": "Typesafe AI raises $870M at $7.5B",
+   "url": "https://typesafe.ai/blog/series-ai",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-09T17:02:31.000Z",
+   "summary": "97 points · 72 comments"
+  },
+  {
+   "id": "dea4d80bf664b925",
+   "title": "Intel is reportedly launching new CPUs on old sockets that support DDR4 memory",
+   "url": "https://www.engadget.com/2282431/intel-is-reportedly-launching-new-cpus-on-old-sockets-that-support-ddr4-memory/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-09T17:01:36.000Z",
+   "summary": "If you guessed the RAMpocalypse is involved..."
+  },
+  {
+   "id": "fc584147c4c5fcb6",
+   "title": "Microsoft tries to spark new life into Windows",
+   "url": "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-09T17:00:00.000Z",
+   "summary": "When Microsoft released Windows 11 five years ago, it felt like an operating system that was still being renovated, a work in progress. You'd think by now that those renovations would be complete, with Microsoft turning its attention to Windows 12. Instead, Windows 11 feels like it's here to stay…"
+  },
+  {
+   "id": "08c0f2d0ca9b44d3",
+   "title": "LumenUs helps automate tedious paperwork in times of grief",
+   "url": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-09T17:00:00.000Z",
+   "summary": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia."
+  },
+  {
+   "id": "333365bf22f5d4d7",
+   "title": "What it's like to spend a night in a Pebble Flow EV RV",
+   "url": "https://www.engadget.com/2282389/pebble-flow-ev-rv-review/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-09T17:00:00.000Z",
+   "summary": "Staying in the tech-infused trailer can kind of feel like being in a spaceship - in a good way."
+  },
+  {
+   "id": "1f3abb30e2bb8aee",
+   "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+   "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-09T16:56:42.000Z",
+   "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New…"
+  },
+  {
+   "id": "d2c338076dcba6f2",
+   "title": "Frances Haugen hopes The Social Reckoning will inspire more whistleblowers",
+   "url": "https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-09T16:50:40.000Z",
+   "summary": "NEW YORK, NEW YORK - OCTOBER 04: Frances Haugen attends the Social Reckoning world premiere at Regal Union Square on October 04, 2026 in New York City. (Photo by Sean Zanni/Getty Images for Sony Pictures Entertainment) | Getty Images for Sony Pictures E Facebook whistleblower Frances Haugen was…"
+  },
+  {
+   "id": "07aaaf0725079797",
+   "title": "Apple and LG leak shows new ‘tap to control’ HomeKit features",
+   "url": "https://www.theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-09T16:45:31.000Z",
+   "summary": "A post on X from \"pdfu,\" who has previously posted leaks and renders of suspected Apple features and LG smart home gear, shows new details of rumored Apple Home accessories from LG. According to the new leak, they could include an NFC-based \"Proximity Control\" feature that pops up a hint for a…"
+  },
+  {
+   "id": "ed7111d6f64337a3",
+   "title": "Danu Robotics’ fight to build a better recycling robot",
+   "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-09T16:45:00.000Z",
+   "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
+  },
+  {
+   "id": "b96c6a7f469df7f1",
+   "title": "We can’t help treating AI like it’s human. But should we?",
+   "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-09T16:40:14.000Z",
+   "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\""
+  },
+  {
+   "id": "306271b7f02fe7b4",
+   "title": "First Apple TV 4K Now 'Vintage' Ahead of New Model Coming on Tuesday",
+   "url": "https://www.macrumors.com/2026/10/09/first-apple-tv-4k-now-vintage/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-09T16:33:02.000Z",
+   "summary": "Apple today added the first-generation Apple TV 4K from 2017 to the vintage products list on its website, just four days before a new model is finally expected to debut. on Tuesday, October 13, as part of Apple's \"Welcome home\" launch. Related Roundup: Apple TV Tag: Vintage and Obsolete Apple…"
+  },
+  {
+   "id": "0de91bb77a596b05",
+   "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+   "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-09T16:07:26.000Z",
+   "summary": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software."
+  },
+  {
+   "id": "eac77b63cff09306",
+   "title": "Apple ‘Welcome home’ event: Three new products are coming next week",
+   "url": "https://9to5mac.com/2026/10/09/apple-welcome-home-event-three-new-products/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-09T16:04:53.000Z",
+   "summary": "Apple officially confirmed yesterday that it will hold a product launch event next week on October 13. With a “Welcome home” tagline, the launch is expected to focus on new smart home products. Here’s everything to expect at next week’s Apple event. 9to5Mac’s Apple event coverage is supported by…"
+  },
+  {
+   "id": "aaedffb2bceaef3e",
+   "title": "Remember Orkut? Its founder wants to bring it back",
+   "url": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-09T15:56:15.000Z",
+   "summary": "Orkut's founder is now taking aim at algorithms and AI-generated content."
+  },
+  {
+   "id": "be0fce0a202043f7",
+   "title": "Triple-A Minesweeper",
+   "url": "https://minesweeper.mikelacher.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T15:51:05.000Z",
+   "summary": "165 points · 51 comments"
+  },
+  {
+   "id": "a44eb528c8fae7d8",
+   "title": "A statement on the Tor Project's relationship with Mullvad",
+   "url": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T15:49:31.000Z",
+   "summary": "46 points · 57 comments"
+  },
+  {
+   "id": "8a3f5b69c74ef563",
+   "title": "Prime Day Leftover Deals: AirPods Max 2 for $429, Mac Mini for $779.99, and More",
+   "url": "https://www.macrumors.com/2026/10/09/prime-day-leftover-deals/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-09T15:43:41.000Z",
+   "summary": "Amazon's Prime Big Deal Days event is over, but there are plenty of Apple deals still available as we head into the weekend. This includes big discounts on AirPods Max 2, Apple Watch Series 12, MacBook Pro, and more. Note: MacRumors is an affiliate partner with Amazon. When you click a link and…"
+  },
+  {
+   "id": "3be22f2d1bab550b",
+   "title": "a16z’s Olivia Moore on the state of consumer AI",
+   "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-09T15:43:33.000Z",
+   "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges."
+  },
+  {
+   "id": "399797d5895b6360",
+   "title": "The MacRumors Show: Apple's Smart Home Products Are Coming",
+   "url": "https://www.macrumors.com/2026/10/09/the-macrumors-show-smart-home-products/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-09T15:36:36.000Z",
+   "summary": "On this week's episode of The MacRumors Show, we look ahead to Apple's recently announced October 13 event and its expected push into the smart home market, including a dedicated home hub, the HomePod mini 2, and a new Apple TV. Subscribe to The MacRumors Show YouTube channel for more videos Apple…"
+  },
+  {
+   "id": "fae9f3ff7ded0b4f",
+   "title": "Deals: AirPods Max 2 $120 off, Mac mini, MacBook Air, Magic Mouse 25% off, Nomad iPhone 18 Pro cases, more",
+   "url": "https://9to5mac.com/2026/10/09/deals-airpods-max-2-mac-mini-macbook-air-magic-mouse/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-09T15:35:33.000Z",
+   "summary": "While some of the Prime Day Apple deals are starting to disappear, you can still land a solid discount on AirPods Pro 3 and we are highlighting best holiday pricing still live in today’s 9to5Toys Lunch Break. Amazon is still delivering all five colors of Apple’s latest AirPods Max 2 down at $120…"
+  },
+  {
+   "id": "83c9a449329e6e18",
+   "title": "Apple Shares Fall After News of iPhone 18 Pro Order Cuts",
+   "url": "https://www.macrumors.com/2026/10/09/apple-shares-fall-after-iphone-18-pro-order-cuts/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-09T15:35:09.000Z",
+   "summary": "Apple shares fell more than 2.5% in early trading today in response to Nikkei Asia's report that the company is cutting iPhone 18 Pro component orders due to weaker-than-expected demand. October orders were reportedly reduced by at least 15%, with higher memory costs and $100 price increases…"
+  },
+  {
+   "id": "6922db39f0c97919",
+   "title": "Impactful scheduling for GPU clusters",
+   "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-10-09T15:20:29.000Z",
+   "summary": ""
+  },
+  {
+   "id": "9fe6bb487c8e05fe",
+   "title": "Will Apple’s ‘Welcome home’ event be livestreamed? Here’s what we know",
+   "url": "https://9to5mac.com/2026/10/09/will-apples-welcome-home-event-be-livestreamed-heres-what-we-know/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-09T15:18:17.000Z",
+   "summary": "Apple has confirmed a special ‘Welcome home’ product launch event is happening next Tuesday, October 13. But it hasn’t yet said whether there will be a keynote video. Here’s what we know. more…"
+  },
+  {
+   "id": "16218ed739a208be",
+   "title": "Germany transforms former coal mines into Europe's largest lake landscape",
+   "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T15:05:24.000Z",
+   "summary": "142 points · 78 comments"
+  },
+  {
+   "id": "b0dc818e0345481c",
+   "title": "Automattic interim CFO resigns just weeks after boardroom shakeup",
+   "url": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-09T15:02:30.000Z",
+   "summary": "Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back to his previous position, marking another executive exit amid the organization's leadership turmoil."
+  },
+  {
+   "id": "2506d672bea72723",
+   "title": "Leak Details iPhone Features for Apple's LG Home Accessories",
+   "url": "https://www.macrumors.com/2026/10/09/leak-details-iphone-features-for-home-accessories/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-09T14:50:57.000Z",
+   "summary": "Smart home accessories that Apple reportedly helped LG develop could offer iPhone proximity controls and a way to begin setup before the devices have power, according to findings shared by the leaker known as \"pdfu.\" The findings concern the upcoming LG-branded accessory range that Bloomberg…"
+  },
+  {
+   "id": "9acf4b353fc10c7b",
+   "title": "Apple TV reveals ‘unconventional’ rom-com show with The White Lotus star",
+   "url": "https://9to5mac.com/2026/10/09/apple-tv-reveals-unconventional-rom-com-show-with-the-white-lotus-star/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-09T14:44:12.000Z",
+   "summary": "Apple TV just debuted the first look at Prodigies, a new series from The White Lotus star Will Sharpe that offers an “unconventional take” on the romantic comedy genre. more…"
+  },
+  {
+   "id": "102333f45eae248c",
+   "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
+   "url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-09T14:42:34.000Z",
+   "summary": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next…"
+  },
+  {
    "id": "07d71298b80fc636",
    "title": "SpaceX to become ‘major mobile carrier’ in US with Starlink Mobile upgrades",
    "url": "https://9to5mac.com/2026/10/09/spacex-to-become-major-mobile-carrier-in-us-with-starlink-mobile-upgrades/",
@@ -127,6 +613,15 @@
    "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type."
   },
   {
+   "id": "4b34333f00bf23be",
+   "title": "'Wallace and Gromit,' 90% Alone",
+   "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T13:49:31.000Z",
+   "summary": "66 points · 9 comments"
+  },
+  {
    "id": "2334edc2fe57aa8c",
    "title": "iOS 27.0.1 is now Apple’s recommended update for users still on iOS 26",
    "url": "https://9to5mac.com/2026/10/09/ios-27-0-1-is-now-apples-recommended-update-for-users-still-on-ios-26/",
@@ -161,6 +656,15 @@
    "section": "tech",
    "publishedAt": "2026-10-09T13:16:30.000Z",
    "summary": "Apple's Mac shipments declined 11.3% in the third quarter of 2026, but the company increased its market share as worldwide PC shipments fell more sharply, according to IDC's latest preliminary estimates. Apple shipped an estimated 5.9 million Macs between July and September, compared with 6.7…"
+  },
+  {
+   "id": "85337293e819f708",
+   "title": "Microsoft barred from sponsoring foreign workers for US residency",
+   "url": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-09T13:14:33.000Z",
+   "summary": "The US says Microsoft abused immigration rules; the company disputes the claim."
   },
   {
    "id": "e765995207b2ac74",
@@ -235,6 +739,15 @@
    "summary": "Astronomers used the Webb telescope to see where the farthest fast radio burst we've ever seen had come from."
   },
   {
+   "id": "f8e0b99e654953fb",
+   "title": "100+ reactions to 100+ solutions",
+   "url": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T12:26:12.000Z",
+   "summary": "33 points · 25 comments"
+  },
+  {
    "id": "8427182b6ff54d95",
    "title": "Apple Reportedly Cuts iPhone 18 Pro Orders After Price Hike Dampens Demand",
    "url": "https://www.macrumors.com/2026/10/09/apple-cuts-iphone-18-pro-orders-price-demand/",
@@ -278,6 +791,15 @@
    "section": "tech",
    "publishedAt": "2026-10-09T12:00:00.000Z",
    "summary": "The company is reportedly rebooting its smart home ambitions with a smart display and a whole bunch of other accessories."
+  },
+  {
+   "id": "d9bce324cec65853",
+   "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+   "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-09T11:36:20.000Z",
+   "summary": "39 points · 20 comments"
   },
   {
    "id": "2753d7624cdfb18a",
@@ -406,6 +928,15 @@
    "summary": "Three OpenAI researchers said their firings may have a 'chilling' effect on employees."
   },
   {
+   "id": "c92a970824af9d29",
+   "title": "Programming Isn't Special",
+   "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T07:44:36.000Z",
+   "summary": "128 points · 141 comments"
+  },
+  {
    "id": "7ef47efee486ec33",
    "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
    "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
@@ -422,6 +953,15 @@
    "section": "ai",
    "publishedAt": "2026-10-09T07:00:00.000Z",
    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+  },
+  {
+   "id": "a4c4280ba8d128dd",
+   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+   "url": "https://openai.com/index/asana-browser-agent",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-10-09T07:00:00.000Z",
+   "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
   },
   {
    "id": "06a38494d87fcfa3",
@@ -4337,6 +4877,15 @@
    "section": "tech",
    "publishedAt": "2026-10-06T20:29:10.000Z",
    "summary": "8 points · 3 comments"
+  },
+  {
+   "id": "00927378628e09f9",
+   "title": "Training Text-to-Image Models Without a VAE",
+   "url": "https://www.linum.ai/field-notes/pyramid-jit",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-06T20:24:52.000Z",
+   "summary": "26 points · 9 comments"
   },
   {
    "id": "d58646e478680536",
@@ -21788,6 +22337,15 @@
    "section": "tech",
    "publishedAt": "2026-09-25T07:03:46.000Z",
    "summary": "5 points · 0 comments"
+  },
+  {
+   "id": "9aebcd5d10bfc9f8",
+   "title": "Lowe’s answers millions of home improvement questions with OpenAI",
+   "url": "https://openai.com/index/lowes",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-09-25T07:00:00.000Z",
+   "summary": "Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward."
   },
   {
    "id": "c9c79bfe6cdbf646",
@@ -43901,339 +44459,6 @@
    "section": "tech",
    "publishedAt": "2026-09-09T19:59:16.000Z",
    "summary": "Apple is launching an all-new set of features called Audio Intelligence, starting with today’s new Apple Watch Series 12 and Apple Watch Ultra 4. The company details how the new feature works, especially around privacy, in a new paper. more…"
-  },
-  {
-   "id": "2b5fd4f320fcbc3a",
-   "title": "Apple updates trade-in values following ‘Surprise and Shine’ event, lowers iPhone payouts",
-   "url": "https://9to5mac.com/2026/09/09/apple-updates-trade-in-values-following-surprise-and-shine-event-lowers-iphone-payouts/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T19:26:43.000Z",
-   "summary": "Just a month after raising trade-in values across much of its product lineup, Apple has updated them once again following its “Surprise and Shine” event, lowering values for iPhones while increasing them for iPads and most Macs. Here are the new values. more…"
-  },
-  {
-   "id": "8835ea980fc741d9",
-   "title": "iPhone 18 Pro buyers can get a free trial of Apple One",
-   "url": "https://9to5mac.com/2026/09/09/iphone-18-pro-buyers-can-get-a-free-trial-of-apple-one/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T19:26:12.000Z",
-   "summary": "Apple is launching a new free trial offer with the purchase of eligible hardware, including the just-announced iPhone 18 Pro and iPhone 18 Pro Max. iPhone 18 Pro, Pro Max and iPhone Duo purchases will allow users to unlock a three month trial of the Apple One bundle. more…"
-  },
-  {
-   "id": "bf49cc848257278d",
-   "title": "macOS 27 Golden Gate: Here are Apple’s full release notes",
-   "url": "https://9to5mac.com/2026/09/09/macos-27-golden-gate-here-are-apples-full-release-notes/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T19:18:54.000Z",
-   "summary": "Apple has announced that macOS 27 Golden Gate will ship to all users next Monday, September 14. Here are Apple’s official release notes for macOS 27. more…"
-  },
-  {
-   "id": "d9616f902ccbf803",
-   "title": "iPhone 18 Pro battery life: how much better is the battery compared to iPhone Duo and iPhone 17 Pro",
-   "url": "https://9to5mac.com/2026/09/09/iphone-18-pro-battery-life-compared-to-iphone-duo-and-iphone-17-pro/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T19:10:57.000Z",
-   "summary": "Apple has just announced the new flagship iPhone lineup, featuring iPhone 18 Pro and iPhone Duo. One of the biggest improvements is battery life. In fact, Apple says this generation represents the biggest jump in battery life iPhone history ever. So let’s break down what’s changed … more…"
-  },
-  {
-   "id": "e1cb01f1fa5aff19",
-   "title": "Here’s how iPhone Duo treats apps not optimized for the foldable display",
-   "url": "https://9to5mac.com/2026/09/09/heres-how-iphone-duo-treats-apps-not-optimized-for-the-foldable-display/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T19:03:59.000Z",
-   "summary": "Apple has officially announced the iPhone Duo, its first foldable display device. Additionally, the company has detailed how third-party apps will work with the larger display. This includes three modes for apps that target iOS 26, iOS 27.0, and iOS 27.1. more…"
-  },
-  {
-   "id": "4e844d075d7dd2a7",
-   "title": "Apple rolls out fourth developer and public RCs for macOS Tahoe 26.7 and macOS Sequoia 15.8",
-   "url": "https://9to5mac.com/2026/09/09/apple-rolls-out-fourth-developer-and-public-rcs-for-macos-tahoe-26-7-and-macos-sequoia-15-8/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T18:55:43.000Z",
-   "summary": "New Release Candidates for macOS Tahoe 26.7 and macOS Sequoia 15.8 are available to developers and users in the public beta program. Here are the details. more…"
-  },
-  {
-   "id": "957a27a49c51b99e",
-   "title": "iOS 27: Here are Apple’s full release notes",
-   "url": "https://9to5mac.com/2026/09/09/ios-27-here-are-apples-full-release-notes/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T18:51:15.000Z",
-   "summary": "Today Apple announced that iOS 27 will launch next Monday, September 14. Here are the full release notes for the major new iPhone update. more…"
-  },
-  {
-   "id": "f296209398714534",
-   "title": "Apple confirms macOS 27 Golden Gate launch date: September 14",
-   "url": "https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T18:47:23.000Z",
-   "summary": "Apple today confirmed that macOS 27 Golden Gate will launch on September 14, alongside iOS 27, iPadOS 27, and its other operating systems. Here’s the full list of compatible Macs. more…"
-  },
-  {
-   "id": "22662bd24de24855",
-   "title": "iPhone 18 Pro vs iPhone 17 Pro: Here’s everything new",
-   "url": "https://9to5mac.com/2026/09/09/iphone-18-pro-vs-iphone-17-pro-heres-everything-new/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T18:42:31.000Z",
-   "summary": "Today Apple unveiled iPhone 18 Pro and Pro Max, its latest flagship models. Here’s everything new with iPhone 18 Pro vs last year’s iPhone 17 Pro. more…"
-  },
-  {
-   "id": "b7e2a325a54b7f04",
-   "title": "iPhone 17, iPhone Air, and iPhone 17e just got more expensive",
-   "url": "https://9to5mac.com/2026/09/09/every-iphone-just-got-more-expensive-iphone-17/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T18:40:15.000Z",
-   "summary": "With the iPhone 18 Pro and Pro Max now starting $100 more than their predecessors, Apple has also applied the price hike to the entire iPhone lineup, including the phones that didn’t change at all. That means the base model iPhone 17 now starts at $899, up from $799. Similarly, the iPhone Air…"
-  },
-  {
-   "id": "ac69e5177410e17f",
-   "title": "macOS 27 RC now available, here’s how to install it",
-   "url": "https://9to5mac.com/2026/09/09/macos-27-rc-now-available-heres-how-to-install-it/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T18:38:57.000Z",
-   "summary": "With the “Surprise and Shine” event now in the books, Apple is now rolling out the first developer and public Release Candidate of macOS 27 Golden Gate ahead of the operating system’s public launch. Here are the details. more…"
-  },
-  {
-   "id": "978494834c5afd51",
-   "title": "Apple releases iPadOS 27 RC, plus watchOS 27 and more",
-   "url": "https://9to5mac.com/2026/09/09/apple-releases-ipados-27-rc-plus-watchos-27-and-more/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T18:36:29.000Z",
-   "summary": "Today following its “Surprise and shine” September event, Apple has shipped the RC (release candidate) versions of iPadOS 27, watchOS 27, and more. more…"
-  },
-  {
-   "id": "a10febd9122739d0",
-   "title": "Apple releases iOS 27 RC ahead of public launch",
-   "url": "https://9to5mac.com/2026/09/09/apple-releases-ios-27-rc-ahead-of-public-launch/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T18:32:31.000Z",
-   "summary": "Apple has released the first iOS 27 release candidate for testing. The update brings Apple’s next major iPhone software release one step closer to public launch, with Siri AI leading the list of changes. more…"
-  },
-  {
-   "id": "7d720cca687f9f19",
-   "title": "Show HN: Apollo Lunar Module landing simulation",
-   "url": "https://gosandeep.com/eagles-descent/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-09T18:29:37.000Z",
-   "summary": "22 points · 1 comments"
-  },
-  {
-   "id": "e786a9cb5cc08d61",
-   "title": "No iPhone 18 announced today: Here’s why",
-   "url": "https://9to5mac.com/2026/09/09/no-iphone-18-announced-today-heres-why/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T18:26:16.000Z",
-   "summary": "Today at its September event, Apple unveiled iPhone 18 Pro and iPhone Duo, but there was no base model iPhone 18 introduced. Here’s why. more…"
-  },
-  {
-   "id": "f8b9808a584bb697",
-   "title": "iPadOS 27 launches on September 14, here are the compatible devices",
-   "url": "https://9to5mac.com/2026/09/09/ipados-27-will-be-launched-on-september-14/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T18:24:47.000Z",
-   "summary": "During its “Surprise and Shine” event today, Apple confirmed that iPadOS 27 will be released in just a few days, on September 14. Here are the compatible devices. more…"
-  },
-  {
-   "id": "944f9248320280d3",
-   "title": "Apple confirms iPhone Duo release date for October, details here",
-   "url": "https://9to5mac.com/2026/09/09/apple-confirms-iphone-duo-release-date-for-october-details-here/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T18:22:01.000Z",
-   "summary": "Today Apple unveiled the first foldable iPhone ever: iPhone Duo. But the new model won’t launch alongside iPhone 18 Pro. Instead, Apple has confirmed an October release date. more…"
-  },
-  {
-   "id": "657d940b68232975",
-   "title": "Apple releases tvOS 27 RC – here’s how to install it",
-   "url": "https://9to5mac.com/2026/09/09/__trashed-10/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T18:18:32.000Z",
-   "summary": "We didn’t get the new Apple TV 4K model some had predicted in today’s fast-paced ‘Surprise and shine’ event, but the developer and public Release Candidate (RC) of tvOS 27 is now rolling out … more…"
-  },
-  {
-   "id": "8dd70054ef0c3275",
-   "title": "Apple unveils iPhone Duo",
-   "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-   "source": "Apple Newsroom",
-   "section": "tech",
-   "publishedAt": "2026-09-09T18:15:40.996Z",
-   "summary": "Apple today introduced iPhone Duo, the first foldable iPhone."
-  },
-  {
-   "id": "acddae1cfcbcbb6d",
-   "title": "Apple unveils foldable iPhone Duo",
-   "url": "https://9to5mac.com/2026/09/09/apple-unveils-foldable-iphone-duo/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T17:57:54.000Z",
-   "summary": "Apple has officially unveiled the highly anticipated foldable iPhone, and it’s called iPhone Duo. Here’s everything you need to know. more…"
-  },
-  {
-   "id": "9c6f35b14e0fe295",
-   "title": "watchOS 27 upgrade coming to Apple Watch this month",
-   "url": "https://9to5mac.com/2026/09/09/watchos-27-upgrade-coming-to-apple-watch-this-month/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T17:57:40.000Z",
-   "summary": "watchOS 27 is coming this month, and now we have an official release date. Apple says we can expect the Apple Watch software update on Monday, September 14. The Apple Watch software update brings Siri AI, new ways to launch apps, and more changes to the device. more…"
-  },
-  {
-   "id": "54bd7a588919c9a0",
-   "title": "watchOS 27 will add new Siri Modular face for Apple Watch",
-   "url": "https://9to5mac.com/2026/09/09/watchos-27-will-add-new-siri-modular-face-for-apple-watch/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T17:56:11.000Z",
-   "summary": "Today during its Apple Watch Series 12 and Ultra 4 announcements, Apple announced a new watch face coming to watchOS 27: Siri Modular. more…"
-  },
-  {
-   "id": "fc374ac7e13c9415",
-   "title": "Apple advances health and fitness capabilities using Apple Intelligence",
-   "url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/",
-   "source": "Apple Newsroom",
-   "section": "tech",
-   "publishedAt": "2026-09-09T17:52:05.481Z",
-   "summary": "Apple today announced its most advanced health and fitness experience yet, deepening the capabilities of Apple Watch and iPhone as intelligent, science-based tools for personal health."
-  },
-  {
-   "id": "b22fed0faae024ae",
-   "title": "Apple unveils Apple Watch Ultra 4",
-   "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
-   "source": "Apple Newsroom",
-   "section": "tech",
-   "publishedAt": "2026-09-09T17:51:18.631Z",
-   "summary": "Apple today introduced Apple Watch Ultra 4, the ultimate sports and adventure watch, now with new health, fitness, and audio intelligence capabilities."
-  },
-  {
-   "id": "cd81cd33ac17b416",
-   "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
-   "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-   "source": "Apple Newsroom",
-   "section": "tech",
-   "publishedAt": "2026-09-09T17:50:47.609Z",
-   "summary": "Apple today introduced Apple Watch Series 12, engineered to deliver the most accurate heart rate sensing in a wearable."
-  },
-  {
-   "id": "22b0e72744e330fe",
-   "title": "Apple confirms iOS 27 release date: September 14",
-   "url": "https://9to5mac.com/2026/09/09/apple-confirms-ios-27-release-date-september-14/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T17:48:01.000Z",
-   "summary": "Apple today confirmed at its “Surprise and Shine” event that iOS 27 will be released in less than a week, on September 14. Here are the compatible devices. more…"
-  },
-  {
-   "id": "6b5a5209b1e1d7e8",
-   "title": "Apple Watch Series 12 and Ultra 4 unveiled with upgraded health tracking system",
-   "url": "https://9to5mac.com/2026/09/09/apple-watch-series-12-and-ultra-4-unveiled-with-upgraded-health-tracking-system/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T17:44:50.000Z",
-   "summary": "Apple Watch Series 12 and Apple Watch Ultra 4 are official. Apple has announced its two new Apple Watch models as part of its product event today. An upgraded health tracking system is key to both models. more…"
-  },
-  {
-   "id": "d4fe833541b2bb5c",
-   "title": "visionOS 27 release date: Here’s when the new update launches",
-   "url": "https://9to5mac.com/2026/09/09/visionos-27-release-date-heres-when-the-new-update-launches/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T17:42:40.000Z",
-   "summary": "Today Apple unveiled its latest hardware products during the “Surprise and shine” event, where we also learned the release date for visionOS 27, the new software update for Vision Pro. more…"
-  },
-  {
-   "id": "b6ed1ccabb0b196b",
-   "title": "Apple announces A20 Pro chip with 2nm design and major performance gains",
-   "url": "https://9to5mac.com/2026/09/09/apple-announces-a20-pro-chip-with-2nm-design-and-major-performance-gains/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T17:37:32.000Z",
-   "summary": "Apple today unveiled the A20 Pro, its first chip built on 2nm technology at its “Surprise and Shine” event, bringing major CPU, GPU, and AI upgrades to the iPhone Duo, iPhone 18 Pro, and iPhone 18 Pro Max. Here are the details. more…"
-  },
-  {
-   "id": "c7e6baede9c6aad3",
-   "title": "Apple introduces AirPods 5 with best-in-class open-ear Active Noise Cancellation",
-   "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-   "source": "Apple Newsroom",
-   "section": "tech",
-   "publishedAt": "2026-09-09T17:34:55.485Z",
-   "summary": "Apple today announced AirPods 5, delivering the industry’s best Active Noise Cancellation in an open-ear design and even better sound quality."
-  },
-  {
-   "id": "7ccd3e2ef6977a61",
-   "title": "Apple unveils AirPods 5 with upgraded noise cancellation, more",
-   "url": "https://9to5mac.com/2026/09/09/apple-unveils-airpods-5-with-upgraded-noise-cancellation-more/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-09T17:34:06.000Z",
-   "summary": "Today during its iPhone 18 Pro event, Apple announced the next generation AirPods 5 with improved active noise cancellation. Here are the details. more…"
-  },
-  {
-   "id": "71d6f171167ef707",
-   "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
-   "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-   "source": "Apple Newsroom",
-   "section": "tech",
-   "publishedAt": "2026-09-09T17:30:06.059Z",
-   "summary": "Apple announced iPhone 18 Pro and iPhone 18 Pro Max, delivering an advanced pro camera system and improved battery life and performance."
-  },
-  {
-   "id": "8d109648fa072a8d",
-   "title": "Paul Christiano joins OpenAI Foundation Board",
-   "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-09T17:00:00.000Z",
-   "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
-  },
-  {
-   "id": "e49b8a126e7e0f43",
-   "title": "Vintage Scientific Papers with LaTeX",
-   "url": "https://github.com/Foadsf/vintage-latex",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-09T16:58:27.000Z",
-   "summary": "68 points · 6 comments"
-  },
-  {
-   "id": "511e9400870dd997",
-   "title": "Get ready for the game with new football features in Search",
-   "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-   "source": "Google AI",
-   "section": "ai",
-   "publishedAt": "2026-09-09T16:00:00.000Z",
-   "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season."
-  },
-  {
-   "id": "3b65371426a5cd18",
-   "title": "Recreating a 70-year love story frame by frame",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-   "source": "Google AI",
-   "section": "ai",
-   "publishedAt": "2026-09-09T16:00:00.000Z",
-   "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\""
-  },
-  {
-   "id": "5d26a499b6cd5b39",
-   "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-   "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-   "source": "Hugging Face",
-   "section": "ai",
-   "publishedAt": "2026-09-09T15:36:24.000Z",
-   "summary": ""
   }
  ]
 }
