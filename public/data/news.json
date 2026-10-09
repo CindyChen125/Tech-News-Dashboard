@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09T00:17:24.030Z",
+ "updatedAt": "2026-10-09T06:38:42.701Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,78 @@
  ],
  "items": [
   {
+   "id": "3b2b61c49a173974",
+   "title": "Show HN: Quake ported to safe Rust, playable in browser",
+   "url": "https://quake-srp.pages.dev/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T05:22:58.000Z",
+   "summary": "89 points · 56 comments"
+  },
+  {
+   "id": "9bc0280737373e55",
+   "title": "Keyboard differences between Windows and Macs",
+   "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T03:08:05.000Z",
+   "summary": "65 points · 54 comments"
+  },
+  {
+   "id": "af224e7e28bd77f2",
+   "title": "What should we tell our students?",
+   "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T02:27:45.000Z",
+   "summary": "76 points · 79 comments"
+  },
+  {
+   "id": "cce8aba12fcecf0c",
+   "title": "OLED MacBook Pro to help boost premium display shipments, per report",
+   "url": "https://9to5mac.com/2026/10/08/oled-macbook-pro-to-help-boost-premium-display-shipments-per-report/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-09T02:21:43.000Z",
+   "summary": "A new Counterpoint Research report says Apple’s next-generation MacBook Pro will help drive a 50% increase in OLED notebook display shipments in 2026 alone. Here are the details. more…"
+  },
+  {
+   "id": "df237043e0ef8b20",
+   "title": "Apple rolls out AT&T carrier update for iPhone 18 Pro Max on iOS 27.2 beta",
+   "url": "https://9to5mac.com/2026/10/08/apple-rolls-out-att-carrier-update-for-iphone-18-pro-max-on-ios-27-2-beta/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-09T02:11:17.000Z",
+   "summary": "After releasing a carrier settings update last week to address cellular issues affecting some iPhone 18 Pro Max users on AT&T, Apple is now rolling out a different carrier bundle update for devices running the iOS 27.2 beta. Here are the details. more…"
+  },
+  {
+   "id": "9c8ed7c74b8c4e31",
+   "title": "Reducing undefined behavior in the C language",
+   "url": "https://lwn.net/Articles/1095811/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T02:02:53.000Z",
+   "summary": "89 points · 52 comments"
+  },
+  {
+   "id": "c4324bcee4f5f082",
+   "title": "‘Matchbox The Movie’ starring John Cena premieres on Apple TV",
+   "url": "https://9to5mac.com/2026/10/08/matchbox-the-movie-starring-john-cena-premieres-on-apple-tv/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-09T01:00:23.000Z",
+   "summary": "Apple TV subscribers can now watch Apple TV’s “Matchbox The Movie,” the platform’s new action-packed comedy inspired by the iconic Mattel toys. Watch the trailer below. more…"
+  },
+  {
+   "id": "4350f47a35d58414",
+   "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+   "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+   "source": "MIT Tech Review",
+   "section": "ai",
+   "publishedAt": "2026-10-09T00:08:24.000Z",
+   "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be…"
+  },
+  {
    "id": "b7f97916388c7390",
    "title": "Apple's October 13 Launch: What's Coming",
    "url": "https://www.macrumors.com/2026/10/08/apple-october-13-launch/",
@@ -116,6 +188,15 @@
    "section": "tech",
    "publishedAt": "2026-10-08T23:08:18.000Z",
    "summary": "iVerify released a report today detailing P7 DarkSword, a new variant of the malware associated with the DarkSword iPhone exploit chain uncovered earlier this year. Here are the details. more…"
+  },
+  {
+   "id": "4841cee9bf5c83d5",
+   "title": "Bevy 0.20",
+   "url": "https://bevy.org/news/bevy-0-20/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-08T22:57:50.000Z",
+   "summary": "134 points · 22 comments"
   },
   {
    "id": "998d1b6646c882ed",
@@ -181,6 +262,15 @@
    "summary": "Incredibly useful keyboard shortcut utility TextExpander now offers a free plan, letting users access its core Snippets feature on the Mac, iPhone, iPad, Windows, and Chrome. Here are the details. more…"
   },
   {
+   "id": "ddc358b14dd1eb88",
+   "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+   "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-08T21:37:32.000Z",
+   "summary": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\""
+  },
+  {
    "id": "3a752330845471db",
    "title": "Apple home event imminent, OLED MacBook Pro details, Full Disk Access changes",
    "url": "https://9to5mac.com/2026/10/08/happy-hour-611/",
@@ -244,6 +334,15 @@
    "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk."
   },
   {
+   "id": "f2053c80d0ae3d4c",
+   "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
+   "url": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-08T20:53:01.000Z",
+   "summary": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press."
+  },
+  {
    "id": "8df494832793eb93",
    "title": "AI-ready biological data: $1.8B global commitment",
    "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
@@ -260,6 +359,15 @@
    "section": "tech",
    "publishedAt": "2026-10-08T20:42:16.000Z",
    "summary": "130 points · 99 comments"
+  },
+  {
+   "id": "fddf1fc21fa2e3af",
+   "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+   "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-08T20:39:31.000Z",
+   "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings."
   },
   {
    "id": "076bb75b2c53ca7d",
@@ -296,6 +404,15 @@
    "section": "tech",
    "publishedAt": "2026-10-08T20:28:30.000Z",
    "summary": "Apple just announced a “Welcome home” special event for next week, but the fun doesn’t stop there. Bloomberg now reports that Apple is set to launch its first touchscreen MacBook Pros, a new iPad mini, and more “on or around Tuesday, October 27.” The report says the launch will include “an online…"
+  },
+  {
+   "id": "078ac2c587cb7509",
+   "title": "Feds get ready to rewrite car headlight rules",
+   "url": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-08T20:26:13.000Z",
+   "summary": "Reducing glare and allowing modern light technologies will be two goals."
   },
   {
    "id": "cf1a30451e3ab4ee",
@@ -712,6 +829,15 @@
    "summary": "The company also released the V4 Hyperspeed and a charging dock."
   },
   {
+   "id": "acf87d085d96a2b6",
+   "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
+   "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-08T17:39:26.000Z",
+   "summary": "37 points · 3 comments"
+  },
+  {
    "id": "076d4b3b19ab79c2",
    "title": "Everything Amazon has announced so far in October 2026",
    "url": "https://www.engadget.com/2281378/everything-amazon-announced-october-2026-alexa-tablet-kindle-fire-tv-ring-lock/",
@@ -791,6 +917,15 @@
    "section": "tech",
    "publishedAt": "2026-10-08T16:37:24.000Z",
    "summary": "8 points · 4 comments"
+  },
+  {
+   "id": "72f8efdf9e2cba23",
+   "title": "Show HN: Jevman – AI decision models play Pac-Man",
+   "url": "https://opper.ai/jevman-benchmark/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-08T16:34:13.000Z",
+   "summary": "58 points · 10 comments"
   },
   {
    "id": "e654bbcf025b6618",
@@ -1574,6 +1709,15 @@
    "section": "ai",
    "publishedAt": "2026-10-08T07:07:34.000Z",
    "summary": "75 points · 23 comments"
+  },
+  {
+   "id": "7e813afdc2dd0ebb",
+   "title": "OpenAI withdraws three mathematical results",
+   "url": "https://twitter.com/danintheory/status/2108065033070789090",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-08T07:05:40.000Z",
+   "summary": "283 points · 561 comments"
   },
   {
    "id": "d31b0ee9dcedb4d4",
@@ -43775,24 +43919,6 @@
    "section": "ai",
    "publishedAt": "2026-09-09T11:00:00.000Z",
    "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
-  },
-  {
-   "id": "0fbdbf271a4db657",
-   "title": "What OpenAI’s latest controversy tells us about the future of math",
-   "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-   "source": "MIT Tech Review",
-   "section": "ai",
-   "publishedAt": "2026-09-09T03:10:08.000Z",
-   "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather…"
-  },
-  {
-   "id": "dbb4cdb92fe0af86",
-   "title": "Apple iPod Engraver (2019)",
-   "url": "https://dunstanorchard.com/apple-ipod-engraver/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-09T01:57:37.000Z",
-   "summary": "212 points · 53 comments"
   }
  ]
 }
