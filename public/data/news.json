@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-08T19:52:06.075Z",
+ "updatedAt": "2026-10-09T00:17:24.030Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1257
+   "count": 1258
   },
   {
    "name": "Google DeepMind",
@@ -23,7 +23,7 @@
    "name": "Hugging Face",
    "section": "ai",
    "ok": true,
-   "count": 875
+   "count": 876
   },
   {
    "name": "MIT Tech Review",
@@ -82,6 +82,285 @@
  ],
  "items": [
   {
+   "id": "b7f97916388c7390",
+   "title": "Apple's October 13 Launch: What's Coming",
+   "url": "https://www.macrumors.com/2026/10/08/apple-october-13-launch/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-08T23:48:33.000Z",
+   "summary": "Apple is planning to introduce new products on Tuesday, October 13, Apple marketing chief Greg Joswiak announced today. It won't be a traditional Apple event, but Apple has invited some members of the media to New York City to get some hands-on time with whatever's introduced. Subscribe to the…"
+  },
+  {
+   "id": "0be6d04e24424cc6",
+   "title": "OpenAI, the Partition Principle, and Mathematics",
+   "url": "https://karagila.org/2026/openai-pp/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-08T23:29:43.000Z",
+   "summary": "20 points · 1 comments"
+  },
+  {
+   "id": "d39f069ee892a8c3",
+   "title": "Apple reportedly plans touchscreen MacBook and iPad Mini launch for this month",
+   "url": "https://www.engadget.com/2281839/apple-reportedly-plans-touchscreen-macbook-and-ipad-mini-launch-for-this-month/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-08T23:26:35.000Z",
+   "summary": "The wait to (literally) get your hands on the tech may almost be over."
+  },
+  {
+   "id": "1e14d0a0ac4ecc52",
+   "title": "Researchers uncover new DarkSword spyware variant affecting unpatched iPhones",
+   "url": "https://9to5mac.com/2026/10/08/researchers-uncover-new-darksword-spyware-variant-affecting-unpatched-iphones/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-08T23:08:18.000Z",
+   "summary": "iVerify released a report today detailing P7 DarkSword, a new variant of the malware associated with the DarkSword iPhone exploit chain uncovered earlier this year. Here are the details. more…"
+  },
+  {
+   "id": "998d1b6646c882ed",
+   "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
+   "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-08T22:33:59.000Z",
+   "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration."
+  },
+  {
+   "id": "ff486f3e8c5f6bfa",
+   "title": "US plans livestream of execution by firing squad",
+   "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-08T22:32:04.000Z",
+   "summary": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this…"
+  },
+  {
+   "id": "374f74c74350a6a1",
+   "title": "Anthropic launches free AI security scans for open-source projects",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-08T21:53:51.000Z",
+   "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted…"
+  },
+  {
+   "id": "4c1219a2556d6876",
+   "title": "Anthropic Says Users Can't Be Needlessly Cruel to Claude",
+   "url": "https://www.macrumors.com/2026/10/08/anthropic-user-guideline-update/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-10-08T21:53:18.000Z",
+   "summary": "Anthropic today updated its usage policy (via The Verge) to bar users from subjecting Claude to \"sustained and needless abusive or cruel behavior.\" Anthropic says the abuse rule is meant to apply only in extreme cases, where users \"repeatedly act cruelly\" toward the AI models with \"no discernible…"
+  },
+  {
+   "id": "29a08eb0bf72d1d4",
+   "title": "IDC: Worldwide PC shipments in Q3 fell 20 percent from last year",
+   "url": "https://www.engadget.com/2281788/idc-worldwide-pc-shipments-in-q3-fell-20-percent-from-last-year/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-08T21:50:20.000Z",
+   "summary": "\"With macro conditions worsening, the risk is that the outlook for the next few quarters gets worse before it gets better.\""
+  },
+  {
+   "id": "1e43c4f7ec23356b",
+   "title": "Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple",
+   "url": "https://www.engadget.com/2281782/alexa-tablet-vs-ipad-pro-amazon-apple-tablet-comparison/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-08T21:40:59.000Z",
+   "summary": "Amazon's latest and greatest tablet shares some key similarities to Apple's high-end iPads, but the devil is in the details."
+  },
+  {
+   "id": "9a846f2aad9becfb",
+   "title": "You can now use TextExpander for free across Mac, iPhone, iPad, and more",
+   "url": "https://9to5mac.com/2026/10/08/you-can-now-use-textexpander-for-free-across-mac-iphone-ipad-and-more/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-08T21:38:06.000Z",
+   "summary": "Incredibly useful keyboard shortcut utility TextExpander now offers a free plan, letting users access its core Snippets feature on the Mac, iPhone, iPad, Windows, and Chrome. Here are the details. more…"
+  },
+  {
+   "id": "3a752330845471db",
+   "title": "Apple home event imminent, OLED MacBook Pro details, Full Disk Access changes",
+   "url": "https://9to5mac.com/2026/10/08/happy-hour-611/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-08T21:36:56.000Z",
+   "summary": "Benjamin and Chance talk about this week’s Apple news, ahead of a bevy of product announcements coming later this month. Apple is reportedly partnering with LG on a range of smart home accessories, and changes are coming to Full Disk Access permissions. Note: This episode was recorded before Apple…"
+  },
+  {
+   "id": "1c95842dddf342bc",
+   "title": "SpaceX announces plan to become a ‘major mobile carrier’",
+   "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-08T21:23:31.000Z",
+   "summary": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new architecture that combines…"
+  },
+  {
+   "id": "ba25b3dd8c72ba42",
+   "title": "Anthropic bans 'sustained and needless abusive or cruel behavior' toward its AI models",
+   "url": "https://www.engadget.com/2281765/anthropic-bans-sustained-and-needless-abusive-or-cruel-behavior-toward-its-ai-models/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-08T21:17:24.000Z",
+   "summary": "The company is also tightening its election policy ahead of the midterms."
+  },
+  {
+   "id": "e2ceceefe408c06e",
+   "title": "Apple, Prosser, and Ramacciotti trade blame over delays in trade secret lawsuit",
+   "url": "https://9to5mac.com/2026/10/08/apple-prosser-and-ramacciotti-trade-blame-over-delays-in-trade-secret-lawsuit/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-08T21:14:29.000Z",
+   "summary": "In a joint status report made public earlier today, Apple said it is still waiting on additional documents from Jon Prosser and wants to depose Michael Ramacciotti again, while both defendants pushed back on the company’s handling of the case. Here are the details. more…"
+  },
+  {
+   "id": "1aa23c65b7f3c749",
+   "title": "Apple to Launch Touchscreen OLED MacBook Pro and OLED iPad mini on October 27",
+   "url": "https://www.macrumors.com/2026/10/08/apple-october-27-macbook-pro/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-08T21:12:43.000Z",
+   "summary": "Apple will introduce new OLED touchscreen MacBook Pro models and an ‌OLED‌ iPad mini \"on or around\" Tuesday, October 27, reports Bloomberg. The launch will also include an M6 14-inch ‌MacBook Pro‌ and an M6 iMac. The October 27 follows Apple's October 13 debut of a new smart home hub, a revamped…"
+  },
+  {
+   "id": "c6aa6a22ec74db99",
+   "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
+   "url": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-08T21:01:18.000Z",
+   "summary": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. Now, AMD consumer chip boss Jack Huynh says he will bring the tech to…"
+  },
+  {
+   "id": "9253bce958b6eb94",
+   "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+   "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-08T21:00:00.000Z",
+   "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk."
+  },
+  {
+   "id": "8df494832793eb93",
+   "title": "AI-ready biological data: $1.8B global commitment",
+   "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-08T20:46:25.000Z",
+   "summary": "51 points · 4 comments"
+  },
+  {
+   "id": "684f3ec12a232d67",
+   "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+   "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-08T20:42:16.000Z",
+   "summary": "130 points · 99 comments"
+  },
+  {
+   "id": "076bb75b2c53ca7d",
+   "title": "Child safety group calls ChatGPT for Teens an unacceptable risk",
+   "url": "https://www.engadget.com/2281719/child-safety-group-calls-chatgpt-for-teens-an-unacceptable-risk/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-08T20:36:46.000Z",
+   "summary": "After extensive testing, Common Sense Media found the chatbot failed in five key areas."
+  },
+  {
+   "id": "5a3616ff07dee62f",
+   "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
+   "url": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-08T20:32:21.000Z",
+   "summary": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple announced today, which is rumored to focus on smart home products. Bloomberg…"
+  },
+  {
+   "id": "bd7aefb76ea51686",
+   "title": "Cyberpunk 2077 is the latest video game to get the movie treatment",
+   "url": "https://www.engadget.com/2281714/cyberpunk-2077-is-the-latest-video-game-to-get-the-movie-treatment/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-08T20:30:26.000Z",
+   "summary": "Paramount Pictures will develop the film and CD Projekt Red will produce."
+  },
+  {
+   "id": "0d325309e9d1ec6c",
+   "title": "Apple to launch touchscreen MacBook Pro and more on October 27: report",
+   "url": "https://9to5mac.com/2026/10/08/apple-to-launch-touchscreen-macbook-pro-and-more-on-october-27-report/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-08T20:28:30.000Z",
+   "summary": "Apple just announced a “Welcome home” special event for next week, but the fun doesn’t stop there. Bloomberg now reports that Apple is set to launch its first touchscreen MacBook Pros, a new iPad mini, and more “on or around Tuesday, October 27.” The report says the launch will include “an online…"
+  },
+  {
+   "id": "cf1a30451e3ab4ee",
+   "title": "Apple Now Pushing iPhone Users Still on iOS 26 to Install iOS 27",
+   "url": "https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-08T20:17:58.000Z",
+   "summary": "Starting today, iPhone users still running iOS 26 will see iOS 27.0.1 as the prominent software update in the Settings app under General → Software Update, with iOS 26.7.1 now relegated to a smaller \"Also Available\" section at the bottom. iOS 27 was released on September 14, but until now that…"
+  },
+  {
+   "id": "0d1ecb372d673f3d",
+   "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+   "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-08T20:15:53.000Z",
+   "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies."
+  },
+  {
+   "id": "1a180bf65b1e5529",
+   "title": "IDC: Mac shipments drop 11% in Q3 as global PC market slides 20%",
+   "url": "https://9to5mac.com/2026/10/08/idc-mac-shipments-drop-11-in-q3-as-global-pc-market-slides-20/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-08T20:09:47.000Z",
+   "summary": "Despite seeing an 11% drop in Mac shipments during Q3 2026, Apple’s market share rose from 8.5% to 9.5%, as the broader market saw shipments plunge 20.1%, according to a new report from IDC. Here are the details. more…"
+  },
+  {
+   "id": "5a506a050bccd9dc",
+   "title": "Forza Horizon 6 is coming to PS5 on January 26",
+   "url": "https://www.engadget.com/2281683/forza-horizon-6-is-coming-to-ps5-on-january-26/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-08T20:08:45.000Z",
+   "summary": "The racing game's first expansion will also be available early next year."
+  },
+  {
+   "id": "e7d816c08862e06e",
+   "title": "California is trying to shut down robot vs. human cage matches",
+   "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-08T20:06:56.000Z",
+   "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a…"
+  },
+  {
+   "id": "cc263448cd892223",
+   "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+   "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-08T20:04:26.000Z",
+   "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture."
+  },
+  {
+   "id": "9650b8c4ee8e2402",
+   "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
+   "url": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-08T19:57:17.000Z",
+   "summary": "Free SSL/TLS certificate lifetimes reduce to 64 days in February."
+  },
+  {
    "id": "d1af9c67a9272aff",
    "title": "ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside",
    "url": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video",
@@ -91,6 +370,15 @@
    "summary": "Detainees are seen in a yard at the Folkston ICE Processing Center on September 9, 2025, in Folkston, Georgia. (Photo by ELIJAH NOUVELAGE/AFP via Getty Images) | AFP via Getty Images Four men detained at an ICE detention center in rural Georgia used the facility's video conferencing software to…"
   },
   {
+   "id": "05bf6ac85975e39a",
+   "title": "Driver wins $76 after ALPR led to bogus traffic stop, drug searches",
+   "url": "https://arstechnica.com/tech-policy/2026/10/driver-wins-76-after-alpr-led-to-bogus-traffic-stop-drug-searches/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-08T19:42:30.000Z",
+   "summary": "Mass surveillance gets stupider."
+  },
+  {
    "id": "5d6c4c97e31a6f05",
    "title": "Microsoft’s new Windows Search is exactly what Windows 11 needs",
    "url": "https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11",
@@ -98,6 +386,15 @@
    "section": "tech",
    "publishedAt": "2026-10-08T19:30:21.000Z",
    "summary": "Windows Search has been one of the most frustrating parts of Windows 11, and now Microsoft is addressing this with a significant overhaul. A new redesigned Windows Search is now in testing that is much faster, more capable, and a lot more modern. \"This new Windows Search experience is built for…"
+  },
+  {
+   "id": "ff5a330ab3facdc2",
+   "title": "RFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries",
+   "url": "https://arstechnica.com/health/2026/10/rfk-jr-unveils-sweeping-federal-initiative-to-find-evidence-of-vaccine-injuries/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-08T19:26:32.000Z",
+   "summary": "\"[T]he Trump-RFK Jr anti-vax agenda keeps getting more corrupt and dangerous.\""
   },
   {
    "id": "4a02b32a8334b4ce",
@@ -188,6 +485,15 @@
    "section": "tech",
    "publishedAt": "2026-10-08T18:48:11.000Z",
    "summary": "Pokémon trainers gearing up for battle. | Image: Nintendo After covering Amazon’s October sale for the last few days, only one item found its way into my shopping cart, and, lucky for you, it’s still on sale after the event’s conclusion. Pokémon Legends: Z-A for the Nintendo Switch or Switch 2 is…"
+  },
+  {
+   "id": "71d702fc835d502d",
+   "title": "An experimental tour-de-force: Entanglement between glass bead and light",
+   "url": "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-08T18:45:23.000Z",
+   "summary": "Getting a glass bead to act like a quantum object by entangling it with light."
   },
   {
    "id": "caf81120e532a907",
@@ -325,6 +631,15 @@
    "summary": "Playground Games first revealed earlier this year that Forza Horizon 6 would be arriving on PS5 in 2026, but the launch is now being pushed back. I reported last month that there would be a delay to early next year, and Forza Horizon 6 is now officially debuting on January 26th, 2027. The delay…"
   },
   {
+   "id": "b9dd147491511f2f",
+   "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+   "url": "https://pocketty.app/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-08T18:11:52.000Z",
+   "summary": "9 points · 6 comments"
+  },
+  {
    "id": "354a67d091991f3c",
    "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
    "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
@@ -368,6 +683,15 @@
    "section": "tech",
    "publishedAt": "2026-10-08T17:56:21.000Z",
    "summary": "One of Apple TV’s hit comedy series from last year, Stick, is coming back for season 2 soon. Here’s the new trailer for Stick’s highly anticipated return. more…"
+  },
+  {
+   "id": "82bca08cc5c05c18",
+   "title": "Theranos.world",
+   "url": "https://www.theranos.world/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-08T17:51:49.000Z",
+   "summary": "234 points · 107 comments"
   },
   {
    "id": "140eb8e777285009",
@@ -550,6 +874,15 @@
    "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy."
   },
   {
+   "id": "8a676fd0df733535",
+   "title": "New gTLD Application for .lan",
+   "url": "https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-08T15:51:51.000Z",
+   "summary": "97 points · 120 comments"
+  },
+  {
    "id": "1ee75bedc6b8498e",
    "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
    "url": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
@@ -616,6 +949,15 @@
    "id": "d633f7b9ce304393",
    "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
    "url": "https://techcrunch.com/2026/10/08/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-08T15:12:59.000Z",
+   "summary": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country."
+  },
+  {
+   "id": "2af1822b343a9f73",
+   "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
+   "url": "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/",
    "source": "TechCrunch",
    "section": "tech",
    "publishedAt": "2026-10-08T15:12:59.000Z",
@@ -1045,6 +1387,15 @@
    "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
   },
   {
+   "id": "a282385ac7e906dc",
+   "title": "LegalOn halves Codex costs while maintaining development speed",
+   "url": "https://openai.com/index/legalon-halves-codex-costs",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-10-08T12:00:00.000Z",
+   "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
+  },
+  {
    "id": "e87bcb490d4017df",
    "title": "Anne Carson wins Nobel Prize in literature 2026",
    "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
@@ -1288,6 +1639,15 @@
    "summary": "50 points · 29 comments"
   },
   {
+   "id": "487a8c1b3605fd6b",
+   "title": "US man given prison sentence for bot-farming music streams",
+   "url": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-08T01:33:17.000Z",
+   "summary": "88 points · 145 comments"
+  },
+  {
    "id": "c37f4f54a02ec751",
    "title": "Microsoft Launches $2,599 Surface Laptop Ultra to Take on MacBook Pro",
    "url": "https://www.macrumors.com/2026/10/07/microsoft-surface-laptop-ultra/",
@@ -1331,6 +1691,15 @@
    "section": "ai",
    "publishedAt": "2026-10-08T00:00:00.000Z",
    "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
+  },
+  {
+   "id": "ba0c1ad9856569ea",
+   "title": "The model that didn't exist, so you made it yourself",
+   "url": "https://huggingface.co/blog/building-with-ml-intern",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-10-08T00:00:00.000Z",
+   "summary": ""
   },
   {
    "id": "a7f7083242e02b11",
@@ -1765,6 +2134,15 @@
    "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself."
   },
   {
+   "id": "57caacc9e7ac00a3",
+   "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
+   "url": "https://www.nature.com/articles/s41586-026-10546-z",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-07T18:14:41.000Z",
+   "summary": "72 points · 2 comments"
+  },
+  {
    "id": "80332734cd2f464c",
    "title": "Anthropic upgrades Claude with new Haiku 5.5 model, details here",
    "url": "https://9to5mac.com/2026/10/07/anthropic-upgrades-claude-with-new-haiku-5-5-model-details-here/",
@@ -1936,6 +2314,15 @@
    "summary": "The company highlighted agentic AI features for Windows as well as the Surface Laptop Ultra."
   },
   {
+   "id": "564ca5d6a37e775f",
+   "title": "DuckDB Ducklake",
+   "url": "https://github.com/duckdb/ducklake",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-07T17:40:23.000Z",
+   "summary": "106 points · 14 comments"
+  },
+  {
    "id": "b7ac4ea569a86db3",
    "title": "Greenairy is building smart plant towers to clean the air in your office",
    "url": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
@@ -1981,6 +2368,15 @@
    "summary": "16 points · 19 comments"
   },
   {
+   "id": "f2d5811544a037ec",
+   "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+   "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-07T16:56:30.000Z",
+   "summary": "342 points · 207 comments"
+  },
+  {
    "id": "31acceff153e60ee",
    "title": "Multimodal open d1 decision models for the edge",
    "url": "https://huggingface.co/blog/LiquidAI/open-d1",
@@ -2024,6 +2420,15 @@
    "section": "tech",
    "publishedAt": "2026-10-07T15:59:45.000Z",
    "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff:Stuff helps you get everything out of your head…"
+  },
+  {
+   "id": "1b8e006aabb51690",
+   "title": "The dawn of the age of the exoskeleton",
+   "url": "https://theconversation.com/the-dawn-of-the-age-of-the-exoskeleton-281804",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-07T15:59:41.000Z",
+   "summary": "46 points · 26 comments"
   },
   {
    "id": "04a87d488fd41f17",
@@ -2420,6 +2825,15 @@
    "section": "tech",
    "publishedAt": "2026-10-07T14:00:00.000Z",
    "summary": "Today, Amazon’s Ring subsidiary is announcing its first ever smart lock. It solves a key problem that looms over many smart lock owners: dead batteries. Ring has a clever solution to negate that problem, and it’ll be available in Q1 2027. Additionally, the company is announcing a few new security…"
+  },
+  {
+   "id": "0b6be85fffe44b44",
+   "title": "ETH-68: Ethernet Audio Interface for Linux",
+   "url": "https://naturalsystems.io/eth68",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-07T13:58:05.000Z",
+   "summary": "71 points · 52 comments"
   },
   {
    "id": "2b8a607805b90e07",
@@ -2881,6 +3295,15 @@
    "summary": "11 points · 3 comments"
   },
   {
+   "id": "24cc0daa20244200",
+   "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
+   "url": "https://github.com/ymcrcat/rgpu",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-07T05:15:44.000Z",
+   "summary": "28 points · 2 comments"
+  },
+  {
    "id": "59b867b11cdb508f",
    "title": "Calling It Quits on ServerFault",
    "url": "https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml",
@@ -2953,6 +3376,15 @@
    "summary": "A new report from Counterpoint Research shows that Apple overtook Samsung during the second quarter of 2026 to become the leading smartphone brand in Europe’s carrier channel, as operator sales held up better than the broader market. Here are the details. more…"
   },
   {
+   "id": "dfa7aca18fa94654",
+   "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+   "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-07T01:41:03.000Z",
+   "summary": "334 points · 43 comments"
+  },
+  {
    "id": "ad142cf68848560b",
    "title": "ESP32-C3 Adblock",
    "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
@@ -2969,6 +3401,15 @@
    "section": "tech",
    "publishedAt": "2026-10-07T01:27:49.000Z",
    "summary": "26 points · 6 comments"
+  },
+  {
+   "id": "6e0166eb953a0368",
+   "title": "Show HN: TerrainSR – fast, realistic heightmap upscaling model",
+   "url": "https://huggingface.co/joe-gibbs/terrainsr",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-07T01:24:17.000Z",
+   "summary": "22 points · 5 comments"
   },
   {
    "id": "f374fb70ecb5c38a",
@@ -3059,6 +3500,15 @@
    "section": "tech",
    "publishedAt": "2026-10-06T23:26:30.000Z",
    "summary": "32 points · 11 comments"
+  },
+  {
+   "id": "7e3b270432d7f988",
+   "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+   "url": "https://news.ycombinator.com/item?id=49985548",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-06T23:16:56.000Z",
+   "summary": "91 points · 113 comments"
   },
   {
    "id": "f2b6022bbd150231",
@@ -3266,6 +3716,15 @@
    "section": "tech",
    "publishedAt": "2026-10-06T21:10:13.000Z",
    "summary": "Comedian Sebastian Maniscalco is facing backlash from fellow comics who claim his takeover of SiriusXM's Raw Comedy channel is harming up-and-coming talent, as reported earlier by Deadline. Many established comics, including Patton Oswalt and Margaret Cho, have posted videos online calling on…"
+  },
+  {
+   "id": "b68d1f6acdea6f66",
+   "title": "A Terminal Protocol for Program Status (OSC 7501)",
+   "url": "https://mitchellh.com/writing/program-status-osc7501",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-06T21:08:00.000Z",
+   "summary": "83 points · 31 comments"
   },
   {
    "id": "3c731e56b254c4de",
