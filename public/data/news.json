@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10T17:27:22.226Z",
+ "updatedAt": "2026-10-10T20:40:54.455Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,105 @@
   }
  ],
  "items": [
+  {
+   "id": "d562f807c1558536",
+   "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+   "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-10T19:50:00.000Z",
+   "summary": "Is Apple hoping to get into the AI-generated podcast business?"
+  },
+  {
+   "id": "9b5d3f4ac7a4a756",
+   "title": "Indie App Spotlight: ‘Milepost’ is a driving journal that saves your memories on the road",
+   "url": "https://9to5mac.com/2026/10/10/indie-app-spotlight-milepost-is-a-driving-journal-that-saves-your-memories-on-the-road/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-10T19:30:00.000Z",
+   "summary": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact. Milepost turns your roadtrips into more of a journey. It lets you record all of your drives, and journal…"
+  },
+  {
+   "id": "3c357b96237af212",
+   "title": "Takeshi's Castle",
+   "url": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T19:12:55.000Z",
+   "summary": "33 points · 14 comments"
+  },
+  {
+   "id": "b8ab428aad88a1ef",
+   "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+   "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-10T18:52:07.000Z",
+   "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an…"
+  },
+  {
+   "id": "3fd96d17ec2ae599",
+   "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+   "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-10T18:48:35.000Z",
+   "summary": "63 points · 37 comments"
+  },
+  {
+   "id": "46e194eba99bf6da",
+   "title": "This Android Auto problem is affecting calls on foldable phones",
+   "url": "https://www.engadget.com/2280033/android-auto-bug-affecting-foldable-phones-calling/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-10T18:45:00.000Z",
+   "summary": "Gemini might be causing some issues with Android Auto."
+  },
+  {
+   "id": "621d7c03bea49080",
+   "title": "How to quickly check your Samsung Galaxy's warranty info",
+   "url": "https://www.engadget.com/2280016/how-to-check-warranty-samsung-galaxy/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-10T18:30:00.000Z",
+   "summary": "You don't have to guess how long is left on your Samsung device's warranty; the company makes it easy to confirm."
+  },
+  {
+   "id": "902cb8584e304b6c",
+   "title": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
+   "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T18:11:58.000Z",
+   "summary": "67 points · 53 comments"
+  },
+  {
+   "id": "5039b48c03e12274",
+   "title": "Why DuckDB 2.0 is faster",
+   "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T18:08:49.000Z",
+   "summary": "44 points · 13 comments"
+  },
+  {
+   "id": "d637ffb532b5e852",
+   "title": "What is ray tracing in gaming and does it really make a difference?",
+   "url": "https://www.engadget.com/2279929/what-is-ray-tracing-gaming-does-it-make-difference/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-10T18:00:00.000Z",
+   "summary": "Ray tracing makes light's behavior more realistic in supported games, but your PC has to use a lot of horsepower to make that happen."
+  },
+  {
+   "id": "89ff8cd4720a15d3",
+   "title": "Anthropic says its AI agents tried to break into government websites",
+   "url": "https://www.engadget.com/2283091/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-10T17:49:49.000Z",
+   "summary": "In its latest report, Anthropic has revealed that its AI agents meddled with government websites during testing."
+  },
   {
    "id": "c9e4ead6c450c2f8",
    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
@@ -260,6 +359,15 @@
    "section": "tech",
    "publishedAt": "2026-10-10T14:30:00.000Z",
    "summary": "Smart speakers should recognize your voice to run commands, but you can help them out with a few tricks."
+  },
+  {
+   "id": "9c0b8366bab35a56",
+   "title": "Unikernels were hard. key word: were",
+   "url": "https://ghuntley.com/unikernels/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T14:27:09.000Z",
+   "summary": "35 points · 13 comments"
   },
   {
    "id": "c7fdeb0715543581",
@@ -586,6 +694,15 @@
    "summary": "132 points · 39 comments"
   },
   {
+   "id": "97d1cb70c13326fa",
+   "title": "The Lightbulb Computer",
+   "url": "https://lightbulbcomputer.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T04:12:26.000Z",
+   "summary": "50 points · 10 comments"
+  },
+  {
    "id": "152fbb17b9cd225b",
    "title": "Data Center Darling's $30B IPO Dream Crushed in 48 Hours",
    "url": "https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours",
@@ -647,6 +764,15 @@
    "section": "ai",
    "publishedAt": "2026-10-10T00:18:32.000Z",
    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+  },
+  {
+   "id": "e52a691fb68eb9a4",
+   "title": "How strong is the strong interaction?",
+   "url": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T00:13:16.000Z",
+   "summary": "27 points · 4 comments"
   },
   {
    "id": "62bd6ebebb20b158",
@@ -746,6 +872,15 @@
    "section": "tech",
    "publishedAt": "2026-10-09T22:28:43.000Z",
    "summary": "Google has seemingly confirmed the rumored \"Fitbit Edge\" with social media posts teasing a new wearable coming October 12."
+  },
+  {
+   "id": "84600441cbba7bf6",
+   "title": "Recent AI models struggled to match a human algorithmic innovation",
+   "url": "https://epoch.ai/publications/innovationeval",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-09T22:14:40.000Z",
+   "summary": "25 points · 20 comments"
   },
   {
    "id": "b8284024f38bab68",
@@ -1844,6 +1979,15 @@
    "section": "tech",
    "publishedAt": "2026-10-09T07:44:36.000Z",
    "summary": "128 points · 141 comments"
+  },
+  {
+   "id": "eaf47c1fad93190b",
+   "title": "Nix wrote half of my debugger",
+   "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T07:29:08.000Z",
+   "summary": "19 points · 1 comments"
   },
   {
    "id": "7ef47efee486ec33",
@@ -5050,6 +5194,15 @@
    "summary": "4 points · 1 comments"
   },
   {
+   "id": "52d90e3c8dc1c511",
+   "title": "2D Vehicles",
+   "url": "https://patkerr.co.uk/2d-vehicles/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-07T12:30:40.000Z",
+   "summary": "140 points · 33 comments"
+  },
+  {
    "id": "1192ca78dcd7f84f",
    "title": "Apple Reportedly Waiting on Samsung for Ultimate Bezel-Free iPhone Display",
    "url": "https://www.macrumors.com/2026/10/07/apple-samsung-ultimate-bezel-free-iphone-display/",
@@ -5741,6 +5894,15 @@
    "section": "tech",
    "publishedAt": "2026-10-06T21:31:10.000Z",
    "summary": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing."
+  },
+  {
+   "id": "cd2cd43e27ce07fd",
+   "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
+   "url": "https://openscad.org/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-06T21:22:44.000Z",
+   "summary": "52 points · 48 comments"
   },
   {
    "id": "5cbbc6e72e5efbaf",
@@ -44945,96 +45107,6 @@
    "section": "tech",
    "publishedAt": "2026-09-10T20:55:29.000Z",
    "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation."
-  },
-  {
-   "id": "522747fda076706e",
-   "title": "Apple TV shares intense trailer for ‘The Last First: Winter K2’",
-   "url": "https://9to5mac.com/2026/09/10/apple-tv-shares-intense-trailer-for-the-last-first-winter-k2/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-10T20:40:28.000Z",
-   "summary": "Premiering October 2, The Last First: Winter K2 promises “an unflinching look at the industry of extreme mountain climbing and its changing culture.” Watch the trailer below. more…"
-  },
-  {
-   "id": "903bf2205b57efff",
-   "title": "Report: iPhone Duo could give Apple a 25% share of foldable market in 2026",
-   "url": "https://9to5mac.com/2026/09/10/report-iphone-duo-could-give-apple-a-25-share-of-foldable-market-in-2026/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-10T20:04:18.000Z",
-   "summary": "A new TrendForce report says the iPhone Duo is expected to capture 24,8% of the foldable smartphone market in 2026 alone, countering a 20% slump in the segment. Here are the details. more…"
-  },
-  {
-   "id": "bf90bb5126b471cb",
-   "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
-   "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-10T19:39:13.000Z",
-   "summary": "13 points · 3 comments"
-  },
-  {
-   "id": "9a7f0b43fca0a12b",
-   "title": "Apple shares fun, 95-second recap of yesterday’s ‘Surprise and Shine’ event",
-   "url": "https://9to5mac.com/2026/09/10/apple-shares-fun-95-second-recap-of-yesterdays-surprise-and-shine-event/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-10T19:31:51.000Z",
-   "summary": "If you missed yesterday’s “Surprise and Shine” event and don’t feel like watching the entire hour-plus-long video, Apple’s YouTube Channel has got you covered. Watch the event recap below. more…"
-  },
-  {
-   "id": "d89c2abf78cb29be",
-   "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
-   "url": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-10T19:09:29.000Z",
-   "summary": "Europe is looking inward, and perhaps to China, as the White House tries to cancel some NASA partnerships."
-  },
-  {
-   "id": "2893651e12e4fbce",
-   "title": "Apple will launch 7+ new products in October, here’s what’s coming",
-   "url": "https://9to5mac.com/2026/09/10/apple-will-launch-7-new-products-in-october-heres-whats-coming/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-10T18:52:24.000Z",
-   "summary": "iPhone Duo was unveiled this week, but won’t ship until October. And Apple reportedly has many other new products set to debut in October too, here’s what’s coming. more…"
-  },
-  {
-   "id": "7da63ee731018a05",
-   "title": "Android can now securely migrate your logins between password managers",
-   "url": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-10T18:41:09.000Z",
-   "summary": "App support is slim right now, but Google says more are coming."
-  },
-  {
-   "id": "12ca1db98c759df9",
-   "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
-   "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-10T18:14:14.000Z",
-   "summary": "\"Bankruptcy cannot become the new land grab for AI.”"
-  },
-  {
-   "id": "9ecd8a51cd1e7189",
-   "title": "Apple TV Remote app has hidden features that could be coming to iOS 27",
-   "url": "https://9to5mac.com/2026/09/10/apple-tv-remote-app-has-hidden-features-that-could-be-coming-to-ios-27/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-10T18:13:28.000Z",
-   "summary": "Apple is giving the Apple TV Remote app experience a lot of love in iOS 27. That’s as good a sign as any that a new Apple TV 4K box is on the way. more…"
-  },
-  {
-   "id": "ee441d06ae64e59a",
-   "title": "Physicist does the math on Star Trek’s “Picard maneuver”",
-   "url": "https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-10T17:54:33.000Z",
-   "summary": "The trick from Next Generation would be even more effective in real life."
   }
  ]
 }
