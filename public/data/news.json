@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09T23:59:11.096Z",
+ "updatedAt": "2026-10-10T05:42:47.707Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,114 @@
  ],
  "items": [
   {
+   "id": "c3c744b7fac25c84",
+   "title": "If AI is conscient, then we are making slaves",
+   "url": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-10T04:51:26.000Z",
+   "summary": "8 points · 6 comments"
+  },
+  {
+   "id": "655d5f576d6abad6",
+   "title": "Lobbying",
+   "url": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T04:40:36.000Z",
+   "summary": "132 points · 39 comments"
+  },
+  {
+   "id": "152fbb17b9cd225b",
+   "title": "Data Center Darling's $30B IPO Dream Crushed in 48 Hours",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T04:04:17.000Z",
+   "summary": "17 points · 6 comments"
+  },
+  {
+   "id": "ba6ef2604ab6cd90",
+   "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+   "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-10T03:10:06.000Z",
+   "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition."
+  },
+  {
+   "id": "08ae233493700526",
+   "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+   "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T03:02:47.000Z",
+   "summary": "37 points · 8 comments"
+  },
+  {
+   "id": "75fe4e373ad112a7",
+   "title": "Put a price on breakthroughs",
+   "url": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T02:37:47.000Z",
+   "summary": "10 points · 2 comments"
+  },
+  {
+   "id": "b985b762255feb5b",
+   "title": "Next.js 16.4",
+   "url": "https://nextjs.org/blog/next-16-4",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T02:13:44.000Z",
+   "summary": "6 points · 1 comments"
+  },
+  {
+   "id": "0162fc09f7a4f1da",
+   "title": "REA Reverse – Engineer Anything",
+   "url": "https://rea.tools/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T00:37:07.000Z",
+   "summary": "244 points · 81 comments"
+  },
+  {
+   "id": "b0601af565ab104a",
+   "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+   "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-10T00:18:32.000Z",
+   "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+  },
+  {
+   "id": "62bd6ebebb20b158",
+   "title": "Has the Autonomous Trucking Revolution Arrived?",
+   "url": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T23:57:12.000Z",
+   "summary": "22 points · 36 comments"
+  },
+  {
+   "id": "d178a95961810373",
+   "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+   "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T23:53:08.000Z",
+   "summary": "28 points · 2 comments"
+  },
+  {
+   "id": "c15204f070674e41",
+   "title": "Compiling Rust to readable C with Eurydice",
+   "url": "https://lwn.net/Articles/1055211/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T23:28:36.000Z",
+   "summary": "47 points · 6 comments"
+  },
+  {
    "id": "4c3b0c350a8cb8fb",
    "title": "Apple Stores Will Add Your Name to iPhone Duo's Startup Screen",
    "url": "https://www.macrumors.com/2026/10/09/iphone-duo-name-personalization/",
@@ -100,6 +208,15 @@
    "summary": "TrendForce projects that global notebook shipments could decline by a high-single-digit percentage in 2027, depending on how manufacturers respond to rising component costs. Here are the details. more…"
   },
   {
+   "id": "6ee0b1d709f741d8",
+   "title": "Rewriting Prime Agent in Rust",
+   "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T23:06:25.000Z",
+   "summary": "41 points · 13 comments"
+  },
+  {
    "id": "368dca90255a36c8",
    "title": "SpaceX Inches Closer to Becoming a U.S. Carrier",
    "url": "https://www.macrumors.com/2026/10/09/spacex-starlink-mobile-carrier/",
@@ -107,6 +224,15 @@
    "section": "tech",
    "publishedAt": "2026-10-09T23:01:05.000Z",
    "summary": "SpaceX this week announced two developments that further its goal of becoming a major U.S. carrier to compete with AT&T, Verizon, and T-Mobile. It is acquiring a low-band spectrum license portfolio in the 800MHz band, which it says addresses one of the \"remaining technical gaps\" that will let it to…"
+  },
+  {
+   "id": "04399350a66950ba",
+   "title": "Atari Falcon",
+   "url": "https://atarimuseum.nl/atari-falcon/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T22:54:13.000Z",
+   "summary": "36 points · 11 comments"
   },
   {
    "id": "befe4ecf8a955542",
@@ -161,6 +287,15 @@
    "section": "ai",
    "publishedAt": "2026-10-09T22:04:07.000Z",
    "summary": "One damaged data center has supercomputers used for training Yandex’s AI model."
+  },
+  {
+   "id": "73cce8c7a1943dae",
+   "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+   "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-09T22:00:35.000Z",
+   "summary": "126 points · 98 comments"
   },
   {
    "id": "15c32605df0936bc",
@@ -550,6 +685,15 @@
    "summary": "56 points · 9 comments"
   },
   {
+   "id": "f91a6b12cadaca2b",
+   "title": "Scam American companies are using to manipulate ingredient lists",
+   "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T17:35:40.000Z",
+   "summary": "87 points · 86 comments"
+  },
+  {
    "id": "2d5dbc853246bc26",
    "title": "Apple Mail added four convenient new features in iOS 27",
    "url": "https://9to5mac.com/2026/10/09/heres-everything-new-for-apple-mail-in-ios-27/",
@@ -800,6 +944,15 @@
    "section": "tech",
    "publishedAt": "2026-10-09T15:02:30.000Z",
    "summary": "Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back to his previous position, marking another executive exit amid the organization's leadership turmoil."
+  },
+  {
+   "id": "9156f7ca8d953ad4",
+   "title": "Can you use autoregressive diffusion to generate market data?",
+   "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T14:56:13.000Z",
+   "summary": "51 points · 21 comments"
   },
   {
    "id": "2506d672bea72723",
@@ -3322,6 +3475,15 @@
    "summary": "Just over a week ago, we covered a deal at Amazon that knocked around 30 percent off Roku’s new (and first-ever) OLED TVs. The deal expired, but has returned for the final day of October Prime Day. The 55-inch Pro Series OLED is $699.99 at Amazon, which is 30 percent off its list price. The 65-inch…"
   },
   {
+   "id": "e31efad4f2b0bc03",
+   "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+   "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-07T19:15:57.000Z",
+   "summary": "76 points · 14 comments"
+  },
+  {
    "id": "a7c121ecb798ce18",
    "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
@@ -5545,6 +5707,15 @@
    "summary": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service."
   },
   {
+   "id": "7f7a316bcb1c270d",
+   "title": "How to head into VR without wearing a headset",
+   "url": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-06T17:07:12.000Z",
+   "summary": "3 points · 0 comments"
+  },
+  {
    "id": "1b045938c96770a1",
    "title": "iPadOS 27.2 public beta 2 and more now available, here’s what’s new",
    "url": "https://9to5mac.com/2026/10/06/ipados-27-2-public-beta-2-and-more-now-available-heres-whats-new/",
@@ -5813,6 +5984,15 @@
    "section": "tech",
    "publishedAt": "2026-10-06T15:45:00.000Z",
    "summary": "Task Scheduler isn't a particularly pretty part of Windows, but it's a powerful tool if you take the time to understand it."
+  },
+  {
+   "id": "4037308a71004df0",
+   "title": "Communication Between the Compiler, the Build System, and Beyond",
+   "url": "https://shrub.industries/words/problem.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-06T15:44:42.000Z",
+   "summary": "6 points · 1 comments"
   },
   {
    "id": "bcea7bf107a0417a",
@@ -44549,96 +44729,6 @@
    "section": "ai",
    "publishedAt": "2026-09-10T07:00:00.000Z",
    "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
-  },
-  {
-   "id": "a757b1e4230f0f5f",
-   "title": "9to5Mac Daily: September 9, 2026 – iPhone 18 Pro and iPhone Duo are here",
-   "url": "https://9to5mac.com/2026/09/09/september-9-2026-iphone-18-pro-and-iphone-duo-are-here/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-10T05:37:31.000Z",
-   "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff: Stuff helps you get everything out of your head…"
-  },
-  {
-   "id": "773826e1b823f535",
-   "title": "Trying to Make a Loop Auto-Vectorize",
-   "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-10T04:50:25.000Z",
-   "summary": "21 points · 8 comments"
-  },
-  {
-   "id": "ae140cca3b24862b",
-   "title": "Spaceships (Reverse Asteroid)",
-   "url": "https://spaceships.treybastian.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-10T04:44:32.000Z",
-   "summary": "118 points · 22 comments"
-  },
-  {
-   "id": "725064708454cc77",
-   "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-   "url": "https://bensimms.moe/reverse-engineering-scooter/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-10T03:32:04.000Z",
-   "summary": "53 points · 14 comments"
-  },
-  {
-   "id": "cc9345fd325ca367",
-   "title": "Hands-on with the foldable iPhone Duo [Gallery]",
-   "url": "https://9to5mac.com/2026/09/09/hands-on-with-the-foldable-iphone-duo-gallery/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-10T00:48:10.000Z",
-   "summary": "Apple unveiled the highly anticipated iPhone Duo today, its first-ever foldable iPhone. I spent a quick few minutes with the device after it was announced, here’s what it looks like in the real world. more…"
-  },
-  {
-   "id": "06dff8f50ae57803",
-   "title": "Getting 50 GB/S Back from the Apple Neural Engine",
-   "url": "https://eiln.github.io/posts/ane-dma.html",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-10T00:16:10.000Z",
-   "summary": "140 points · 27 comments"
-  },
-  {
-   "id": "e1e6a88ff66646e0",
-   "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-   "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-10T00:00:00.000Z",
-   "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
-  },
-  {
-   "id": "5fd06e69ece0f956",
-   "title": "Introducing the Agents API",
-   "url": "https://openai.com/index/introducing-the-agents-api",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-10T00:00:00.000Z",
-   "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
-  },
-  {
-   "id": "39041ce058b6a6ce",
-   "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-   "url": "https://huggingface.co/blog/gradio-workflow-1111",
-   "source": "Hugging Face",
-   "section": "ai",
-   "publishedAt": "2026-09-10T00:00:00.000Z",
-   "summary": ""
-  },
-  {
-   "id": "2d3b0df5940f86d1",
-   "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-   "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-   "source": "Hugging Face",
-   "section": "ai",
-   "publishedAt": "2026-09-10T00:00:00.000Z",
-   "summary": ""
   }
  ]
 }
