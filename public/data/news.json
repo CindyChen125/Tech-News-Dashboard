@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T00:12:30.801Z",
+ "updatedAt": "2026-10-11T06:23:17.126Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,78 @@
   }
  ],
  "items": [
+  {
+   "id": "5ef1f4b3ef856991",
+   "title": "MacBook Pro overhaul: entry-level model to gain new design sooner than expected",
+   "url": "https://9to5mac.com/2026/10/10/m7-macbook-pro-redesign-next-spring/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-11T04:25:16.000Z",
+   "summary": "Earlier this year, Bloomberg’s Mark Gurman revealed that Apple has a new M7-powered entry level MacBook Pro in the pipeline for spring 2027. This isn’t an ordinary MacBook Pro refresh though. It’ll bring the upcoming redesign down to the entry level, something that previously wasn’t expected. more…"
+  },
+  {
+   "id": "cd3b5f3959f38fab",
+   "title": "AI agents in a stand-up call",
+   "url": "https://atoll92.github.io/agent-standup/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-11T03:42:47.000Z",
+   "summary": "19 points · 16 comments"
+  },
+  {
+   "id": "91d33cb2d68dda38",
+   "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
+   "url": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T03:21:07.000Z",
+   "summary": "40 points · 9 comments"
+  },
+  {
+   "id": "ff7c7c0f0ba2e54e",
+   "title": "Rumor: Apple to Announce New Partnership With ADT",
+   "url": "https://www.macrumors.com/2026/10/10/rumored-apple-adt-partnership/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-11T02:17:37.000Z",
+   "summary": "Apple may be planning to announce a new partnership with home security company ADT, alongside the introduction of its all-new smart home hub, according to several clues. Apple has invited the media to a \"Welcome home\" experience in New York on Tuesday, October 13, so the partnership could be made…"
+  },
+  {
+   "id": "379d34a56ae83257",
+   "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+   "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-11T02:02:38.000Z",
+   "summary": "73 points · 56 comments"
+  },
+  {
+   "id": "07ffa5c45543ce08",
+   "title": "WallHop – 12ft.io is gone, so I built a replacement",
+   "url": "https://wallhop.io/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T00:46:48.000Z",
+   "summary": "220 points · 93 comments"
+  },
+  {
+   "id": "e4264a7a75b371b4",
+   "title": "PSPi 6 – Raspberry Pi in a PSP",
+   "url": "https://github.com/othermod/PSPi-Version-6",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T00:45:49.000Z",
+   "summary": "56 points · 6 comments"
+  },
+  {
+   "id": "8005f11e55b5ef95",
+   "title": "How to enable Live Activities on iPhone and CarPlay",
+   "url": "https://www.engadget.com/2280381/how-to-enable-live-activites-iphone-carplay/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-11T00:30:00.000Z",
+   "summary": "Live Activities put the most important real-time information from apps in a place where it's easy to keep an eye on."
+  },
   {
    "id": "9147725704c43944",
    "title": "How does a backup camera actually work?",
@@ -1288,6 +1360,15 @@
    "summary": "Debian Linux has put a call out for artist submissions for its next release: Forky."
   },
   {
+   "id": "f83eb55e19d9323f",
+   "title": "Deterministic Simulation Testing in Celld",
+   "url": "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T18:31:50.000Z",
+   "summary": "9 points · 0 comments"
+  },
+  {
    "id": "a4f490eb84c4d137",
    "title": "Brendan Carr says he’ll let Pete Hegseth decide whether TV networks can air the public execution",
    "url": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air",
@@ -2098,6 +2179,15 @@
    "summary": "Three OpenAI researchers said their firings may have a 'chilling' effect on employees."
   },
   {
+   "id": "17e537abeee1ca19",
+   "title": "How big is a Git commit?",
+   "url": "https://ratfactor.com/cards/git-commit-size",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T08:13:44.000Z",
+   "summary": "6 points · 1 comments"
+  },
+  {
    "id": "c92a970824af9d29",
    "title": "Programming Isn't Special",
    "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
@@ -2177,6 +2267,15 @@
    "section": "tech",
    "publishedAt": "2026-10-09T05:22:58.000Z",
    "summary": "89 points · 56 comments"
+  },
+  {
+   "id": "c6c2c01e6b535a9d",
+   "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
+   "url": "https://hangul.ink/blog/hangul-day",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-09T03:58:16.000Z",
+   "summary": "29 points · 5 comments"
   },
   {
    "id": "9bc0280737373e55",
@@ -3160,6 +3259,15 @@
    "summary": "\"If this was easy, everybody else would be doing it.\""
   },
   {
+   "id": "b5a7a910fcac2460",
+   "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
+   "url": "https://github.com/moritzwilksch/diffle",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-08T15:23:19.000Z",
+   "summary": "23 points · 2 comments"
+  },
+  {
    "id": "9f8f0aa9aebf8ab6",
    "title": "These US states just said ‘no’ to Apple Wallet driver’s licenses",
    "url": "https://9to5mac.com/2026/10/08/these-us-states-just-said-no-to-apple-wallet-drivers-licenses/",
@@ -3914,6 +4022,15 @@
    "section": "tech",
    "publishedAt": "2026-10-08T03:23:08.000Z",
    "summary": "50 points · 29 comments"
+  },
+  {
+   "id": "276910acac8bd24a",
+   "title": "Retrofitting language models to operate over bytes",
+   "url": "https://www.nature.com/articles/s41586-026-11111-4",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-08T02:15:16.000Z",
+   "summary": "38 points · 3 comments"
   },
   {
    "id": "487a8c1b3605fd6b",
@@ -45098,69 +45215,6 @@
    "section": "tech",
    "publishedAt": "2026-09-11T08:31:46.000Z",
    "summary": "Following this week’s Apple event, new Apple CEO John Ternus and marketing SVP Greg Joswiak sat down for an interview to talk more about the iPhone 18 Pro and iPhone Duo. In the interview with Tom’s Guide and TechRadar, Ternus and Joswiak discussed why Apple decided that now was the time to enter…"
-  },
-  {
-   "id": "1cab67daba26e861",
-   "title": "Gonc – Netcat with P2P Nat Traversal",
-   "url": "https://github.com/threatexpert/gonc",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-11T06:12:06.000Z",
-   "summary": "7 points · 0 comments"
-  },
-  {
-   "id": "e1958cd57d51d3a2",
-   "title": "iPhone Duo, iPhone 18 Pro, Apple Watch Series 12, and AirPods 5 event",
-   "url": "https://9to5mac.com/2026/09/10/happy-hour-607/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-11T06:08:41.000Z",
-   "summary": "Benjamin and Chance react to the September Apple event in this bumper special episode, featuring our first impressions (and Chance’s initial hands-on from the ground at Apple Park) with iPhone Duo, iPhone 18 Pro, AirPods 5 and the new Apple Watch lineup. And in Happy Hour Plus, even more thoughts…"
-  },
-  {
-   "id": "4765c46de14d5882",
-   "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-   "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-11T03:45:42.000Z",
-   "summary": "14 points · 1 comments"
-  },
-  {
-   "id": "b74f2b816ee1b98f",
-   "title": "Review a pull request by booting it",
-   "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-11T02:09:06.000Z",
-   "summary": "3 points · 0 comments"
-  },
-  {
-   "id": "5c2d7bc3addb829e",
-   "title": "Apple extends free iPhone satellite access for another year",
-   "url": "https://9to5mac.com/2026/09/10/apple-extends-free-iphone-satellite-access-for-another-year/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-11T01:38:07.000Z",
-   "summary": "Apple is extending free access to its satellite features for existing iPhone users for another year, the company revealed in a footnote to its iPhone 18 Pro press release. Here are the details. more…"
-  },
-  {
-   "id": "f97fe1ed4b7be232",
-   "title": "9to5Mac Daily: September 10, 2026 – AirPods 5, iPhone price increases",
-   "url": "https://9to5mac.com/2026/09/10/daily-september-10-2026/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-11T00:45:36.000Z",
-   "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff:Stuff helps you get everything out of your head…"
-  },
-  {
-   "id": "40a8085cb2e752dd",
-   "title": "T-Mobile will charge $5/month for Apple’s new iPhone Handoff feature",
-   "url": "https://9to5mac.com/2026/09/10/t-mobile-will-charge-5-month-for-apples-new-iphone-handoff-feature/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-11T00:28:45.000Z",
-   "summary": "Apple’s new iPhone Handoff feature, which lets users share a single phone number across two iPhones, will cost $5 per month on T-Mobile. Here are the details. more…"
   }
  ]
 }
