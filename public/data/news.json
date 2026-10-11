@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T18:25:46.754Z",
+ "updatedAt": "2026-10-11T22:25:09.500Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,186 @@
   }
  ],
  "items": [
+  {
+   "id": "14bc21be03f74cc7",
+   "title": "Is 3D printing safe to do in your bedroom or home office?",
+   "url": "https://www.engadget.com/2281211/bedroom-home-office-3d-printing-safety-concerns/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-11T22:00:00.000Z",
+   "summary": "3D printers are everywhere, but where one should be placed in your home is something worth looking into."
+  },
+  {
+   "id": "63f49a0c0f8bb7aa",
+   "title": "Passkeys are a trap. Do not use them",
+   "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T21:59:48.000Z",
+   "summary": "26 points · 1 comments"
+  },
+  {
+   "id": "d1df2b23eae4eb9e",
+   "title": "An AI agent's $20 Kalshi account, with an exact reward model",
+   "url": "https://github.com/mirabilis-agent/lip-ledger",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-11T21:44:24.000Z",
+   "summary": "4 points · 2 comments"
+  },
+  {
+   "id": "a078dcdf7b6925c8",
+   "title": "Will the HomeView be Apple’s first smart home success?",
+   "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-11T21:14:40.000Z",
+   "summary": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date…"
+  },
+  {
+   "id": "0d62ee3241781569",
+   "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
+   "url": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T21:07:20.000Z",
+   "summary": "62 points · 30 comments"
+  },
+  {
+   "id": "4541dcad61a5ca80",
+   "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+   "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-11T20:51:47.000Z",
+   "summary": "What does this mean for a fall full of movies starring villainous tech CEOs?"
+  },
+  {
+   "id": "94f18cf931b308a1",
+   "title": "The gap in shared understanding of LLM capability is widening",
+   "url": "https://twitter.com/karpathy/status/2109361546505966046",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-11T20:20:52.000Z",
+   "summary": "79 points · 60 comments"
+  },
+  {
+   "id": "fe09fe1115dec45b",
+   "title": "A college in Illinois tried to cancel its Flock contact and it refused",
+   "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-11T20:06:43.000Z",
+   "summary": "BOULDER, CO - MARCH 5:A Flock Safety license plate recognition camera is seen near the intersection of Marine Street and Arapahoe Avenue in Boulder on Thursday, March 5, 2026. (Photo by Matthew Jonas/MediaNews Group/Boulder Daily Camera via Getty Images) | MediaNews Group via Getty Images In April…"
+  },
+  {
+   "id": "72d62d6c03b0ecc4",
+   "title": "New Apple TV 4K, HomeView, and HomePod Mini: 16 Details Just Leaked",
+   "url": "https://www.macrumors.com/2026/10/11/apple-tv-4k-homeview-homepod-mini-2-leaks/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-11T19:56:28.000Z",
+   "summary": "Just two days before Apple's \"Welcome home\" experience in New York, Bloomberg's Mark Gurman has leaked several details about the new products set to be unveiled, including an all-new smart home hub, a HomePod mini 2, and a new Apple TV 4K. Here is an all-in-one summary of the details shared by…"
+  },
+  {
+   "id": "e63ec8601c101d5e",
+   "title": "Cartographers of North Korea",
+   "url": "https://cartographers-nk.wonyoung.so/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T19:46:40.000Z",
+   "summary": "96 points · 12 comments"
+  },
+  {
+   "id": "8f88c22ed110dbdd",
+   "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
+   "url": "https://theonion.com/archivehunt/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T19:43:32.000Z",
+   "summary": "182 points · 19 comments"
+  },
+  {
+   "id": "35544d6d9c66fd6f",
+   "title": "The Unreasonable Effectiveness of Vex in NixOS",
+   "url": "https://blog.kammel.dev/post/nixos_vex/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T19:23:07.000Z",
+   "summary": "37 points · 0 comments"
+  },
+  {
+   "id": "b2fa87ab0caf0840",
+   "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+   "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-11T19:00:00.000Z",
+   "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals."
+  },
+  {
+   "id": "098267f0400709c6",
+   "title": "Anbernic's next dual-screen handheld has the perfect aspect ratio for 3DS games",
+   "url": "https://www.engadget.com/2283296/anbernics-next-dual-screen-handheld-has-the-perfect-aspect-ratio-for-3ds-games/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-11T18:54:38.000Z",
+   "summary": "The RG DDS's main display has a 5:3 aspect ratio while its bottom screen will be 4:3."
+  },
+  {
+   "id": "6f41422e186e0b59",
+   "title": "The iPhone clock app has an oddity not many people know about",
+   "url": "https://www.engadget.com/2281209/iphone-clock-app-oddity-time-linear-list/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-11T18:45:00.000Z",
+   "summary": "Sure, you can set your iPhone's alarm to any time you choose. But there's a hidden limit to how far your choices will stretch, though most users won't reach it."
+  },
+  {
+   "id": "8c0389e8639525de",
+   "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-11T18:33:56.000Z",
+   "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying…"
+  },
+  {
+   "id": "42b862a6248a5861",
+   "title": "Steam Frame teardown reveals one problem with its future repairs",
+   "url": "https://www.engadget.com/2281207/steam-frame-teardown-reveals-one-problem-repairs/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-11T18:30:00.000Z",
+   "summary": "In an otherwise repairable device, the cooling fan is hard to reach."
+  },
+  {
+   "id": "72d658de606c95ae",
+   "title": "Chapter 1 of Ways of Seeing by John Berger",
+   "url": "https://www.ways-of-seeing.com/ch1",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T18:26:24.000Z",
+   "summary": "56 points · 9 comments"
+  },
+  {
+   "id": "48aa178b2f84cecf",
+   "title": "Total Annihilation, rebuilt for modern computers",
+   "url": "https://nanolathe.gg/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T18:04:47.000Z",
+   "summary": "272 points · 111 comments"
+  },
+  {
+   "id": "fe94b0c16dbcaf50",
+   "title": "NYC's \"Click to Cancel\" rule is now in effect",
+   "url": "https://www.nyc.gov/main/click-to-cancel",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T18:01:16.000Z",
+   "summary": "269 points · 124 comments"
+  },
   {
    "id": "c36349bc2bd36c3f",
    "title": "The meaning behind the padlock symbol in your PlayStation 5 game library",
@@ -170,6 +350,15 @@
    "section": "tech",
    "publishedAt": "2026-10-11T16:45:00.000Z",
    "summary": "Magnetic accessories can be handy, but make sure they're not interfering with your camera."
+  },
+  {
+   "id": "b5c8dcef3508ddb3",
+   "title": "Playgrnd – tiny tools for making weird, beautiful things",
+   "url": "https://www.playgrnd.tools/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T16:31:37.000Z",
+   "summary": "45 points · 9 comments"
   },
   {
    "id": "71747d1f720875e8",
@@ -458,6 +647,15 @@
    "section": "tech",
    "publishedAt": "2026-10-11T13:30:00.000Z",
    "summary": "One is a set of apps while the other can run almost everything inside of a car."
+  },
+  {
+   "id": "e6ce3a3dfca5af73",
+   "title": "Terence Tao: Math 2.0 [pdf]",
+   "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T13:16:45.000Z",
+   "summary": "275 points · 329 comments"
   },
   {
    "id": "2a210272cc172218",
@@ -1099,6 +1297,24 @@
    "summary": "Samsung Galaxy phones that have upgraded to Android 17 and One UI 9 have a slew of new features - some more helpful than others."
   },
   {
+   "id": "179653e4677747b2",
+   "title": "Safe SIMD in Rust, even on the inside",
+   "url": "https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T14:56:11.000Z",
+   "summary": "12 points · 1 comments"
+  },
+  {
+   "id": "d60a417eabe536c3",
+   "title": "FlowCE: Calculus on your TI-84 Plus CE",
+   "url": "https://tommyb3ll.github.io/FlowCE/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T14:43:09.000Z",
+   "summary": "11 points · 3 comments"
+  },
+  {
    "id": "a62ac530b972ccd7",
    "title": "Anthropic is cutting off its internal evaluations from the internet",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
@@ -1304,6 +1520,15 @@
    "section": "tech",
    "publishedAt": "2026-10-10T12:30:00.000Z",
    "summary": "RAM and ROM are two core types of memory used in every computing device, but their meanings haven't stayed the same since their inception."
+  },
+  {
+   "id": "c6028c4a96eb3465",
+   "title": "Shape-sensing sheet digitally tracks its own movement as it bends and twists",
+   "url": "https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T12:27:36.000Z",
+   "summary": "20 points · 0 comments"
   },
   {
    "id": "cf25e2a3872a19cc",
@@ -45188,267 +45413,6 @@
    "section": "ai",
    "publishedAt": "2026-09-11T22:58:17.000Z",
    "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
-  },
-  {
-   "id": "4b30dc1dd244b07f",
-   "title": "9to5Mac Overtime 081: iPhone Duo thoughts and impressions",
-   "url": "https://9to5mac.com/2026/09/11/9to5mac-overtime-081-iphone-duo-thoughts-and-impressions/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-11T22:20:54.000Z",
-   "summary": "Jeff and Fernando discuss their initial thoughts and impressions of the iPhone Duo, Apple’s first foldable smartphone. Sponsored by Bitwarden: Register for the free, virtual Open Source Security Summit on September 17, featuring cybersecurity leaders David Sanger and Joseph Menn — and check out…"
-  },
-  {
-   "id": "c3092854fdf70c5e",
-   "title": "Report: iPhone price hike ‘better than feared,’ iPhone Duo to drive demand for the cycle",
-   "url": "https://9to5mac.com/2026/09/11/report-iphone-price-hike-better-than-feared-iphone-duo-to-drive-demand-for-the-cycle/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-11T22:05:22.000Z",
-   "summary": "In an investor note seen by 9to5Mac, analyst Jeff Pu noted that while this week’s iPhone price hike was better than feared, the iPhone Duo is still likely to drive demand for the cycle, as early consumer interest appears strong. Here are the details. more…"
-  },
-  {
-   "id": "bc8ae212f26ec274",
-   "title": "Here's When iPhone 18 Pro Pre-Orders Begin in Every Time Zone",
-   "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-pre-orders-time-zones/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-11T22:02:55.000Z",
-   "summary": "Pre-orders for the iPhone 18 Pro and ‌iPhone 18 Pro‌ Max are set to begin on Saturday, September 12, at 5:00 a.m. Pacific Time, with the new devices set to become available for pre-order in numerous countries around the world simultaneously. We've compiled pre-order times for various countries to…"
-  },
-  {
-   "id": "5a4fb637c74d9c51",
-   "title": "Random rewards enrich classic game-theory insights",
-   "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-11T21:41:16.000Z",
-   "summary": "Simple games gain rich strategies in the face of noise."
-  },
-  {
-   "id": "4fbb918be97e2756",
-   "title": "Forgotten Woodlands",
-   "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-11T21:21:04.000Z",
-   "summary": "60 points · 22 comments"
-  },
-  {
-   "id": "ba95275af5aaeeea",
-   "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-   "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-11T21:19:05.000Z",
-   "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two."
-  },
-  {
-   "id": "85cb777ceb43efc1",
-   "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
-   "url": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-11T21:14:26.000Z",
-   "summary": "The strain lurking in the inflatable structure was hypervirulent."
-  },
-  {
-   "id": "cf3b0aa5c8d46373",
-   "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-   "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-11T20:59:47.000Z",
-   "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese."
-  },
-  {
-   "id": "8fcd3f851a7b4918",
-   "title": "Apple ranks third on TIME’s World’s Best Companies list after last year’s absence",
-   "url": "https://9to5mac.com/2026/09/11/apple-ranks-third-on-times-worlds-best-companies-list-after-last-years-absence/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-11T20:59:16.000Z",
-   "summary": "TIME’s “The World’s Best Companies 2026” list is out, with Apple returning at No. 3 after dropping off the ranking last year. Here are the details. more…"
-  },
-  {
-   "id": "439c3509017be4fb",
-   "title": "OpenAI’s feud with mathematicians is only escalating",
-   "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-11T20:57:36.000Z",
-   "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
-  },
-  {
-   "id": "f25fcd2b6634d280",
-   "title": "Two iOS 27 Features Won't Be Ready for Monday's Launch",
-   "url": "https://www.macrumors.com/2026/09/11/ios-27-delayed-features/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-11T20:37:37.000Z",
-   "summary": "Two iOS 27 features need a little more time in testing and won't be shipping until a future update, even though they were present during the beta period. Suggestions in Messages conversations and the option to automatically fix compromised passwords with a tap will not be in the initial version of…"
-  },
-  {
-   "id": "3b510a35172ebaff",
-   "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-11T20:33:18.000Z",
-   "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline."
-  },
-  {
-   "id": "11f385511de2c30a",
-   "title": "Trump's forced coal plant extensions thrown out by judge",
-   "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-11T20:32:59.000Z",
-   "summary": "The Department of Energy declared an \"emergency\" when none existed."
-  },
-  {
-   "id": "cf4e904f65dad0b2",
-   "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-   "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-11T20:30:17.000Z",
-   "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT."
-  },
-  {
-   "id": "4e335faa85e9a392",
-   "title": "Roundtables: Could AI really kill us all?",
-   "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-   "source": "MIT Tech Review",
-   "section": "ai",
-   "publishedAt": "2026-09-11T20:05:06.000Z",
-   "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and…"
-  },
-  {
-   "id": "c7a7b9fbe3d2eb45",
-   "title": "Counterpoint: Apple foldable panel shipments could rise 167% by 2030",
-   "url": "https://9to5mac.com/2026/09/11/counterpoint-apple-foldable-panel-shipments-could-rise-167-by-2030/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-11T19:57:28.000Z",
-   "summary": "Counterpoint Research has released a new report examining the impact of the iPhone Duo on the foldable smartphone market, display suppliers, and the segment’s growth through 2030. Here are the details. more…"
-  },
-  {
-   "id": "371d1030a4931d11",
-   "title": "A Brief Retrospective on the Sprite Network Operating System",
-   "url": "https://github.com/OSPreservProject/sprite/blob/master/sprite.txt",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-11T19:52:53.000Z",
-   "summary": "6 points · 4 comments"
-  },
-  {
-   "id": "2dbd78ec75537d89",
-   "title": "Apple Watch Series 12 makes a big change to a small complication that I’m excited about",
-   "url": "https://9to5mac.com/2026/09/11/apple-watch-series-12-makes-a-big-change-to-a-small-complication-that-im-excited-about/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-11T19:50:23.000Z",
-   "summary": "Apple Watch Series 12 is a major upgrade to the core health and fitness tracking wearable. That’s because of the new Health Sensing System that includes an even more capable heart rate monitor. The new hardware doesn’t just extend to more accurate health data. There’s a big change to a small…"
-  },
-  {
-   "id": "348f2a11dfb6af01",
-   "title": "Apple says two iOS 27 features aren’t coming until a ‘future software update’",
-   "url": "https://9to5mac.com/2026/09/11/apple-says-two-ios-27-features-arent-coming-until-a-future-software-update/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-11T19:46:45.000Z",
-   "summary": "This week, Apple announced that iOS 27 will be released to everyone on Monday, September 14. Along with that, the company now says two features included in the iOS 27 betas have been removed and will be released in a “future software update” for iPhone: suggestions in Messages and automatic…"
-  },
-  {
-   "id": "b004f82358e133ea",
-   "title": "Apple Watch Series 11 vs. Series 12 Buyer's Guide: 25+ Upgrades Compared",
-   "url": "https://www.macrumors.com/guide/apple-watch-series-11-vs-12/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-11T19:44:27.000Z",
-   "summary": "The Apple Watch Series 12 is now available for pre-order, and unlike last year's model, it brings a substantial list of changes over its predecessor. Here's everything that's new. Last year, the Series 11 introduced just four changes over the Series 10, making it perhaps the smallest generational…"
-  },
-  {
-   "id": "7ce79241c082f3b3",
-   "title": "iPhone 18 Pro First Look: Same Design, Big Changes Inside",
-   "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-hands-on/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-11T19:37:47.000Z",
-   "summary": "After Wednesday's event, Apple let members of the media take a look at the new iPhone 18 Pro models, so we're able to share some early first impressions with you before pre-orders start tomorrow. Subscribe to the MacRumors YouTube channel for more videos. The ‌iPhone 18 Pro‌ and Pro Max look almost…"
-  },
-  {
-   "id": "b496d36bb7ce2a40",
-   "title": "iPhone 18 Pro Pre-Orders: Deadline to 'Get Ready' Early is Tonight",
-   "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-pre-orders-get-ready/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-11T19:37:20.000Z",
-   "summary": "iPhone 18 Pro and iPhone 18 Pro Max pre-orders begin this Saturday, September 12 at 5 a.m. Pacific Time. Shop iPhone page or in the Apple Store app and proceed to select your iPhone 18 Pro model and any accessories, get pre-approved for financing or leasing if necessary, and so forth. Related…"
-  },
-  {
-   "id": "7a575c0880b88def",
-   "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-   "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-11T19:35:54.000Z",
-   "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system."
-  },
-  {
-   "id": "b970966ea33d9d72",
-   "title": "Apple Watch Series 12 vs Series 11: Here’s everything new",
-   "url": "https://9to5mac.com/2026/09/11/apple-watch-series-12-vs-series-11-heres-everything-new/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-11T19:35:28.000Z",
-   "summary": "Apple Watch Series 12 improves many of the core components that power watchOS and the device’s health and fitness features, plus unlocks new AI capabilities. Here’s everything new in Apple Watch Series 12 vs Series 11. more…"
-  },
-  {
-   "id": "c86e27625d8530b2",
-   "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-   "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-   "source": "Ars Technica",
-   "section": "ai",
-   "publishedAt": "2026-09-11T19:34:09.000Z",
-   "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says."
-  },
-  {
-   "id": "14238f25df9d12c5",
-   "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-   "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-11T19:00:00.000Z",
-   "summary": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web."
-  },
-  {
-   "id": "91f3bb7347a64bb7",
-   "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-   "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-11T18:58:01.000Z",
-   "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October."
-  },
-  {
-   "id": "facfac7c8b5f2009",
-   "title": "Apple’s iPhone 18 Pro cases are already in stores, and not just for the new models",
-   "url": "https://9to5mac.com/2026/09/11/apples-iphone-18-pro-cases-are-already-in-stores-and-not-just-for-the-new-models/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-11T18:54:43.000Z",
-   "summary": "Apple’s new iPhone 18 Pro cases and other accessories are now available in Apple Stores. Pre-orders for the new phones start tomorrow ahead of the launch in one week. more…"
-  },
-  {
-   "id": "ae54095afd4cd815",
-   "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
-   "url": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-11T18:49:39.000Z",
-   "summary": "Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance."
   }
  ]
 }
