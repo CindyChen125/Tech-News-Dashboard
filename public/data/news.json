@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T01:43:33.214Z",
+ "updatedAt": "2026-10-12T09:05:24.088Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,78 @@
  ],
  "items": [
   {
+   "id": "3cd796d96fec1d4f",
+   "title": "Zod 4.6.6 compromised by malware?",
+   "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T07:47:29.000Z",
+   "summary": "103 points · 25 comments"
+  },
+  {
+   "id": "a04b02530723bd9c",
+   "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+   "url": "https://github.com/snuri00/ps2-web-recomp",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T06:46:53.000Z",
+   "summary": "9 points · 0 comments"
+  },
+  {
+   "id": "9d9d6b50a372239c",
+   "title": "Postgres isn't slow, your storage is",
+   "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T06:36:53.000Z",
+   "summary": "57 points · 31 comments"
+  },
+  {
+   "id": "f5afeb65983a403d",
+   "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+   "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-12T05:03:47.000Z",
+   "summary": "50 points · 9 comments"
+  },
+  {
+   "id": "ed1d1ddd9cbbac2b",
+   "title": "Type-safe HTML templating in Zig",
+   "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T05:02:34.000Z",
+   "summary": "105 points · 45 comments"
+  },
+  {
+   "id": "0feb3922c1f53205",
+   "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+   "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T04:54:00.000Z",
+   "summary": "137 points · 140 comments"
+  },
+  {
+   "id": "3aa8305f7f09cd6b",
+   "title": "Crest – an Arc-inspired open-source browser for Mac",
+   "url": "https://crestbrowser.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T03:37:09.000Z",
+   "summary": "16 points · 13 comments"
+  },
+  {
+   "id": "f3bffd13949c1e8d",
+   "title": "New Apple TV 4K and HomePod Mini 2 Pre-Orders Expected to Begin This Week",
+   "url": "https://www.macrumors.com/2026/10/11/new-apple-tv-homepod-mini-2-preorders/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-12T03:17:03.000Z",
+   "summary": "Bloomberg's Mark Gurman today reported that new Apple TV 4K and HomePod mini models will be unveiled on Tuesday, October 13 and launch on Friday, October 30. video, Gurman said he was told that both devices should be available to pre-order starting this week. Related Roundups: Apple TV, HomePod…"
+  },
+  {
    "id": "cfe12008948559a0",
    "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
    "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
@@ -89,6 +161,15 @@
    "section": "tech",
    "publishedAt": "2026-10-12T00:59:01.000Z",
    "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that."
+  },
+  {
+   "id": "4b0722d6a2f21176",
+   "title": "Doory – Open-Source Canva",
+   "url": "https://github.com/shaongitbd/doory",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T00:48:27.000Z",
+   "summary": "107 points · 37 comments"
   },
   {
    "id": "987ca5fd846fe221",
@@ -206,6 +287,15 @@
    "section": "tech",
    "publishedAt": "2026-10-11T23:00:00.000Z",
    "summary": "Flip phones endured in Japan longer than the US, but the trend is shifting."
+  },
+  {
+   "id": "4a4db1c1fb75541c",
+   "title": "Google Data Centers around the world",
+   "url": "https://datacenters.google/locations/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T22:45:40.000Z",
+   "summary": "54 points · 50 comments"
   },
   {
    "id": "9b035c266b6e773f",
@@ -658,6 +748,15 @@
    "summary": "Apple's new Apple TV 4K will be powered by a standard A19 chip, up from the A15 in the current 2022 model, reports Bloomberg's Mark Gurman. Writing in his Power On newsletter, Gurman also said Apple has tested a refreshed Siri Remote with a speaker to make it easier to find between couch cushions…"
   },
   {
+   "id": "ac59d14942395310",
+   "title": "Loop Engineering: Optimizing Code Generation and Verification",
+   "url": "https://bradleygibbs.dev/posts/loop-optimization/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T15:01:17.000Z",
+   "summary": "7 points · 3 comments"
+  },
+  {
    "id": "ccb33db2ca8eff89",
    "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
    "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
@@ -1018,6 +1117,15 @@
    "summary": "315 points · 115 comments"
   },
   {
+   "id": "14ee81e9604d9d25",
+   "title": "Running the unmodified Linux amdgpu driver on an iPad",
+   "url": "https://github.com/Geramy/LemonSeed-Studio",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T10:18:18.000Z",
+   "summary": "16 points · 4 comments"
+  },
+  {
    "id": "6ef54496a1ba251f",
    "title": "IRCv3",
    "url": "https://ircv3.net/",
@@ -1070,6 +1178,15 @@
    "section": "ai",
    "publishedAt": "2026-10-11T03:42:47.000Z",
    "summary": "19 points · 16 comments"
+  },
+  {
+   "id": "d0a92e803da6dae1",
+   "title": "Vectorized CLZ and CTZ",
+   "url": "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T03:36:42.000Z",
+   "summary": "44 points · 5 comments"
   },
   {
    "id": "91d33cb2d68dda38",
@@ -1160,6 +1277,15 @@
    "section": "tech",
    "publishedAt": "2026-10-10T23:30:00.000Z",
    "summary": "If your cellular plan has limited data, you'll want to take advantage of these easy tweaks to stretch those gigabytes."
+  },
+  {
+   "id": "8a7e6d4a6f17f442",
+   "title": "Every US Electrical Outlet Explained [video]",
+   "url": "https://www.youtube.com/watch?v=n_1wzYQwnts",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T23:12:55.000Z",
+   "summary": "24 points · 27 comments"
   },
   {
    "id": "ee8aa0954209ae6b",
@@ -1387,6 +1513,15 @@
    "summary": "A shortage has driven resale prices through the roof."
   },
   {
+   "id": "a201dcb7335ff86e",
+   "title": "Calculus with Julia",
+   "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T15:59:52.000Z",
+   "summary": "117 points · 9 comments"
+  },
+  {
    "id": "74f31d17e14244a2",
    "title": "Amazon’s new Alexa Tablet finally gives the iPad lineup some much needed competition",
    "url": "https://9to5mac.com/2026/10/10/amazon-alexa-tablet-solid-ipad-competition/",
@@ -1421,6 +1556,15 @@
    "section": "tech",
    "publishedAt": "2026-10-10T15:40:06.000Z",
    "summary": "23 points · 31 comments"
+  },
+  {
+   "id": "b7ffc2a96ee443f5",
+   "title": "No portable way to detect string-to-float conversion errors in standard C",
+   "url": "https://sebsite.pw/w/20261009-strtod.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T15:39:30.000Z",
+   "summary": "47 points · 39 comments"
   },
   {
    "id": "989c15bf1127845e",
@@ -45539,42 +45683,6 @@
    "section": "tech",
    "publishedAt": "2026-09-12T09:43:44.000Z",
    "summary": "32 points · 15 comments"
-  },
-  {
-   "id": "cbff4c990a5aa1e2",
-   "title": "Apple Store Down Ahead of iPhone 18 Pro Pre-Orders",
-   "url": "https://www.macrumors.com/2026/09/12/apple-store-down-iphone-18-pro-pre-orders/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-12T06:30:38.000Z",
-   "summary": "Apple's online store is down ahead of iPhone 18 Pro and iPhone 18 Pro Max pre-orders, which begin at 5:00 a.m. Pacific Time on Saturday, September 12. \"We love that early energy,\" reads the Apple Store's message when visiting the U.S. website. \"Almost ready for you. Pre-order begins at 5:00 a.m…"
-  },
-  {
-   "id": "0fbfccf8ff504db1",
-   "title": "How to Pre-Order iPhone 18 Pro From Apple and Get the Model You Want on Launch Day",
-   "url": "https://www.macrumors.com/how-to/pre-order-your-iphone-18-pro-from-apple/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-12T05:50:00.000Z",
-   "summary": "Update: iPhone 18 Pro pre-orders are now live on the Apple Store. unveiled the iPhone 18 Pro and iPhone 18 Pro Max on September 9 at its \"Surprise and shine\" event. If you're keen to be among the first to get your hands on one, here are some tips on how to give yourself the best chance. If you're…"
-  },
-  {
-   "id": "41848b80236eed43",
-   "title": "Necker, 1832: \"An optical phænomenon on viewing a figure of a geometrical solid\"",
-   "url": "https://zenodo.org/records/1430991",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-12T02:01:53.000Z",
-   "summary": "16 points · 3 comments"
-  },
-  {
-   "id": "0d6319888f9d7496",
-   "title": "Apple researchers unveil SimpleDesign, a new AI model for protein design",
-   "url": "https://9to5mac.com/2026/09/11/apple-researchers-unveil-simpledesign-a-new-ai-model-for-protein-design/",
-   "source": "9to5Mac",
-   "section": "ai",
-   "publishedAt": "2026-09-12T01:56:26.000Z",
-   "summary": "In a new study, Apple researchers detail SimpleDesign, a streamlined AI model that can jointly generate protein sequences and structures. Here are the details. more…"
   }
  ]
 }
