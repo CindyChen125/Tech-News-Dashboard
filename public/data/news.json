@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T09:05:24.088Z",
+ "updatedAt": "2026-10-12T18:58:28.172Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,780 @@
  ],
  "items": [
   {
+   "id": "4712358439cda0ef",
+   "title": "iCloud+ keeps getting better, here’s what’s new for subscribers",
+   "url": "https://9to5mac.com/2026/10/12/icloud-keeps-getting-better-heres-whats-new-for-subscribers/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-12T18:56:33.000Z",
+   "summary": "iCloud+ is best known for adding iCloud storage, but Apple keeps improving and expanding its suite of benefits for subscribers. Here’s everything new for iCloud+ added in the last few weeks. more…"
+  },
+  {
+   "id": "84f7319435d0447f",
+   "title": "Meta says it's caught up to the frontier with its latest Wonder AI models",
+   "url": "https://www.engadget.com/2284478/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-12T18:51:52.000Z",
+   "summary": "The models add \"active memory\" and \"active focus\" abilities."
+  },
+  {
+   "id": "8b98e84baf50e3bb",
+   "title": "Norway fined a Microsoft subsidiary $9.6 million for allegedly misusing Grindr user data",
+   "url": "https://www.engadget.com/2284434/norway-fined-a-microsoft-subsidiary-96-million-for-allegedly-misusing-grindr-user-data/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T18:34:57.000Z",
+   "summary": "Xandr has three weeks to appeal the record penalty."
+  },
+  {
+   "id": "7129681765ff7ae7",
+   "title": "How to find your Amazon 'About You' page (and how to edit it)",
+   "url": "https://www.engadget.com/2281495/how-to-find-your-amazon-about-you-page-and-how-to-edit-it/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T18:30:00.000Z",
+   "summary": "See if Amazon thinks you have \"flat buttocks.\""
+  },
+  {
+   "id": "f7b6b498e516d001",
+   "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+   "url": "https://github.com/openai/codex/issues/48195",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T18:29:04.000Z",
+   "summary": "44 points · 12 comments"
+  },
+  {
+   "id": "c8267d7c9f9af9af",
+   "title": "Publishers Killed the Paperback, Then Blamed Readers",
+   "url": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T18:27:26.000Z",
+   "summary": "11 points · 0 comments"
+  },
+  {
+   "id": "aca6f50ea294149e",
+   "title": "MagSafe Monday: This aluminum MagSafe wallet ejects your credit card with one click",
+   "url": "https://9to5mac.com/2026/10/12/magsafe-monday-this-aluminum-magsafe-wallet-ejects-your-credit-card-with-one-click/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-12T18:18:00.000Z",
+   "summary": "My biggest annoyance with all types of wallets is when it This aluminum MagSafe card wallet takes a different approach with a side-mounted eject button that fans your cards up with a single press, so you can grab the one you need one-handed without pulling them all out. more…"
+  },
+  {
+   "id": "6ac1b2988dda4301",
+   "title": "Just say no to OpenAI and Anthropic",
+   "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-12T18:17:29.000Z",
+   "summary": "67 points · 33 comments"
+  },
+  {
+   "id": "e887607414edc567",
+   "title": "My Reddit AMA on the Law of Web Scraping",
+   "url": "https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T18:02:32.000Z",
+   "summary": "12 points · 1 comments"
+  },
+  {
+   "id": "8a6278fc63115fc3",
+   "title": "What's the difference between alkaline and lithium-ion batteries?",
+   "url": "https://www.engadget.com/2281493/alkaline-vs-lithium-ion-batteries-difference-between/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T18:00:00.000Z",
+   "summary": "Alkaline and lithium-ion batteries serve very different purposes. Here's how they compare on lifespan, cost, rechargeability, and everyday use."
+  },
+  {
+   "id": "8126ff6abe1f6b28",
+   "title": "Meta releases its first frontier model, Muse Wonder",
+   "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-12T17:56:56.000Z",
+   "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding."
+  },
+  {
+   "id": "91134bd07410bfae",
+   "title": "Russia was not ready for the data center war it started with Ukraine",
+   "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-12T17:52:36.000Z",
+   "summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable."
+  },
+  {
+   "id": "ffa97ca4a1d12c8e",
+   "title": "Apple unveils immersive horror film coming to Vision Pro this week",
+   "url": "https://9to5mac.com/2026/10/12/apple-unveils-immersive-horror-film-coming-to-vision-pro-this-week/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-12T17:39:41.000Z",
+   "summary": "Apple has announced that ‘Remnants,’ the first immersive horror film on Vision Pro, is coming this week. Here’s a teaser video. more…"
+  },
+  {
+   "id": "d54f144625ed718e",
+   "title": "2027 Rivian R2 review: The Goldilocks electric SUV",
+   "url": "https://www.engadget.com/2284218/2027-rivian-r2-review/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T17:39:22.000Z",
+   "summary": "It's not too big, it's not too small and it's not too expensive. It's just right."
+  },
+  {
+   "id": "230481c72c102779",
+   "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+   "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-12T17:19:14.000Z",
+   "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
+  },
+  {
+   "id": "d141f691eeea4d35",
+   "title": "Apple 'Welcome Home' Launch: Everything to Expect Tomorrow",
+   "url": "https://www.macrumors.com/guide/apple-welcome-home-product-recap/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-12T17:17:12.000Z",
+   "summary": "Apple's \"Welcome Home\" product launch is happening tomorrow. As the name suggests, Apple is going to debut new home accessories, including the long-rumored home hub. Below, we've listed all the rumors we know about the three devices Apple is set to introduce. HomeView Apple's home hub, which will…"
+  },
+  {
+   "id": "be5a740562943a45",
+   "title": "Beats is collaborating with Pokémon for a Pikachu-themed Pill speaker",
+   "url": "https://www.engadget.com/2284137/beats-is-collaborating-with-pokmon-for-a-pikachu-themed-pill-speaker/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T17:11:30.000Z",
+   "summary": "The collab we've all been waiting for ever since Tim Cook met up with Pikachu."
+  },
+  {
+   "id": "d8a1ef4a82f46f7f",
+   "title": "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon's Producer",
+   "url": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T17:08:16.000Z",
+   "summary": "36 points · 15 comments"
+  },
+  {
+   "id": "b6d35d64f7e3c70d",
+   "title": "Meta has some Wonder Full new AI models",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-12T17:00:00.000Z",
+   "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder…"
+  },
+  {
+   "id": "1dc40f89cf979299",
+   "title": "Thinking will become a hobby",
+   "url": "https://www.spinellis.gr/blog/20261008/?li261008",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T16:54:08.000Z",
+   "summary": "81 points · 99 comments"
+  },
+  {
+   "id": "a233904e779eeace",
+   "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
+   "url": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-12T16:52:54.000Z",
+   "summary": "So much for doing less political spending. | Image: Cath Virginia / The Verge, Getty Images Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million…"
+  },
+  {
+   "id": "e749fd95102b57ac",
+   "title": "Apple Plans Two-Day Event to Showcase Trio of New Macs and iPad Mini",
+   "url": "https://www.macrumors.com/2026/10/12/new-macs-and-ipad-mini-in-los-angeles/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-12T16:49:04.000Z",
+   "summary": "Apple is planning to invite content creators to a two-day product showcase in Los Angeles on October 27 and October 28, according to Bloomberg's Mark Gurman. Do not expect a traditional Apple Event with a live-streamed video on either of those days, as Gurman said that these will be \"experiences\"…"
+  },
+  {
+   "id": "f8135c2612d2839d",
+   "title": "Muse Wonder",
+   "url": "https://research.meta.ai/blog/muse-wonder",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T16:48:01.000Z",
+   "summary": "269 points · 119 comments"
+  },
+  {
+   "id": "d8b9fab9463e8b97",
+   "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+   "url": "https://news.ycombinator.com/item?id=50059096",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T16:46:34.000Z",
+   "summary": "43 points · 29 comments"
+  },
+  {
+   "id": "e2180514d15f2426",
+   "title": "Here's what typically drains an EV battery the fastest",
+   "url": "https://www.engadget.com/2281487/what-drains-ev-batteries-fastest/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T16:45:00.000Z",
+   "summary": "EVs are improving their range all the time, but you're looking to maximize your car's miles, right? Certain things will drain your battery most quickly."
+  },
+  {
+   "id": "9e5c689a1b750b5b",
+   "title": "Apple and Pokémon Tease Special Pikachu-Themed Beats Pill Speaker",
+   "url": "https://www.macrumors.com/2026/10/12/beats-pokemon-teaser/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-12T16:35:21.000Z",
+   "summary": "Beats today shared a short video teasing a new collaboration with Pokémon, and it appears this will be for a Pikachu-themed Beats Pill speaker. \"Time to catch something new,\" the video title says. The short clip shows a Beats Pill speaker and Beats and Poké Ball icons side by side. BritBratTV…"
+  },
+  {
+   "id": "710f7fe65ffc1ff0",
+   "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
+   "url": "https://github.com/morluto/rea",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T16:31:55.000Z",
+   "summary": "27 points · 5 comments"
+  },
+  {
+   "id": "d04ca692622397d7",
+   "title": "You Can Now Set Up Your iPhone Duo Pre-Order - Do It Before Friday",
+   "url": "https://www.macrumors.com/2026/10/12/you-can-now-set-up-your-iphone-duo-pre-order/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-12T16:16:49.000Z",
+   "summary": "Apple has opened its \"Get Ready\" service for iPhone Duo pre-orders, allowing customers to pre-select a variety of options to streamline the process of ordering and have a better chance of grabbing one on launch day. The iPhone Duo launches on October 23, while pre-orders go live on October 16 at 5…"
+  },
+  {
+   "id": "6d2b9031df8c73f8",
+   "title": "What happens to Google and Apple accounts when the owner dies?",
+   "url": "https://www.engadget.com/2281481/apple-google-accounts-what-happens-when-owner-dies/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T16:15:00.000Z",
+   "summary": "When we die, it's not just physical estates that need to be settled, an entire digital footprint survives us. So what do Apple and Google do with that data?"
+  },
+  {
+   "id": "6ae83575b2e4319b",
+   "title": "You can now start the iPhone Duo pre-order process",
+   "url": "https://9to5mac.com/2026/10/12/you-can-now-start-the-iphone-duo-pre-order-process/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-12T16:13:36.000Z",
+   "summary": "iPhone Duo pre-orders officially kick off on Friday, but Apple is letting you prepare now. Starting today, you can head to the Apple Store Online or Apple Store app and save your exact iPhone Duo configuration. more…"
+  },
+  {
+   "id": "2ef68260d657d708",
+   "title": "A Modern Web App in C",
+   "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T16:13:10.000Z",
+   "summary": "170 points · 70 comments"
+  },
+  {
+   "id": "07fd80ca31c5f159",
+   "title": "GLM-Legal",
+   "url": "https://z.ai/blog/glm-legal",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T16:11:45.000Z",
+   "summary": "247 points · 146 comments"
+  },
+  {
+   "id": "cfd5d3fd56f1b857",
+   "title": "Citroën has brought back the iconic 2 CV as an electric concept car",
+   "url": "https://www.engadget.com/2284004/citroen-has-brought-back-the-iconic-2-cv-as-an-electric-concept-car/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T16:10:40.000Z",
+   "summary": "Sadly we won't be seeing whatever this car inspires stateside."
+  },
+  {
+   "id": "6d8c22cb49f92259",
+   "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
+   "url": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-12T16:01:08.000Z",
+   "summary": "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives."
+  },
+  {
+   "id": "60e2babe7294dd20",
+   "title": "Smart just unveiled a new ultra-compact EV at the Paris Motor Show",
+   "url": "https://www.engadget.com/2283979/smart-just-unveiled-a-new-ultra-compact-ev-at-the-paris-motor-show/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T15:59:21.000Z",
+   "summary": "A little car with decent mileage per charge."
+  },
+  {
+   "id": "8949d4539b10011d",
+   "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+   "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-12T15:45:00.000Z",
+   "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
+  },
+  {
+   "id": "69219eb819ba5315",
+   "title": "How to improve your Android phone's location accuracy",
+   "url": "https://www.engadget.com/2281478/how-to-improve-android-phone-location-accuracy/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T15:45:00.000Z",
+   "summary": "There are a few settings to check if you're having issues with your map's location accuracy."
+  },
+  {
+   "id": "705d2880e97e4c75",
+   "title": "How much RAM does a Raspberry Pi actually need?",
+   "url": "https://www.engadget.com/2275484/raspberry-pi-how-much-ram-needed/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T15:45:00.000Z",
+   "summary": "Raspberry Pi boards have helped hobbyists get computing projects started for very little money down. However, knowing how much memory is needed can be tricky."
+  },
+  {
+   "id": "6cd0b3e0685fab61",
+   "title": "The Yandex outage probably didn’t blitz Russian bots",
+   "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-12T15:43:07.000Z",
+   "summary": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been circulating around…"
+  },
+  {
+   "id": "1b21e2a4410cc065",
+   "title": "Security Bite: This nifty privacy app blurs your Mac screen the second you look away",
+   "url": "https://9to5mac.com/2026/10/12/security-bite-this-nifty-privacy-app-blurs-your-mac-screen-the-second-you-look-away/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-12T15:39:23.000Z",
+   "summary": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated…"
+  },
+  {
+   "id": "a7e8641a5af74d14",
+   "title": "Deals: MacBook Pro massive $600 off, AirPods, Mac mini, Apple iPhone cases, more",
+   "url": "https://9to5mac.com/2026/10/12/deals-macbook-pro-airpods-mac-mini-apple-iphone-cases/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-12T15:34:03.000Z",
+   "summary": "We are starting the week off with a solid $50 price drop on AirPods Pro 3 and AirPods Max 2 at $120 off, but today’s 9to5Toys Lunch Break is headlined by MacBook Pro. We are now tracking a massive $600 price drop hits Apple’s 24GB M5 Pro to deliver one of the best MacBook deals of the year…"
+  },
+  {
+   "id": "b7bd0034a83fa018",
+   "title": "Microsoft president says UK is best placed to drive AI regulation",
+   "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-12T15:31:19.000Z",
+   "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
+  },
+  {
+   "id": "6adc2419264eff03",
+   "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+   "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-12T15:27:59.000Z",
+   "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch."
+  },
+  {
+   "id": "8b099aefcc191413",
+   "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+   "url": "https://taylor.town/kk-ai-2026",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-12T15:16:45.000Z",
+   "summary": "54 points · 10 comments"
+  },
+  {
+   "id": "0e771ecb51cbe4d4",
+   "title": "Apple Announces 'Indie Games Week' on App Store",
+   "url": "https://www.macrumors.com/2026/10/12/app-store-indie-games-week/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-12T15:16:11.000Z",
+   "summary": "Apple today announced it is Indie Games Week on the App Store, in celebration of the \"incredible catalog of imaginative games made by independent teams with big dreams.\" No Man's Sky will be making its mobile debut on iPhone and iPad on October 28, and the six other games are Sifu, Vampire…"
+  },
+  {
+   "id": "a0f188a9b1c13ccd",
+   "title": "Why you shouldn't leave an extension cord plugged in all the time",
+   "url": "https://www.engadget.com/2281476/why-shouldnt-leave-extension-cord-plugged-in-all-the-time/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T15:15:00.000Z",
+   "summary": "An extension cord may seem like a permanent solution to a problem, but they aren't designed for long-term use, so leaving them plugged in can have consequences."
+  },
+  {
+   "id": "2d9822dfd1419744",
+   "title": "Apple confirms Beats x Pokémon collaboration with Pill speaker teaser",
+   "url": "https://9to5mac.com/2026/10/12/apple-confirms-beats-x-pokemon-collaboration-with-pill-speaker-teaser/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-12T15:12:16.000Z",
+   "summary": "It looks like Apple’s Beats and Pokémon are teaming up for a Beats Pill Bluetooth speaker collaboration. more…"
+  },
+  {
+   "id": "b12c4f350652f486",
+   "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+   "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-12T15:11:19.000Z",
+   "summary": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display."
+  },
+  {
+   "id": "9d86fc2cd09ef512",
+   "title": "Fridges in French supermarkets hit by cyber attack",
+   "url": "https://www.bbc.com/news/articles/crq5nzxv9q4yo",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T15:08:53.000Z",
+   "summary": "102 points · 62 comments"
+  },
+  {
+   "id": "f4e70da044b53ec8",
+   "title": "Mechanism’s first Switch 2 case is as awesome as I hoped it would be",
+   "url": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-12T15:00:00.000Z",
+   "summary": "The Basecase seen here with 3D-printed grips and a rear plate that offers (unofficial) compatibility with Lego blocks and minifigs. Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase…"
+  },
+  {
+   "id": "6bacd24c2332459c",
+   "title": "Apple has reportedly increased its iPhone Duo orders by 30%",
+   "url": "https://9to5mac.com/2026/10/12/apple-has-reportedly-increased-its-iphone-duo-orders-by-30/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-12T14:53:38.000Z",
+   "summary": "A new report by Securities Times in China indicates Apple is now anticipating much higher demand for iPhone Duo than initially expected, despite pre-orders not starting until later this week. more…"
+  },
+  {
+   "id": "a7882fd817c18211",
+   "title": "Which accessories actually fit the iPhone Duo?",
+   "url": "https://www.engadget.com/2281471/iphone-duo-which-accessories-fit/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T14:45:00.000Z",
+   "summary": "The iPhone Duo's foldable design changes what accessories fit. Here's what to know about cases, chargers, screen protectors, mounts, and more."
+  },
+  {
+   "id": "3a630b695e9ba107",
+   "title": "F1 in Singapore: There's a new fastest car now",
+   "url": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-12T14:43:14.000Z",
+   "summary": "Also, F1’s final sprint saw our first real wet racing of the year."
+  },
+  {
+   "id": "be7e839eaaa5e4d2",
+   "title": "An Unmade Film Shaped Hayao Miyazaki",
+   "url": "https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T14:34:25.000Z",
+   "summary": "51 points · 6 comments"
+  },
+  {
+   "id": "fdcbd8565681ea06",
+   "title": "Amazon Discounting 2026 MacBook Pro by as Much as $600 This Week",
+   "url": "https://www.macrumors.com/2026/10/12/2026-macbook-pro-600-week/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-12T14:26:39.000Z",
+   "summary": "Today we're tracking a pair of massive discounts on Apple's newest MacBook Pro models, including $500 off a 16-inch model and $600 off a 14-inch model on Amazon. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small…"
+  },
+  {
+   "id": "cb227af1a53b5b31",
+   "title": "Apple announces ‘Indie Games Week’ with seven new, upcoming launches",
+   "url": "https://9to5mac.com/2026/10/12/apple-announces-indie-games-week-with-seven-new-upcoming-launches/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-12T14:11:15.000Z",
+   "summary": "Apple is celebrating ‘Indie Games Week’ on the App Store by recognizing seven new titles that launched recently or will in the near future. Here are the games being highlighted. more…"
+  },
+  {
+   "id": "5a14658cbd37af7d",
+   "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
+   "url": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-12T14:09:34.000Z",
+   "summary": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model."
+  },
+  {
+   "id": "52c4e25a7b2a9eee",
+   "title": "Apple Watch Ultra 1 vs. Ultra 4 Buyer's Guide: Is It Worth Upgrading?",
+   "url": "https://www.macrumors.com/guide/apple-watch-ultra-1-vs-ultra-4/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-12T14:07:13.000Z",
+   "summary": "The Apple Watch Ultra 4 arrives four years after the original model. Across three subsequent generations, Apple added a brighter and larger display, satellite connectivity, new health sensors, more capable chips, and longer battery life. For owners of the original Ultra, are those cumulative…"
+  },
+  {
+   "id": "a6a63ee5fe08866a",
+   "title": "Apple Watch SE 3 Available From Just $199.99 on Amazon",
+   "url": "https://www.macrumors.com/2026/10/12/apple-watch-se-3-199-99/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-12T14:03:34.000Z",
+   "summary": "Amazon is discounting a few models of the Apple Watch SE 3 today, with prices on two models that match the Prime Day lows we saw last week. Prices start at $199.99 for the 40mm GPS model and increase to $229.99 for the 44mm GPS model. Note: MacRumors is an affiliate partner with some of these…"
+  },
+  {
+   "id": "553c67f8b1dd853b",
+   "title": "Android is the best and worst thing about Googlebooks",
+   "url": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-12T14:00:00.000Z",
+   "summary": "I’ve been testing two Googlebooks: this Asus model, and HP’s too. My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Android, whether…"
+  },
+  {
+   "id": "9dae8bf0d4c735d8",
+   "title": "No Man’s Sky is coming to the iPhone and iPad",
+   "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-12T14:00:00.000Z",
+   "summary": "The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both the iPhone and iPad available starting on October 28th. According to Hello's Sean Murray, the mobile…"
+  },
+  {
+   "id": "31b7ec4e3cba872b",
+   "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+   "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-12T14:00:00.000Z",
+   "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to…"
+  },
+  {
+   "id": "adf07ed759027804",
+   "title": "No Man's Sky is coming to iPhone and iPad as the App Store celebrates Indie Games Week",
+   "url": "https://www.engadget.com/2283704/no-mans-sky-is-coming-to-iphone-and-ipad-as-the-app-store-celebrates-indie-games-week/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T14:00:00.000Z",
+   "summary": "Sifu, Vampire Crawlers, Dome Keeper and Little Kitty, Big City are also hitting iOS."
+  },
+  {
+   "id": "ba7ad72f4b1dac72",
+   "title": "App Store Indie Games Week kicks off today",
+   "url": "https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/",
+   "source": "Apple Newsroom",
+   "section": "tech",
+   "publishedAt": "2026-10-12T13:59:49.734Z",
+   "summary": "Today, Indie Games Week lights up the App Store with a celebration of the catalog of imaginative games made by independent teams with big dreams."
+  },
+  {
+   "id": "97df364d234e7f87",
+   "title": "Tim Cook Visits China for the Third Time in 2026",
+   "url": "https://www.macrumors.com/2026/10/12/tim-cook-visits-china/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-12T13:54:50.000Z",
+   "summary": "Tim Cook is visiting China for the third time this year, with talks in Guangdong focused on expanding Apple's manufacturing and sales operations, the South China Morning Post reports. moved into the position on September 1 when John Ternus took over as CEO. Apple has said part of Cook's work…"
+  },
+  {
+   "id": "4cb498853a5b68ed",
+   "title": "New Apple TV 4K launching this week with five big upgrades",
+   "url": "https://9to5mac.com/2026/10/12/new-apple-tv-4k-launching-this-week-with-five-big-upgrades/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-12T13:47:17.000Z",
+   "summary": "A new Apple TV 4K will be unveiled tomorrow as part of Apple’s ‘Welcome home’ event. Here are five upgrades it’s rumored to bring. more…"
+  },
+  {
+   "id": "4bcf70f14b42446d",
+   "title": "The tech behind your car's adaptive cruise control",
+   "url": "https://www.engadget.com/2281470/tech-behind-adaptive-cruise-control/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T13:45:00.000Z",
+   "summary": "Despite the fact that it functions using a basic camera-and-radar system, adaptive cruise control has proven to have significant influence over driving habits."
+  },
+  {
+   "id": "6867c8e313f5e61e",
+   "title": "How long can you expect an Amazon Kindle to last?",
+   "url": "https://www.engadget.com/2281451/how-long-amazon-kindle-lasts-lifespan/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T13:15:00.000Z",
+   "summary": "Amazon will support your Kindle for a while, but it should last much longer than that if you take care of it."
+  },
+  {
+   "id": "f295248742d7df95",
+   "title": "The OnePlus 16 is the company’s most interesting phone in years",
+   "url": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-12T13:13:53.000Z",
+   "summary": "Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best phone in some time. Like most OnePlus phones, the 16 is positioned around performance, with a…"
+  },
+  {
+   "id": "7e6f6ff70a653ca2",
+   "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
+   "url": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-12T13:00:52.000Z",
+   "summary": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch."
+  },
+  {
+   "id": "bd42e27740c6840d",
+   "title": "CMF’s first wireless speakers look like musical milk cartons",
+   "url": "https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-12T13:00:00.000Z",
+   "summary": "The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. As with many of CMF's products, like the Headphone Pro that launched a year ago, the new speakers…"
+  },
+  {
+   "id": "1e691a0082cfc6ec",
+   "title": "The Fitbit Edge is for folks who don’t want to go totally screenless",
+   "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-12T13:00:00.000Z",
+   "summary": "The leaked specs turned out to be spot-on, but there are some neat software updates too. | Image: Google The Fitbit Edge may not be Google's best-kept fitness-tracking secret, but as of today, its existence is official. The tracker sits smack-dab between the recently launched Fitbit Air and the…"
+  },
+  {
+   "id": "045e5a17baad3884",
+   "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+   "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-12T13:00:00.000Z",
+   "summary": "Microsoft’s Maia 300 chip. | Image: Microsoft Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud…"
+  },
+  {
+   "id": "bba10ae5d8cfa0b9",
+   "title": "Google's sleek new Fitbit Edge is packed with health features and a replaceable battery",
+   "url": "https://www.engadget.com/2283307/googles-sleek-new-fitbit-edge-is-packed-with-health-features-and-a-replaceable-battery/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T13:00:00.000Z",
+   "summary": "The Fitbit Edge will be in stores starting October 27 for $179.99."
+  },
+  {
+   "id": "22b8e434d0d56d3b",
+   "title": "Google brings Health Guardian to the Fitbit Air and Edge, and expands automatic activity tracking",
+   "url": "https://www.engadget.com/2283270/google-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T13:00:00.000Z",
+   "summary": "The company announced new health features for its wearables along with a new band for the Fitbit Air."
+  },
+  {
+   "id": "e7d529f3139c04dc",
+   "title": "Google teams up with menstrual health tracker Flo to develop new wellness hardware and sync apps",
+   "url": "https://www.engadget.com/2283324/google-teams-up-with-menstrual-health-tracker-flo-to-develop-new-wellness-hardware-and-sync-apps/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-12T13:00:00.000Z",
+   "summary": "Flo Health users will able to sync their cycle data with the Google Health app starting early next year."
+  },
+  {
+   "id": "425dec32090f0634",
+   "title": "iPhone Air 2 is coming, here’s everything we know so far",
+   "url": "https://9to5mac.com/2026/10/12/iphone-air-2-is-coming-heres-everything-we-know-so-far/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-12T12:53:04.000Z",
+   "summary": "Apple is working on a second-generation iPhone Air, and it could address several key limitations of the current model. Here’s everything we know about the iPhone Air 2, including features, release date, and more. more…"
+  },
+  {
+   "id": "a24a171d48c220d1",
+   "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+   "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-12T12:47:59.000Z",
+   "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather…"
+  },
+  {
+   "id": "a7e3e1083c833c48",
+   "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+   "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-12T12:43:10.000Z",
+   "summary": "The second-largest corporate employer has bet big on robot workers to scale."
+  },
+  {
+   "id": "ac4fe3bd44dfdf7e",
+   "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+   "url": "https://github.com/h0m3us3r/w1700k-sdr",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T12:41:58.000Z",
+   "summary": "116 points · 38 comments"
+  },
+  {
+   "id": "39f35bd0d82191d6",
+   "title": "(Post-Quantum) Cryptographic Right Answers",
+   "url": "https://words.filippo.io/right-answers/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T12:26:32.000Z",
+   "summary": "45 points · 4 comments"
+  },
+  {
+   "id": "b880f0776c6e8bad",
+   "title": "Incident with Actions, Pull Requests and Issues",
+   "url": "https://www.githubstatus.com/incidents/93njd414rpbx",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T12:23:51.000Z",
+   "summary": "137 points · 126 comments"
+  },
+  {
+   "id": "d4be160b211d3735",
+   "title": "Hackers activate automatic defrosting accross European supermarket fridges",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T12:16:42.000Z",
+   "summary": "140 points · 288 comments"
+  },
+  {
+   "id": "05ff00537baab045",
+   "title": "Citroen revives the 2CV for an electric age",
+   "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T12:09:09.000Z",
+   "summary": "151 points · 174 comments"
+  },
+  {
+   "id": "81447e57233ac76c",
+   "title": "OLED iPad Mini Could Be $200 More Expensive Than Current Model",
+   "url": "https://www.macrumors.com/2026/10/12/oled-ipad-mini-more-expensive-than-current-model/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-12T11:10:16.000Z",
+   "summary": "Apple's upcoming OLED iPad mini will be \"considerably more expensive\" than the current $599 model, according to Bloomberg's Mark Gurman. Writing in his latest Power On newsletter, Gurman referenced his own sources indicating a price hike, while saying his guess is that the new device will cost…"
+  },
+  {
+   "id": "4f830849313e3a82",
+   "title": "Apple Launches Special Edition AirPods 5 in India",
+   "url": "https://www.macrumors.com/2026/10/12/apple-launches-special-edition-airpods-5-in-india/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-12T10:28:36.000Z",
+   "summary": "Apple is marking India's festive diwali season with a limited edition of the AirPods 5, featuring a rangoli-inspired engraving. The case's design draws on the traditional Indian art form, arranging a decorative pattern around a heart-eyes emoji. The earbuds cost ₹17,900 (approximately $187)…"
+  },
+  {
    "id": "3cd796d96fec1d4f",
    "title": "Zod 4.6.6 compromised by malware?",
    "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
@@ -89,6 +863,15 @@
    "section": "tech",
    "publishedAt": "2026-10-12T07:47:29.000Z",
    "summary": "103 points · 25 comments"
+  },
+  {
+   "id": "6c55fc8a9b6f50fc",
+   "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+   "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T07:28:53.000Z",
+   "summary": "123 points · 54 comments"
   },
   {
    "id": "a04b02530723bd9c",
@@ -1324,6 +2107,15 @@
    "summary": "Make sure your files are safe in the event of a hard drive disaster."
   },
   {
+   "id": "bd9c3738e29520a3",
+   "title": "Secret of Orange Cats Revealed After 60-Year Search",
+   "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T22:10:57.000Z",
+   "summary": "173 points · 151 comments"
+  },
+  {
    "id": "819239c0702afbd4",
    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
@@ -1376,6 +2168,15 @@
    "section": "tech",
    "publishedAt": "2026-10-10T19:30:00.000Z",
    "summary": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact. Milepost turns your roadtrips into more of a journey. It lets you record all of your drives, and journal…"
+  },
+  {
+   "id": "11f8d98908b1ee21",
+   "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+   "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-10T19:28:41.000Z",
+   "summary": "172 points · 65 comments"
   },
   {
    "id": "3c357b96237af212",
@@ -4270,6 +5071,15 @@
    "id": "32947cd8955f75f5",
    "title": "9to5 readers can score an exclusive 15% off all Nomad iPhone 18 Pro cases with this code",
    "url": "https://9to5toys.com/2026/10/08/exclusive-nomad-iphone-18-pro-case-promo-code/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-08T17:10:06.000Z",
+   "summary": "Any avid 9to5Toys reader already knows how much we love us some Nomad around here. The brand has been delivering some of the best iPhone cases anywhere for years, and the new iPhone 18 Pro collection is no exception. They are, however, not often discounted in the first few months of release, unless…"
+  },
+  {
+   "id": "3fd649f056966b63",
+   "title": "9to5 readers can score an exclusive 15% off all Nomad iPhone 18 Pro cases with this code",
+   "url": "https://9to5toys.com/2026/10/12/exclusive-nomad-iphone-18-pro-case-promo-code/",
    "source": "9to5Mac",
    "section": "tech",
    "publishedAt": "2026-10-08T17:10:06.000Z",
@@ -45296,393 +46106,6 @@
    "section": "tech",
    "publishedAt": "2026-09-12T18:58:57.000Z",
    "summary": "316 points · 101 comments"
-  },
-  {
-   "id": "33874c4b176bf8cb",
-   "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-   "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-12T18:51:40.000Z",
-   "summary": "63 points · 8 comments"
-  },
-  {
-   "id": "e1c299c5ed248ed5",
-   "title": "How to add your driver's license to Apple Wallet and where you can use it",
-   "url": "https://www.engadget.com/2252801/how-to-add-drivers-license-apple-wallet/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-12T18:30:00.000Z",
-   "summary": "Your Apple Wallet can hold more than cards; those in certain states can also store a digital copy of their driver's license."
-  },
-  {
-   "id": "507d60c9b62c9d0a",
-   "title": "LG denies accusations of smart TVs continuously recording its users",
-   "url": "https://www.engadget.com/2256728/lg-denies-accusations-of-smart-tvs-continuously-recording-its-users/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-12T18:17:55.000Z",
-   "summary": "The company said that user privacy is a \"fundamental principle\" of its products."
-  },
-  {
-   "id": "df98aa69f2950129",
-   "title": "The benefits of leaving your VPN on all the time",
-   "url": "https://www.engadget.com/2252795/leaving-vpn-always-on-benefits/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-12T18:00:00.000Z",
-   "summary": "Using a VPN has plenty of benefits, but should you have yours enabled all the time? Think carefully about what yours is doing to decide."
-  },
-  {
-   "id": "367b4de886376fc6",
-   "title": "How Much Solar Power Do You Actually Need For An RV?",
-   "url": "https://www.engadget.com/2252792/how-much-solar-power-for-rv/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-12T17:30:00.000Z",
-   "summary": "The power of the sun can keep your RV running, but before you get too comfortable with solar panels, you need to calculate how much power they need to generate."
-  },
-  {
-   "id": "0eb111015484efdc",
-   "title": "Will there be a 7G?",
-   "url": "https://arxiv.org/abs/2609.01877",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-12T17:05:31.000Z",
-   "summary": "103 points · 159 comments"
-  },
-  {
-   "id": "31ec5c794910538e",
-   "title": "Reversing Factorio's RNG",
-   "url": "https://gegell.github.io/posts/factorio-rng/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-12T17:02:19.000Z",
-   "summary": "68 points · 8 comments"
-  },
-  {
-   "id": "68138ef85f6fe6f7",
-   "title": "Apple nailed iPhone Duo split screen, even as iPad multitasking feels convoluted",
-   "url": "https://9to5mac.com/2026/09/12/apple-nailed-iphone-duo-split-screen-even-as-ipad-multitasking-feels-convoluted/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-12T16:47:34.000Z",
-   "summary": "Apple this week unveiled its new iPhone lineup, including the first ever foldable iPhone – the iPhone Duo. While the Duo itself is a fantastic device, it does leave me wishing that Apple did better for the iPad. more…"
-  },
-  {
-   "id": "efedc68787866971",
-   "title": "Anthropic's CEO proposes a three-step plan to curb AI development",
-   "url": "https://www.engadget.com/2256718/anthropics-ceo-proposes-a-three-step-plan-to-curb-ai-development/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-09-12T16:37:31.000Z",
-   "summary": "Dario Amodei said that \"we owe it to humanity to try.\""
-  },
-  {
-   "id": "d9ea12242de1ee8d",
-   "title": "Sylvan Esso think you should splurge on good-quality yogurt",
-   "url": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-12T16:35:00.000Z",
-   "summary": "Sylvan Esso preparing to attend a frutiger aero renfaire. Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Over the years, they've…"
-  },
-  {
-   "id": "e9d10adb631cf07e",
-   "title": "How to share your iPhone's location for just as long as you need",
-   "url": "https://www.engadget.com/2252782/how-to-share-iphone-location-find-my-for-as-long-needed/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-12T16:30:00.000Z",
-   "summary": "For some time, Find My sharing was limited to an hour, a day, or indefinitely. That's changing in iOS 27, thanks to more flexible timelines."
-  },
-  {
-   "id": "700caaf84a3868fc",
-   "title": "Make your first edit to OpenStreetMap",
-   "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-12T16:25:08.000Z",
-   "summary": "456 points · 112 comments"
-  },
-  {
-   "id": "79edccfcc5d0616f",
-   "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-   "source": "The Verge",
-   "section": "ai",
-   "publishedAt": "2026-09-12T16:23:40.000Z",
-   "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon…"
-  },
-  {
-   "id": "ee79065b3a3493cc",
-   "title": "Top Stories: Apple Event Recap With iPhone Duo, iPhone 18 Pro, Apple Watch, and AirPods",
-   "url": "https://www.macrumors.com/2026/09/12/top-stories-apple-event-recap-iphone-duo/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-12T16:00:12.000Z",
-   "summary": "Apple's long-awaited foldable iPhone Duo is here, but that wasn't all we saw at this week's event, as Apple also took the wraps off of the iPhone 18 Pro and Pro Max, the Apple Watch Series 12 and Ultra 4, and the AirPods 5. We'll have to wait a little over a month to get our hands on the foldable…"
-  },
-  {
-   "id": "01d78d389f9d8a4f",
-   "title": "Is a free VPN worth using? Here's why it could be risky",
-   "url": "https://www.engadget.com/2252776/is-free-vpn-worth-using-risks-explained/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-12T16:00:00.000Z",
-   "summary": "A free VPN might seem like a great deal, but they're not all created equal. While you can expect some compromises, you shouldn't use any old service."
-  },
-  {
-   "id": "1e22602dcaa629f0",
-   "title": "ESR’s iPhone accessory lineup is ready for Apple’s foldable era",
-   "url": "https://9to5mac.com/2026/09/12/esrs-iphone-accessory-lineup-ready-apples-foldable-era/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-12T16:00:00.000Z",
-   "summary": "A new iPhone announcement always means a mad rush for accessories that will arrive when your new device arrives, and this year that includes an entirely new category with the iPhone Duo. ESR is a well-respected name in Apple accessories, and its iPhone 18 lineup covers the new iPhone Duo, the…"
-  },
-  {
-   "id": "69cf0350867afc11",
-   "title": "Compressing a Flag to 11 Bits",
-   "url": "https://read.vantezzen.io/miniflags",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-12T15:57:43.000Z",
-   "summary": "37 points · 16 comments"
-  },
-  {
-   "id": "5e4297e7187b9e87",
-   "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
-   "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-12T15:49:52.000Z",
-   "summary": "111 points · 34 comments"
-  },
-  {
-   "id": "87493d04cbd89529",
-   "title": "iPhone Duo can add fake bezel to the outside screen for better case compatibility",
-   "url": "https://9to5mac.com/2026/09/12/iphone-duo-fake-bezel-case-compatibility/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-12T15:32:31.000Z",
-   "summary": "Blogger Nicolas Lellouche went digging in the iPhone Duo settings during his hands on time with the device. He found a curious new option in the display settings called ‘Shift Left Edge’. When enabled, this setting adds a bit of a black border to the left side, essentially adding fake bezel on the…"
-  },
-  {
-   "id": "fb02ef17a20b04fb",
-   "title": "How to know it's time to replace your EV battery",
-   "url": "https://www.engadget.com/2252773/how-to-know-time-replace-ev-battery/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-12T15:30:00.000Z",
-   "summary": "EV batteries usually fade gradually, so the real warning signs are often changes in behavior rather than age alone."
-  },
-  {
-   "id": "db8e084e5c97e0d2",
-   "title": "LG responds to TV spying allegations",
-   "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-12T15:19:44.000Z",
-   "summary": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that \"Some recent media coverage may have contributed…"
-  },
-  {
-   "id": "31c622014aeacb3b",
-   "title": "Nvidia is the central bank of AI",
-   "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-12T15:08:27.000Z",
-   "summary": "481 points · 337 comments"
-  },
-  {
-   "id": "7f24421a3450e942",
-   "title": "Are you using the right Ethernet port on your router? Here's how to know",
-   "url": "https://www.engadget.com/2252768/using-right-ethernet-port-on-router/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-12T15:00:00.000Z",
-   "summary": "The various Ethernet ports on your router can serve different purposes, depending on the model. Thankfully, it's not hard to discern what they're for."
-  },
-  {
-   "id": "ff66f7d65a564e4f",
-   "title": "I made a build visualizer to understand Bun's compile times",
-   "url": "https://lalitm.com/post/buildprof/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-12T14:45:28.000Z",
-   "summary": "131 points · 24 comments"
-  },
-  {
-   "id": "451339571d364cff",
-   "title": "Trump is giving data centers a pass to pollute",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-12T14:41:27.000Z",
-   "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt…"
-  },
-  {
-   "id": "5b6e759b2dc2d9dc",
-   "title": "Revolut confirms customer data breach through fake government requests",
-   "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-12T14:40:00.000Z",
-   "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators."
-  },
-  {
-   "id": "1b0d47732adcd004",
-   "title": "How to properly clean and sanitize your secondhand tech finds",
-   "url": "https://www.engadget.com/2252766/how-to-clean-sanitize-secondhand-electronics-tech/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-12T14:30:00.000Z",
-   "summary": "Cleaning secondhand gadgets is essential, since you never know how dirty something is. Thankfully, it's not hard to polish them up before reuse."
-  },
-  {
-   "id": "3984dec567978cd5",
-   "title": "We must pace the frontier",
-   "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-12T14:10:49.000Z",
-   "summary": "644 points · 903 comments"
-  },
-  {
-   "id": "1732db9b09089b75",
-   "title": "How to get started with Meta's new AI agent, Muse",
-   "url": "https://www.engadget.com/2256577/how-to-get-started-with-meta-s-new-ai-agent-muse/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-09-12T14:00:00.000Z",
-   "summary": "After a few days of testing Meta's AI agent Muse. I can confirm that there is very little learning curve to get started."
-  },
-  {
-   "id": "4b0c1e3267f5fc22",
-   "title": "Didn't Pre-Order iPhone 18 Pro Yet? Here's How Long the Wait is Now",
-   "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-pre-order-shipping-dates/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-12T13:48:45.000Z",
-   "summary": "iPhone 18 Pro and iPhone 18 Pro Max pre-orders began today in the U.S. and many other countries. If you have yet to place a pre-order on Apple's online store, you might face a longer wait now, depending on your desired configuration. The first customers who pre-ordered right when pre-orders began…"
-  },
-  {
-   "id": "458521b74111aa8e",
-   "title": "Apple @ Work: The three prongs of software updates in the AI era",
-   "url": "https://9to5mac.com/2026/09/12/apple-work-the-three-prongs-of-software-updates-in-the-ai-era/",
-   "source": "9to5Mac",
-   "section": "ai",
-   "publishedAt": "2026-09-12T13:33:00.000Z",
-   "summary": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000…"
-  },
-  {
-   "id": "9d612734092c6937",
-   "title": "Weekend Apple deals: AirPods 5, Pro 3, Apple Watch Series 12, AirTag 2, Studio Display, MacBook, more",
-   "url": "https://9to5mac.com/2026/09/12/weekend-apple-deals-airpods-5-apple-watch-series-12/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-12T13:29:05.000Z",
-   "summary": "It’s time for your 9to5Toys Lunch Break weekend edition to scope out all of this week’s best Apple deals. The all-new AirPods 5, Apple Watch Ultra 4, and Apple Watch Series 12 pre-orders are live, and we are already tracking some deals on them. We also also have a $50 price drop on AirPods Pro 3 as…"
-  },
-  {
-   "id": "7c883d85b896d46f",
-   "title": "Best iPhone 18 Pro cases now available for purchase",
-   "url": "https://9to5mac.com/2026/09/12/best-iphone-18-pro-cases-now-available/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-12T13:18:44.000Z",
-   "summary": "It is time to take a look at the best new iPhone 18 Pro cases. Pre-orders for Apple’s latest just went live this morning and many of the best brands are now ready. Apple has a new slate of Silicone and TechWoven models in color-matched treatments, joined by loads of our favorite third-party…"
-  },
-  {
-   "id": "105ebe2bc0da074f",
-   "title": "Laika’s stop-motion fantasy Wildwood looks so smooth",
-   "url": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-12T13:00:00.000Z",
-   "summary": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most anticipated films this year. Even if you don't know the name Laika, you probably…"
-  },
-  {
-   "id": "57a38062eb6681f7",
-   "title": "You can now pre-order iPhone 18 Pro and iPhone 18 Pro Max",
-   "url": "https://9to5mac.com/2026/09/12/you-can-now-pre-order-iphone-18-pro-and-iphone-18-pro-max/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-12T12:02:03.000Z",
-   "summary": "The new iPhone 18 Pro and iPhone 18 Pro Max are now available to pre-order. Apple announced the new phones on Wednesday, highlighting a variable aperture camera system, a smaller Dynamic Island, four new color options, and more. Pre-order iPhone 18 Pro from Apple Pre-order iPhone 18 Pro Max from…"
-  },
-  {
-   "id": "fd222b78ae1c2945",
-   "title": "iPhone 18 Pro and iPhone 18 Pro Max Now Available to Pre-Order",
-   "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-available-to-pre-order/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-12T12:01:24.000Z",
-   "summary": "Apple is now accepting pre-orders for the iPhone 18 Pro and ‌iPhone 18 Pro‌ Max through its online storefront and the Apple Store app. If you don't see the option to order, make sure to refresh until the store comes up. The app is often a quicker way to get a pre-order in. Pre-orders for the…"
-  },
-  {
-   "id": "64f1d7ae9cbe1480",
-   "title": "Where to preorder the iPhone 18 Pro and Pro Max",
-   "url": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-12T12:00:00.000Z",
-   "summary": "Which color suits you best? | Photo: Nilay Patel / The Verge The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 \"Sunrise and shine\" event alongside the iPhone Duo and other new gear, the two upgraded phones feature the faster A20 Pro processor with more GPU power…"
-  },
-  {
-   "id": "00fa28c288d4a1a4",
-   "title": "Here Are The Best Carrier Deals You Can Get When Pre-Ordering iPhone 18 Pro Today",
-   "url": "https://www.macrumors.com/2026/09/12/best-carrier-deals-iphone-18-pro/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-12T12:00:00.000Z",
-   "summary": "Apple today launched pre-orders for the iPhone 18 Pro and iPhone 18 Pro Max. If you're looking to place a pre-order on one of these models at a cellular carrier, we've rounded up all of the best deals and offers you can find from the major carriers in the United States. Note: MacRumors is an…"
-  },
-  {
-   "id": "9d4c4155917f3ae8",
-   "title": "André Weil and the Hodge Conjecture",
-   "url": "https://jiahao116.github.io/Articles/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-12T11:13:14.000Z",
-   "summary": "23 points · 7 comments"
-  },
-  {
-   "id": "cd1654539db1a0e3",
-   "title": "I spent $4,000 on a robot dog from China",
-   "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-12T11:00:53.000Z",
-   "summary": "Unitree might be the world’s most important robotics company."
-  },
-  {
-   "id": "4942e4e2ffeb14f2",
-   "title": "OpenAI just wants to win",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-   "source": "The Verge",
-   "section": "ai",
-   "publishedAt": "2026-09-12T11:00:00.000Z",
-   "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement…"
-  },
-  {
-   "id": "5f37f96c41ad51b8",
-   "title": "An atlas of periodic solutions to the three-body problem",
-   "url": "https://www.threebodyorbits.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-12T10:13:24.000Z",
-   "summary": "24 points · 0 comments"
-  },
-  {
-   "id": "57878a938082e79c",
-   "title": "Optimizing a Spin-Lock",
-   "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-12T09:43:44.000Z",
-   "summary": "32 points · 15 comments"
   }
  ]
 }
