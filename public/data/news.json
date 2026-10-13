@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T01:17:04.571Z",
+ "updatedAt": "2026-10-13T08:23:18.704Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,42 @@
  ],
  "items": [
   {
+   "id": "0d85699f0b346558",
+   "title": "Denmark set to allow return of 'physical force' in school",
+   "url": "https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T06:27:03.000Z",
+   "summary": "50 points · 23 comments"
+  },
+  {
+   "id": "263d0f869787ab7f",
+   "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+   "url": "https://www.argmin.net/p/faster-fourier-transforms",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-13T02:46:43.000Z",
+   "summary": "117 points · 77 comments"
+  },
+  {
+   "id": "ab85d3b2b9cc7d20",
+   "title": "AI models can provably hide arbitrary capabilities",
+   "url": "https://arxiv.org/abs/2610.13928",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-13T02:07:08.000Z",
+   "summary": "190 points · 103 comments"
+  },
+  {
+   "id": "aa6c9eeed3f7722c",
+   "title": "The iPhone Duo’s cooling system hides a clever trick inside its hinge",
+   "url": "https://9to5mac.com/2026/10/12/the-iphone-duos-cooling-system-hides-a-clever-trick-inside-its-hinge/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-13T01:34:29.000Z",
+   "summary": "While a folding iPhone posed a new challenge for Apple’s thermal engineering team, they came up with a creative way to leverage the device’s hinge to their advantage. Here are the details. more…"
+  },
+  {
    "id": "9dd358251398d23f",
    "title": "Don't buy a cheap Android phone without these non-negotiable features",
    "url": "https://www.engadget.com/2281663/android-phone-dont-buy-cheap-without-non-negotiable-features/",
@@ -89,6 +125,15 @@
    "section": "tech",
    "publishedAt": "2026-10-13T00:30:00.000Z",
    "summary": "Android phones can be had at many different price points, but the most important features aren't always found in the cheapest available devices."
+  },
+  {
+   "id": "318135dcf1816a6b",
+   "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+   "url": "https://github.com/bherbruck/solidcraft",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T00:11:04.000Z",
+   "summary": "50 points · 5 comments"
   },
   {
    "id": "81234b614f636c50",
@@ -46052,123 +46097,6 @@
    "section": "tech",
    "publishedAt": "2026-09-13T08:41:17.000Z",
    "summary": "18 points · 4 comments"
-  },
-  {
-   "id": "c52a71d616cb5c21",
-   "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-   "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-13T08:07:36.000Z",
-   "summary": "20 points · 20 comments"
-  },
-  {
-   "id": "084877087b94f350",
-   "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
-   "url": "https://9to5mac.com/2026/09/13/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-13T08:00:00.000Z",
-   "summary": "Since iOS 5 in 2011, the iPhone and iPad have included Notification Center, a central place to find alerts from various apps in chronological order. Starting with iOS 27, Apple is making a major change to how users open Notification Center on iPhone and iPad. iOS 27 is out September 14 after a…"
-  },
-  {
-   "id": "cae046f65fc86c5f",
-   "title": "JetKVM Mini",
-   "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T07:49:46.000Z",
-   "summary": "73 points · 45 comments"
-  },
-  {
-   "id": "a84f6cd997a769f3",
-   "title": "Sierra digital cameras on the Apple II",
-   "url": "https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T07:11:20.000Z",
-   "summary": "11 points · 0 comments"
-  },
-  {
-   "id": "374cb84d3b2cd9fb",
-   "title": "Sony's First Computer – The SMC-70 from 1982 [video]",
-   "url": "https://www.youtube.com/watch?v=cT2-7KkPkBc",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T05:47:13.000Z",
-   "summary": "19 points · 1 comments"
-  },
-  {
-   "id": "7c702c97f98ba27e",
-   "title": "Data races and the limits of ThreadSanitizer in C and Go",
-   "url": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T04:09:19.000Z",
-   "summary": "5 points · 1 comments"
-  },
-  {
-   "id": "2f03d96d0be3752a",
-   "title": "A wandering black hole caught feeding on the run",
-   "url": "https://phys.org/news/2026-08-black-hole-caught.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T03:34:53.000Z",
-   "summary": "18 points · 5 comments"
-  },
-  {
-   "id": "cc6d2cad316c2407",
-   "title": "Every invoice in Brazil's economy runs on SOAP 1.2. We mapped it all",
-   "url": "https://github.com/stoix-dev/sefaz-webservices-postman",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T03:19:54.000Z",
-   "summary": "24 points · 6 comments"
-  },
-  {
-   "id": "9955a90397353e6b",
-   "title": "A succession crisis that tore England apart (2023)",
-   "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T03:18:29.000Z",
-   "summary": "31 points · 19 comments"
-  },
-  {
-   "id": "af44884978be1e70",
-   "title": "Aligned to whom?",
-   "url": "https://hyperbo.la/w/aligned-to-whom/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T03:17:18.000Z",
-   "summary": "50 points · 25 comments"
-  },
-  {
-   "id": "dd30ae3a9989d5b2",
-   "title": "After Math",
-   "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T03:16:41.000Z",
-   "summary": "68 points · 50 comments"
-  },
-  {
-   "id": "373015974b813585",
-   "title": "The Interim Computer Museum",
-   "url": "https://icm.museum/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T02:43:57.000Z",
-   "summary": "109 points · 11 comments"
-  },
-  {
-   "id": "7169eebe5718b74a",
-   "title": "Why are AI agents lying, cheating and coordinating?",
-   "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-13T01:22:31.000Z",
-   "summary": "194 points · 254 comments"
   }
  ]
 }
