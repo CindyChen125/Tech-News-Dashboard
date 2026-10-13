@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T08:23:18.704Z",
+ "updatedAt": "2026-10-13T16:23:38.266Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,969 @@
  ],
  "items": [
   {
+   "id": "5e4dc692565cc12f",
+   "title": "Apple Says HomePod Mini 2 Won't Support Siri AI Right Away",
+   "url": "https://www.macrumors.com/2026/10/13/homepod-mini-2-siri-ai-coming-later/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-10-13T16:23:05.000Z",
+   "summary": "Siri AI support on the new HomePod mini 2 will be \"available later\" as part of a \"future software update,\" according to Apple. In other words, do not expect Siri AI to be available on the speaker when it launches on Friday, October 30. Related Roundup: HomePod mini Tags: HomePod Mini 2, Siri…"
+  },
+  {
+   "id": "5e093d3d483f31c4",
+   "title": "New Apple TV 4K vs previous model: Here’s everything new",
+   "url": "https://9to5mac.com/2026/10/13/new-apple-tv-4k-vs-previous-model-heres-everything-new/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-13T16:18:09.000Z",
+   "summary": "Apple just launched a new Apple TV 4K, the fourth generation of the product. Here’s how the new Apple TV 4K compares to the previous, third-gen model from 2022. more…"
+  },
+  {
+   "id": "c22ed08d50a55cb3",
+   "title": "Google Antigravity is now built into Gemini app for macOS",
+   "url": "https://9to5google.com/2026/10/13/gemini-app-macos-antigravity/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-10-13T16:16:26.000Z",
+   "summary": "As part of today’s Gemini 4 Argon rollout, Google is making a big update to the Gemini app for macOS by integrating Antigravity. more…"
+  },
+  {
+   "id": "ce5c35df7407e90c",
+   "title": "Is AppleCare actually worth it for the Apple Watch SE?",
+   "url": "https://www.engadget.com/2282163/applecare-apple-watch-se-when-worth-buying/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-13T16:15:00.000Z",
+   "summary": "AppleCare+ makes Apple Watch repairs or replacements easier, but even at a low cost, it might not be a good value."
+  },
+  {
+   "id": "584cfca05360469f",
+   "title": "Hands-on with the Apple Home Collection",
+   "url": "https://www.theverge.com/tech/1009899/apple-home-collection-hands-on",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-13T16:11:00.000Z",
+   "summary": "We've just gotten a closer look at Apple's new video doorbell, security cameras, a door lock, and thermostats following the company's \"Welcome Home\" event on Tuesday. The six new devices are part of a new Apple Home Collection, which the company co-developed with LG Electronics and Schneider…"
+  },
+  {
+   "id": "bbd1729e5392b9f9",
+   "title": "Discovery+ gets a price bump just a week after the Skydance merger",
+   "url": "https://www.engadget.com/2285445/discovery-gets-a-price-bump-just-a-week-after-the-skydance-merger/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-13T16:07:34.000Z",
+   "summary": "Who could have possibly seen this coming."
+  },
+  {
+   "id": "b4606c998906acf4",
+   "title": "Gemini 4 Argon",
+   "url": "https://deepmind.google/models/gemini/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-13T16:03:16.000Z",
+   "summary": "90 points · 40 comments"
+  },
+  {
+   "id": "4205d42a24141843",
+   "title": "Gemini app rolling out Gemini 4 Argon to AI Pro and AI Ultra",
+   "url": "https://9to5google.com/2026/10/13/gemini-app-4-argon/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-10-13T16:03:04.000Z",
+   "summary": "Following the announcement at the end of September, Gemini 4 Argon is starting to roll out to the Gemini app, Google Antigravity, and more. more…"
+  },
+  {
+   "id": "21562ea241a75296",
+   "title": "Gemini 4 Argon for Robotics",
+   "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+   "source": "Google DeepMind",
+   "section": "ai",
+   "publishedAt": "2026-10-13T16:01:58.000Z",
+   "summary": ""
+  },
+  {
+   "id": "71baa0cd1fe1719d",
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+   "source": "Google DeepMind",
+   "section": "ai",
+   "publishedAt": "2026-10-13T16:01:52.000Z",
+   "summary": ""
+  },
+  {
+   "id": "34de012bb00d01a8",
+   "title": "HomeView Can Dim to Apple's Lowest-Ever Display Brightness",
+   "url": "https://www.macrumors.com/2026/10/13/homeview-can-dim-to-lowest-ever-brightness/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T16:00:47.000Z",
+   "summary": "The HomeView can dim its display to just 0.3 nits for use on a nightstand or in dark environments, making it Apple's lowest-ever display brightness. The 7-inch Liquid Retina display automatically adjusts its brightness as lighting conditions change, reaching up to 500 nits in bright rooms. Its…"
+  },
+  {
+   "id": "77ad3f7fc3bd42d7",
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+   "source": "Google AI",
+   "section": "ai",
+   "publishedAt": "2026-10-13T16:00:00.000Z",
+   "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
+  },
+  {
+   "id": "fbb493bd33b0ff3b",
+   "title": "Google finally releases Gemini 4 Argon",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-13T16:00:00.000Z",
+   "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across complex workflows,\" while…"
+  },
+  {
+   "id": "11aa1931fa8e3a26",
+   "title": "Google's Gemini 4 Argon is now available in the Gemini app and AI Mode in Search",
+   "url": "https://www.engadget.com/2285023/google-gemini-4-argon-is-now-available-in-the-gemini-app-and-ai-mode-in-search/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-13T16:00:00.000Z",
+   "summary": "Google has rolled out Gemini 4 Argon to more users."
+  },
+  {
+   "id": "f574751876911ae3",
+   "title": "New Apple TV 4K Adds Far-Field Microphones for Hands-Free Siri",
+   "url": "https://www.macrumors.com/2026/10/13/new-apple-tv-4k-adds-far-field-microphones/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:54:15.000Z",
+   "summary": "Apple's new fourth-generation Apple TV 4K includes three built-in far-field microphones, allowing users to find something to watch and control playback without picking up the Siri Remote. Users can activate the voice assistant by saying \"Hey ‌Siri‌\" or \"‌Siri‌,\" including while a movie or TV show…"
+  },
+  {
+   "id": "32bcee3584619a5d",
+   "title": "Buying Apple’s wall-mounted HomeView? The mount costs extra",
+   "url": "https://www.theverge.com/tech/1010164/apple-homeview-wall-mounted-sold-separately",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:48:10.000Z",
+   "summary": "Wall mount sold separately, this version being the $59.95 “Power Mount USB‑C Wall Connector.” | Image: Apple The HomeView smart home display announced by Apple today comes in two models that both cost $299: one with a speaker base, and the other being a self explanatory \"Wall Mounted\" version. If…"
+  },
+  {
+   "id": "a1a185689c223fa1",
+   "title": "New Siri Remote is $59 and Compatible With These Apple TV Models",
+   "url": "https://www.macrumors.com/2026/10/13/new-siri-remote-compatible-apple-tv-models/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:45:55.000Z",
+   "summary": "The new Siri Remote unveiled today is compatible with all Apple TV HD and Apple TV 4K models released since 2015, according to Apple. The fourth-generation Siri Remote released today is available to order on Apple's online store for November 13 delivery, with U.S. pricing set at $59. Apple TV 4K…"
+  },
+  {
+   "id": "d179b6ec7516feae",
+   "title": "iPhone Duo vs Xiaomi 18 Fold: How these foldables stack up",
+   "url": "https://www.engadget.com/2282149/iphone-duo-vs-xiaomi-18-fold-foldable-comparison/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:45:00.000Z",
+   "summary": "We compare the two on their design, displays, durability and more."
+  },
+  {
+   "id": "1a8832f647b6a75a",
+   "title": "Apple Details HomeView's Audio Hardware",
+   "url": "https://www.macrumors.com/2026/10/13/apple-details-homeview-audio-hardware/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:44:14.000Z",
+   "summary": "Apple's new HomeView supports Spatial Audio, with different speaker systems for its tabletop and wall-mounted models. The tabletop model features two custom full-range drivers in its display, with a down-firing woofer and two force-canceling passive radiators housed in the domed base. Apple says…"
+  },
+  {
+   "id": "74214bddcf9b7488",
+   "title": "HomeView's Wall Model: Pay More, Get Less Speaker",
+   "url": "https://www.macrumors.com/2026/10/13/homeview-wall-mount-option-price/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:41:46.000Z",
+   "summary": "Apple offers two versions of the HomeView, one that can be mounted on the wall and one that's a standalone model with a speaker base. The wall-mounted version and the speaker version are both priced at $299, with no discount for the base-free model. Wall mounting is the more expensive option…"
+  },
+  {
+   "id": "381af9aa47116614",
+   "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+   "url": "https://news.ycombinator.com/item?id=50073471",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-13T15:41:00.000Z",
+   "summary": "7 points · 3 comments"
+  },
+  {
+   "id": "da576198da04f1d3",
+   "title": "Apple Shares Videos for HomeView, Apple TV 4K, and HomePod Mini 2",
+   "url": "https://www.macrumors.com/2026/10/13/apple-shares-videos-for-homeview-and-more/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:39:06.000Z",
+   "summary": "Apple today shared four new videos on its YouTube channel highlighting the newly announced HomeView smart home hub, fourth-generation Apple TV 4K, and HomePod mini 2. The longest video, \"Welcome Apple HomeView: Designed for life at home,\" follows a family through a busy morning. It shows Siri…"
+  },
+  {
+   "id": "6a62f7e49a375fe5",
+   "title": "Deals: M5 Pro MacBook Pro $600 off, Mac mini, AirPods Pro 3, Apple Watch clearance deals $199 off, more",
+   "url": "https://9to5mac.com/2026/10/13/deals-m5-pro-macbook-pro-mac-mini-airpods-pro-3/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:33:03.000Z",
+   "summary": "Just after the reveal of AirPods Max 2 with $120 in savings, and there’s still time to land the mid-range M6 Mac mini at nearly $150 off. Those deals are joining some brilliant M5 Pro MacBook Pro discounts this week with as much as $600 off the list prices (there are a pair of configurations that…"
+  },
+  {
+   "id": "fc7d28f35c6e303c",
+   "title": "Apple’s HomeView display is now available to preorder",
+   "url": "https://www.theverge.com/gadgets/1010054/apple-homeview-display-preorder-buy",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:30:00.000Z",
+   "summary": "Apple is getting into smart displays with its new HomeView. It has a seven-inch squircle design, looking similar to a gargantuan Apple Watch mounted to a speaker base. The $299 HomeView is meant to be the centerpiece for Apple's big push into the home, as it's capable of controlling a host of smart…"
+  },
+  {
+   "id": "a21a8bde546fac8b",
+   "title": "Here are all the new HomePod Mini 2 colors",
+   "url": "https://www.theverge.com/tech/1009935/apple-homepod-mini-2-hands-on",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:27:56.000Z",
+   "summary": "Apple's HomePod Mini 2 is here, and we've gotten a close-up look at the second-gen smart speaker. The HomePod Mini 2 comes with an upgraded S10 chip capable of powering Siri AI, though Apple says support for new AI features will roll out as part of a future update. It also offers a sound glow…"
+  },
+  {
+   "id": "be5f21455c0521ea",
+   "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+   "url": "https://www.sammystraus.com/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-13T15:25:50.000Z",
+   "summary": "36 points · 16 comments"
+  },
+  {
+   "id": "ba9a1fe815201c4a",
+   "title": "HomeView Comes in Four Colors, but Wall-Mounted Model Gets Just Two",
+   "url": "https://www.macrumors.com/2026/10/13/homeview-comes-in-four-colors/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:24:17.000Z",
+   "summary": "Apple's new HomeView smart home hub comes in four colors, but the wall-mounted model offers only two finishes. The tabletop HomeView is available in silver, starlight, rose pink, and space gray. Each finish comes with a matching USB-C cable. The device features an anodized aluminum design, with a…"
+  },
+  {
+   "id": "92cdccefd469fcb2",
+   "title": "Some older Apple TV models are also getting Siri AI",
+   "url": "https://www.engadget.com/2285346/some-older-apple-tv-models-are-also-getting-siri-ai/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-13T15:21:26.000Z",
+   "summary": "Siri AI functionality goes all the way back to back to the second-gen Apple TV 4K box from 2021."
+  },
+  {
+   "id": "a6e4473df70e34bf",
+   "title": "Older Apple TV 4K Models to Gain Apple Intelligence and Siri AI Support",
+   "url": "https://www.macrumors.com/2026/10/13/older-apple-tv-4k-models-apple-intelligence/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-10-13T15:16:41.000Z",
+   "summary": "Apple today said that second- and third-generation Apple TV 4K models will gain Siri AI in beta with tvOS 27.2. iPad running the latest software, with ‌Siri‌ AI enabled and set to a supported language. At launch, ‌Siri‌ AI will support English in the United States, Australia, Canada, India, New…"
+  },
+  {
+   "id": "059096334080a61a",
+   "title": "Apple's iPhone market share rose despite a downturn in smartphone shipments",
+   "url": "https://www.engadget.com/2285334/apple-iphone-market-share-rose-despite-a-downturn-in-smartphone-shipments/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:15:21.000Z",
+   "summary": "Samsung and Apple had decent quarters, while Xiaomi, Oppo and Vivo had a terrible Q3."
+  },
+  {
+   "id": "86444667ab0050b8",
+   "title": "When is the best time to charge your Samsung Galaxy Watch?",
+   "url": "https://www.engadget.com/2282134/samsung-galaxy-watch-best-time-of-day-charge-battery/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:15:00.000Z",
+   "summary": "Though newer Galaxy Watches have built-in battery protection, choosing the right time of day to charge your watch will get you the best results."
+  },
+  {
+   "id": "8188c4ecc0f61b1b",
+   "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
+   "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-13T15:12:59.000Z",
+   "summary": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's developers have been given an \"AI-first\" mandate directing them to use tools like Anthropic's Claude…"
+  },
+  {
+   "id": "5d622d479f9c808d",
+   "title": "The United Kingdom Generates Less Electricity per Person Than in the 1970s",
+   "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:12:57.000Z",
+   "summary": "14 points · 0 comments"
+  },
+  {
+   "id": "44fd39a64abdd75a",
+   "title": "ADT to Offer In-Home Installation of Apple's New HomeView and More",
+   "url": "https://www.macrumors.com/2026/10/13/adt-apple-homeview-installation/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:12:10.000Z",
+   "summary": "Apple today announced that ADT will offer professional in-home installation of its all-new wall-mounted HomeView smart home hub, confirming our scoop. ADT technicians will be able to install the wall-mounted version of the HomeView, the new collection of related Apple Home Collection smart home…"
+  },
+  {
+   "id": "c41fdc8d8b3c0b93",
+   "title": "HomeView Brings Guided Recipes and Hands-Free Timers to the Kitchen",
+   "url": "https://www.macrumors.com/2026/10/13/homeview-for-kitchen/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:11:46.000Z",
+   "summary": "Apple's HomeView can turn web recipes into step-by-step cooking instructions with hands-free timers. When viewing a recipe in Safari, users can tap the \"Start Cooking\" button to switch to a streamlined recipe layout. Apple also says HomeView offers help with ingredient tracking alongside the guided…"
+  },
+  {
+   "id": "1208903a46a902f1",
+   "title": "Thunderbird for iOS",
+   "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:07:37.000Z",
+   "summary": "50 points · 11 comments"
+  },
+  {
+   "id": "61a2b348f82b5477",
+   "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
+   "url": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:02:00.000Z",
+   "summary": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup."
+  },
+  {
+   "id": "9534173ff7ab8d1d",
+   "title": "Framework Laptop 12 (2026 upgrade) review: Intel's Core Series 3 fixes a key flaw",
+   "url": "https://www.engadget.com/2271233/framework-laptop-12-2026-upgrade-review/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-13T15:00:00.000Z",
+   "summary": "Framework's Laptop 12 was conceived as a Chromebook killer, but now it has a flagship chip inside. Does it work as a grown-up machine?"
+  },
+  {
+   "id": "85e1a1a5d36350d7",
+   "title": "Apple confirms HomePod mini 2 won’t have Siri AI at launch",
+   "url": "https://9to5mac.com/2026/10/13/apple-confirms-homepod-mini-2-wont-have-siri-ai-at-launch/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-10-13T14:47:06.000Z",
+   "summary": "Today Apple introduced HomePod mini 2 with Siri AI as a major tentpole feature. HomePod mini 2 ships on October 30, but checking the fine print on Apple’s website, it seems Siri AI won’t be available on launch day. more…"
+  },
+  {
+   "id": "1bc89fa6931ff8a9",
+   "title": "Is the Apple Watch Series 10 still worth your money in 2026?",
+   "url": "https://www.engadget.com/2282092/apple-watch-series-10-still-worth-money-in-2026/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-13T14:45:00.000Z",
+   "summary": "While the Apple Watch Series 10 has been out for a couple of years, it can almost keep up with newer models."
+  },
+  {
+   "id": "be5e9a537f55e4a3",
+   "title": "Apple's HomeView Touts These 5 Privacy Features",
+   "url": "https://www.macrumors.com/2026/10/13/homeview-touts-5-privacy-features/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T14:31:05.000Z",
+   "summary": "Apple uses a number of methods to keep HomeView users' personal information private, even when a whole household shares the device. The device recognizes up to six people, giving each their own Home Screen with personalized apps and widgets. Apple says personal content stays private to each user…"
+  },
+  {
+   "id": "9efeb4c54570a40c",
+   "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
+   "url": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-13T14:30:12.000Z",
+   "summary": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use."
+  },
+  {
+   "id": "9326b5bd1cdd2aba",
+   "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
+   "url": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-13T14:25:48.000Z",
+   "summary": "After years of declining subscriber numbers and falling revenue, Bumble just agreed to a $1.3 billion acquisition."
+  },
+  {
+   "id": "e6447c6a7e66d7f4",
+   "title": "Apple Watch Ultra 3 Gets Major Discounts at Amazon and Best Buy",
+   "url": "https://www.macrumors.com/2026/10/13/apple-watch-ultra-3-discounts/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T14:23:36.000Z",
+   "summary": "You can get the Black Apple Watch Ultra 3 with the Black Milanese Loop for $699.97 today on Amazon, down from $899.00. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running…"
+  },
+  {
+   "id": "26869fa8123a6f97",
+   "title": "A Book That Will Never Be Read",
+   "url": "https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T14:21:40.000Z",
+   "summary": "28 points · 9 comments"
+  },
+  {
+   "id": "fcc92db975eb9dd1",
+   "title": "HomeView for your wall doesn’t include mount, which costs $59 minimum",
+   "url": "https://9to5mac.com/2026/10/13/homeview-for-your-wall-doesnt-include-mount-which-costs-59-minimum/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-13T14:21:39.000Z",
+   "summary": "Today Apple unveiled its new HomeView product in two models, one with a speaker base and the other built for wall mounting. But if you buy the latter, just know you’ll need to spend more for a separate mount. more…"
+  },
+  {
+   "id": "576c3d13e8d05734",
+   "title": "Apple TV Finally Gaining Apple Intelligence and Siri AI",
+   "url": "https://www.macrumors.com/2026/10/13/apple-tv-finally-gaining-apple-intelligence/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-10-13T14:20:47.000Z",
+   "summary": "Apple today announced Apple Intelligence features for the Apple TV, bringing a more conversational Siri, personalized entertainment search, and summaries of smart home camera activity to the living room. ‌Siri‌ AI introduces a full-screen interface for finding movies and TV shows, with results…"
+  },
+  {
+   "id": "8e46ccf67bb5dcdf",
+   "title": "Apple’s HomePod Mini 2 is available to preorder",
+   "url": "https://www.theverge.com/gadgets/1009971/apple-homepod-mini-2-preorder-buy",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-13T14:15:00.000Z",
+   "summary": "After nearly six years, Apple debuted a new, improved HomePod Mini. The $149 HomePod Mini 2 will launch on Friday, October 30th, and you can place a preorder now through Apple. Apple HomePod Mini 2 Where to Buy: $149 at Apple The speaker includes the S10 chip, which debuted in the Apple Watch…"
+  },
+  {
+   "id": "cbecee8e504638c1",
+   "title": "How to engineer an AI harness for game development",
+   "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-13T14:14:23.000Z",
+   "summary": "7 points · 0 comments"
+  },
+  {
+   "id": "327348da3c0f7056",
+   "title": "TechCrunch Disrupt 2026: Day 1",
+   "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-13T14:00:00.000Z",
+   "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year."
+  },
+  {
+   "id": "b95ff6becc4e7b64",
+   "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+   "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:55:45.000Z",
+   "summary": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how faces were transformed using DLSS 5. The 15-year-old student from Hogwarts Legacy suddenly looked…"
+  },
+  {
+   "id": "6a7de590897479de",
+   "title": "HomeView Needs an iPhone or iPad for Some AI Features",
+   "url": "https://www.macrumors.com/2026/10/13/homeview-needs-an-iphone-for-some-ai-features/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-10-13T13:53:08.000Z",
+   "summary": "Despite featuring an A18 chip and built-in Apple Intelligence support, Apple's new HomeView still depends on a paired Apple Intelligence-enabled iPhone or iPad for several features. According to Apple's announcement, Siri requests involving personal context require a paired Apple…"
+  },
+  {
+   "id": "efc768ccec1fef54",
+   "title": "Discovery Plus is getting more expensive",
+   "url": "https://www.theverge.com/streaming/1009994/discovery-plus-price-increase",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:52:18.000Z",
+   "summary": "Discovery Plus is raising prices across its ad-free and ad-supported plans. Starting Tuesday, the ad-supported plan will go from $5.99 to $6.99 / month, while the ad-free tier will jump from $9.99 to $11.99 / month. The price hike comes just one week after Paramount closed its acquisition of Warner…"
+  },
+  {
+   "id": "0be9229c346da038",
+   "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+   "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-13T13:50:19.000Z",
+   "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month."
+  },
+  {
+   "id": "ee94d28fb2c57956",
+   "title": "You can buy the new, improved Siri Remote for your existing Apple TV 4K",
+   "url": "https://9to5mac.com/2026/10/13/you-can-buy-the-new-improved-siri-remote-for-your-existing-apple-tv-4k/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:46:26.000Z",
+   "summary": "Today Apple unveiled the long-awaited new Apple TV 4K model, which includes an updated Siri Remote with a built-in speaker as part of its Find My and Precision Finding support. But even if you’re not upgrading, you can still buy the new Siri Remote for your current Apple TV. more…"
+  },
+  {
+   "id": "ca92b2362b408ec4",
+   "title": "Apple HomeView hands-on: Siri AI is your new roommate",
+   "url": "https://www.engadget.com/2285178/apple-homeview-hands-on-siri-ai/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-13T13:46:19.000Z",
+   "summary": "It's more than just an enlarged Apple Watch."
+  },
+  {
+   "id": "fe89c029ed9d894e",
+   "title": "Character.AI just filed for bankruptcy, and former foe Disney may buy it for parts",
+   "url": "https://www.engadget.com/2285177/character-ai-just-filed-for-bankruptcy-and-former-foe-disney-may-buy-it-for-parts/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-13T13:45:10.000Z",
+   "summary": "Character.AI, a controversial generative AI startup that lets users create their own chatbot characters, has filed for Chapter 11 bankruptcy"
+  },
+  {
+   "id": "f43989b2a0b25e7e",
+   "title": "How to use a ChatGPT Dot when it rolls out to you",
+   "url": "https://www.engadget.com/2281998/how-to-use-opeai-dot-rollout-schedule/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-13T13:45:00.000Z",
+   "summary": "OpenAI is hoping that Dots will make automating online tasks a lot easier. Here's what you'll need to use them, how to set them up and what they're capable of."
+  },
+  {
+   "id": "85a2e440849f5603",
+   "title": "Apple Announces $149 HomePod Mini 2 With Siri AI, 'Sound Glow', and Four-Speaker Surround Sound",
+   "url": "https://www.macrumors.com/2026/10/13/apple-homepod-mini-2/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-10-13T13:40:47.000Z",
+   "summary": "Apple today announced a new HomePod mini equipped with Siri AI, new colors, and improved audio experiences. The new ‌HomePod mini‌ has an S10 chip that supports advanced computational audio, and Apple says it optimizes dynamic range, loudness, and acoustic performance in real-time. A Sound Glow…"
+  },
+  {
+   "id": "0dd836dff826210f",
+   "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
+   "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:38:03.000Z",
+   "summary": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30."
+  },
+  {
+   "id": "89ed41b85ec0df67",
+   "title": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
+   "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:37:19.000Z",
+   "summary": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps."
+  },
+  {
+   "id": "841e3ce98e757838",
+   "title": "Apple Launches 'Apple Home Collection' With Cameras, Lock, Thermostats and More",
+   "url": "https://www.macrumors.com/2026/10/13/apple-home-collection/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:32:57.000Z",
+   "summary": "Apple today debuted the \"Apple Home Collection,\" an accessory lineup it developed with LG Electronics and Schneider Electric. The collection includes cameras, thermostats, temperature sensors, and a door lock. All of the home devices are designed to work with the HomeView, Apple's new home hub…"
+  },
+  {
+   "id": "0c5cdd3c313befa7",
+   "title": "Apple TV 4K is Now Even More Expensive, 128GB Model Priced at $299",
+   "url": "https://www.macrumors.com/2026/10/13/apple-tv-4k-is-now-even-more-expensive/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:32:04.000Z",
+   "summary": "The new Apple TV 4K announced today is even more expensive than the previous model, with U.S. pricing set at $299. earlier price increase. All in all, the Apple TV 4K's starting price has now gone from $129 to $299 this year. Related Roundup: Apple TV Buyer's Guide: Apple TV (Buy Now) Related…"
+  },
+  {
+   "id": "818369455f1085ac",
+   "title": "Apple unveils Apple Home Collection smart home accessories developed with LG and Schneider",
+   "url": "https://9to5mac.com/2026/10/13/apple-unveils-apple-home-collection-smart-home-accessories-developed-with-lg-and-schneider/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:30:06.000Z",
+   "summary": "Apple today confirmed that it is working with at least two third-party companies to develop a new lineup of smart home accessories, including cameras, thermostats, and a smart lock. Here are the details. more…"
+  },
+  {
+   "id": "ec82c43846be1cb8",
+   "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:28:06.000Z",
+   "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off."
+  },
+  {
+   "id": "275d7fde95522320",
+   "title": "Where to preorder the new Apple TV 4K",
+   "url": "https://www.theverge.com/gadgets/1009921/apple-tv-4k-2026-preorder-buy",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:26:40.000Z",
+   "summary": "Apple debuted its latest Apple TV 4K - its first in four years - and it'll be available starting Friday, November 13th. It's powerful, with the A19 chip (the now-discontinued 2022 model has the A15 Bionic), plus a dedicated AV1 decoder, and it features better wireless connectivity than its…"
+  },
+  {
+   "id": "3006c2d34f17c92d",
+   "title": "India delays digital payments fee rollout amid retailer pushback",
+   "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:25:05.000Z",
+   "summary": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season."
+  },
+  {
+   "id": "ea542e83c18f683d",
+   "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
+   "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-13T13:16:11.000Z",
+   "summary": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13."
+  },
+  {
+   "id": "a0d7deae9228619c",
+   "title": "Apple makes another push into the smart home market with HomeView",
+   "url": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:15:46.000Z",
+   "summary": "Apple is taking a big swing at the smart home market with its latest product that competes with Amazon Echo Show and Google Nest Hub."
+  },
+  {
+   "id": "f61125710620a87a",
+   "title": "Why is your phone overheating while using CarPlay or Android Auto?",
+   "url": "https://www.engadget.com/2281992/why-phone-overheating-while-using-android-auto-carplay/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:15:00.000Z",
+   "summary": "CarPlay and Android Auto do a great job of projecting your phone onto your vehicle's dash. However, certain stresses can cause it to overheat and play up."
+  },
+  {
+   "id": "932a3f2c75f83fa4",
+   "title": "Siri AI coming to older Apple TV 4K models, here’s what’s compatible",
+   "url": "https://9to5mac.com/2026/10/13/siri-ai-coming-to-older-apple-tv-4k-models-heres-whats-compatible/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-10-13T13:12:28.000Z",
+   "summary": "Today Apple introduced a fourth-generation Apple TV 4K with Siri AI, and A19 chip, and more. But the company also shared welcome news for current Apple TV users: Siri AI is compatible with select older models too. more…"
+  },
+  {
+   "id": "77f97a244b399dc7",
+   "title": "Apple HomeView Won't Be Available in the European Union",
+   "url": "https://www.macrumors.com/2026/10/13/apple-homeview-wont-be-available-in-eu/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:09:00.000Z",
+   "summary": "Apple's new HomeView smart home hub will not be available in the European Union because Siri AI is currently unavailable on iOS in the region, the company said today. Apple said it is \"working constructively with the EU in an attempt to find a path forward,\" but provided no timeline for EU…"
+  },
+  {
+   "id": "44df907ed92cb1e5",
+   "title": "Apple announces HomePod mini 2: Siri AI, new colors, Sound Glow, more",
+   "url": "https://9to5mac.com/2026/10/13/apple-announces-homepod-mini-2-siri-ai-new-colors-sound-glow-more/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-10-13T13:08:20.000Z",
+   "summary": "Apple has officially announced the new HomePod mini 2 smart speaker. The new product was announced by Apple today alongside the new HomeView smart display and fourth-gen Apple TV 4K. more…"
+  },
+  {
+   "id": "8b832fc461adb4f6",
+   "title": "New Apple TV 4K Announced With A19 Chip, Updated Siri Remote, More",
+   "url": "https://www.macrumors.com/2026/10/13/new-apple-tv-4k-announced/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:08:19.000Z",
+   "summary": "Apple today announced the fourth-generation Apple TV 4K, with key features including an A19 chip, Siri AI support, an updated Siri Remote that has Find My support with Precision Finding, built in far-field microphones, support for surround sound with four HomePods in front and rear pairs, and more…"
+  },
+  {
+   "id": "7832711a5b0c34ee",
+   "title": "Everything announced at Apple's 'Welcome Home' event",
+   "url": "https://www.engadget.com/2285079/everything-apple-announced-home-view-homepod-mini-2-event/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:05:00.000Z",
+   "summary": "All about the HomeView, Homepod mini, Apple Home Collection and more."
+  },
+  {
+   "id": "2316dd86769ac997",
+   "title": "High-speed video reveals how honey bee stingers pump venom",
+   "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:03:45.000Z",
+   "summary": "Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons\" to deliver venom."
+  },
+  {
+   "id": "49719d3ee95d0cc9",
+   "title": "Apple announces new Apple TV 4K with upgraded Siri Remote, A19 chip, more",
+   "url": "https://9to5mac.com/2026/10/13/apple-announces-new-apple-tv-4k/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:02:28.000Z",
+   "summary": "Today Apple unveiled a brand new Apple TV 4K model as part of its ‘Welcome home’ product launch event. Here are the full details from the announcement. more…"
+  },
+  {
+   "id": "75739da64d13fe9e",
+   "title": "Apple HomeView",
+   "url": "https://www.apple.com/apple-homeview/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:02:12.000Z",
+   "summary": "354 points · 432 comments"
+  },
+  {
+   "id": "e32358f1430b8461",
+   "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+   "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-13T13:00:00.000Z",
+   "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows."
+  },
+  {
+   "id": "3bcc8e0a51dd92f6",
+   "title": "Apple debuts the Apple Home Collection of smart devices, including cameras, thermostats and door locks",
+   "url": "https://www.engadget.com/2285070/apple-debuts-the-apple-home-collection-of-smart-devices-including-cameras-thermostats-and-door-locks/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:00:00.000Z",
+   "summary": "Apple collaborated with LG and Schneider Electric on products that work with its HomeView display."
+  },
+  {
+   "id": "8e063806f32b5247",
+   "title": "Apple updates the HomePod mini with more audio features and new colors",
+   "url": "https://www.engadget.com/2285033/apple-homepod-mini-2-launch-siri-ai-later/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:00:00.000Z",
+   "summary": "The new model arrives on October 30, but its Siri AI features are coming later."
+  },
+  {
+   "id": "41e6fa6d7da2fb68",
+   "title": "Apple refreshes the Apple TV 4K for Siri AI",
+   "url": "https://www.engadget.com/2285043/new-apple-tv-4k-with-siri-ai/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-13T13:00:00.000Z",
+   "summary": "New microphones, a new remote and the new Siri AI are on the company's streaming box."
+  },
+  {
+   "id": "66c673976355a142",
+   "title": "Apple unveils HomeView, the company's smart display built for Siri AI",
+   "url": "https://www.engadget.com/2285072/apple-launch-homeview-smart-display-siri-ai/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-13T13:00:00.000Z",
+   "summary": "Two versions will be available in November for $299."
+  },
+  {
+   "id": "47e8b7c04719e787",
+   "title": "Beats and Pokémon team up for new special-edition Beats Pill",
+   "url": "https://9to5mac.com/2026/10/13/beats-and-pokemon-team-up-for-new-special-edition-beats-pill/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:00:00.000Z",
+   "summary": "Beats is teaming up with The Pokémon Company for a special-edition version of the Beats Pill. Beats says this collab is “here to unleash the energy of your music, inspired by the power of Pikachu’s brightest spark and the depths of Mimikyu’s mystery.” more…"
+  },
+  {
+   "id": "3ac850ccd87a8f47",
+   "title": "Apple unveils new HomeView smart display: pre-order today for $299",
+   "url": "https://9to5mac.com/2026/10/13/apple-homeview-announced-features-price-release-date/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-13T12:59:34.000Z",
+   "summary": "Apple today officially unveiled its new HomeView smart display. HomeView features a 7-inch square display and comes in two versions: one with a speaker base and another for wall mounting. You can pre-order HomeView today for $299. It will start arriving to customers on November 13. Here’s…"
+  },
+  {
+   "id": "e3b518ac9e52b27f",
+   "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
+   "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+   "source": "Apple Newsroom",
+   "section": "tech",
+   "publishedAt": "2026-10-13T12:59:16.617Z",
+   "summary": "Apple today introduced Apple HomeView, designed to be central to the home and personal to everyone in it."
+  },
+  {
+   "id": "d2abe60c1c486c27",
+   "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+   "source": "Apple Newsroom",
+   "section": "ai",
+   "publishedAt": "2026-10-13T12:58:10.680Z",
+   "summary": "Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet."
+  },
+  {
+   "id": "91ff4348a6fc0e95",
+   "title": "Apple announces the next generation of HomePod mini",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
+   "source": "Apple Newsroom",
+   "section": "tech",
+   "publishedAt": "2026-10-13T12:57:08.267Z",
+   "summary": "Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences."
+  },
+  {
+   "id": "84d2a182bcb38293",
+   "title": "Introducing Apple Home Collection, a new lineup of smart home accessories",
+   "url": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
+   "source": "Apple Newsroom",
+   "section": "tech",
+   "publishedAt": "2026-10-13T12:56:12.276Z",
+   "summary": "Apple today announced Apple Home Collection, a new lineup of smart home accessories built in collaboration with LG Electronics and Schneider Electric."
+  },
+  {
+   "id": "ea68e9d99622ec39",
+   "title": "What happens to an EV battery after it's removed from your car?",
+   "url": "https://www.engadget.com/2281835/ev-battery-what-happens-after-removed/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-13T12:45:00.000Z",
+   "summary": "EV batteries don't last forever, and once they get past the point of repair, there are a few ways that they can still serve a useful purpose."
+  },
+  {
+   "id": "4ef96038421811ec",
+   "title": "BB(10) > Graham's Number",
+   "url": "https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T12:40:04.000Z",
+   "summary": "43 points · 19 comments"
+  },
+  {
+   "id": "af23ae25e4124b9f",
+   "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
+   "url": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-13T12:40:00.000Z",
+   "summary": "As AI data centers and EVs drive up demand for copper, Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral."
+  },
+  {
+   "id": "c207af8abd052772",
+   "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+   "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T12:26:36.000Z",
+   "summary": "154 points · 61 comments"
+  },
+  {
+   "id": "79a05db28691ac29",
+   "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+   "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-13T12:23:42.000Z",
+   "summary": "The startup will sell some of its assets to Disney for $20 million."
+  },
+  {
+   "id": "4369599dd1130f8a",
+   "title": "Worlds More Habitable Than Earth? They're Out There",
+   "url": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T12:23:34.000Z",
+   "summary": "11 points · 9 comments"
+  },
+  {
+   "id": "8d037adff38acb43",
+   "title": "What is the difference between a rearview and a backup camera?",
+   "url": "https://www.engadget.com/2281751/rearview-vs-backup-camera-differences-between/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-13T12:15:00.000Z",
+   "summary": "Rear-mounted cameras have been a game changer for drivers and road safety overall, but be aware that there are different options and purposes for them."
+  },
+  {
+   "id": "8913ce292e66678e",
+   "title": "Mozilla Introduces Firefox Enterprise",
+   "url": "https://www.firefox.com/en-US/enterprise/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T12:00:42.000Z",
+   "summary": "313 points · 148 comments"
+  },
+  {
+   "id": "08c1456fbfe647ae",
+   "title": "A Visual Intro to Complex Numbers",
+   "url": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T12:00:04.000Z",
+   "summary": "65 points · 43 comments"
+  },
+  {
+   "id": "57a95a23f4dd5b1d",
+   "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+   "url": "https://eg2.haku.sh/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T11:27:14.000Z",
+   "summary": "275 points · 63 comments"
+  },
+  {
+   "id": "dd1208e65bb1ac61",
+   "title": "11 year old unsoundness bugs found in Rust borrow checker",
+   "url": "https://github.com/rust-lang/rust/issues/164250",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T10:27:00.000Z",
+   "summary": "485 points · 275 comments"
+  },
+  {
+   "id": "deeb24e73aea6055",
+   "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+   "url": "https://pdftomp3.com/connect-ai/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-13T10:08:34.000Z",
+   "summary": "125 points · 61 comments"
+  },
+  {
+   "id": "f7e166de6a15be2e",
+   "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+   "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T10:08:00.000Z",
+   "summary": "348 points · 161 comments"
+  },
+  {
+   "id": "a6649214c90c0591",
+   "title": "Open models have real benefits. Do they outweigh the risks?",
+   "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+   "source": "MIT Tech Review",
+   "section": "ai",
+   "publishedAt": "2026-10-13T10:00:00.000Z",
+   "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk…"
+  },
+  {
+   "id": "acf442d7813c776a",
+   "title": "Apple @ Work Podcast: Addigy announces Intelligence Suite, aimed at bringing AI control to Apple devices",
+   "url": "https://9to5mac.com/2026/10/13/addigy-intelligence-suite/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-10-13T10:00:00.000Z",
+   "summary": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000…"
+  },
+  {
+   "id": "c55080815759388b",
+   "title": "AI labs are buying data from dead startups to train their models",
+   "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+   "source": "MIT Tech Review",
+   "section": "ai",
+   "publishedAt": "2026-10-13T09:00:00.000Z",
+   "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a…"
+  },
+  {
+   "id": "0c6b4396c33eb0ea",
+   "title": "Document Review with Unsiloed and TypeSafe Jev",
+   "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T08:24:51.000Z",
+   "summary": "38 points · 7 comments"
+  },
+  {
+   "id": "a7c4f3fe4f907cc3",
+   "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+   "url": "https://blog.character.ai/an-update-on-character-ai/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-13T07:28:34.000Z",
+   "summary": "141 points · 76 comments"
+  },
+  {
    "id": "0d85699f0b346558",
    "title": "Denmark set to allow return of 'physical force' in school",
    "url": "https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html",
@@ -89,6 +1052,15 @@
    "section": "tech",
    "publishedAt": "2026-10-13T06:27:03.000Z",
    "summary": "50 points · 23 comments"
+  },
+  {
+   "id": "197f139f3605e4b9",
+   "title": "Hittite royal archive found in Turkey",
+   "url": "https://www.thehistoryblog.com/archives/77107",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T06:02:51.000Z",
+   "summary": "258 points · 68 comments"
   },
   {
    "id": "263d0f869787ab7f",
@@ -45746,357 +46718,6 @@
    "section": "tech",
    "publishedAt": "2026-09-13T16:23:43.000Z",
    "summary": "7 points · 0 comments"
-  },
-  {
-   "id": "e03fb8ca1203c919",
-   "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-   "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-13T16:04:00.000Z",
-   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it."
-  },
-  {
-   "id": "4728d1562a37b1ba",
-   "title": "What was the PSX? The souped-up PS2 rarely sold outside of Japan",
-   "url": "https://www.engadget.com/2252840/psx-ps2-console-history-rarely-sold-outside-japan/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-13T16:00:00.000Z",
-   "summary": "The PSX isn't just an alternative name for the first PlayStation. It was also a failed Sony console that never got a release outside Japan."
-  },
-  {
-   "id": "38648408f483d0e2",
-   "title": "If your laptop trackpad is popping out, stop using it immediately",
-   "url": "https://www.engadget.com/2252834/laptop-trackpad-popping-out-stop-using-immediately-battery-swelling/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-13T15:30:00.000Z",
-   "summary": "Your trackpad probably covers a part of your laptop that can become a fire hazard in a hurry, so if your trackpad is shifting, it needs immediate attention."
-  },
-  {
-   "id": "eaf881cb257c45f9",
-   "title": "Libraries Run Rust Inside Python (With PyO3)",
-   "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T15:24:05.000Z",
-   "summary": "27 points · 21 comments"
-  },
-  {
-   "id": "503b004a412e5ee0",
-   "title": "Predictive intelligence to anticipate anything.",
-   "url": "https://prior.chat/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T15:11:22.000Z",
-   "summary": "15 points · 18 comments"
-  },
-  {
-   "id": "81019b1c29ea2fff",
-   "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
-   "url": "https://cpak.it/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T15:02:56.000Z",
-   "summary": "18 points · 5 comments"
-  },
-  {
-   "id": "58355ea2e1577f76",
-   "title": "Are Apple's wired EarPods still worth buying?",
-   "url": "https://www.engadget.com/2251050/apple-wired-earpods-still-worth-buying/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-13T15:00:00.000Z",
-   "summary": "Wired earbuds like EarPods might seem like a relic of the past, but they still have their place (and come at a great price)."
-  },
-  {
-   "id": "2bd75db4b16a8e16",
-   "title": "Here's what you can use instead of a docking station",
-   "url": "https://www.engadget.com/2252831/what-use-instead-of-docking-station/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-13T14:30:00.000Z",
-   "summary": "If you only need ports for a few low-power peripherals or a single external monitor, you may not need a docking station at all."
-  },
-  {
-   "id": "82bab9946b1faea0",
-   "title": "This unique retro dock adds a flip-up display, Thunderbolt 5, & 8TB storage to your Mac [Video]",
-   "url": "https://9to5mac.com/2026/09/13/this-unique-retro-dock-adds-a-flip-up-display-thunderbolt-5-8tb-storage-to-your-mac-wokyis-g5-g7-video/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-13T14:30:00.000Z",
-   "summary": "Amid all the craziness of this iPhone launch week, one of my favorite brands has released its brand-new retro-style dock for the Mac mini and the Mac Studio. Last year, they released their Retro Dock for the M4 Mac mini, and it was the perfect combination of functionality, form, and nostalgia that…"
-  },
-  {
-   "id": "b2c88a3c4e13ce88",
-   "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-   "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T14:28:36.000Z",
-   "summary": "183 points · 68 comments"
-  },
-  {
-   "id": "184bca2e63b63d0c",
-   "title": "Waymo pulls over, calls cops on riders with a ghost gun",
-   "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-13T14:28:12.000Z",
-   "summary": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall. While the police report did not specify who was operating…"
-  },
-  {
-   "id": "056a74d1a1dde543",
-   "title": "Apple is designing its own game controllers for iPhone, could be Beats branded",
-   "url": "https://9to5mac.com/2026/09/13/apple-designing-iphone-game-controller/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-13T14:26:11.000Z",
-   "summary": "Bloomberg’s Mark Gurman has today corroborated references discovered in macOS beta code that indicated Apple is designing its own game controllers for iPhone. Apple already sells some controllers like the Backbone One (pictured above) and SteelSeries Nimbus+ through the Apple Store, and now it…"
-  },
-  {
-   "id": "95428f9b148cbd79",
-   "title": "CUDA for AMD on Windows",
-   "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T14:25:13.000Z",
-   "summary": "62 points · 15 comments"
-  },
-  {
-   "id": "16e7211a8f21a5fc",
-   "title": "AirPods 5 Pre-Orders Go Live, While Older Models Reach Up to $100 Off This Weekend",
-   "url": "https://www.macrumors.com/2026/09/13/airpods-5-older-models-100-off/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-13T14:21:23.000Z",
-   "summary": "Apple just announced the new AirPods 5, and Amazon has them up for pre-order right now starting at $129.00. If you are looking for deals on other models, Amazon also has great prices on AirPods Max 2 at $100 off, AirPods Pro 3 at $50 off, and AirPods 4 at $30 off. Note: MacRumors is an affiliate…"
-  },
-  {
-   "id": "91c006c6a78f788a",
-   "title": "OpenArm: An open-source 7DOF humanoid arm",
-   "url": "https://github.com/enactic/OpenArm",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T14:17:49.000Z",
-   "summary": "90 points · 18 comments"
-  },
-  {
-   "id": "5a10885d6f5d58a4",
-   "title": "An interactive world map of the stories cultures have told",
-   "url": "https://originmap.sunnyguha.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T14:09:57.000Z",
-   "summary": "22 points · 0 comments"
-  },
-  {
-   "id": "60e73d46215183df",
-   "title": "Making Startups Powerful",
-   "url": "https://paulgraham.com/powerful.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T14:09:53.000Z",
-   "summary": "41 points · 17 comments"
-  },
-  {
-   "id": "de4841a18840670d",
-   "title": "Key symbols we lost to time, pt. 1: The PC side",
-   "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T14:00:44.000Z",
-   "summary": "45 points · 13 comments"
-  },
-  {
-   "id": "73103edd3e4ea97d",
-   "title": "How to set up HDMI-CEC on your Samsung TV",
-   "url": "https://www.engadget.com/2252825/how-to-set-up-hdmi-cec-samsung-tv/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-13T14:00:00.000Z",
-   "summary": "HDMI-CEC, or Anynet+ on Samsung TVs, lets you control all your devices with fewer remotes and button presses. It's well worth setting up properly."
-  },
-  {
-   "id": "dd0e437e1077fd74",
-   "title": "Flock worker calls police on reporter filming public camera installation",
-   "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T13:35:31.000Z",
-   "summary": "22 points · 6 comments"
-  },
-  {
-   "id": "c0d1c12291b93a72",
-   "title": "Mars astronauts could live in houses made of yeast and jello, say scientists",
-   "url": "https://www.theregister.com/offbeat/2026/09/11/mars-astronauts-could-live-in-houses-made-of-yeast-and-jello-say-scientists/5295931",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T13:34:23.000Z",
-   "summary": "5 points · 1 comments"
-  },
-  {
-   "id": "d70d00cf1eea18d2",
-   "title": "AI models don't kill people – people kill people",
-   "url": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-13T13:33:34.000Z",
-   "summary": "8 points · 0 comments"
-  },
-  {
-   "id": "064882ad74e9a3ec",
-   "title": "Never use harsh cleaning products to clean your smartphone — do this instead",
-   "url": "https://www.engadget.com/2252829/never-use-harsh-cleaning-products-clean-smartphone/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-13T13:30:00.000Z",
-   "summary": "Your phone is a magnet for germs, but there are gentle ways to clean it."
-  },
-  {
-   "id": "09ff2ba67843ce6d",
-   "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
-   "url": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T13:24:28.000Z",
-   "summary": "20 points · 11 comments"
-  },
-  {
-   "id": "85f9359b62faafbd",
-   "title": "Fusion power startups find new partners in the defense world",
-   "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-13T13:15:00.000Z",
-   "summary": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared."
-  },
-  {
-   "id": "a326514cb098b20a",
-   "title": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
-   "url": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-13T13:00:00.000Z",
-   "summary": "Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising director set to take over the reins (Bassam Tariq). In retrospect, though, the disappointing demise of…"
-  },
-  {
-   "id": "465bc0b12df92cd7",
-   "title": "How to get your cut of PlayStation's $7.85 million settlement",
-   "url": "https://www.engadget.com/2252822/how-to-get-cut-sony-playstation-digital-game-settlement/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-13T13:00:00.000Z",
-   "summary": "Sony should soon be issuing payments for a class-action lawsuit, but your cut will likely be quite small."
-  },
-  {
-   "id": "c39c272fda2d22c8",
-   "title": "Craig Federighi addresses iPhone Duo and iPad overlap",
-   "url": "https://9to5mac.com/2026/09/13/craig-federighi-addresses-iphone-duo-and-ipad-overlap/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-13T12:47:33.000Z",
-   "summary": "Craig Federighi, Apple’s senior vice president of Software Engineering, sat down with MKBHD this week to talk about the new iPhone Duo. In the interview, Federighi talked about the potential overlap between the iPhone Duo and an iPad. more…"
-  },
-  {
-   "id": "9d1f3a0ae85bbc5c",
-   "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-   "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T12:30:15.000Z",
-   "summary": "83 points · 27 comments"
-  },
-  {
-   "id": "fce2df9db0543a25",
-   "title": "External HDD vs. SSD: What are the pros and cons of each drive type?",
-   "url": "https://www.engadget.com/2252820/external-hdd-vs-ssd-pros-and-cons-drive-type/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-13T12:30:00.000Z",
-   "summary": "External SSDs are faster than HDDs, but if you need cost-effective backups or larger capacities, a hard drive may be a better choice for you."
-  },
-  {
-   "id": "9d24131f2c20c194",
-   "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-   "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T12:01:52.000Z",
-   "summary": "27 points · 13 comments"
-  },
-  {
-   "id": "f784af32a7cf49d8",
-   "title": "Your car is selling your data",
-   "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-13T12:00:00.000Z",
-   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Earlier this…"
-  },
-  {
-   "id": "2abf3a4cc8856b11",
-   "title": "Apple’s new phones are here",
-   "url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-13T12:00:00.000Z",
-   "summary": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I've been devouring every iPhone Duo video I can find…"
-  },
-  {
-   "id": "43d75e14c42c715c",
-   "title": "Why your Roku keeps randomly turning off (and how to fix it)",
-   "url": "https://www.engadget.com/2252813/roku-tv-randomly-turns-off-fixes/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-13T12:00:00.000Z",
-   "summary": "A Roku is usually a straightforward device, but they can run into power problems. This is what to check if yours powers off all the time."
-  },
-  {
-   "id": "351d300d84702bb1",
-   "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
-   "url": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-13T11:00:41.000Z",
-   "summary": "The manufacturer has a service that lets owners repair their own equipment."
-  },
-  {
-   "id": "af0833ef090e3bf0",
-   "title": "Here's When iOS 27 Rolls Out in Every Time Zone",
-   "url": "https://www.macrumors.com/2026/09/13/ios-27-release-date-time-zones/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-13T10:00:11.000Z",
-   "summary": "Apple is about to release iOS 27, which will finally deliver more advanced Siri AI capabilities as well as a variety of other refinements, improvements, and new features to iPhones. It's Apple's biggest software update of the year, and Apple announced at Wednesday's iPhone event that it will be…"
-  },
-  {
-   "id": "3f10477060d76a26",
-   "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-   "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-13T09:40:46.265Z",
-   "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
-  },
-  {
-   "id": "8059c40315dded9e",
-   "title": "Norton Neo Browser",
-   "url": "https://neobrowser.ai/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T09:07:59.000Z",
-   "summary": "5 points · 0 comments"
-  },
-  {
-   "id": "3e885c3bc9bfc23c",
-   "title": "Homebrew 7.0.0",
-   "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T08:41:17.000Z",
-   "summary": "18 points · 4 comments"
   }
  ]
 }
