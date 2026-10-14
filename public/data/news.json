@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T00:34:58.915Z",
+ "updatedAt": "2026-10-14T05:21:58.767Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,78 @@
   }
  ],
  "items": [
+  {
+   "id": "60e62dc73b977be3",
+   "title": "Felix Rieseberg Homepage",
+   "url": "https://felixrieseberg.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T04:42:33.000Z",
+   "summary": "10 points · 2 comments"
+  },
+  {
+   "id": "e145f3e2b779ce8f",
+   "title": "Is 'Attention' the Essence of Intelligence?",
+   "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T03:10:25.000Z",
+   "summary": "35 points · 12 comments"
+  },
+  {
+   "id": "4211cf8b52e6a120",
+   "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+   "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+   "source": "Google DeepMind",
+   "section": "ai",
+   "publishedAt": "2026-10-14T02:00:14.000Z",
+   "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
+  },
+  {
+   "id": "094ef3809d9f59fc",
+   "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+   "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-14T01:30:42.000Z",
+   "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang."
+  },
+  {
+   "id": "07d5887a46cf07f0",
+   "title": "I built a tool to track what AI leaders say and how their views change on video",
+   "url": "https://blumify.io/people",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-14T01:09:13.000Z",
+   "summary": "57 points · 30 comments"
+  },
+  {
+   "id": "3ad9815416b9b672",
+   "title": "Do Frameworks Matter Anymore?",
+   "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T01:01:08.000Z",
+   "summary": "21 points · 7 comments"
+  },
+  {
+   "id": "f8583e9579acbefb",
+   "title": "Apple challenges Taction’s $5.7B patent verdict, says damages were based on ‘guesswork’",
+   "url": "https://9to5mac.com/2026/10/13/apple-challenges-tactions-5-7b-patent-verdict-says-damages-were-based-on-guesswork/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-14T00:56:57.000Z",
+   "summary": "Apple is asking a federal judge to overturn a $5.7 billion verdict in a patent infringement lawsuit brought by Taction Technology over the Taptic Engine used in iPhones and Apple Watches. Here are the details. more…"
+  },
+  {
+   "id": "e9ba7a1d97541872",
+   "title": "Apple's HomeView Repair Fees Revealed",
+   "url": "https://www.macrumors.com/2026/10/13/apple-homeview-repair-fees/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-14T00:44:32.000Z",
+   "summary": "If you damage Apple's new HomeView smart home hub, here is what the repair fees are set at: $39 with AppleCare+ coverage and $279 without. These fees apply to any type of damage to either the tabletop or wall-mounted HomeView models. Related Roundup: Apple HomeView Tag: AppleCare Buyer's Guide…"
+  },
   {
    "id": "d99b50359c71a025",
    "title": "Here’s how much it costs to repair the new Apple HomeView",
@@ -188,6 +260,15 @@
    "section": "tech",
    "publishedAt": "2026-10-13T22:48:12.000Z",
    "summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream."
+  },
+  {
+   "id": "115579746e44ab76",
+   "title": "Grace Hopper Celebration Cancelled",
+   "url": "https://anitab.org/press-release",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T22:46:49.000Z",
+   "summary": "70 points · 14 comments"
   },
   {
    "id": "a93eb8b961525528",
@@ -2908,6 +2989,15 @@
    "summary": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display."
   },
   {
+   "id": "6b125c086db760d4",
+   "title": "A Strongly Aperiodic Monotile in Three Dimensions",
+   "url": "https://arxiv.org/abs/2609.19214",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T15:09:22.000Z",
+   "summary": "3 points · 2 comments"
+  },
+  {
    "id": "9d86fc2cd09ef512",
    "title": "Fridges in French supermarkets hit by cyber attack",
    "url": "https://www.bbc.com/news/articles/crq5nzxv9q4yo",
@@ -3833,6 +3923,15 @@
    "section": "ai",
    "publishedAt": "2026-10-11T16:52:33.000Z",
    "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem."
+  },
+  {
+   "id": "165eb61aa15b05cb",
+   "title": "Sound – Bartosz Ciechanowski (2022)",
+   "url": "https://ciechanow.ski/sound/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T16:46:43.000Z",
+   "summary": "42 points · 4 comments"
   },
   {
    "id": "8f0af201ccf253c0",
@@ -47258,78 +47357,6 @@
    "section": "tech",
    "publishedAt": "2026-09-14T05:53:33.000Z",
    "summary": "67 points · 133 comments"
-  },
-  {
-   "id": "d4b7e3772455e955",
-   "title": "Inverse-Square Law",
-   "url": "https://blog.coredump.cx/p/inverse-square-law",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-14T04:45:43.000Z",
-   "summary": "21 points · 5 comments"
-  },
-  {
-   "id": "3bdd401e451bceb3",
-   "title": "Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping",
-   "url": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-14T03:26:51.000Z",
-   "summary": "19 points · 5 comments"
-  },
-  {
-   "id": "f5fda44c351b7d55",
-   "title": "Apple's Two Rumored Game Controllers Will 'Likely' Come From Beats",
-   "url": "https://www.macrumors.com/2026/09/13/apple-beats-game-controllers-rumor/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-14T03:06:30.000Z",
-   "summary": "Earlier this month, references to two unreleased Apple game controllers were allegedly spotted in macOS 26.7 beta code, and now Bloomberg's Mark Gurman has shared more details. Power On newsletter today, Gurman said the controllers have been in development for more than a year, are for the iPhone…"
-  },
-  {
-   "id": "05447e20b3a5edcb",
-   "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
-   "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-14T02:50:40.000Z",
-   "summary": "150 points · 197 comments"
-  },
-  {
-   "id": "6012ccbbc0f1437e",
-   "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
-   "url": "https://calif.io/research/oempocalypse",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-14T02:25:44.000Z",
-   "summary": "72 points · 32 comments"
-  },
-  {
-   "id": "c9cf5ddaf65c9d64",
-   "title": "The Malicious Use of Artificial Intelligence",
-   "url": "https://arxiv.org/abs/1802.07228",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-14T01:22:35.000Z",
-   "summary": "31 points · 7 comments"
-  },
-  {
-   "id": "00d5c3c998a2463f",
-   "title": "Show HN: Exploring the intersection of prediction markets and social media",
-   "url": "https://www.thevidmarket.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-14T01:14:25.000Z",
-   "summary": "9 points · 1 comments"
-  },
-  {
-   "id": "3f0cc12cd4c99ea5",
-   "title": "The case against JPEG XL",
-   "url": "https://giannirosato.com/blog/post/case-against-jxl/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-14T01:02:37.000Z",
-   "summary": "73 points · 98 comments"
   }
  ]
 }
