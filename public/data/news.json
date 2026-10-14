@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-14T05:21:58.767Z",
+ "updatedAt": "2026-10-14T10:33:58.035Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1288
+   "count": 1289
   },
   {
    "name": "Google DeepMind",
@@ -77,10 +77,82 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 30
+   "count": 31
   }
  ],
  "items": [
+  {
+   "id": "82f24e3a667f2533",
+   "title": "I let an AI run my startup for a week",
+   "url": "https://daily.tinyprojects.dev/221",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-14T10:25:48.000Z",
+   "summary": "3 points · 0 comments"
+  },
+  {
+   "id": "532ad245463223e3",
+   "title": "Apple: Switch to Safari (From Chrome)",
+   "url": "https://www.apple.com/safari/switch/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T10:08:57.000Z",
+   "summary": "3 points · 1 comments"
+  },
+  {
+   "id": "d8d92b46e508a09b",
+   "title": "People are hating on Apple Music's redesigned black-and-white logo",
+   "url": "https://www.engadget.com/2286289/people-are-hating-on-apple-music-redesigned-black-and-white-logo/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-14T10:06:55.000Z",
+   "summary": "Apple Music may be changing its iconic logo to a more basic black and white version."
+  },
+  {
+   "id": "188b83d1e48401bb",
+   "title": "Ask HN: What is the current trajectory of a senior engineer?",
+   "url": "https://news.ycombinator.com/item?id=50084969",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T09:54:23.000Z",
+   "summary": "4 points · 2 comments"
+  },
+  {
+   "id": "a4d602503a887d9a",
+   "title": "Qualcomm wins lawsuit against Arm but will only receive two bucks",
+   "url": "https://www.engadget.com/2286281/arm-must-pay-qualcomm-2-license-breach-lawsuit/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-14T09:42:14.000Z",
+   "summary": "A jury found that Arm breached its agreement with Qualcomm and interfered with its business, but Arm only has to pay $2 in damages."
+  },
+  {
+   "id": "85bbcb8c58ba4a34",
+   "title": "What agents mean for Rust (and vice versa)",
+   "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T08:49:06.000Z",
+   "summary": "13 points · 10 comments"
+  },
+  {
+   "id": "428e98202747baf1",
+   "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+   "url": "https://typeof.net/Iosevka/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T08:27:59.000Z",
+   "summary": "102 points · 35 comments"
+  },
+  {
+   "id": "071df7d2173e99c5",
+   "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+   "url": "https://github.com/android/ndk/issues/2260",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T06:18:01.000Z",
+   "summary": "269 points · 120 comments"
+  },
   {
    "id": "60e62dc73b977be3",
    "title": "Felix Rieseberg Homepage",
@@ -89,6 +161,15 @@
    "section": "tech",
    "publishedAt": "2026-10-14T04:42:33.000Z",
    "summary": "10 points · 2 comments"
+  },
+  {
+   "id": "1762d35c2df00d7d",
+   "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
+   "url": "https://strafe.chat/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T03:28:00.000Z",
+   "summary": "29 points · 12 comments"
   },
   {
    "id": "e145f3e2b779ce8f",
@@ -170,6 +251,15 @@
    "section": "tech",
    "publishedAt": "2026-10-14T00:00:00.000Z",
    "summary": "When you spend a lot on on a TV, you expect it to last a while. But that support period varies wildly by manufacturer."
+  },
+  {
+   "id": "2468d0155f578730",
+   "title": "The EU’s next chapter in AI is agentic",
+   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-10-14T00:00:00.000Z",
+   "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
   },
   {
    "id": "2d76e7cdff1a1ca6",
@@ -1747,6 +1837,15 @@
    "summary": "The new Apple TV 4K announced today is even more expensive than the previous model, with U.S. pricing set at $299. earlier price increase. All in all, the Apple TV 4K's starting price has now gone from $129 to $299 this year. Related Roundup: Apple TV Buyer's Guide: Apple TV (Buy Now) Related…"
   },
   {
+   "id": "6335577f8d3e455a",
+   "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
+   "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:31:43.000Z",
+   "summary": "13 points · 0 comments"
+  },
+  {
    "id": "818369455f1085ac",
    "title": "Apple unveils Apple Home Collection smart home accessories developed with LG and Schneider",
    "url": "https://9to5mac.com/2026/10/13/apple-unveils-apple-home-collection-smart-home-accessories-developed-with-lg-and-schneider/",
@@ -2422,6 +2521,15 @@
    "summary": "106 points · 8 comments"
   },
   {
+   "id": "785ddc404f87e48f",
+   "title": "Kcgi – minimal CGI and FastCGI library for C/C++",
+   "url": "https://kristaps.bsd.lv/kcgi/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T21:09:08.000Z",
+   "summary": "30 points · 16 comments"
+  },
+  {
    "id": "e11f4d640d0dc31d",
    "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
    "url": "https://brickbrag.com/",
@@ -2942,6 +3050,15 @@
    "section": "ai",
    "publishedAt": "2026-10-12T15:27:59.000Z",
    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch."
+  },
+  {
+   "id": "03ed15c7edf87ad5",
+   "title": "How to Select an Experiment",
+   "url": "https://chillphysicsenjoyer.substack.com/p/how-to-select-an-experiment",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T15:20:04.000Z",
+   "summary": "4 points · 0 comments"
   },
   {
    "id": "8b099aefcc191413",
@@ -3824,6 +3941,15 @@
    "section": "tech",
    "publishedAt": "2026-10-11T18:10:54.000Z",
    "summary": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers."
+  },
+  {
+   "id": "56c17b008f979e8e",
+   "title": "Arena Allocators in C",
+   "url": "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T18:07:56.000Z",
+   "summary": "46 points · 15 comments"
   },
   {
    "id": "48aa178b2f84cecf",
@@ -47213,150 +47339,6 @@
    "section": "tech",
    "publishedAt": "2026-09-14T11:00:00.000Z",
    "summary": "Here are some of the GameCube games that have held up best over the last 25 years."
-  },
-  {
-   "id": "5a5573b990f75c2a",
-   "title": "How Is Compression Prediction?",
-   "url": "https://lukefleed.xyz/posts/compression/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-14T10:22:33.000Z",
-   "summary": "4 points · 0 comments"
-  },
-  {
-   "id": "fb535c4a1b1c098c",
-   "title": "Archiving pirate radio station Kool FM",
-   "url": "https://londonist.com/london/music/kool-fm-archives",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-14T10:01:05.000Z",
-   "summary": "65 points · 24 comments"
-  },
-  {
-   "id": "33455b968d00352f",
-   "title": "Pkgsrc Is Cool (2022)",
-   "url": "https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-14T09:53:34.000Z",
-   "summary": "9 points · 0 comments"
-  },
-  {
-   "id": "541949bb438315df",
-   "title": "XCancel service is suspended until further notice",
-   "url": "https://xcancel.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-14T09:51:50.000Z",
-   "summary": "102 points · 352 comments"
-  },
-  {
-   "id": "0481d3cad878f837",
-   "title": "Third-Gen iPhone Duo to Get Face ID, Telephoto Lens, Expects Gurman",
-   "url": "https://www.macrumors.com/2026/09/14/third-gen-iphone-duo-face-id-telephoto-lens/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-14T09:30:48.000Z",
-   "summary": "Apple will prioritize adding Face ID and a telephoto lens to future iPhone Duo models, argues Bloomberg's Mark Gurman. The device debuted with Touch ID and dual rear cameras, likely owing to physical constraints. Power On newsletter, Gurman says his guess is that Apple will use a combination of…"
-  },
-  {
-   "id": "f46700fe5bac9364",
-   "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-   "url": "https://arxiv.org/abs/2511.07885",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-14T09:16:39.000Z",
-   "summary": "54 points · 7 comments"
-  },
-  {
-   "id": "9c78358851d56718",
-   "title": "Show HN: I made a flight simulator, except you're just a passenger",
-   "url": "https://inflightsimulator.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-14T09:08:56.000Z",
-   "summary": "85 points · 40 comments"
-  },
-  {
-   "id": "ea058e03bac736b2",
-   "title": "iPhone Duo Has a Hidden Display Setting for Case Compatibility",
-   "url": "https://www.macrumors.com/2026/09/14/iphone-duo-hidden-display-setting-explained/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-14T09:06:29.000Z",
-   "summary": "Apple's new iPhone Duo has a special option in its display settings that adds a narrow black border to the left side of the front screen. Blogger Nicolas Lellouche discovered the setting in the Display & Brightness menu during his hands-on time with the device shortly after Apple's iPhone event…"
-  },
-  {
-   "id": "f79013293bea4298",
-   "title": "A 386 PC for Your RP2350",
-   "url": "https://github.com/rh1tech/frank-386",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-14T08:25:57.000Z",
-   "summary": "41 points · 13 comments"
-  },
-  {
-   "id": "b42b4be7dd4d1d6c",
-   "title": "EuroBirdPortal – Live bird movements across Europe",
-   "url": "https://www.eurobirdportal.org/ebp/en/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-14T08:25:47.000Z",
-   "summary": "47 points · 16 comments"
-  },
-  {
-   "id": "fa69792438c56e05",
-   "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-   "url": "https://github.com/anuj0456/OpenArch",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-14T07:55:19.000Z",
-   "summary": "18 points · 3 comments"
-  },
-  {
-   "id": "cf2a61e96c3b1abf",
-   "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
-   "url": "https://screensize.net/reports/viewport-stats",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-14T07:35:00.000Z",
-   "summary": "20 points · 12 comments"
-  },
-  {
-   "id": "ab1148a1455aa2c0",
-   "title": "iOS 27 Available Today With These 8 New Features",
-   "url": "https://www.macrumors.com/2026/09/14/ios-27-features-available-tomorrow/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-14T07:00:00.000Z",
-   "summary": "During its iPhone 18 Pro and iPhone Duo event last week, Apple announced that iOS 27 will be released widely on Monday, September 14. iOS 27 should be available around 10 a.m. Pacific Time / 1 p.m. Eastern Time today via the Settings app, under General → Software Update. Below, we have highlighted…"
-  },
-  {
-   "id": "0e2de82e1219fb52",
-   "title": "Gurman: 'iPhone Duo Max' With Bigger Display Likely in Apple's Plans",
-   "url": "https://www.macrumors.com/2026/09/14/iphone-duo-max-apple-product-roadmap/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-14T06:54:47.000Z",
-   "summary": "Bloomberg's Mark Gurman has suggested Apple will release an \"iPhone Duo Max\" in the coming years, highlighting why Apple chose the \"Duo\" moniker over other names. In the months leading up to Apple's iPhone Duo unveiling, Gurman reported that employees within Apple had begun referring to the device…"
-  },
-  {
-   "id": "7315e17c40ce7dc8",
-   "title": "iPod Touch Released 19 Years Ago Today",
-   "url": "https://www.macrumors.com/2026/09/14/ipod-touch-released-19-years-ago-today/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-14T06:17:50.000Z",
-   "summary": "The first iPod touch went on general sale on September 14, 2007, nine days after Steve Jobs unveiled it at Apple's \"The Beat Goes On\" media event. The device brought the iPhone's multi-touch interface, Wi-Fi, and Safari browser to the iPod lineup for the first time, but it lacked cellular phone…"
-  },
-  {
-   "id": "9f013c6764ae46e0",
-   "title": "The Beauty of Roundabouts",
-   "url": "https://gruhn.me/blog/2026-09-14/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-14T05:53:33.000Z",
-   "summary": "67 points · 133 comments"
   }
  ]
 }
