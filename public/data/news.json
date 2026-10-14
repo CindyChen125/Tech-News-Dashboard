@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T21:30:45.295Z",
+ "updatedAt": "2026-10-14T00:34:58.915Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,244 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 31
+   "count": 30
   }
  ],
  "items": [
+  {
+   "id": "d99b50359c71a025",
+   "title": "Here’s how much it costs to repair the new Apple HomeView",
+   "url": "https://9to5mac.com/2026/10/13/heres-how-much-it-costs-to-repair-the-new-apple-homeview/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-14T00:10:48.000Z",
+   "summary": "Apple has published the estimated service costs for its new HomeView smart home display, including how much customers can expect to pay with and without AppleCare coverage. Here are the details. more…"
+  },
+  {
+   "id": "785476dfac333909",
+   "title": "Which smart TV brands offer the longest software support?",
+   "url": "https://www.engadget.com/2282502/smart-tv-brands-offer-longest-software-support/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-14T00:00:00.000Z",
+   "summary": "When you spend a lot on on a TV, you expect it to last a while. But that support period varies wildly by manufacturer."
+  },
+  {
+   "id": "2d76e7cdff1a1ca6",
+   "title": "Everything Apple Still Has Coming in October",
+   "url": "https://www.macrumors.com/2026/10/13/apple-october-upcoming-products/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T23:47:04.000Z",
+   "summary": "Apple debuted three new home products today, but the October announcements aren't over yet. Rumors suggest there will be another \"event\" on October 27, plus we're still waiting on the iPhone Duo. Here's everything we're expecting to see launch or be announced in October. October 16 - ‌iPhone Duo‌…"
+  },
+  {
+   "id": "fccdaa32a91f7aa1",
+   "title": "Is Mini DisplayPort becoming obsolete?",
+   "url": "https://www.engadget.com/2282398/mini-displayport-becoming-obsolete/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-13T23:30:00.000Z",
+   "summary": "Mini DisplayPort was on lots of computers for a time, but it's not nearly as common now thanks to more modern standards."
+  },
+  {
+   "id": "2a5f3da137a73dbd",
+   "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+   "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-13T23:13:31.000Z",
+   "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)."
+  },
+  {
+   "id": "6c4b433c5b32ff3b",
+   "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+   "url": "https://pulseos.finance/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-13T23:13:23.000Z",
+   "summary": "19 points · 6 comments"
+  },
+  {
+   "id": "4ef9b5094dce69cd",
+   "title": "IDC: Apple gains ground as China’s smartphone shipments plunge 15.4% in Q3 2026",
+   "url": "https://9to5mac.com/2026/10/13/idc-apple-gains-ground-as-chinas-smartphone-shipments-plunge-15-4-in-q3-2026/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-13T23:06:47.000Z",
+   "summary": "According to a new report from IDC, Apple’s share of smartphone shipments in China grew during Q3 2026, despite a 4.3% year-over-year decline in iPhone shipments. Here are the details. more…"
+  },
+  {
+   "id": "3b755132bfee6d15",
+   "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+   "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-13T23:05:34.000Z",
+   "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud."
+  },
+  {
+   "id": "10b5d3fd98b944e9",
+   "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+   "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-13T23:00:00.000Z",
+   "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor."
+  },
+  {
+   "id": "77d95c6919f86874",
+   "title": "How to improve your online privacy and security in Google Chrome",
+   "url": "https://www.engadget.com/2282288/how-to-improve-online-privacy-security-google-chrome/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-13T23:00:00.000Z",
+   "summary": "Google has much to gain by collecting data from you through your activity on Chrome, but you can make it harder."
+  },
+  {
+   "id": "fbec9758bef4d376",
+   "title": "Apple TV 4K 2022 vs. 2026: What's new and is it worth the $100 jump?",
+   "url": "https://www.engadget.com/2286141/apple-tv-4k-2022-vs-2026-whats-new-worth-100-price-increase/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-13T23:00:00.000Z",
+   "summary": "The 2026 model is faster and can hear you from afar, but the 2022 box gets Siri AI as well."
+  },
+  {
+   "id": "e67663970bb0b221",
+   "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+   "url": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-13T22:48:12.000Z",
+   "summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream."
+  },
+  {
+   "id": "a93eb8b961525528",
+   "title": "Cerebras CEO pushes back on AI doomsday warnings",
+   "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-13T22:36:59.000Z",
+   "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits."
+  },
+  {
+   "id": "fb925c1a712818bf",
+   "title": "Recreational Programming",
+   "url": "https://www.cphiri.dev/presentations/recreational-programming",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T22:33:33.000Z",
+   "summary": "21 points · 5 comments"
+  },
+  {
+   "id": "3770900fbb10cc8d",
+   "title": "Are Chromebooks still worth buying after the Googlebooks release?",
+   "url": "https://www.engadget.com/2282244/are-chromebooks-worth-buying-after-googlebooks-release/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-13T22:30:00.000Z",
+   "summary": "Googlebooks represent a huge upgrade over Chromebooks, but the older devices still have their place."
+  },
+  {
+   "id": "6817137df6bc770a",
+   "title": "Welcome Home: Everything Apple Announced on October 13",
+   "url": "https://www.macrumors.com/2026/10/13/apple-october-13-recap/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T22:22:05.000Z",
+   "summary": "Apple didn't hold an event today, but it did refresh its lineup of smart home products with the Apple HomeView, HomePod mini 2, and fourth-generation Apple TV 4K. The $299 HomeView is an all-new device that serves as a central home hub, offering apps, widgets, and personalized content for up to six…"
+  },
+  {
+   "id": "3d18b9b5b56ff553",
+   "title": "Will the Full-Sized HomePod Get Siri AI? Apple's Website Offers a Clue",
+   "url": "https://www.macrumors.com/2026/10/13/full-sized-homepod-siri-ai-alt-text/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-10-13T22:20:12.000Z",
+   "summary": "Apple today introduced the HomePod mini 2, but the full-sized HomePod was not updated. Nevertheless, the alt text for Apple's full-sized HomePod image shown at the bottom of the HomePod order page now mentions a \"multi-colored Siri AI glow on top,\" suggesting that the larger HomePod might…"
+  },
+  {
+   "id": "9123eb8ea73b9bf3",
+   "title": "Apple Releases Third Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
+   "url": "https://www.macrumors.com/2026/10/13/apple-releases-ios-27-2-public-beta-3/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T22:11:33.000Z",
+   "summary": "Apple today seeded the third betas of iOS 27.2, iPadOS 27.2, macOS Golden Gate 27.2, and watchOS 27.2. The software comes a few hours after Apple provided the betas to developers. To get the new betas, you can sign up on Apple's beta testing website. After you're signed up, the betas can be…"
+  },
+  {
+   "id": "3c1309994ae0eb9a",
+   "title": "Apple’s HomeView ad is confusing to everyone except parents",
+   "url": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-13T22:10:00.000Z",
+   "summary": "Nothing like a little family togetherness in the morning. | Image: Apple Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded…"
+  },
+  {
+   "id": "678fbb71c427f13a",
+   "title": "iOS 27.2 Adds New Apple Music Icon",
+   "url": "https://www.macrumors.com/2026/10/13/ios-27-2-apple-music-icon/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-13T22:04:50.000Z",
+   "summary": "In the fourth beta of iOS 27.2, Apple updated the Apple Music icon. The new icon is black and white, replacing the prior red and white icon. In light mode, the logo is black on a white background, and in dark mode, it's white on a black background. debuted a new Apple Music logo in an earlier…"
+  },
+  {
+   "id": "77c3e969cff45d4e",
+   "title": "5 clever ways Gemini can automate everyday tasks",
+   "url": "https://www.engadget.com/2282226/clever-ways-gemini-automate-everyday-tasks/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-13T22:00:00.000Z",
+   "summary": "If you're not using some of these skills, you're missing out on a chance to streamline your days, keep up to date and more."
+  },
+  {
+   "id": "6306fc337e7580b3",
+   "title": "AlphaNIST",
+   "url": "https://alpha-nist.github.io/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T21:57:29.000Z",
+   "summary": "27 points · 7 comments"
+  },
+  {
+   "id": "e7c9fc55ecf15c50",
+   "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
+   "url": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-13T21:55:49.000Z",
+   "summary": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards."
+  },
+  {
+   "id": "61cdc674054e3537",
+   "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+   "url": "https://www.pi.website/blog/api-beta",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T21:55:25.000Z",
+   "summary": "18 points · 0 comments"
+  },
+  {
+   "id": "49ffe49a8fac31bf",
+   "title": "OpenAI says it found a 'sophisticated recording device' hidden in its offices",
+   "url": "https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-13T21:34:17.000Z",
+   "summary": "The company asked its AI models to figure out what the device was."
+  },
+  {
+   "id": "fed42a9fd84deb7e",
+   "title": "Topgolf saved over $11.3 million after leaving VMware",
+   "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-13T21:33:43.000Z",
+   "summary": "Topgolf and VMware \"ran deep\" before the migration."
+  },
   {
    "id": "5249d174de058263",
    "title": "PSA: Wall-mounted HomeView may not work if you buy the wrong power adapter",
@@ -215,6 +449,15 @@
    "section": "tech",
    "publishedAt": "2026-10-13T20:00:00.000Z",
    "summary": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier."
+  },
+  {
+   "id": "6ca8d60aa563ab3c",
+   "title": "Trump commercial railing against his enemies kept airing after court blocked it",
+   "url": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-13T19:50:37.000Z",
+   "summary": "US attorney apologized to court, said government has stopped running Trump ads."
   },
   {
    "id": "bb7cee976812a9a7",
@@ -460,6 +703,15 @@
    "summary": "Apple is rolling out the fourth developer beta for macOS 27.2 Golden Gate, ahead of the official release in the coming weeks. Here’s what to expect. more…"
   },
   {
+   "id": "0dccab987a1f5772",
+   "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+   "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-10-13T18:23:33.000Z",
+   "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide."
+  },
+  {
    "id": "9069abe924ee185a",
    "title": "Apple releases fourth iOS 27.2 developer beta for iPhone",
    "url": "https://9to5mac.com/2026/10/13/apple-releases-fourth-ios-27-2-developer-beta-for-iphone/",
@@ -512,6 +764,15 @@
    "section": "tech",
    "publishedAt": "2026-10-13T18:06:44.000Z",
    "summary": "Within reason, of course."
+  },
+  {
+   "id": "3c234a649effa075",
+   "title": "Skydance’s Discovery+ prices increase by up to 20 percent",
+   "url": "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-13T18:06:06.000Z",
+   "summary": "The higher prices are said to be unrelated to the Skydance merger."
   },
   {
    "id": "97ba3ee3cab51ae8",
@@ -3005,6 +3266,15 @@
    "section": "tech",
    "publishedAt": "2026-10-12T10:09:37.000Z",
    "summary": "257 points · 239 comments"
+  },
+  {
+   "id": "392232916304ba59",
+   "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+   "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T09:05:02.000Z",
+   "summary": "18 points · 0 comments"
   },
   {
    "id": "3cd796d96fec1d4f",
@@ -47060,186 +47330,6 @@
    "section": "tech",
    "publishedAt": "2026-09-14T01:02:37.000Z",
    "summary": "73 points · 98 comments"
-  },
-  {
-   "id": "8db0cb1eb6a6bd01",
-   "title": "MagSafe vs. USB-C: Which is better for charging your MacBook?",
-   "url": "https://www.engadget.com/2252867/usb-c-vs-magsafe-best-macbook-charging-option/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-14T00:30:00.000Z",
-   "summary": "Modern MacBooks can use two different types of cables to charge, but is USB-C or MagSafe a better option overall?"
-  },
-  {
-   "id": "56b79eb69d4985a5",
-   "title": "Writing a better reality: The case for optimistic sci-fi",
-   "url": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-14T00:27:11.000Z",
-   "summary": "41 points · 18 comments"
-  },
-  {
-   "id": "c0d3efa7805fcbfe",
-   "title": "Open-Source AI and Open Models Reading List",
-   "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-14T00:22:51.000Z",
-   "summary": "63 points · 6 comments"
-  },
-  {
-   "id": "cc7a947cd8096723",
-   "title": "Apple's Dimensional Drawings",
-   "url": "https://developer.apple.com/accessories/dimensional-drawings/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-14T00:11:21.000Z",
-   "summary": "98 points · 24 comments"
-  },
-  {
-   "id": "799be38b02bd3688",
-   "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-   "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-14T00:07:09.000Z",
-   "summary": "23 points · 7 comments"
-  },
-  {
-   "id": "479353b694cc1c1a",
-   "title": "The biggest dinosaurs couldn't sit on their eggs",
-   "url": "https://www.cbc.ca/news/science/titanosaur-eggs-9.7336841",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-14T00:00:30.000Z",
-   "summary": "25 points · 8 comments"
-  },
-  {
-   "id": "664f5ac3833ff23a",
-   "title": "At what length do Ethernet cables drop to lower speeds?",
-   "url": "https://www.engadget.com/2252864/ethernet-cable-length-drops-lower-speeds/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-14T00:00:00.000Z",
-   "summary": "Running an Ethernet cable can provide faster speeds than Wi-Fi in many cases, but the length and type of cable make a difference."
-  },
-  {
-   "id": "3f10477060d76a26",
-   "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-   "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-14T00:00:00.000Z",
-   "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
-  },
-  {
-   "id": "dc834b96bc71adcc",
-   "title": "The Coming War on General Computation (2011)",
-   "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T23:54:55.000Z",
-   "summary": "6 points · 0 comments"
-  },
-  {
-   "id": "b10f37efaf223f2d",
-   "title": "iOS 27 Available Tomorrow With These 8 New Features",
-   "url": "https://www.macrumors.com/2026/09/13/ios-27-features-available-tomorrow/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-13T23:30:07.000Z",
-   "summary": "During its iPhone 18 Pro and iPhone Duo event last week, Apple announced that iOS 27 will be released widely on Monday, September 14. iOS 27 should be available around 10 a.m. Pacific Time / 1 p.m. Eastern Time tomorrow via the Settings app, under General → Software Update. Below, we have…"
-  },
-  {
-   "id": "434c2044dde93d9c",
-   "title": "Make long drives easier with this Android Auto feature",
-   "url": "https://www.engadget.com/2252861/android-auto-feature-easier-long-drive/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-13T23:30:00.000Z",
-   "summary": "Android Auto added a new capability recently that upgrades the infotainment screen in a big way. Let's activate it."
-  },
-  {
-   "id": "fcca0e6a80ecb7c5",
-   "title": "Rat and Mouse Gazette: Nursing Care (1996)",
-   "url": "https://www.rmca.org/Articles/nurse.htm",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T23:22:15.000Z",
-   "summary": "10 points · 0 comments"
-  },
-  {
-   "id": "ce284ac53ed0bc46",
-   "title": "How to use GPT-6 Astra when it rolls out to you",
-   "url": "https://www.engadget.com/2252859/how-to-use-gpt-6-astra-rollout-schedule/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-09-13T23:00:00.000Z",
-   "summary": "OpenAI's new model, GPT-6 Astra, has begun rolling out to users. Here's how you can get it and pitfalls to avoid."
-  },
-  {
-   "id": "ec0f7a1875e994cf",
-   "title": "The contagion of fear",
-   "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T22:38:18.000Z",
-   "summary": "91 points · 64 comments"
-  },
-  {
-   "id": "bbf885ca1654e566",
-   "title": "How to fix iMessage \"Not Delivered\" error on iPhones",
-   "url": "https://www.engadget.com/2252858/how-to-fix-imessage-not-delivered-on-iphone/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-13T22:30:00.000Z",
-   "summary": "iMessage is simple, and even RCS and SMS are usually reliable. But when your iPhone won't sent a message, you can coax it into working again."
-  },
-  {
-   "id": "08f8b5729d7caae8",
-   "title": "Show HN: Navier-Stokes Visualized as 1kB i386 demos",
-   "url": "https://juandecos.github.io/TurboZip/vortex.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T22:22:34.000Z",
-   "summary": "46 points · 3 comments"
-  },
-  {
-   "id": "ed995549b4b0b6cf",
-   "title": "Why are IMAX cameras so notoriously loud?",
-   "url": "https://www.engadget.com/2252857/why-are-imax-cameras-so-loud-explained/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-13T22:00:00.000Z",
-   "summary": "Shooting a movie on IMAX 15/70 cameras can produce incredible film, but one of the major tradeoffs for filmmakers is how loud they can get when rolling."
-  },
-  {
-   "id": "d573d5f02916adb2",
-   "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
-   "url": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-13T21:56:52.000Z",
-   "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions."
-  },
-  {
-   "id": "631cbefa32990a34",
-   "title": "Douglas Adams and the exterminated Doctor Who adventure",
-   "url": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T21:49:19.000Z",
-   "summary": "6 points · 2 comments"
-  },
-  {
-   "id": "4a90de1cc2c22f7e",
-   "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-   "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-13T21:47:04.000Z",
-   "summary": "33 points · 11 comments"
   }
  ]
 }
