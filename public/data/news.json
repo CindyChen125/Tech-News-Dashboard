@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-15T21:17:28.740Z",
+ "updatedAt": "2026-10-15T23:49:04.699Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1294
+   "count": 1295
   },
   {
    "name": "Google DeepMind",
@@ -23,7 +23,7 @@
    "name": "Hugging Face",
    "section": "ai",
    "ok": true,
-   "count": 880
+   "count": 879
   },
   {
    "name": "MIT Tech Review",
@@ -82,6 +82,132 @@
  ],
  "items": [
   {
+   "id": "c175ac7a3c47a743",
+   "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+   "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-15T23:44:56.000Z",
+   "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March."
+  },
+  {
+   "id": "ae6d8172c2d622ca",
+   "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+   "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-15T23:33:45.000Z",
+   "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026."
+  },
+  {
+   "id": "3cc8cbb68784821e",
+   "title": "Steam can now show game achievements in separate ‘sets’",
+   "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-15T23:18:28.000Z",
+   "summary": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock achievements by playing the game as usual,\" Valve says. \"But when you browse…"
+  },
+  {
+   "id": "5aaef10ef5520a8a",
+   "title": "Withings wants new users to pay $100 a year to sync with Apple Health",
+   "url": "https://www.engadget.com/2288346/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-15T23:02:04.000Z",
+   "summary": "The smart health company is gating third-party app syncing to its own subscription plan for new users."
+  },
+  {
+   "id": "901c8ce24b25f600",
+   "title": "ChatGPT can peek at your Chrome tabs now",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-15T22:43:23.000Z",
+   "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop…"
+  },
+  {
+   "id": "846baab1644cc611",
+   "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+   "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-15T22:35:55.000Z",
+   "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the…"
+  },
+  {
+   "id": "f8a988a315e4274a",
+   "title": "OLED MacBook Pro Won't Get M7 Chips Until Late 2027",
+   "url": "https://www.macrumors.com/2026/10/15/macbook-pro-m7-late-2027/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-15T22:10:46.000Z",
+   "summary": "Apple is \"pretty much done\" with M6 chips, Bloomberg's Mark Gurman reiterated today on his podcast. Apple debuted the M6 chip in the Mac mini and has plans for an M6 iMac and entry-level 14-inch MacBook Pro, but the company is not planning to make M6 Pro, M6 Max, or M6 Ultra chips. Apple will…"
+  },
+  {
+   "id": "d373f2f957a82326",
+   "title": "Strava announces coach-designed strength workouts with live set and rep tracking",
+   "url": "https://9to5mac.com/2026/10/15/strava-announces-coach-designed-strength-workouts-with-live-set-and-rep-tracking/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-15T22:09:39.000Z",
+   "summary": "Exercise-tracking platform Strava announced today a new expansion of its strength training features, adding coach-designed guided workouts with live set and rep tracking. Here are the details. more…"
+  },
+  {
+   "id": "af1c841e21b3c8e8",
+   "title": "The tech backlash is now in theaters",
+   "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-15T21:39:52.000Z",
+   "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are…"
+  },
+  {
+   "id": "e2ea576231a3527d",
+   "title": "The UK may expand the BBC license fee, charging residents to watch streaming services",
+   "url": "https://www.engadget.com/2288294/the-uk-may-expand-the-bbc-license-fee-charging-residents-to-watch-streaming-services/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-15T21:35:08.000Z",
+   "summary": "If the proposal is enacted, it could cost $240 a year to watch YouTube in the UK."
+  },
+  {
+   "id": "09dd869387052081",
+   "title": "9to5Mac Daily: October 15, 2026 – OpenAI vs Apple, iPhone Duo details",
+   "url": "https://9to5mac.com/2026/10/15/daily-october-15-2026/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-10-15T21:25:15.000Z",
+   "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze: Backup you can rely on. Save 20% with code…"
+  },
+  {
+   "id": "1c0809f7cc737064",
+   "title": "WaPo: Apple revealed as one of the top donors to Trump’s White House ballroom",
+   "url": "https://9to5mac.com/2026/10/15/wapo-apple-revealed-as-one-of-the-top-donors-to-trumps-white-house-ballroom/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-15T21:22:49.000Z",
+   "summary": "A new investigation by The Washington Post reveals that Apple and Nvidia each pledged $25 million toward Trump’s new White House ballroom, making them two of the project’s largest donors. Here are the details. more…"
+  },
+  {
+   "id": "8d78be4a970917e2",
+   "title": "Plex now helps sell movie theater tickets",
+   "url": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-15T21:22:15.000Z",
+   "summary": "Discovery data from Plex users will help studios, advertisers."
+  },
+  {
+   "id": "7570214b541b7a87",
+   "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
+   "url": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-15T21:09:57.000Z",
+   "summary": "Medical experts explicitly recommend against blanket screenings."
+  },
+  {
    "id": "60788001184ef761",
    "title": "Trump posts AI-edited photo to brag about White House restoration work",
    "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
@@ -134,6 +260,24 @@
    "section": "ai",
    "publishedAt": "2026-10-15T20:34:01.000Z",
    "summary": ""
+  },
+  {
+   "id": "c4036efe838ca5b0",
+   "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+   "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-15T20:32:41.000Z",
+   "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads."
+  },
+  {
+   "id": "d6705ab73885207f",
+   "title": "Above the 911? Porsche previews a new mid-engined supercar.",
+   "url": "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-15T20:30:02.000Z",
+   "summary": "Porsche’s turnaround plan for 2035 involves less volume but more expensive cars."
   },
   {
    "id": "686dfde446f59f78",
@@ -314,6 +458,15 @@
    "section": "tech",
    "publishedAt": "2026-10-15T19:00:14.000Z",
    "summary": "Apple is widely reported to have Samsung as its key supplier in building the iPhone Duo’s folding display. As a result, some have claimed that Apple is just “using a Samsung display.” Here’s how Apple addressed that question in a new interview. more…"
+  },
+  {
+   "id": "edb461273095e697",
+   "title": "Bringing GPT-Rosalind to academic research labs",
+   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-10-15T19:00:00.000Z",
+   "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
   },
   {
    "id": "b2f48dbb98a16bef",
@@ -854,6 +1007,15 @@
    "section": "tech",
    "publishedAt": "2026-10-15T14:36:22.000Z",
    "summary": "52 points · 11 comments"
+  },
+  {
+   "id": "ae11ba75d5947a8e",
+   "title": "Using AI to reverse engineer hardware",
+   "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-15T14:35:15.000Z",
+   "summary": "84 points · 101 comments"
   },
   {
    "id": "68ebd8f36d3c9c8b",
@@ -3142,6 +3304,15 @@
    "summary": "198 points · 147 comments"
   },
   {
+   "id": "0aa9dab0002d91b7",
+   "title": "The 8-mile hole in a Hawaii national park that no one can explain",
+   "url": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T05:08:09.000Z",
+   "summary": "28 points · 18 comments"
+  },
+  {
    "id": "60e62dc73b977be3",
    "title": "Felix Rieseberg Homepage",
    "url": "https://felixrieseberg.com/",
@@ -5273,6 +5444,15 @@
    "section": "tech",
    "publishedAt": "2026-10-13T10:27:00.000Z",
    "summary": "485 points · 275 comments"
+  },
+  {
+   "id": "e9559d98d75a44c8",
+   "title": "Major ICQ security hole (1998)",
+   "url": "https://opennet.ru/base/maillist/169.txt.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T10:21:17.000Z",
+   "summary": "15 points · 6 comments"
   },
   {
    "id": "deeb24e73aea6055",
@@ -46655,186 +46835,6 @@
    "section": "tech",
    "publishedAt": "2026-09-15T23:52:22.000Z",
    "summary": "India’s Central Consumer Protection Authority (CCPA) has reportedly escalated its probe into whether Apple should be held responsible for an iOS 18 update that allegedly caused display and microphone issues on some iPhones. Here are the details. more…"
-  },
-  {
-   "id": "953d7ecd00919cea",
-   "title": "Apple Details How Reference Image Proves a Photo is Real",
-   "url": "https://www.macrumors.com/2026/09/15/apple-reference-image-info/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-15T23:46:29.000Z",
-   "summary": "The iPhone 18 Pro models support Apple Reference Image, a way to verify that a photo was taken with an iPhone and hasn't been edited. Apple says it's a method to prove that something actually happened and wasn't AI-generated, likening the feature to a digital film negative. Apple Reference Image…"
-  },
-  {
-   "id": "33eeb16297801a33",
-   "title": "AI and data centers are incredibly unpopular in every poll",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-   "source": "The Verge",
-   "section": "ai",
-   "publishedAt": "2026-09-15T23:34:25.000Z",
-   "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the…"
-  },
-  {
-   "id": "d0799454d98d9deb",
-   "title": "How to get Spotify's best audio quality",
-   "url": "https://www.engadget.com/2257125/how-to-get-spotify-best-audio-quality/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-15T23:30:00.000Z",
-   "summary": "Spotify's default audio settings let you enjoy music wherever you go, but you're not always getting the best quality. A few tweaks can make all the difference."
-  },
-  {
-   "id": "46d085d50b0fccdd",
-   "title": "OmniFocus adds Siri AI support as Omni Group updates its apps for iOS 27, macOS 27, more",
-   "url": "https://9to5mac.com/2026/09/15/omnifocus-adds-siri-ai-support-as-omni-group-updates-its-apps-for-ios-27-macos-27-more/",
-   "source": "9to5Mac",
-   "section": "ai",
-   "publishedAt": "2026-09-15T23:22:20.000Z",
-   "summary": "Unsurprisingly, the Omni Group worked all summer to get its suite of apps ready for Apple’s 2027 system updates from day one. Here’s what’s new. more…"
-  },
-  {
-   "id": "203b80a598032230",
-   "title": "Saving Jet Fuel",
-   "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-15T23:17:20.000Z",
-   "summary": "19 points · 8 comments"
-  },
-  {
-   "id": "33686838c930b550",
-   "title": "“The Secret Life of Circuits” is here",
-   "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-15T23:15:05.000Z",
-   "summary": "53 points · 21 comments"
-  },
-  {
-   "id": "2f2e1729b6fa4f81",
-   "title": "How to manually update Android Auto (and what it might mean if you can't)",
-   "url": "https://www.engadget.com/2252764/how-to-manually-update-android-auto/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-15T23:00:00.000Z",
-   "summary": "The Android Auto app lives in the Play Store, so start there if you want to update."
-  },
-  {
-   "id": "3577eec3338ebfae",
-   "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-   "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-15T22:50:55.000Z",
-   "summary": "5 points · 0 comments"
-  },
-  {
-   "id": "1c211b5dfecfda31",
-   "title": "Apple Car Keys reportedly coming to three more automakers",
-   "url": "https://9to5mac.com/2026/09/15/apple-car-keys-reportedly-coming-to-three-more-automakers/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-15T22:43:38.000Z",
-   "summary": "Apple is reportedly preparing to extend Car Key support in Apple Wallet to three more automakers. Here are the details. more…"
-  },
-  {
-   "id": "788fd3e3a86c64f7",
-   "title": "Lucasart's Afterlife",
-   "url": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-15T22:30:30.000Z",
-   "summary": "19 points · 13 comments"
-  },
-  {
-   "id": "6c1e24f5e5a9e477",
-   "title": "Are USB-C flash drives better than USB-A ones?",
-   "url": "https://www.engadget.com/2256491/usb-c-flash-drive-better-usb-a-comparison/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-15T22:30:00.000Z",
-   "summary": "USB-A and USB-C flash drives both have their purposes. USB-C is increasingly common, but USB-A isn't going anywhere yet."
-  },
-  {
-   "id": "3af19633ca0c2b1c",
-   "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
-   "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-15T22:26:32.000Z",
-   "summary": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling."
-  },
-  {
-   "id": "5c041f2fa289f6d0",
-   "title": "Microsoft will hold a Windows and Surface event on October 7",
-   "url": "https://www.engadget.com/2259695/microsoft-will-hold-a-windows-event-on-october-7/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-15T22:18:07.000Z",
-   "summary": "The event is focused on \"Windows, NVIDIA RTX Spark, Surface, and the broader PC ecosystem,\" with Satya Nadella and Jensen Huang among the speakers."
-  },
-  {
-   "id": "9a1d601a6efbc248",
-   "title": "The engineering behind the US Strategic Petroleum Reserve",
-   "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-15T22:15:25.000Z",
-   "summary": "71 points · 12 comments"
-  },
-  {
-   "id": "90a23ca0cdd32cb5",
-   "title": "What the iPhone Duo's Camera Can and Can't Do",
-   "url": "https://www.macrumors.com/guide/iphone-duo-camera/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-15T22:11:01.000Z",
-   "summary": "To take advantage of the iPhone Duo's dual-display design, Apple is introducing new Camera app features that are unique to the foldable iPhone. Smart Take Smart Take uses AI to determine when everyone (including the iPhone owner) is ready for a group shot, so no one has to use a timer or stay out…"
-  },
-  {
-   "id": "b64e8c654944be2b",
-   "title": "Ulysses gets Siri AI support, customizable toolbars, project templates, more",
-   "url": "https://9to5mac.com/2026/09/15/ulysses-gets-siri-ai-support-customizable-toolbars-project-templates-more/",
-   "source": "9to5Mac",
-   "section": "ai",
-   "publishedAt": "2026-09-15T22:01:17.000Z",
-   "summary": "Following the release of macOS 27 Golden Gate and iOS 27, Ulysses was updated with Siri AI support, a refreshed interface, customizable toolbars, project templates, and more. Here are the details. more…"
-  },
-  {
-   "id": "11c62c7db5fb74c6",
-   "title": "Wired vs wireless speakers: What are the pros and cons?",
-   "url": "https://www.engadget.com/2256380/wired-vs-wireless-speakers-pros-cons/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-15T22:00:00.000Z",
-   "summary": "Wired and wireless speakers each offer different trade-offs, advantages and disadvantages. Plus, what audio you put through them has a big effect."
-  },
-  {
-   "id": "52b80bbfa8abe69d",
-   "title": "dbrand has the iPhone Duo and iPhone 18 Pro covered – with a huge range of designs",
-   "url": "https://9to5mac.com/2026/09/15/dbrand-has-iphone-duo-iphone-18-pro-covered-with-huge-range-of-designs/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-15T22:00:00.000Z",
-   "summary": "With the exciting new iPhone Duo and latest evolution of the iPhone 18 Pro now official, casemaker dbrand has wasted no time in announcing its latest cases, vinyl wraps, and screen protectors. Whether you’re looking for a minimalist, barely-there case or one that offers the ultimate in…"
-  },
-  {
-   "id": "94dad529de513ddf",
-   "title": "The AI data center boom is colliding with cities scarred by big industry",
-   "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-15T21:47:38.000Z",
-   "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery."
-  },
-  {
-   "id": "558d66f77ba0129f",
-   "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
-   "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-15T21:41:42.000Z",
-   "summary": "94 points · 50 comments"
   }
  ]
 }
