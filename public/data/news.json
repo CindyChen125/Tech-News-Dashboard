@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T01:47:19.902Z",
+ "updatedAt": "2026-10-15T07:20:56.180Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,33 @@
   }
  ],
  "items": [
+  {
+   "id": "6ad3eb7343810671",
+   "title": "Figma announces new features to define how agents work on its platform",
+   "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-15T04:30:00.000Z",
+   "summary": "Figma is also releasing its code layers feature in open beta."
+  },
+  {
+   "id": "89cd5bccd3c255ea",
+   "title": "Show HN: Flipflop, iroh-powered persistent tunnels for filesharing",
+   "url": "https://github.com/andunieee/flipflop",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-15T04:25:28.000Z",
+   "summary": "24 points · 7 comments"
+  },
+  {
+   "id": "cc3776033e5a40b4",
+   "title": "The Double Headed Stack Allocator",
+   "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-15T02:06:36.000Z",
+   "summary": "53 points · 12 comments"
+  },
   {
    "id": "c6dfbcd0e680c15b",
    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
@@ -2314,6 +2341,15 @@
    "summary": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier."
   },
   {
+   "id": "682bed3d28fbf098",
+   "title": "Donaldson Futuro House in Idyllwild, California, USA",
+   "url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T19:55:41.000Z",
+   "summary": "38 points · 7 comments"
+  },
+  {
    "id": "6ca8d60aa563ab3c",
    "title": "Trump commercial railing against his enemies kept airing after court blocked it",
    "url": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
@@ -3808,6 +3844,15 @@
    "summary": "As AI data centers and EVs drive up demand for copper, Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral."
   },
   {
+   "id": "395172741e73ba69",
+   "title": "It took me nine years to hack my Xbox 360",
+   "url": "https://kennedn.com/blog/posts/glitching/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T12:33:18.000Z",
+   "summary": "63 points · 8 comments"
+  },
+  {
    "id": "c207af8abd052772",
    "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
    "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
@@ -4393,6 +4438,15 @@
    "summary": "Without a cause of death, it's unclear if Russia's precautions were the right ones."
   },
   {
+   "id": "efd1269f48f34819",
+   "title": "David Rudnick on \"borderline impossible\" process of designing Arsenal typeface",
+   "url": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T18:44:42.000Z",
+   "summary": "9 points · 1 comments"
+  },
+  {
    "id": "8b98e84baf50e3bb",
    "title": "Norway fined a Microsoft subsidiary $9.6 million for allegedly misusing Grindr user data",
    "url": "https://www.engadget.com/2284434/norway-fined-a-microsoft-subsidiary-96-million-for-allegedly-misusing-grindr-user-data/",
@@ -4436,6 +4490,15 @@
    "section": "ai",
    "publishedAt": "2026-10-12T18:21:36.000Z",
    "summary": "“I may have information regarding this case,\" Claude AI told Philly police."
+  },
+  {
+   "id": "2893a63f9f698e35",
+   "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
+   "url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T18:20:17.000Z",
+   "summary": "5 points · 0 comments"
   },
   {
    "id": "aca6f50ea294149e",
@@ -5248,6 +5311,15 @@
    "summary": "18 points · 0 comments"
   },
   {
+   "id": "87dfacdb4479d7a4",
+   "title": "Catch a Bird – I made it for my own sanity",
+   "url": "https://catchabird.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-12T08:51:18.000Z",
+   "summary": "112 points · 24 comments"
+  },
+  {
    "id": "3cd796d96fec1d4f",
    "title": "Zod 4.6.6 compromised by malware?",
    "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
@@ -5606,6 +5678,15 @@
    "section": "tech",
    "publishedAt": "2026-10-11T20:48:30.000Z",
    "summary": "3 points · 1 comments"
+  },
+  {
+   "id": "69d3469278fb0168",
+   "title": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
+   "url": "https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-11T20:36:56.000Z",
+   "summary": "24 points · 1 comments"
   },
   {
    "id": "94f18cf931b308a1",
@@ -47042,132 +47123,6 @@
    "section": "tech",
    "publishedAt": "2026-09-15T07:27:46.000Z",
    "summary": "155 points · 59 comments"
-  },
-  {
-   "id": "3e8ecf4a422a531b",
-   "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
-   "url": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-15T07:00:30.000Z",
-   "summary": "The refreshed Volvos also get new infotainment systems with Gemini onboard."
-  },
-  {
-   "id": "7f9819978e875251",
-   "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
-   "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-15T07:00:30.000Z",
-   "summary": "0 points · 0 comments"
-  },
-  {
-   "id": "fb01b9cef9710a22",
-   "title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
-   "url": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-15T07:00:00.000Z",
-   "summary": "Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its PHEVs can push the limits of what's possible. Today, the Swedish automaker…"
-  },
-  {
-   "id": "021dac1d60eb29d4",
-   "title": "2028 Volvo XC60 and XC90 first look: Double the range and smarter safety, too",
-   "url": "https://www.engadget.com/2255878/2028-volvo-xc60-and-xc90-first-look/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-15T07:00:00.000Z",
-   "summary": "Volvo caters to EV-curious buyers with way more range in its plug-in hybrid SUVs."
-  },
-  {
-   "id": "5477c93f4d4205f7",
-   "title": "I can't stop thinking about Papua New Guinea",
-   "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-15T06:16:24.000Z",
-   "summary": "158 points · 50 comments"
-  },
-  {
-   "id": "8cf788c2e6c2f870",
-   "title": "50 New Things Your iPhone Can Do in iOS 27 - Out Now!",
-   "url": "https://www.macrumors.com/2026/09/15/50-new-things-iphone-can-do-ios-27/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-15T05:48:03.000Z",
-   "summary": "Apple released iOS 27 this week, and despite the company's focus this year on refining its flagship operating system and nixing bugs, there are still many additional features to explore, not least of which is Apple's new context-aware Siri, re-tooled for the generative AI era. Which iPhones Support…"
-  },
-  {
-   "id": "cb029a73fdea1241",
-   "title": "Mastering Layout Engines in Graphviz: Dot vs. Neato vs. Twopi vs. Circo",
-   "url": "https://guides.visual-paradigm.com/mastering-graphviz-layout-engines-dot-neato-twopi-circo/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-15T04:17:53.000Z",
-   "summary": "29 points · 6 comments"
-  },
-  {
-   "id": "395d48539076f976",
-   "title": "Linux from Scratch",
-   "url": "https://www.linuxfromscratch.org/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-15T04:15:23.000Z",
-   "summary": "182 points · 58 comments"
-  },
-  {
-   "id": "ecced32c196246ab",
-   "title": "Oil Executives Say the Great Fuel Crisis Is Here",
-   "url": "https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-15T03:48:55.000Z",
-   "summary": "36 points · 22 comments"
-  },
-  {
-   "id": "24866f1985932421",
-   "title": "US confirms for first time it has deployed space weapons",
-   "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-15T03:47:56.000Z",
-   "summary": "39 points · 7 comments"
-  },
-  {
-   "id": "c0d87944b7c4c94a",
-   "title": "For the first time, the US military confirms it has deployed weapons in orbit",
-   "url": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-15T03:47:36.000Z",
-   "summary": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\""
-  },
-  {
-   "id": "83d57d0d4086dddb",
-   "title": "Widow’s Bay sweeps 78th Primetime Emmy Awards as Apple TV scores 9 more wins",
-   "url": "https://9to5mac.com/2026/09/14/widows-bay-sweeps-78th-primetime-emmy-awards-as-apple-tv-scores-9-more-wins/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-15T03:11:30.000Z",
-   "summary": "After scoring 20 wins during the two-night Creative Arts Emmy Awards last week, Apple TV picked up another 9 wins tonight during the 78th Primetime Emmy Awards ceremony. Here’s the full list. more…"
-  },
-  {
-   "id": "70e28fad33297093",
-   "title": "Here’s what’s new with parental control features in iOS 27, iPadOS 27, and macOS 27",
-   "url": "https://9to5mac.com/2026/09/14/heres-whats-new-with-parental-control-features-in-ios-27-ipados-27-and-macos-27/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-15T02:43:51.000Z",
-   "summary": "Included in today’s 2027 system updates from Apple are several new Screen Time and parental control features aimed at giving parents more control over how their kids use their devices. Here are the details. more…"
-  },
-  {
-   "id": "5cd4b026803331be",
-   "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-   "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-15T01:50:48.000Z",
-   "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it."
   }
  ]
 }
