@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T23:09:32.655Z",
+ "updatedAt": "2026-10-15T01:47:19.902Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,78 @@
   }
  ],
  "items": [
+  {
+   "id": "c6dfbcd0e680c15b",
+   "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+   "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-15T01:01:32.000Z",
+   "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process."
+  },
+  {
+   "id": "4b30ecd6b415a5d0",
+   "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+   "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-15T00:49:31.000Z",
+   "summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse."
+  },
+  {
+   "id": "d500b019edd6bc23",
+   "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+   "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-15T00:30:00.000Z",
+   "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals."
+  },
+  {
+   "id": "93afacfa7440c7c9",
+   "title": "iPhone Duo's A20 Pro Chip Benchmarked Ahead of Launch",
+   "url": "https://www.macrumors.com/2026/10/14/iphone-duo-benchmark/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-15T00:20:32.000Z",
+   "summary": "The iPhone Duo unsurprisingly offers performance similar to the iPhone 18 Pro, according to an early iPhone Duo benchmark shared on Geekbench 7. Both devices are equipped with Apple's 2nm A20 Pro chip with a 6-core CPU and a 7-core GPU. The benchmarked ‌iPhone Duo‌ (iPhone19,4) is running iOS 27.1…"
+  },
+  {
+   "id": "123edf1a9e36e526",
+   "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+   "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-15T00:00:00.000Z",
+   "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories…"
+  },
+  {
+   "id": "15658a38746f064e",
+   "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+   "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T23:59:37.000Z",
+   "summary": "67 points · 18 comments"
+  },
+  {
+   "id": "2129548f371b6f73",
+   "title": "A new model for open source: closed to pull requests, open to remix",
+   "url": "https://ghuntley.com/remix/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T23:40:28.000Z",
+   "summary": "9 points · 5 comments"
+  },
+  {
+   "id": "9da8080d33add798",
+   "title": "OpenAI agrees not to use alleged Apple trade secrets amid ongoing lawsuit",
+   "url": "https://9to5mac.com/2026/10/14/openai-agrees-not-to-use-alleged-apple-trade-secrets-amid-ongoing-lawsuit/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-10-14T23:12:59.000Z",
+   "summary": "Bloomberg reports that during a hearing today, OpenAI voluntarily agreed not to use Apple’s alleged trade secrets while the legal battle between the two companies plays out. Here are the details. more…"
+  },
   {
    "id": "c79bc3a8fb9d3d15",
    "title": "Apple Maps launches Detailed City Experience in Austin, Texas",
@@ -1765,6 +1837,15 @@
    "summary": "269 points · 120 comments"
   },
   {
+   "id": "59ef71d78177a01b",
+   "title": "Why is every rationalist blog post way too long?",
+   "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T06:02:16.000Z",
+   "summary": "198 points · 147 comments"
+  },
+  {
    "id": "60e62dc73b977be3",
    "title": "Felix Rieseberg Homepage",
    "url": "https://felixrieseberg.com/",
@@ -3430,6 +3511,15 @@
    "summary": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps."
   },
   {
+   "id": "7cd7d8c9ddbdb2eb",
+   "title": "your C is not standard C",
+   "url": "https://sebsite.pw/w/20261012-notstdc.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:36:21.000Z",
+   "summary": "19 points · 3 comments"
+  },
+  {
    "id": "841e3ce98e757838",
    "title": "Apple Launches 'Apple Home Collection' With Cameras, Lock, Thermostats and More",
    "url": "https://www.macrumors.com/2026/10/13/apple-home-collection/",
@@ -3905,6 +3995,15 @@
    "section": "tech",
    "publishedAt": "2026-10-13T06:02:51.000Z",
    "summary": "258 points · 68 comments"
+  },
+  {
+   "id": "8ea6c3a7842ab22e",
+   "title": "Ask HN: CAD for wood working with LLM support?",
+   "url": "https://news.ycombinator.com/item?id=50067325",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-13T05:54:01.000Z",
+   "summary": "24 points · 19 comments"
   },
   {
    "id": "263d0f869787ab7f",
@@ -47069,132 +47168,6 @@
    "section": "tech",
    "publishedAt": "2026-09-15T01:50:48.000Z",
    "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it."
-  },
-  {
-   "id": "7e2a8e9ae9f89c80",
-   "title": "Vibe Coding is the new Internet Dating?",
-   "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-15T01:45:53.000Z",
-   "summary": "15 points · 21 comments"
-  },
-  {
-   "id": "b85e59afd58d4207",
-   "title": "9to5Mac Daily: September 14, 2026 – Apple retail changes, iPhone 18 Pro pre-orders",
-   "url": "https://9to5mac.com/2026/09/14/daily-september-14-2026/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-15T00:53:36.000Z",
-   "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff:Stuff helps you get everything out of your head…"
-  },
-  {
-   "id": "29956335889b317a",
-   "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-   "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-15T00:40:14.000Z",
-   "summary": "91 points · 48 comments"
-  },
-  {
-   "id": "e17a84f4b9c03cd8",
-   "title": "iOS 27 Features: The Ultimate Mega Guide",
-   "url": "https://www.macrumors.com/guide/ios-27-ultimate-mega-guide/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-15T00:34:12.000Z",
-   "summary": "When iOS 27 first came out back in June, we started working on a series of in-depth feature guides and how tos that go through all of the updates in Apple's new software. Our ultimate guide aggregates all of our ‌iOS 27‌ coverage, and it is useful for iPhone and iPad users new to ‌iOS 27‌ or those…"
-  },
-  {
-   "id": "91a3e375c3be5ac7",
-   "title": "How to use Meta Display glasses while driving with the Audio Only feature",
-   "url": "https://www.engadget.com/2255133/meta-display-glasses-audio-only-driving-detection-feature/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-15T00:30:00.000Z",
-   "summary": "The Meta Display glasses have an Audio Only feature that can detect when you're driving and turn off the display."
-  },
-  {
-   "id": "bfa769861ffc1a53",
-   "title": "New Apple CEO John Ternus attending Emmy Awards (and sporting iPhone Duo)",
-   "url": "https://9to5mac.com/2026/09/14/new-apple-ceo-john-ternus-attending-emmy-awards-and-sporting-iphone-duo/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-15T00:23:33.000Z",
-   "summary": "It’s Emmy Awards night, and John Ternus is in attendance. The new Apple CEO officially took over for Tim Cook two weeks ago, and he’s already doing iPhone Duo product demos for the stars and press. more…"
-  },
-  {
-   "id": "68925cdc993fc7c5",
-   "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
-   "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-15T00:13:47.000Z",
-   "summary": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how and when we can deliver something like that,\"…"
-  },
-  {
-   "id": "8ea5eb4edf621807",
-   "title": "macOS Golden Gate: 10 Features to Try First",
-   "url": "https://www.macrumors.com/guide/macos-golden-gate-10-features-2/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-15T00:02:40.000Z",
-   "summary": "Apple released macOS Golden Gate to the public today, which means anyone with a compatible Mac can download it. The new version of macOS requires an Apple chip, so if you have a Mac with an M1 or later or a MacBook Neo, you can upgrade. ‌macOS Golden Gate‌ includes Siri AI, and the Mac is the only…"
-  },
-  {
-   "id": "b365741a4e3a2c0b",
-   "title": "Doing Everyone Else's Job",
-   "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-15T00:01:31.000Z",
-   "summary": "11 points · 10 comments"
-  },
-  {
-   "id": "13a66e9e6215d953",
-   "title": "Can you use an Apple Pencil with an iPhone?",
-   "url": "https://www.engadget.com/2255122/use-apple-pencil-with-iphone-duo/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-15T00:00:00.000Z",
-   "summary": "If you have the right Apple Pencil and iPhone, you can use them together. But it won't be cheap, and there are some limitations to know."
-  },
-  {
-   "id": "ed07e29abf41e59e",
-   "title": "AppZapper Mac Uninstaller Returns as AppZapper 3000",
-   "url": "https://www.macrumors.com/2026/09/14/appzapper-3000-for-mac/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-14T23:58:29.000Z",
-   "summary": "Popular Mac app AppZapper was today revamped with a new design, updated functionality, and a fresh name. AppZapper 3000 offers a quick way to delete Mac apps and their associated files. AppZapper requires Full Disk Access permission to find files on the Mac. Once installed, you can drag and drop an…"
-  },
-  {
-   "id": "829867bd7b9635ab",
-   "title": "Musk Drops Apple Lawsuit Over ChatGPT Siri Deal, Keeps Suing OpenAI",
-   "url": "https://www.macrumors.com/2026/09/14/spacexai-drops-apple-lawsuit/",
-   "source": "MacRumors",
-   "section": "ai",
-   "publishedAt": "2026-09-14T23:52:00.000Z",
-   "summary": "Elon Musk's companies X Corp and SpaceXAI today asked the court to dismiss their claims in a lawsuit filed against Apple in 2025, reports Reuters. There was no explanation for the dismissal request or mention of a settlement. The filing also does not ask for the dismissal of claims against OpenAI…"
-  },
-  {
-   "id": "48b08af6e732d86d",
-   "title": "Is the Samsung Galaxy S24 still worth buying?",
-   "url": "https://www.engadget.com/2255053/samsung-galaxy-s24-is-it-still-worth-buying/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-14T23:30:00.000Z",
-   "summary": "A refurbished S24 can still be a good deal, but its price needs to be low enough to justify buying a two-year-old phone instead of a newer model."
-  },
-  {
-   "id": "d0196a272042d385",
-   "title": "Apple Asks Supreme Court to Throw Out App Store Contempt Ruling",
-   "url": "https://www.macrumors.com/2026/09/14/apple-supreme-court-contempt-ruling/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-14T23:28:29.000Z",
-   "summary": "Apple today filed its opening merits brief with the Supreme Court as it prepares to fight the contempt ruling that forced it to change its App Store rules. Apple is asking the Supreme Court to reverse or vacate the contempt order, which would return the ‌App Store‌ to its pre–2025 rules. The…"
   }
  ]
 }
