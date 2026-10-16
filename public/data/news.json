@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-15T23:49:04.699Z",
+ "updatedAt": "2026-10-16T04:22:46.107Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1295
+   "count": 1296
   },
   {
    "name": "Google DeepMind",
@@ -77,10 +77,118 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 30
+   "count": 31
   }
  ],
  "items": [
+  {
+   "id": "48807ac5089a6c23",
+   "title": "Relive Tesla's ridiculous(ly fun) Roadster stunt show",
+   "url": "https://www.engadget.com/2288448/relive-tesla-ridiculously-fun-roadster-stunt-show/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-16T02:24:52.000Z",
+   "summary": "Tesla's Roadster event was pretty exciting, to say the least."
+  },
+  {
+   "id": "f64bbcc6a9c2381d",
+   "title": "Comparing Chromium Development at Google and Igalia",
+   "url": "https://lwn.net/Articles/1094721/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-16T01:56:37.000Z",
+   "summary": "14 points · 0 comments"
+  },
+  {
+   "id": "af5357097c6fd599",
+   "title": "Tesla's redesigned Roadster has a cold-gas thruster option, but you'll need $250,000 just to reserve it",
+   "url": "https://www.engadget.com/2288437/teslas-redesigned-roadster-cold-gas-thruster-option-reservation/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-16T01:48:05.000Z",
+   "summary": "Tesla has finally unveiled the next-generation Roadster."
+  },
+  {
+   "id": "af14d0aa7e59c219",
+   "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+   "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-10-16T01:44:47.000Z",
+   "summary": ""
+  },
+  {
+   "id": "3dd840402ffd28c1",
+   "title": "Any window from your Mac, on your iPhone and iPad",
+   "url": "https://github.com/Saffsanity/sill",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-16T01:43:17.000Z",
+   "summary": "58 points · 8 comments"
+  },
+  {
+   "id": "15d7d0aba57ffa1a",
+   "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+   "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-16T01:28:27.000Z",
+   "summary": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive demonstration of a car…"
+  },
+  {
+   "id": "b07f2f461cab4ce7",
+   "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+   "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-16T01:17:43.000Z",
+   "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas."
+  },
+  {
+   "id": "6488d241130ccf0a",
+   "title": "‘Tenzing’ premieres on Apple TV, starring Genden Phuntsok, Tom Hiddleston and Willem Dafoe",
+   "url": "https://9to5mac.com/2026/10/15/tenzing-premieres-on-apple-tv-starring-tom-hiddleston-and-willem-dafoe/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-16T01:00:14.000Z",
+   "summary": "The newest Apple Original Films feature, “Tenzing,” is now available to Apple TV subscribers. Watch the trailer below. more…"
+  },
+  {
+   "id": "07e57f1a47524abc",
+   "title": "Thank You, Deno",
+   "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-16T00:52:40.000Z",
+   "summary": "33 points · 3 comments"
+  },
+  {
+   "id": "49b510561a2c04a2",
+   "title": "RPKI now protects 70% of internet routes",
+   "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-16T00:52:35.000Z",
+   "summary": "78 points · 22 comments"
+  },
+  {
+   "id": "6e29f06a3896f410",
+   "title": "Apple lists unreleased iPad mini accessory ahead of rumored launch",
+   "url": "https://9to5mac.com/2026/10/15/apple-lists-unreleased-ipad-mini-accessory-ahead-of-rumored-launch/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-16T00:49:10.000Z",
+   "summary": "While Apple is rumored to be gearing up to introduce an OLED iPad mini later this month, an oversight on the company’s French site might have just confirmed the product’s existence. Here are the details. more…"
+  },
+  {
+   "id": "ce8639ef981a5991",
+   "title": "Oops, Apple's Website Just Hinted at iPad Mini 8",
+   "url": "https://www.macrumors.com/2026/10/15/apple-ipad-mini-8-website-reference/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-16T00:27:05.000Z",
+   "summary": "Apple has an unreleased iPad mini Smart Folio listed on its French regulatory website, hinting that a new ‌iPad mini‌ is coming. The case's A3632 model number doesn't match current or past ‌iPad mini‌ cases. Apple appears to have added the case to its website recently, and it's listed alongside…"
+  },
   {
    "id": "c175ac7a3c47a743",
    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
@@ -91,6 +199,15 @@
    "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March."
   },
   {
+   "id": "da599a4c70479499",
+   "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+   "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-15T23:37:42.000Z",
+   "summary": "100 points · 35 comments"
+  },
+  {
    "id": "ae6d8172c2d622ca",
    "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
    "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
@@ -98,6 +215,15 @@
    "section": "tech",
    "publishedAt": "2026-10-15T23:33:45.000Z",
    "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026."
+  },
+  {
+   "id": "f3c649d0c6523151",
+   "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+   "url": "https://github.com/johnrash/bebox",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-15T23:22:53.000Z",
+   "summary": "35 points · 9 comments"
   },
   {
    "id": "3cc8cbb68784821e",
@@ -134,6 +260,15 @@
    "section": "tech",
    "publishedAt": "2026-10-15T22:35:55.000Z",
    "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the…"
+  },
+  {
+   "id": "574643447be4c745",
+   "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
+   "url": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-15T22:21:06.000Z",
+   "summary": "KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie."
   },
   {
    "id": "f8a988a315e4274a",
@@ -1558,6 +1693,15 @@
    "summary": ""
   },
   {
+   "id": "16bad776eb09237b",
+   "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+   "url": "https://openai.com/index/sullivan-cromwell",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-10-15T00:00:00.000Z",
+   "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
+  },
+  {
    "id": "15658a38746f064e",
    "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
    "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
@@ -2906,6 +3050,15 @@
    "section": "tech",
    "publishedAt": "2026-10-14T13:38:21.000Z",
    "summary": "Apple today added the 12-inch MacBook (2017), iPad (6th generation), and BeatsX headphones to the obsolete products list on its website. Apple considers a product to be obsolete once seven years have passed since it last distributed the product for sale, including to resellers. Apple Stores and…"
+  },
+  {
+   "id": "5933d96fc2a5561a",
+   "title": "Non-Determinism Doesn't Matter",
+   "url": "https://sklar.rocks/non-determinism-doesnt-matter/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T13:37:59.000Z",
+   "summary": "23 points · 20 comments"
   },
   {
    "id": "1f10f2b6ed808d8a",
@@ -4915,6 +5068,15 @@
    "summary": "7 points · 0 comments"
   },
   {
+   "id": "7d2ebb4480d12dea",
+   "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
+   "url": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T14:14:20.000Z",
+   "summary": "21 points · 6 comments"
+  },
+  {
    "id": "327348da3c0f7056",
    "title": "TechCrunch Disrupt 2026: Day 1",
    "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
@@ -5093,6 +5255,15 @@
    "section": "tech",
    "publishedAt": "2026-10-13T13:25:05.000Z",
    "summary": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season."
+  },
+  {
+   "id": "e0fe1958bb574bfb",
+   "title": "4 Years of Ludicon",
+   "url": "https://www.ludicon.com/castano/blog/2026/10/4-years-of-ludicon/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T13:22:11.000Z",
+   "summary": "4 points · 0 comments"
   },
   {
    "id": "ea542e83c18f683d",
@@ -5374,6 +5545,15 @@
    "summary": "11 points · 9 comments"
   },
   {
+   "id": "7a2fdf163e2b6c33",
+   "title": "Speculative Sauropods",
+   "url": "https://svpow.com/2026/10/02/speculative-sauropods/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T12:20:03.000Z",
+   "summary": "12 points · 0 comments"
+  },
+  {
    "id": "8d037adff38acb43",
    "title": "What is the difference between a rearview and a backup camera?",
    "url": "https://www.engadget.com/2281751/rearview-vs-backup-camera-differences-between/",
@@ -5507,6 +5687,15 @@
    "section": "tech",
    "publishedAt": "2026-10-13T08:24:51.000Z",
    "summary": "38 points · 7 comments"
+  },
+  {
+   "id": "6ac4ada7a8866850",
+   "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+   "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T07:52:54.000Z",
+   "summary": "76 points · 45 comments"
   },
   {
    "id": "a7c4f3fe4f907cc3",
@@ -46682,159 +46871,6 @@
    "section": "tech",
    "publishedAt": "2026-09-16T04:58:36.000Z",
    "summary": "9 points · 2 comments"
-  },
-  {
-   "id": "07d662f2d55c0896",
-   "title": "How chimps teach their kids tool tricks",
-   "url": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-16T04:00:39.000Z",
-   "summary": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior."
-  },
-  {
-   "id": "a73deb88308dce24",
-   "title": "William Buckland's Theology of Geology",
-   "url": "https://www.historytoday.com/archive/great-debates/william-bucklands-theology-geology",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T03:53:27.000Z",
-   "summary": "4 points · 0 comments"
-  },
-  {
-   "id": "bdd6f56db7299788",
-   "title": "Negativland, Culture Jamming, and the Art of Making Something New",
-   "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T02:46:06.000Z",
-   "summary": "59 points · 17 comments"
-  },
-  {
-   "id": "755bfcc8116a6dda",
-   "title": "The Shadows Lurking in the Equations – Underwater Islands",
-   "url": "https://gods.art/articles/equation_shadows",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T02:37:22.000Z",
-   "summary": "30 points · 3 comments"
-  },
-  {
-   "id": "d714eb2d29395bb0",
-   "title": "Apple explains how the iPhone 18 Pro’s new Reference Image camera mode works",
-   "url": "https://9to5mac.com/2026/09/15/apple-explains-how-the-iphone-18-pros-new-reference-image-camera-mode-works/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-16T02:25:19.000Z",
-   "summary": "A new post on Apple’s Security Research blog details the fascinating tech, architecture, and thinking behind the iPhone 18 Pro’s new Reference Image camera mode. Here are the details more…"
-  },
-  {
-   "id": "e760101966be716d",
-   "title": "Stay discoverable in search while disallowing AI training",
-   "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-16T02:25:18.000Z",
-   "summary": "46 points · 30 comments"
-  },
-  {
-   "id": "0bd4dd418ee0e990",
-   "title": "Apple Reference Image: A New Approach for Verified Photography",
-   "url": "https://security.apple.com/blog/apple-reference-image/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T02:07:31.000Z",
-   "summary": "129 points · 72 comments"
-  },
-  {
-   "id": "6efa4b289903ed14",
-   "title": "A 32-year-old bug walks into a Telnet server",
-   "url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T02:01:27.000Z",
-   "summary": "17 points · 3 comments"
-  },
-  {
-   "id": "fac1247df6a2097e",
-   "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
-   "url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-16T02:00:00.000Z",
-   "summary": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justify its significant price bump depending on how you plan to use it. While the…"
-  },
-  {
-   "id": "05da244428bf8754",
-   "title": "Khipu (Quipu) Field Guide",
-   "url": "https://www.khipufieldguide.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T01:32:29.000Z",
-   "summary": "4 points · 0 comments"
-  },
-  {
-   "id": "91a557aa6b26fa11",
-   "title": "Slow Horses season 6 debuts on Apple TV",
-   "url": "https://9to5mac.com/2026/09/15/slow-horses-season-6-debuts-on-apple-tv/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-16T01:05:09.000Z",
-   "summary": "The wait is over. Apple TV subscribers can now stream the first episode of Slow Horses’ new season, just hours after the platform announced the show has been confirmed for two more seasons. Watch the trailer for the new season below. more…"
-  },
-  {
-   "id": "69f05ff29cbed39a",
-   "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
-   "url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-16T01:00:00.000Z",
-   "summary": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and more accessible alternative to the Canon R6 Mark…"
-  },
-  {
-   "id": "d523bb5e528add2c",
-   "title": "Canon's R8 II camera borrowed its styling from a classic SLR film camera",
-   "url": "https://www.engadget.com/2259755/canon-r8-ii-camera-borrowed-styling-from-a-classic-slr-film-camera/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-16T01:00:00.000Z",
-   "summary": "Though preoccupied with vlogging lately, Canon hasn't forgotten its full-frame photography market."
-  },
-  {
-   "id": "b7a73b063ef90f12",
-   "title": "Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime",
-   "url": "https://inspire.eaa.org/2019/05/16/landing-the-space-shuttle-an-incredible-flying-machine-and-the-thrill-of-a-lifetime/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T00:51:06.000Z",
-   "summary": "12 points · 2 comments"
-  },
-  {
-   "id": "071008e603e9c80b",
-   "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-   "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-16T00:20:39.000Z",
-   "summary": "AI isn't some kind of new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
-  },
-  {
-   "id": "e921acd06060fea0",
-   "title": "Considering a Level 2 EV charger? How to know if you need one",
-   "url": "https://www.engadget.com/2257144/level-2-ev-charger-how-to-know-if-you-need-one/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-16T00:00:00.000Z",
-   "summary": "Charging your EV from home is cheap and convenient, but knowing which type of charger will get the most out of your electric car can often be confusing."
-  },
-  {
-   "id": "ee36bf4cf7f9e57f",
-   "title": "India escalates Apple probe over alleged iOS 18 issues that incurred repair costs",
-   "url": "https://9to5mac.com/2026/09/15/india-escalates-apple-probe-over-alleged-ios-18-issues-that-incurred-repair-costs/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-15T23:52:22.000Z",
-   "summary": "India’s Central Consumer Protection Authority (CCPA) has reportedly escalated its probe into whether Apple should be held responsible for an iOS 18 update that allegedly caused display and microphone issues on some iPhones. Here are the details. more…"
   }
  ]
 }
