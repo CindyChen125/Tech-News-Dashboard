@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T04:22:46.107Z",
+ "updatedAt": "2026-10-16T09:15:27.899Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,64 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 31
+   "count": 30
   }
  ],
  "items": [
+  {
+   "id": "d04cbf9f14dee2d6",
+   "title": "Gmail's Live AI search feature arrives for Google AI subscribers",
+   "url": "https://www.engadget.com/2288545/gmail-live-ai-search-feature-arrives-for-google-ai-subscribers/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-16T08:31:48.000Z",
+   "summary": "Gmail's search can be frustrating and basic, but Google is finally smartening it up for AI plan subscribers."
+  },
+  {
+   "id": "3926eef904d29efd",
+   "title": "The insider trading you're allowed to do",
+   "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-16T07:12:09.000Z",
+   "summary": "12 points · 2 comments"
+  },
+  {
+   "id": "c8b790c5591325a7",
+   "title": "Apple Store is down ahead of iPhone Duo preorder rush",
+   "url": "https://9to5mac.com/2026/10/16/apple-store-is-down-ahead-of-iphone-duo-preorder-rush/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-16T07:02:48.000Z",
+   "summary": "In keeping with tradition, Apple has taken down the Apple Store this morning ahead of the iPhone Duo going up for preorder. If you are waiting to buy the new Apple foldable, be sure to log on at 5 AM Eastern Time. All reports point to constrained supply and relatively high demand, so everyone is…"
+  },
+  {
+   "id": "9f32f33e15ede938",
+   "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+   "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-16T05:16:46.000Z",
+   "summary": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep."
+  },
+  {
+   "id": "50385eb1386b928a",
+   "title": "Last rites for Gentoo's Chromium package",
+   "url": "https://lwn.net/Articles/1097760/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-16T05:14:42.000Z",
+   "summary": "52 points · 38 comments"
+  },
+  {
+   "id": "552eb3b39f934770",
+   "title": "The Folders Programming Language",
+   "url": "https://danieltemkin.com/esolangs/folders",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-16T05:11:28.000Z",
+   "summary": "45 points · 6 comments"
+  },
   {
    "id": "48807ac5089a6c23",
    "title": "Relive Tesla's ridiculous(ly fun) Roadster stunt show",
@@ -3475,6 +3529,15 @@
    "summary": "10 points · 2 comments"
   },
   {
+   "id": "c48090f0e4c2d9b3",
+   "title": "New York City's iconic horse-drawn carriages expected to take their last trot",
+   "url": "https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T03:41:42.000Z",
+   "summary": "34 points · 17 comments"
+  },
+  {
    "id": "1762d35c2df00d7d",
    "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
    "url": "https://strafe.chat/",
@@ -4987,6 +5050,15 @@
    "summary": "While the Apple Watch Series 10 has been out for a couple of years, it can almost keep up with newer models."
   },
   {
+   "id": "318b6a090ec43f36",
+   "title": "Two-Stack Sliding-Window Aggregation",
+   "url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T14:40:03.000Z",
+   "summary": "6 points · 0 comments"
+  },
+  {
    "id": "be5e9a537f55e4a3",
    "title": "Apple's HomeView Touts These 5 Privacy Features",
    "url": "https://www.macrumors.com/2026/10/13/homeview-touts-5-privacy-features/",
@@ -5750,6 +5822,15 @@
    "section": "ai",
    "publishedAt": "2026-10-13T02:46:43.000Z",
    "summary": "117 points · 77 comments"
+  },
+  {
+   "id": "ee7e1fd5824e8829",
+   "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+   "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T02:32:53.000Z",
+   "summary": "265 points · 71 comments"
   },
   {
    "id": "ab85d3b2b9cc7d20",
@@ -46781,96 +46862,6 @@
    "section": "ai",
    "publishedAt": "2026-09-16T09:45:45.000Z",
    "summary": "The EU will ban children under 13 from using social media platforms, some gaming platforms, and AI chatbots without parental supervision. The ban is set to be outlined in the Kids Act, which will be published on Thursday, reports Financial Times. \"No social media under the age of 13. No personal…"
-  },
-  {
-   "id": "8bdb348fbc468436",
-   "title": "Learning Programming in an Age of LLMs",
-   "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-16T09:12:34.000Z",
-   "summary": "62 points · 39 comments"
-  },
-  {
-   "id": "10f4b38dc691b5bc",
-   "title": "How workers are unlocking new ways of working",
-   "url": "https://openai.com/index/unlocking-new-ways-of-working",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-16T09:00:00.000Z",
-   "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
-  },
-  {
-   "id": "4bd3902719655fe7",
-   "title": "Meta is reportedly ready to launch less pervy smart glasses",
-   "url": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-16T08:54:46.000Z",
-   "summary": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses, codenamed Luna, could be revealed as soon as…"
-  },
-  {
-   "id": "e9e4b200c2a91c72",
-   "title": "The new Boox Palma 3 comes with stylus support and an aluminum build",
-   "url": "https://www.engadget.com/2259862/boox-palma-3-note-air6-c-mini-c/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-16T08:35:49.000Z",
-   "summary": "Boox has unveiled three new E Ink devices, including the Palma 3."
-  },
-  {
-   "id": "e88b753d278a217c",
-   "title": "I Put Nam A2-Lite Inside an iRig HD X",
-   "url": "https://playtaurus.com/blog/i-put-nam-a2-lite-inside-an-irig-hd-x",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T08:28:10.000Z",
-   "summary": "23 points · 6 comments"
-  },
-  {
-   "id": "af37e81a70e38da5",
-   "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-   "url": "https://mistral.ai/news/mistral-x-mozilla/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-16T08:08:57.000Z",
-   "summary": "76 points · 17 comments"
-  },
-  {
-   "id": "53df1325356acf3b",
-   "title": "Meta is reportedly gearing up to launch new smart glasses without a camera",
-   "url": "https://www.engadget.com/2259838/meta-smart-glasses-without-a-camera/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-16T06:49:32.000Z",
-   "summary": "Meta will soon unveil new camera-free smart glasses, according to The Information."
-  },
-  {
-   "id": "e37feba9dc945e2c",
-   "title": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
-   "url": "https://github.com/dbalsom/martypc",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T05:56:02.000Z",
-   "summary": "22 points · 2 comments"
-  },
-  {
-   "id": "1f5f34a79018cec2",
-   "title": "A software thing I built: GPS on a 25MHz 486-SX",
-   "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T05:43:44.000Z",
-   "summary": "32 points · 8 comments"
-  },
-  {
-   "id": "772dda2789ef970b",
-   "title": "Datamimic – don't let your coding agent invent its own test world",
-   "url": "https://github.com/rapiddweller/datamimic",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T04:58:36.000Z",
-   "summary": "9 points · 2 comments"
   }
  ]
 }
