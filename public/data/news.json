@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T09:15:27.899Z",
+ "updatedAt": "2026-10-16T14:12:17.796Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -23,7 +23,7 @@
    "name": "Hugging Face",
    "section": "ai",
    "ok": true,
-   "count": 879
+   "count": 880
   },
   {
    "name": "MIT Tech Review",
@@ -81,6 +81,339 @@
   }
  ],
  "items": [
+  {
+   "id": "7191c366c9f2a76d",
+   "title": "Meta’s new terms may allow it to train AI on news sites for free",
+   "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-16T14:02:40.000Z",
+   "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to…"
+  },
+  {
+   "id": "d0e4fd09c958f6ce",
+   "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+   "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-16T14:00:00.000Z",
+   "summary": "Counterfeits of luxury goods are a major problem for fashion houses. Counterfeiters are getting better at replicating brands’ marks and passing off dupes, known as “superfakes,” as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods. Veritas was…"
+  },
+  {
+   "id": "81c0fb6c764cc51a",
+   "title": "Security Bite: Americans are contradicting themselves around privacy",
+   "url": "https://9to5mac.com/2026/10/16/security-bite-americans-are-contradicting-themselves-around-privacy/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-16T13:52:09.000Z",
+   "summary": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated…"
+  },
+  {
+   "id": "4634f8ac3d06fca0",
+   "title": "iPhone Duo Resold for $5,000 on eBay After Selling Out",
+   "url": "https://www.macrumors.com/2026/10/16/iphone-duo-resold-for-5000-dollars-on-ebay/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-16T13:50:12.000Z",
+   "summary": "As spotted by Vadim Yuryev of the YouTube channel Max Tech, the iPhone Duo has already been resold on eBay for as much as $5,000 after shipping estimates for the device slipped into 2027 on Apple's online store within minutes of pre-orders beginning today. The listing that is marked as sold is for…"
+  },
+  {
+   "id": "f8b2678a8f19a8a4",
+   "title": "Developers Question Scope of Potential Apple Antitrust Settlement",
+   "url": "https://www.macrumors.com/2026/10/16/developers-question-scope-of-antitrust-settlement/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-16T13:41:29.000Z",
+   "summary": "Developers are questioning whether a settlement of the U.S. government's antitrust case against Apple would meaningfully loosen the company's control over the iPhone, according to The Information. Epic Games among the companies that have raised concerns with the Department of Justice (DOJ)…"
+  },
+  {
+   "id": "efa2a41c1bb45476",
+   "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
+   "url": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-16T13:33:21.000Z",
+   "summary": "There's a new storage upgrade option for smartphones compatible with wireless chargers and other magnetic accessories, but it won't help if you've run out of room for apps, pics, and videos. The MagSafe Flex Pouch looks like a magnetic wallet for pairing a small stack of credit cards to your phone…"
+  },
+  {
+   "id": "1afc8981c987b104",
+   "title": "Massive Discounts Hit 2026 MacBook Pro With Up to $800 Off",
+   "url": "https://www.macrumors.com/2026/10/16/discounts-macbook-pro/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-16T13:30:00.000Z",
+   "summary": "Today we're tracking a trio of major discounts on Apple's newest MacBook Pro models, including $500 off a 16-inch model and up to $800 off 14-inch models on Amazon. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small…"
+  },
+  {
+   "id": "d6e80e9490bfb041",
+   "title": "iPhone Duo accessories: Here are five top picks for Apple’s foldable",
+   "url": "https://9to5mac.com/2026/10/16/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-16T13:17:34.000Z",
+   "summary": "iPhone Duo is almost here, so if you want to get a head start on accessories for Apple’s new model, here are our top recommendations. more…"
+  },
+  {
+   "id": "ccc2c4faeaa5a191",
+   "title": "iPhone Duo is Sold Out for Christmas as Shipping Estimates Slip to 2027",
+   "url": "https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-16T13:11:43.000Z",
+   "summary": "If you were hoping to surprise someone with an iPhone Duo for Christmas, you might be out of luck, as Apple's online store in the U.S. is already showing an estimated shipping date of January 25 for all configurations following the start of pre-orders today. Related Roundup: iPhone Duo Buyer's…"
+  },
+  {
+   "id": "f8429af09633509d",
+   "title": "iPhone Duo orders are already delayed into 2027",
+   "url": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-16T13:10:11.000Z",
+   "summary": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery dates for every configuration on Apple's website. The foldable is slated to launch in stores on…"
+  },
+  {
+   "id": "9ec285fe7c60df25",
+   "title": "Seized server Autistici/Inventati (A/I) in Amsterdam for U.S. authorities",
+   "url": "https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-16T13:09:25.000Z",
+   "summary": "11 points · 4 comments"
+  },
+  {
+   "id": "08ea6adb238a4bf8",
+   "title": "Technics EAH-A1000 review: Superior sound and excellent ANC in a premium package",
+   "url": "https://www.engadget.com/2288638/technics-eah-a1000-review/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-16T13:00:00.000Z",
+   "summary": "Technics' flagship over-ear wireless headphones are light on compromises, but enter a competitive market."
+  },
+  {
+   "id": "4181c512916c2f2f",
+   "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+   "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-16T12:55:09.000Z",
+   "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions."
+  },
+  {
+   "id": "80673d9d19ef4ecd",
+   "title": "I Love Software Rendering",
+   "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-16T12:52:08.000Z",
+   "summary": "78 points · 45 comments"
+  },
+  {
+   "id": "865b563ba4c20d88",
+   "title": "An OpenAI research agent 'stole' test Ethereum to finish a coding task",
+   "url": "https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-16T12:50:24.000Z",
+   "summary": "An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens."
+  },
+  {
+   "id": "c400e9f739a763ba",
+   "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
+   "url": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-16T12:36:11.000Z",
+   "summary": "When the midrange Sony Xperia 10 VI was announced over two years ago with a Qualcomm Snapdragon 6 Gen 1 chipset and Android 14, Sony promised three major OS updates which would have included this year's Android 17 release. However, according to a notice posted to the company's UK support site, the…"
+  },
+  {
+   "id": "be8e369c36e706cb",
+   "title": "iPhone Duo sells out immediately, now backordered until next year",
+   "url": "https://9to5mac.com/2026/10/16/iphone-duo-pre-orders-now-backordered-to-next-year/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-16T12:32:57.000Z",
+   "summary": "iPhone Duo, Apple’s first foldable iPhone, went up for pre-order today. Within minutes of pre-orders opening, however, estimated delivery dates started slipping all the way to next year. more…"
+  },
+  {
+   "id": "c0de4cb8521c6e61",
+   "title": "The first vibe-coded gun is here",
+   "url": "https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-16T12:30:00.000Z",
+   "summary": "The WASP. | Image: Defense Distributed Since gun-rights activist and alt-right-friendly agitator Cody Wilson made the first 3D-printed firearm 13 years ago, he's helped usher in a chaotic era of untraceable ghost guns. Now he's claiming another first: \"the first AI-made gun.\" It's called the WASP…"
+  },
+  {
+   "id": "e4faf042ae0a1b35",
+   "title": "Didn't Pre-Order an iPhone Duo Yet? Wait Times Are Significant Now",
+   "url": "https://www.macrumors.com/2026/10/16/iphone-duo-preorder-shipping-wait-times/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-16T12:27:22.000Z",
+   "summary": "iPhone Duo pre-orders began today in the U.S. and select other countries. If you have yet to place a pre-order, however, wait times at Apple are longer now. The first customers who pre-ordered right when pre-orders began at 5 a.m. Pacific Time today will have their iPhone Duo delivered on Friday…"
+  },
+  {
+   "id": "ce044d9492e665f3",
+   "title": "Bark: The Toll-Free BBS for 90s Teens",
+   "url": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-16T12:22:13.000Z",
+   "summary": "7 points · 3 comments"
+  },
+  {
+   "id": "8969d82cae68b727",
+   "title": "First Apple TV 4K Pre-Order Discount Arrives at Amazon",
+   "url": "https://www.macrumors.com/2026/10/16/apple-tv-4k-pre-order-discount/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-16T12:17:34.000Z",
+   "summary": "Following in the footsteps of a small pre-order discount on the HomeView, Amazon is now offering the first cash discount on the brand new A19 Apple TV 4K. You can get this model for $289.99, down from $299.00. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link…"
+  },
+  {
+   "id": "1863beb4e00ae660",
+   "title": "Qualcomm Legally Proves Arm Breached Its License, Wins $2",
+   "url": "https://www.techpowerup.com/353776/qualcomm-legally-proves-arm-breached-its-license-wins-usd-2",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-16T12:16:42.000Z",
+   "summary": "20 points · 4 comments"
+  },
+  {
+   "id": "dc46937d2606acb6",
+   "title": "Artificial intelligence is capitalism's final destination",
+   "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-16T12:08:40.000Z",
+   "summary": "8 points · 1 comments"
+  },
+  {
+   "id": "cc02944ff3e9c6ec",
+   "title": "iPhone Duo Pre-Order Deals: The Best Carrier Offers From AT&T and T-Mobile",
+   "url": "https://www.macrumors.com/2026/10/16/iphone-duo-pre-order-deals/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-16T12:03:14.000Z",
+   "summary": "Apple today launched pre-orders for the iPhone Duo. If you're looking to place a pre-order on one of these models at a cellular carrier, we've rounded up all of the best deals and offers you can find from the major carriers in the United States. Note: MacRumors is an affiliate partner with some of…"
+  },
+  {
+   "id": "3f90be0f33dbfa86",
+   "title": "iPhone Duo now available to pre-order, prices start at $1,999",
+   "url": "https://9to5mac.com/2026/10/16/iphone-duo-now-available-to-pre-order-prices-start-at-1999/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-16T12:01:14.000Z",
+   "summary": "Apple’s first-ever foldable iPhone is now available for pre-order. You can head to Apple’s website or the Apple Store app this morning to place your iPhone Duo pre-order, with the first orders arriving in one week on October 23. more…"
+  },
+  {
+   "id": "02007dafa53bc157",
+   "title": "iPhone Duo Now Available to Pre-Order From Apple",
+   "url": "https://www.macrumors.com/2026/10/16/iphone-duo-now-available-to-pre-order/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-16T12:00:37.000Z",
+   "summary": "Apple is now accepting pre-orders for the iPhone Duo through its online storefront and Apple Store app. If you don't see the option to order, refresh both the website and the app until the store loads. Pre-orders for the ‌iPhone Duo‌ are launching in more than 70 countries and regions. Customers…"
+  },
+  {
+   "id": "3b19d54ae2f24ccb",
+   "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
+   "url": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-16T12:00:05.000Z",
+   "summary": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there."
+  },
+  {
+   "id": "4a1e8b40083b75c4",
+   "title": "The iPhone Duo is now available to preorder at $1,999",
+   "url": "https://www.theverge.com/gadgets/988582/apple-iphone-duo-preorder-buy-foldable",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-16T12:00:00.000Z",
+   "summary": "The iPhone Duo is Apple’s first foldable phone. | Photo by Antonio Di Benedetto / The Verge Few phones have been more anticipated than a foldable iPhone, but it's finally here. The iPhone Duo was unveiled during Apple's \"Surprise and shine\" event alongside the iPhone 18 Pro and the Apple Watch…"
+  },
+  {
+   "id": "380bf6928452d2dc",
+   "title": "Surface Laptop Ultra review: a different kind of MacBook Pro",
+   "url": "https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-16T12:00:00.000Z",
+   "summary": "This MacBook Pro lookalike is designed for developers. After setting up Microsoft's Surface Laptop Ultra, I spent five minutes just staring at it. I wasn't surprised by its MacBook Pro-like design or blown away by its bright display. I was trying to work out what I'd actually do with a $5,900…"
+  },
+  {
+   "id": "dcb5ef8d8d8f2f64",
+   "title": "Steam Achievement Sets will stop DLCs from ruining your 100 percent record",
+   "url": "https://www.engadget.com/2288624/steam-achievement-sets-protect-100-percent-record-from-dlcs/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-16T11:54:54.000Z",
+   "summary": "Steam has launched Achievement Sets in beta."
+  },
+  {
+   "id": "bc8dbe2d9a55b12e",
+   "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
+   "url": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-16T11:00:53.000Z",
+   "summary": "The pioneering reusable upper stage for Stoke Space's Nova rocket ships out for testing."
+  },
+  {
+   "id": "df56cf4096d11713",
+   "title": "ChatGPT can now look at your Chrome tabs to do tasks for you",
+   "url": "https://www.engadget.com/2288580/open-ai-updates-chatgpt-extension-for-chrome/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-16T10:06:15.000Z",
+   "summary": "The ChatGPT browser extension lets you compare information from your open tabs."
+  },
+  {
+   "id": "06b66520ce2b3b3e",
+   "title": "Blue Origin is going all in on the New Glenn rocket",
+   "url": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-16T10:00:54.000Z",
+   "summary": "The infrastructure is designed to support multiple flights per week by the end of the decade."
+  },
+  {
+   "id": "1c5d6ed8a48d7787",
+   "title": "Googlebook review: Android on a laptop is still Android",
+   "url": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-16T10:00:32.000Z",
+   "summary": "Android laptops are here, but Google has a lot of work ahead to make them good."
+  },
+  {
+   "id": "6d33a5311c92fc63",
+   "title": "Time is a-changin’: say goodbye to the leap second",
+   "url": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-16T10:00:25.000Z",
+   "summary": "An important change will soon be made to global timekeeping that aims to prevent potential infrastructure failures akin to the Y2K bug scare. On Thursday, the International Bureau of Weights and Measures (BIPM) voted to scrap the leap second, an ad hoc time adjustment that's occasionally added so…"
+  },
+  {
+   "id": "7a3ad4b30ab2cd84",
+   "title": "Apple's $2,000 iPhone Duo goes on pre-order today at 8AM ET",
+   "url": "https://www.engadget.com/2288565/apple-iphone-duo-pre-orders-open-today/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-16T09:36:05.000Z",
+   "summary": "The Apple Store is down ahead of pre-orders for the first folding iPhone."
+  },
+  {
+   "id": "d768d9fcb482b0da",
+   "title": "Apple Store Down Ahead of iPhone Duo Pre-Orders",
+   "url": "https://www.macrumors.com/2026/10/16/apple-store-down-ahead-of-iphone-duo-pre-orders/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-16T09:30:57.000Z",
+   "summary": "Apple's online store is down ahead of iPhone Duo pre-orders, which begin at 5:00 a.m. Pacific Time on Friday, October 16. \"We love that early energy,\" reads the Apple Store's message when visiting the U.S. website. \"Almost ready for you. Pre-order begins at 5:00 a.m. PT. See you soon.\" Apple has…"
+  },
   {
    "id": "d04cbf9f14dee2d6",
    "title": "Gmail's Live AI search feature arrives for Google AI subscribers",
@@ -242,6 +575,15 @@
    "section": "tech",
    "publishedAt": "2026-10-16T00:27:05.000Z",
    "summary": "Apple has an unreleased iPad mini Smart Folio listed on its French regulatory website, hinting that a new ‌iPad mini‌ is coming. The case's A3632 model number doesn't match current or past ‌iPad mini‌ cases. Apple appears to have added the case to its website recently, and it's listed alongside…"
+  },
+  {
+   "id": "e0cc4bc86ef74b96",
+   "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+   "url": "https://huggingface.co/blog/reflection-beam",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-10-16T00:00:00.000Z",
+   "summary": ""
   },
   {
    "id": "c175ac7a3c47a743",
@@ -3340,6 +3682,15 @@
    "summary": "You can already set up your pre-order now, before the pre-orders open on Friday (October 16)."
   },
   {
+   "id": "dd2697cb8d9f09d6",
+   "title": "AI-assisted PCB design for KiCad 10",
+   "url": "https://github.com/mixelpixx/Konnect",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-14T10:51:37.000Z",
+   "summary": "49 points · 18 comments"
+  },
+  {
    "id": "05a9d588c23e43e5",
    "title": "TV4 postpones show after AI agent erases edited material",
    "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
@@ -3439,6 +3790,15 @@
    "summary": "91 points · 95 comments"
   },
   {
+   "id": "30c0cd3abb8b8517",
+   "title": "The Economic Complexity of the Western Roman Empire",
+   "url": "https://www.michelecoscia.com/?p=2613",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T09:32:09.000Z",
+   "summary": "84 points · 14 comments"
+  },
+  {
    "id": "ecd2c08918b6a485",
    "title": "Amazon pushes up prices across the Internet",
    "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
@@ -3518,6 +3878,15 @@
    "section": "tech",
    "publishedAt": "2026-10-14T05:08:09.000Z",
    "summary": "28 points · 18 comments"
+  },
+  {
+   "id": "91933d8d603ceca3",
+   "title": "MS Paint Adds Freeform Rotation (2026)",
+   "url": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T04:55:40.000Z",
+   "summary": "10 points · 4 comments"
   },
   {
    "id": "60e62dc73b977be3",
@@ -3871,6 +4240,15 @@
    "summary": "18 points · 0 comments"
   },
   {
+   "id": "3ec141145f248037",
+   "title": "New 'Super Ice' 10 Times Stronger, Bringing It Close to the Strength of Concrete",
+   "url": "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T21:42:38.000Z",
+   "summary": "54 points · 28 comments"
+  },
+  {
    "id": "49ffe49a8fac31bf",
    "title": "OpenAI says it found a 'sophisticated recording device' hidden in its offices",
    "url": "https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/",
@@ -4094,6 +4472,15 @@
    "section": "tech",
    "publishedAt": "2026-10-13T19:29:22.000Z",
    "summary": "Apple today unveiled its next big foray into the smart home world, including the new HomeView smart display and a new Apple TV 4K. Following Apple’s announcement, the new Apple home gear is also now available for pre-order on Amazon: HomeView: $299 Apple TV 4K: $299 Apple TV Siri Remote: $59…"
+  },
+  {
+   "id": "1f99bd358f2a3577",
+   "title": "Yet another way to invoke functions without parentheses",
+   "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-13T19:25:18.000Z",
+   "summary": "161 points · 56 comments"
   },
   {
    "id": "6d22588022956726",
@@ -46448,420 +46835,6 @@
    "section": "tech",
    "publishedAt": "2026-09-16T14:14:46.000Z",
    "summary": "iOS 27 introduces a new security feature called ‘Impersonation Risk Detection’ that helps protect you against scams, but it’s off by default. Here’s what the feature does, and how to enable it. more…"
-  },
-  {
-   "id": "a3a08e7705df6928",
-   "title": "Replacing Pull Requests with Delta",
-   "url": "https://zed.dev/blog/delta-public-beta",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T14:05:44.000Z",
-   "summary": "34 points · 5 comments"
-  },
-  {
-   "id": "7d37e0c0417f5b60",
-   "title": "Lawmakers target Flock cameras with a threat to highway funding",
-   "url": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-16T14:03:39.000Z",
-   "summary": "A bipartisan bill would restrict Flock cameras to a handful of public safety uses."
-  },
-  {
-   "id": "b82f493fe9895d0d",
-   "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-16T14:00:00.000Z",
-   "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
-  },
-  {
-   "id": "ac2cf84dfa8da990",
-   "title": "Threads leans even further into podcasts with transcripts, analytics and more",
-   "url": "https://www.engadget.com/2259605/threads-leans-even-further-into-podcasts-with-transcripts-analytics-and-more/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-16T14:00:00.000Z",
-   "summary": "Meta is making the platform even better for podcast promotion."
-  },
-  {
-   "id": "a473b4f9ab6e9865",
-   "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
-   "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
-   "source": "Apple Newsroom",
-   "section": "tech",
-   "publishedAt": "2026-09-16T13:59:28.902Z",
-   "summary": "A new photography exhibition, curated by Kathy Ryan, celebrates the evolving language of visual storytelling and showcases the advanced pro camera system on iPhone 18 Pro."
-  },
-  {
-   "id": "511697dd25d2fe1c",
-   "title": "Apple May Return to Server Market With Nvidia Technology",
-   "url": "https://www.macrumors.com/2026/09/16/apple-may-return-to-server-market/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-16T13:53:07.000Z",
-   "summary": "Apple is considering offering an AI server built around \"M8\" series chips and has discussed incorporating Nvidia networking hardware, The Information reports. discontinued Xserve in 2011. Apple is reportedly targeting companies that want to run AI models on their own equipment, with a particular…"
-  },
-  {
-   "id": "ae88e4feeeb00fd7",
-   "title": "Apple planning to sell AI servers powered by M8 Ultra chips, says report",
-   "url": "https://9to5mac.com/2026/09/16/apple-planning-to-sell-ai-servers-powered-by-m8-ultra-chips-says-report/",
-   "source": "9to5Mac",
-   "section": "ai",
-   "publishedAt": "2026-09-16T13:46:08.000Z",
-   "summary": "Apple is working on plans to make enterprise servers powered by M8 Ultra chips, according to a new report. The report specifically says that the company plans to offer the AI-focused servers for sale, not just use them internally. Two versions are said to be in development, with Apple considering…"
-  },
-  {
-   "id": "f5fa28589177106f",
-   "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-   "url": "https://arxiv.org/abs/2609.14858",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T13:44:40.000Z",
-   "summary": "51 points · 10 comments"
-  },
-  {
-   "id": "8547d1da3ddef721",
-   "title": "Goroutine Leak Profiles",
-   "url": "https://go.dev/blog/goroutine-leak-profiles",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T13:30:30.000Z",
-   "summary": "19 points · 2 comments"
-  },
-  {
-   "id": "457c258f4fdc5e41",
-   "title": "iOS 27 adds three new iPhone features you’ll use all the time",
-   "url": "https://9to5mac.com/2026/09/16/ios-27-adds-three-new-iphone-features-youll-use-all-the-time/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-16T13:28:20.000Z",
-   "summary": "iOS 27 launched this week as a major iPhone update, here are three new features that could be among the most-used for many users. more…"
-  },
-  {
-   "id": "9d7317e7b0eef77f",
-   "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-   "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-16T13:23:02.000Z",
-   "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet."
-  },
-  {
-   "id": "1053c3c370afb4ed",
-   "title": "When the fractional part of a float fixes your shader",
-   "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T13:20:15.000Z",
-   "summary": "42 points · 1 comments"
-  },
-  {
-   "id": "6ae7a69197517ccd",
-   "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
-   "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T13:18:47.000Z",
-   "summary": "165 points · 68 comments"
-  },
-  {
-   "id": "c3f2b2c798352a46",
-   "title": "Scaling Golang CI by Replacing actions/setup-go",
-   "url": "https://www.cloudx.ai/posts/setup-go",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T13:02:14.000Z",
-   "summary": "37 points · 2 comments"
-  },
-  {
-   "id": "a463f180ce9bc940",
-   "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-   "url": "https://stale.jock.pl/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-16T13:01:52.000Z",
-   "summary": "21 points · 15 comments"
-  },
-  {
-   "id": "dd99d2f1d66cbd82",
-   "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
-   "url": "https://github.com/officefloor/ImpactGate",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-16T13:01:09.000Z",
-   "summary": "33 points · 37 comments"
-  },
-  {
-   "id": "e32aedf5e16f9a81",
-   "title": "Reimagining advertising with AI",
-   "url": "https://openai.com/index/reimagining-advertising-with-ai",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-16T13:00:00.000Z",
-   "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
-  },
-  {
-   "id": "9b90e269d2d928f0",
-   "title": "Former Infosys chief’s AI startup nabs another $53M",
-   "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-16T13:00:00.000Z",
-   "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch."
-  },
-  {
-   "id": "5fab457bbbb0fe2f",
-   "title": "Clean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
-   "url": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-16T13:00:00.000Z",
-   "summary": "Fluxnium's fibers can extract uranium directly from seawater, which has enough of the nuclear fuel to power thousands of generations."
-  },
-  {
-   "id": "aa185975bed03d6e",
-   "title": "Building the materials foundation for AI",
-   "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-   "source": "MIT Tech Review",
-   "section": "ai",
-   "publishedAt": "2026-09-16T12:47:34.000Z",
-   "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management…"
-  },
-  {
-   "id": "0efe93098dd93c5c",
-   "title": "Apple Watch Ultra 3 vs. Ultra 4 Buyer's Guide",
-   "url": "https://www.macrumors.com/2026/09/16/apple-watch-ultra-3-vs-ultra-4/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-16T12:40:15.000Z",
-   "summary": "The Apple Watch Ultra 4 is now available for pre-order, bringing a new health sensing system, more memory, and longer battery life over its predecessor. Here's everything that's new. Last year, the Apple Watch Ultra 3 introduced a larger, more efficient display, satellite connectivity, 5G, and…"
-  },
-  {
-   "id": "809d7e59791a7736",
-   "title": "Wax motor",
-   "url": "https://en.wikipedia.org/wiki/Wax_motor",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T12:35:14.000Z",
-   "summary": "149 points · 30 comments"
-  },
-  {
-   "id": "4a6695eb3b477e86",
-   "title": "Four ways to prevent AI killing us all within 10 years",
-   "url": "https://9to5mac.com/2026/09/16/four-ways-to-prevent-ai-killing-us-all-within-10-years/",
-   "source": "9to5Mac",
-   "section": "ai",
-   "publishedAt": "2026-09-16T12:34:11.000Z",
-   "summary": "Two high-profile computer scientists from Princeton University, and coauthors of the book AI Snake Oil, have weighed in on the question of whether AI will kill us all by the end of the decade. The pair have become well known for their work in separating fact from fiction in the AI world, and have…"
-  },
-  {
-   "id": "1b916d8efe561946",
-   "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-   "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-16T12:19:55.000Z",
-   "summary": "54 points · 7 comments"
-  },
-  {
-   "id": "b26718bae6b3f868",
-   "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
-   "url": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T12:01:09.000Z",
-   "summary": "0 points · 0 comments"
-  },
-  {
-   "id": "3004e82a88ccc96e",
-   "title": "iPhone 18 Pro review: More of a great thing",
-   "url": "https://9to5mac.com/2026/09/16/iphone-18-pro-review/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-16T12:00:39.000Z",
-   "summary": "The iPhone 18 Pro is Apple doubling down on what it thinks a “Pro” iPhone should be. It’s faster, heavier, has longer-lasting battery life, and more capable. Plus, there’s a new variable aperture camera leading the way. I’ve spent the last week using the iPhone 18 Pro and iPhone 18 Pro Max. Here’s…"
-  },
-  {
-   "id": "d4bf159007a9aa36",
-   "title": "A brief history of AI executives calling for regulation",
-   "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-   "source": "The Verge",
-   "section": "ai",
-   "publishedAt": "2026-09-16T12:00:00.000Z",
-   "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella…"
-  },
-  {
-   "id": "9ed05708304324c7",
-   "title": "Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave",
-   "url": "https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-16T12:00:00.000Z",
-   "summary": "Nintendo has gotten quite good at making open-ended games. The Legend of Zelda: Breath of the Wild upended the idea of what a Zelda game could be by giving the player free rein to tackle any part of the map, a philosophy iterated upon with Tears of the Kingdom. On the Switch 2 this idea expanded to…"
-  },
-  {
-   "id": "b8fba405105cf5fb",
-   "title": "The iPhone 18 Pro’s big camera update is all about the small gains",
-   "url": "https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-16T12:00:00.000Z",
-   "summary": "Ice cold. | Photo: Amelia Holowaty Krales / The Verge Last week, Apple announced an iPhone unlike any it has made in the past. An iPhone that has seemingly already led several other phone manufacturers to pursue entirely different designs for their flagship products. A remarkably distinct device…"
-  },
-  {
-   "id": "1215a4b8ece294fe",
-   "title": "Here's how the iPhone 18 Pro's Apple Reference Image tech works",
-   "url": "https://www.engadget.com/2259654/how-iphone-18-pro-apple-reference-image-works/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-16T12:00:00.000Z",
-   "summary": "Apple Reference Image is like giving your photos a tamper-proof seal."
-  },
-  {
-   "id": "e00e1033f399633f",
-   "title": "iPhone 18 Pro review: The standard setter",
-   "url": "https://www.engadget.com/2259790/apple-iphone-18-pro-review-cameras-performance-variable-aperture-siri-ai/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-16T12:00:00.000Z",
-   "summary": "The yardstick that all phones, including the Duo, will be measured by."
-  },
-  {
-   "id": "914260481c4a5312",
-   "title": "How to connect AI usage to business value",
-   "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-16T12:00:00.000Z",
-   "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
-  },
-  {
-   "id": "1b8e2729dbd4dacf",
-   "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-   "url": "https://openai.com/index/hex-gpt-6-astra",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-16T12:00:00.000Z",
-   "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share."
-  },
-  {
-   "id": "ef4f991012898219",
-   "title": "Apple detectives solved mystery of ancient tree and rewrote the history of fruit",
-   "url": "https://www.scientificamerican.com/article/how-apple-detectives-solved-the-mystery-of-an-ancient-tree-and-rewrote-the-history-of-fruit/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T11:52:40.000Z",
-   "summary": "25 points · 2 comments"
-  },
-  {
-   "id": "7614d8a936151608",
-   "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
-   "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T11:49:40.000Z",
-   "summary": "132 points · 37 comments"
-  },
-  {
-   "id": "43a921a180d1faf4",
-   "title": "Video highlights Apple’s playful James Bond homages in its keynote",
-   "url": "https://9to5mac.com/2026/09/16/video-highlights-apples-playful-james-bond-homages-in-its-keynote/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-16T11:21:51.000Z",
-   "summary": "A video short highlights Apple’s playful use of James Bond homages in its keynote opening, with shots directly emulating ones from Skyfall … more…"
-  },
-  {
-   "id": "a9001d7c08f85086",
-   "title": "The Google Play app review process now regularly takes longer than a week",
-   "url": "https://gultsch.social/@daniel/117280438824908947",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T11:19:11.000Z",
-   "summary": "226 points · 193 comments"
-  },
-  {
-   "id": "21503c51bea2031b",
-   "title": "Nvidia announces native GPU programming in Rust",
-   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T11:15:53.000Z",
-   "summary": "163 points · 54 comments"
-  },
-  {
-   "id": "e499574fe65b1dc8",
-   "title": "Samsung reportedly rushing new trifold phone in response to iPhone Duo",
-   "url": "https://9to5mac.com/2026/09/16/samsung-reportedly-rushing-new-trifold-phone-in-response-to-iphone-duo/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-16T11:03:02.000Z",
-   "summary": "It was already clear that Samsung was worried about the impact of the iPhone Duo on its foldable phone range, and there’s now further evidence of the Korean company’s concern. A blogger who aggregates reports from Chinese social media says there are signs that the company is bringing forward the…"
-  },
-  {
-   "id": "b53348eb8eb6780e",
-   "title": "Breville Eye Q Toaster review: A toaster with a vision",
-   "url": "https://www.engadget.com/2259441/breville-eye-q-toaster-review/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-16T11:00:00.000Z",
-   "summary": "The world's first toaster that works on color instead of time is great. But is it $300 great?"
-  },
-  {
-   "id": "c23164dac4e36122",
-   "title": "Sony unveils new PlayStation Pulse wireless headsets with 'planar magnetic' sound tech",
-   "url": "https://www.engadget.com/2259911/sony-unveils-playstation-pulse-wireless-headsets-planar-magnetic-drivers/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-16T10:54:02.000Z",
-   "summary": "Sony has introduced the PlayStation Pulse and Pulse Edge headsets, which feature planar magnetic drivers."
-  },
-  {
-   "id": "1f70a722f8ed647c",
-   "title": "Reminder: macOS 27 Ends Time Machine Backups to Time Capsule",
-   "url": "https://www.macrumors.com/2026/09/16/macos-27-ends-time-machine-backups-time-capsule/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-16T10:38:20.000Z",
-   "summary": "If you're upgrading to macOS Golden Gate and you have an AirPort Time Capsule, Time Machine won't be able to back up to it. macOS 27 removes support for AFP, the legacy file-sharing protocol that Time Capsule relies on for Time Machine backups. Said backups now exclusively use the SMB protocol…"
-  },
-  {
-   "id": "a54149c5f86f1fad",
-   "title": "Salesforce Global Outage",
-   "url": "https://status.salesforce.com/products/all",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T10:37:08.000Z",
-   "summary": "19 points · 7 comments"
-  },
-  {
-   "id": "8438a5924d5e5b63",
-   "title": "Amazon launches Alexa+ in India with Hindi support",
-   "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-16T10:34:47.000Z",
-   "summary": "Amazon is letting all customers use Alexa+ assistant in early access period"
-  },
-  {
-   "id": "4d980c25e229c9ef",
-   "title": "EU chief opens door for Canada to become 'associate member'",
-   "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-16T09:54:05.000Z",
-   "summary": "149 points · 81 comments"
-  },
-  {
-   "id": "03108aea6509e9dd",
-   "title": "EU's Kids Act to Ban Social Media for Under-13s, Curb Chatbot Access",
-   "url": "https://www.macrumors.com/2026/09/16/eu-kids-act-ban-social-media-under-13s/",
-   "source": "MacRumors",
-   "section": "ai",
-   "publishedAt": "2026-09-16T09:45:45.000Z",
-   "summary": "The EU will ban children under 13 from using social media platforms, some gaming platforms, and AI chatbots without parental supervision. The ban is set to be outlined in the Kids Act, which will be published on Thursday, reports Financial Times. \"No social media under the age of 13. No personal…"
   }
  ]
 }
