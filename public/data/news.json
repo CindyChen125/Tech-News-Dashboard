@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-17T04:56:34.315Z",
+ "updatedAt": "2026-10-17T09:14:32.093Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1298
+   "count": 1299
   },
   {
    "name": "Google DeepMind",
@@ -81,6 +81,33 @@
   }
  ],
  "items": [
+  {
+   "id": "df7f3ef335bbb7af",
+   "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+   "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-17T08:37:46.000Z",
+   "summary": "15 points · 0 comments"
+  },
+  {
+   "id": "b7685fa3b33e1b24",
+   "title": "DeepSeek-v4.1-Flash-1017",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-17T08:21:25.000Z",
+   "summary": "51 points · 15 comments"
+  },
+  {
+   "id": "bc9492c085dc124f",
+   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+   "url": "https://llmspeed.dev/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-17T04:36:53.000Z",
+   "summary": "63 points · 23 comments"
+  },
   {
    "id": "920f7a828fa367a0",
    "title": "\"In every study that considered the question\"",
@@ -1540,6 +1567,15 @@
    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
   },
   {
+   "id": "d7385f69b0b1f95f",
+   "title": "Benefit Street Partners answers questions faster with Codex",
+   "url": "https://openai.com/index/benefit-street-partners",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-10-16T00:00:00.000Z",
+   "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
+  },
+  {
    "id": "c175ac7a3c47a743",
    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
@@ -1646,6 +1682,15 @@
    "section": "tech",
    "publishedAt": "2026-10-15T22:09:39.000Z",
    "summary": "Exercise-tracking platform Strava announced today a new expansion of its strength training features, adding coach-designed guided workouts with live set and rep tracking. Here are the details. more…"
+  },
+  {
+   "id": "864aa9374763272b",
+   "title": "$50k First Letters Prize Awarded for PHerc 343",
+   "url": "https://scrollprize.substack.com/p/50k-first-letters-prize-awarded-for",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-15T21:55:04.000Z",
+   "summary": "9 points · 0 comments"
   },
   {
    "id": "af1c841e21b3c8e8",
@@ -2654,6 +2699,15 @@
    "section": "tech",
    "publishedAt": "2026-10-15T13:19:07.000Z",
    "summary": "36 points · 18 comments"
+  },
+  {
+   "id": "103ea772529d98b9",
+   "title": "Intuitive concurrent programming in any language",
+   "url": "https://www.lf-lang.org/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-15T13:18:44.000Z",
+   "summary": "29 points · 6 comments"
   },
   {
    "id": "d2b950f0bb75b03f",
@@ -4060,6 +4114,15 @@
    "summary": "Google will tell if you a scammer is trying to message you and will protect your banking details from prying eyes while sharing your screen."
   },
   {
+   "id": "9b1908a07c2cc8c7",
+   "title": "Tell HN: Remember to migrate away from .name domain",
+   "url": "https://news.ycombinator.com/item?id=50089577",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T15:49:31.000Z",
+   "summary": "17 points · 8 comments"
+  },
+  {
    "id": "c2df88d8f74f46f5",
    "title": "HomeView can display third-party widgets from your iPhone",
    "url": "https://9to5mac.com/2026/10/14/homeview-can-display-third-party-widgets-from-your-iphone/",
@@ -4229,6 +4292,15 @@
    "section": "tech",
    "publishedAt": "2026-10-14T15:06:12.000Z",
    "summary": "The aftermath of a Russian missile strike on October 12th, 2026 in Kyiv, Ukraine. | Photo by Andrew Kravchenko/Global Images Ukraine via Getty Images Ukrainian officials claim the Elon Musk-owned Starlink put new limits on its service in the area without warning, disrupting the country's drone…"
+  },
+  {
+   "id": "8ad99ad22532b8b0",
+   "title": "0/1 Knapsack Problem in PyTorch",
+   "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T15:04:33.000Z",
+   "summary": "21 points · 1 comments"
   },
   {
    "id": "152d5e0217c1887f",
@@ -46421,87 +46493,6 @@
    "section": "tech",
    "publishedAt": "2026-09-17T09:43:46.000Z",
    "summary": "One hacked camera captured 1.6 million images and could detect people as well as cars."
-  },
-  {
-   "id": "4cfefa217fc43066",
-   "title": "Why I didn’t sign the Fields medallists’ letter",
-   "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-17T08:51:51.000Z",
-   "summary": "118 points · 166 comments"
-  },
-  {
-   "id": "1fa095a1d4e06f61",
-   "title": "PSA: watchOS 27 Removes This Useful Feature From Your Apple Watch",
-   "url": "https://www.macrumors.com/2026/09/17/watchos-27-removes-useful-apple-watch-feature/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-17T08:34:26.000Z",
-   "summary": "Apple released watchOS 27 on September 14, bringing a new Audio Intelligence feature set to its latest Apple Watch models, but as a result, owners of previous models are set to lose out doubly in the process. Apple Watch Series 12 and Ultra 4 models later this year will get Live Rewind, a feature…"
-  },
-  {
-   "id": "a27479ef52a6a7be",
-   "title": "GLM Built Its Own Inference Infrastructure",
-   "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-17T08:27:09.000Z",
-   "summary": "34 points · 5 comments"
-  },
-  {
-   "id": "b8a3cc8d6c755b45",
-   "title": "One Year of Sponsored Servo Development",
-   "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-17T08:13:54.000Z",
-   "summary": "77 points · 31 comments"
-  },
-  {
-   "id": "b2de29cb7e29295f",
-   "title": "CCC invites all model citizens to 40C3",
-   "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-17T08:03:54.000Z",
-   "summary": "160 points · 40 comments"
-  },
-  {
-   "id": "b9a4b7fa0d5acd0a",
-   "title": "Faster NumPy in the Browser",
-   "url": "https://notebook.link/blog/the-last-mile-faster-numpy/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-17T07:00:25.000Z",
-   "summary": "21 points · 0 comments"
-  },
-  {
-   "id": "aff3ecdbf25b0979",
-   "title": "An iOS 27 bug can temporarily freeze your iPhone",
-   "url": "https://www.engadget.com/2260916/ios-27-bug-temporarily-freeze-iphone/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-17T06:08:09.000Z",
-   "summary": "If your newly updated iPhone suddenly freezes, don't panic. Here's how to fix it."
-  },
-  {
-   "id": "c7674af3638b1abe",
-   "title": "Communication by means of modulated Johnson noise",
-   "url": "https://www.pnas.org/doi/10.1073/pnas.2201337119",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-17T05:41:24.000Z",
-   "summary": "6 points · 1 comments"
-  },
-  {
-   "id": "699f17f1604eef2b",
-   "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-   "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-17T05:00:00.000Z",
-   "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies"
   }
  ]
 }
