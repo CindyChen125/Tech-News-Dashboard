@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T21:42:21.138Z",
+ "updatedAt": "2026-10-17T23:59:04.970Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,87 @@
   }
  ],
  "items": [
+  {
+   "id": "6a4dd9d15ce973a5",
+   "title": "OpenAI is building a humanoid robot, but the body isn't the real challenge",
+   "url": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-17T23:45:00.000Z",
+   "summary": "OpenAI CEO Sam Altman wants a humanoid that can operate in a world designed for people, though the CEO says a robot 'brain' is a much bigger challenge."
+  },
+  {
+   "id": "de1c643ec7fa1e91",
+   "title": "Retired Penn professor arrested for blocking Uber Eats robot",
+   "url": "https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-17T23:31:48.000Z",
+   "summary": "22 points · 3 comments"
+  },
+  {
+   "id": "ebdabdd1de3d0542",
+   "title": "These Samsung Galaxy tablets are in their last year of software support",
+   "url": "https://www.engadget.com/2284679/samsung-galaxy-tablets-last-year-software-support/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-17T23:30:00.000Z",
+   "summary": "Samsung's latest software update commitment for its tablets is great, but older devices can't take advantage of it."
+  },
+  {
+   "id": "ab984242277698c6",
+   "title": "Why your Wi-Fi speeds can drop in the evening, and what to do about it",
+   "url": "https://www.engadget.com/2284612/wifi-speeds-drop-evening-reason-why/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-17T23:00:00.000Z",
+   "summary": "Everyone getting online at the same time can slam the network, but working around these slowdowns is possible with a few tricks."
+  },
+  {
+   "id": "55bdabc48d70acb5",
+   "title": "How to keep your smart home running even if the internet goes down",
+   "url": "https://www.engadget.com/2284525/how-to-keep-smart-home-running-internet-goes-down/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-17T22:45:00.000Z",
+   "summary": "Smart home products most often harness Wi-Fi to function. But what can you do if you lose internet frequently?"
+  },
+  {
+   "id": "c69d8dd27a19cec2",
+   "title": "Why it's important to monitor your PC's background processes",
+   "url": "https://www.engadget.com/2284465/why-its-important-to-monitor-pc-background-processes/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-17T22:30:00.000Z",
+   "summary": "What your PC is doing in the background doesn't need to be a mystery. Learn about what's happening and how to spot when something looks wrong."
+  },
+  {
+   "id": "3fb1b3511f7929d3",
+   "title": "iPhone Duo walk-in purchases might be challenging at launch, per report",
+   "url": "https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-17T22:21:41.000Z",
+   "summary": "According to a new report from MacRumors, Apple employees are being told to warn customers that iPhone Duo likely won’t be available for purchase on launch day if you didn’t already place a pre-order. more…"
+  },
+  {
+   "id": "1d7ef03f2b0c4592",
+   "title": "Don't throw away your old PlayStation — Do this instead",
+   "url": "https://www.engadget.com/2284423/dont-throw-away-old-playstation-do-this-instead/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-17T22:00:00.000Z",
+   "summary": "Older PlayStations may be past their prime, but there are several ways you can make use of these consoles."
+  },
+  {
+   "id": "83fbc75707ca916d",
+   "title": "JDK 28",
+   "url": "https://openjdk.org/projects/jdk/28/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-17T21:37:07.000Z",
+   "summary": "33 points · 8 comments"
+  },
   {
    "id": "403dc300bcbfe3da",
    "title": "Meta removes language that raised scraping and AI training concerns",
@@ -4528,6 +4609,15 @@
    "summary": "88 points · 37 comments"
   },
   {
+   "id": "2d988b45c1e54759",
+   "title": "An ESPN producer who quit because of sports gambling",
+   "url": "https://www.cjr.org/the-interview/nicole-noren-espn-producer-quit-protest-sports-betting-gambling-addiction-draftkings-im-not-going-to-have-blood-on-my-hands.php",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T18:36:59.000Z",
+   "summary": "117 points · 57 comments"
+  },
+  {
    "id": "89afa2cf8a135157",
    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
    "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
@@ -4751,6 +4841,15 @@
    "section": "tech",
    "publishedAt": "2026-10-14T17:00:59.000Z",
    "summary": "27 points · 25 comments"
+  },
+  {
+   "id": "19988bef7d089322",
+   "title": "Types of types: Haskell's Kind system",
+   "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-14T17:00:31.000Z",
+   "summary": "25 points · 15 comments"
   },
   {
    "id": "f880907a9f43ab85",
@@ -45836,186 +45935,6 @@
    "section": "tech",
    "publishedAt": "2026-09-18T00:02:36.000Z",
    "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7."
-  },
-  {
-   "id": "100cb9646238ee40",
-   "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-   "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-17T23:25:52.000Z",
-   "summary": "The round values the data center giant at $30.9 billion."
-  },
-  {
-   "id": "3475374f30d076e2",
-   "title": "Google DeepMind launches institute to widen the AGI debate",
-   "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-17T23:21:17.000Z",
-   "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\""
-  },
-  {
-   "id": "3e1fce6f5d830d38",
-   "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
-   "url": "https://scry.io/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-17T23:15:57.000Z",
-   "summary": "19 points · 4 comments"
-  },
-  {
-   "id": "3d00082a633a7434",
-   "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
-   "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-17T23:08:24.000Z",
-   "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up."
-  },
-  {
-   "id": "4c2569e45df3539f",
-   "title": "Qwen 3.8 Omni Flash",
-   "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-17T23:05:48.000Z",
-   "summary": "131 points · 27 comments"
-  },
-  {
-   "id": "b5a3c05d976837eb",
-   "title": "eGPUs do work, but they come with some notable limitations",
-   "url": "https://www.engadget.com/2257761/egpu-come-with-limitations/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-17T23:00:00.000Z",
-   "summary": "You're probably better off buying a basic gaming PC than messing with an eGPU."
-  },
-  {
-   "id": "9df354ef879ee66a",
-   "title": "Apple pushes UK court to lift secrecy around encryption backdoor order",
-   "url": "https://9to5mac.com/2026/09/17/apple-pushes-uk-court-to-lift-secrecy-around-encryption-backdoor-order/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-17T22:56:50.000Z",
-   "summary": "In a hearing today, Apple challenged the UK government’s refusal to publicly confirm whether it has issued an order requiring the company to provide access to encrypted user data. Here are the details. more…"
-  },
-  {
-   "id": "09c8aab9c3cd0966",
-   "title": "Google's revamped CC is an AI agent for families and groups",
-   "url": "https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-09-17T22:55:08.000Z",
-   "summary": "CC gives an AI agent its own Google account in your family or group and sends all members a daily briefing."
-  },
-  {
-   "id": "e6edf5a391a37719",
-   "title": "Apple Reportedly Accepts Even Higher RAM and Storage Prices in 2027",
-   "url": "https://www.macrumors.com/2026/09/17/apple-higher-ram-storage-prices-2027-report/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-17T22:46:18.000Z",
-   "summary": "Apple has agreed to pay Samsung even higher prices for RAM and storage chips starting in the first quarter of 2027, according to a DigiTimes report this week citing an earlier report from Chinese publication Jiemian News. Apple has reportedly agreed to pay nearly $2 per Gb of DRAM and $0.33 per Gb…"
-  },
-  {
-   "id": "94647bad6d06e5eb",
-   "title": "PrismML hopes its tiny LLM will change how we all use AI",
-   "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-17T22:34:09.000Z",
-   "summary": "If AI lab PrismML isn't on your radar yet, it should be."
-  },
-  {
-   "id": "7e5e1005bf0ccca3",
-   "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
-   "url": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-17T22:31:28.000Z",
-   "summary": "The USPSTF sets insurance coverage from preventive services, like colonoscopies."
-  },
-  {
-   "id": "be0ec2e17a72649b",
-   "title": "Meta AI launches Muse personal agent, including apps for iPhone and Mac",
-   "url": "https://9to5mac.com/2026/09/17/meta-ai-launches-muse-personal-agent-including-a-new-mobile-app-for-iphone/",
-   "source": "9to5Mac",
-   "section": "ai",
-   "publishedAt": "2026-09-17T22:30:10.000Z",
-   "summary": "Update: Nine days later, Muse now includes a Mac app. You can download it here. Meta AI just launched a brand-new iPhone app called Muse from Meta. Similar to Grok Bot in presentation, Muse is a personal AI agent that handles tasks for you. more…"
-  },
-  {
-   "id": "8561df37371806dc",
-   "title": "Anthropic says Claude 'leads' 26 percent of its AI R&D work",
-   "url": "https://www.engadget.com/2261909/anthropic-says-claude-leads-26-percent-of-its-ai-research-and-development/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-09-17T22:30:01.000Z",
-   "summary": "The company shared the stat alongside three measurements that help communicate the pace of AI development."
-  },
-  {
-   "id": "55b6a9ca52bcfbd1",
-   "title": "FAA says laser strikes on aircraft fell for the third consecutive year",
-   "url": "https://www.engadget.com/2261903/faa-says-laser-strikes-on-aircraft-fell-for-the-third-consecutive-year/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-17T22:15:46.000Z",
-   "summary": "The FAA says the 4,470 laser strikes recorded so far this year is \"still too high.\""
-  },
-  {
-   "id": "de82dfcf99d05b8f",
-   "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
-   "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-17T22:14:59.000Z",
-   "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies."
-  },
-  {
-   "id": "6bd627b6555d9f39",
-   "title": "Small AI models let drones autonomously identify and attack battlefield targets",
-   "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-   "source": "Ars Technica",
-   "section": "ai",
-   "publishedAt": "2026-09-17T22:12:58.000Z",
-   "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones."
-  },
-  {
-   "id": "4c5125bf7131a298",
-   "title": "First iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5 Orders Arriving to Customers",
-   "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-australia-nz/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-17T21:59:31.000Z",
-   "summary": "It's Friday, September 18 in Australia and New Zealand, which means customers who pre-ordered are beginning to receive their new devices. The iPhone 18 Pro, ‌iPhone 18 Pro‌ Max, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5 are launching today. Apple fans who ordered an iPhone, Apple…"
-  },
-  {
-   "id": "abfe5f537943f2cf",
-   "title": "macOS 27: What’s new for the Photos app?",
-   "url": "https://9to5mac.com/2026/09/17/macos-27-whats-new-for-the-photos-app/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-17T21:52:38.000Z",
-   "summary": "9to5Mac is brought to you by CleanMyMac by MacPaw. With the release of macOS 27 Golden Gate, use CleanMyMac first to free up space, optimize your system, and ensure your new Mac runs at 100% on day one. Learn more. macOS 27 Golden Gate doesn’t give the Photos app a dramatic redesign. Instead…"
-  },
-  {
-   "id": "b4931b53cb637321",
-   "title": "How to Write with an LLM",
-   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-17T21:48:38.000Z",
-   "summary": "86 points · 64 comments"
-  },
-  {
-   "id": "3c16cc2d4dd1d370",
-   "title": "Apple showcases iPhone 18 Pro camera with new ‘What Holds Us’ photography exhibition",
-   "url": "https://9to5mac.com/2026/09/17/apple-showcases-iphone-18-pro-camera-with-new-what-holds-us-photography-exhibition/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-17T21:42:41.000Z",
-   "summary": "Apple is holding a new photography exhibition in New York City this weekend to showcase the iPhone 18 Pro camera. Here are the details. more…"
   }
  ]
 }
