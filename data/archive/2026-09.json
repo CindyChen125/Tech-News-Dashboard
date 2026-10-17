@@ -1,5 +1,266 @@
 [
  {
+  "id": "50175338e810683f",
+  "title": "I Hate You Microsoft",
+  "url": "https://henriquenunez.eu/posts/you_did_it_again_ms/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-17T21:41:48.000Z",
+  "summary": "96 points · 34 comments"
+ },
+ {
+  "id": "13a020c9882cadc4",
+  "title": "Sex, AI, and the Apocalypse",
+  "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-09-17T21:15:52.000Z",
+  "summary": "17 points · 1 comments"
+ },
+ {
+  "id": "45257f50c93dcf57",
+  "title": "How Uber Protects Against Retry Storms",
+  "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-17T21:14:32.000Z",
+  "summary": "5 points · 0 comments"
+ },
+ {
+  "id": "39b81f1a691a5f27",
+  "title": "How SpaceX streamlined the Raptor engine",
+  "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-17T21:14:19.000Z",
+  "summary": "103 points · 14 comments"
+ },
+ {
+  "id": "4b275eb20cb26034",
+  "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+  "url": "https://prismml.com/news/bonsai-2-27b",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-17T21:13:31.000Z",
+  "summary": "60 points · 13 comments"
+ },
+ {
+  "id": "e51a13570c551e2f",
+  "title": "The most important product decision is what you don't build",
+  "url": "https://liamnugent.me/posts/what-you-dont-build/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-17T20:52:36.000Z",
+  "summary": "32 points · 14 comments"
+ },
+ {
+  "id": "878fa096110a5b27",
+  "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+  "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-17T20:52:33.000Z",
+  "summary": "81 points · 111 comments"
+ },
+ {
+  "id": "1f961726b280ceaa",
+  "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
+  "url": "https://snapdrop.me/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-17T20:48:04.000Z",
+  "summary": "15 points · 12 comments"
+ },
+ {
+  "id": "1f58b7e90b4be832",
+  "title": "Out-of-warranty iPhone 18 Pro batteries are more expensive to replace",
+  "url": "https://9to5mac.com/2026/09/17/out-of-warranty-iphone-18-pro-batteries-are-more-expensive-to-replace/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-09-17T20:47:09.000Z",
+  "summary": "Apple has updated its “Apple Service and Repair for iPhone” support page with service prices for the iPhone 18 Pro and the iPhone 18 Pro Max, revealing a pricier battery replacement. Here are the details. more…"
+ },
+ {
+  "id": "21c08c6d92476f1c",
+  "title": "iPhone 18 Pro Launching Tomorrow With These 10 New Features",
+  "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-release-date-and-features/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-09-17T20:45:00.000Z",
+  "summary": "Apple last week unveiled the iPhone 18 Pro and iPhone 18 Pro Max. While the devices look very similar to the iPhone 17 Pro models, there are still quite a few new features and incremental changes compared to the previous generation. Below, we have recapped 10 new features coming with the iPhone 18…"
+ },
+ {
+  "id": "eeafded53893faa7",
+  "title": "iPhone 18 Pro and Apple Watch Series 12 hands-on review, iOS 27 released",
+  "url": "https://9to5mac.com/2026/09/17/happy-hour-608/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-09-17T20:44:56.000Z",
+  "summary": "Chance has been testing the iPhone 18 Pro and the new Apple Watches for the last week, and is here to give his hands-on reviews. Also, Apple has finally released its new operating systems out into the world, which means Benjamin has tried macOS Golden Gate for the first time. And in Happy Hour…"
+ },
+ {
+  "id": "6b5fcbfd09f1c50e",
+  "title": "Flet 1.0 – Build cross-platform apps in Python",
+  "url": "https://flet.dev/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-17T20:44:28.000Z",
+  "summary": "10 points · 3 comments"
+ },
+ {
+  "id": "fa32513d6fa7d3f9",
+  "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+  "url": "https://bend-lang.com/",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-09-17T20:36:13.000Z",
+  "summary": "162 points · 81 comments"
+ },
+ {
+  "id": "28c5dc10dffb5aa1",
+  "title": "The fix for rogue AI agents could be more AI",
+  "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+  "source": "TechCrunch",
+  "section": "ai",
+  "publishedAt": "2026-09-17T20:34:47.000Z",
+  "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review."
+ },
+ {
+  "id": "b16ced8bcf341817",
+  "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+  "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+  "source": "TechCrunch",
+  "section": "ai",
+  "publishedAt": "2026-09-17T20:34:24.000Z",
+  "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it."
+ },
+ {
+  "id": "9459aa470905f8ff",
+  "title": "More than 100k people in Japan are now aged 100 or older",
+  "url": "https://www.bbc.com/news/articles/cmzezj5e18xxo",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-17T20:33:00.000Z",
+  "summary": "75 points · 55 comments"
+ },
+ {
+  "id": "3e18eacdd906de14",
+  "title": "Google announces new experimental \"CC\" AI agent for families",
+  "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+  "source": "Ars Technica",
+  "section": "ai",
+  "publishedAt": "2026-09-17T20:24:34.000Z",
+  "summary": "Multiple family members can share data to help the agent make plans and complete tasks."
+ },
+ {
+  "id": "31edefa5984254d0",
+  "title": "How to Get the New 3-Month Trial of Apple One Premier ($120 Value)",
+  "url": "https://www.macrumors.com/2026/09/17/apple-one-three-month-trial/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-09-17T20:23:20.000Z",
+  "summary": "Starting today, new and qualifying returning subscribers can get a free three-month Apple One trial with the purchase of any new iPhone, iPad, or Mac capable of running the latest iOS, iPadOS, or macOS versions from Apple or an Apple Authorized Reseller. For the three-month trial, you can choose…"
+ },
+ {
+  "id": "6900450114f2dbef",
+  "title": "Is the AI safety debate about safety or control?",
+  "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+  "source": "TechCrunch",
+  "section": "ai",
+  "publishedAt": "2026-09-17T20:19:37.000Z",
+  "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety."
+ },
+ {
+  "id": "6544b57a429dcfc7",
+  "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+  "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+  "source": "Ars Technica",
+  "section": "ai",
+  "publishedAt": "2026-09-17T20:10:41.000Z",
+  "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs."
+ },
+ {
+  "id": "5b042cd597edfaed",
+  "title": "iCloud+ subscribers just got new benefits in iOS 27",
+  "url": "https://9to5mac.com/2026/09/17/icloud-subscribers-just-got-new-benefits-in-ios-27/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-09-17T20:05:33.000Z",
+  "summary": "iOS 27 launched this week, and it includes several new Apple Intelligence-related benefits for iCloud+ subscribers. more…"
+ },
+ {
+  "id": "c033d6e5df8787f2",
+  "title": "Plugin4Shell – Zero Click RCE Vulnerability found in top four coding agents",
+  "url": "https://www.air.security/blog-posts/plugin4shell",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-17T20:05:31.000Z",
+  "summary": "4 points · 2 comments"
+ },
+ {
+  "id": "37eef528d6487095",
+  "title": "PDF Expert update adds handwriting recognition, expands Apple Pencil support, more",
+  "url": "https://9to5mac.com/2026/09/17/pdf-expert-update-adds-handwriting-recognition-expands-apple-pencil-support-more/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-09-17T20:03:15.000Z",
+  "summary": "Readdle updated PDF Expert for iOS 27 and iPadOS 27 this week, adding several new features, including searchable handwriting in 29 languages. Here are the details. more…"
+ },
+ {
+  "id": "c4701e6cbe441b15",
+  "title": "Making global data easier to explore",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+  "source": "Google AI",
+  "section": "ai",
+  "publishedAt": "2026-09-17T20:00:00.000Z",
+  "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search."
+ },
+ {
+  "id": "1cf0c5bdb597fba4",
+  "title": "UN turns to Google to make its global data ready for AI agents",
+  "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+  "source": "TechCrunch",
+  "section": "ai",
+  "publishedAt": "2026-09-17T20:00:00.000Z",
+  "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics."
+ },
+ {
+  "id": "0751e84a19b8ac1d",
+  "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+  "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+  "source": "TechCrunch",
+  "section": "ai",
+  "publishedAt": "2026-09-17T19:46:08.000Z",
+  "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers."
+ },
+ {
+  "id": "8ce0e427a18a88e7",
+  "title": "Everybody's Lost Their Minds",
+  "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-17T19:43:34.000Z",
+  "summary": "230 points · 134 comments"
+ },
+ {
+  "id": "533519d4da37e181",
+  "title": "The AI Superintelligence Slowdown",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+  "source": "The Verge",
+  "section": "ai",
+  "publishedAt": "2026-09-17T19:28:24.000Z",
+  "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting…"
+ },
+ {
+  "id": "8b1388e528c2568d",
+  "title": "New iPhone 18 Pro Models Will Have Day One Update",
+  "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-day-one-update/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-09-17T19:25:14.000Z",
+  "summary": "Customers receiving an iPhone 18 Pro, ‌iPhone 18 Pro‌ Max, an Apple Watch Series 12, or an Apple Watch Ultra 4 tomorrow will need to install a software update right away. The ‌iPhone 18 Pro‌ and ‌iPhone 18 Pro‌ Max ship with iOS 27 variants with a 24A427 or 24A8428 version number. The launch…"
+ },
+ {
   "id": "00e919fc3cbf3529",
   "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
   "url": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
