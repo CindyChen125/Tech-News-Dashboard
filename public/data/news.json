@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T05:15:06.337Z",
+ "updatedAt": "2026-10-19T11:12:13.352Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -23,7 +23,7 @@
    "name": "Hugging Face",
    "section": "ai",
    "ok": true,
-   "count": 880
+   "count": 881
   },
   {
    "name": "MIT Tech Review",
@@ -81,6 +81,60 @@
   }
  ],
  "items": [
+  {
+   "id": "3fd7971999385c10",
+   "title": "The Maeving RM2 is high-style electric riding with a few compromises",
+   "url": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-19T11:00:00.000Z",
+   "summary": "There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talking about offerings like the Infinite Machine P1 and BMW CE 02, similar concepts…"
+  },
+  {
+   "id": "b2db6e325e13958a",
+   "title": "Google Gemini 4 agents just beat Minecraft with no human intervention",
+   "url": "https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-19T09:19:19.000Z",
+   "summary": "Four Gemini 4 Argon agents beat Minecraft's Ender Dragon with no human intervention by sharing tips, threats and mistakes."
+  },
+  {
+   "id": "6a0d3eaadef251c5",
+   "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+   "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+   "source": "MIT Tech Review",
+   "section": "ai",
+   "publishedAt": "2026-10-19T09:08:05.000Z",
+   "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed…"
+  },
+  {
+   "id": "010d026f8a1c1e2b",
+   "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+   "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-19T07:30:00.000Z",
+   "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India."
+  },
+  {
+   "id": "3253bb1c00dc927e",
+   "title": "Linux 7.3 Released",
+   "url": "https://lwn.net/Articles/1101143/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T07:23:57.000Z",
+   "summary": "241 points · 110 comments"
+  },
+  {
+   "id": "f4e2e9db395734a0",
+   "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+   "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-19T05:55:31.000Z",
+   "summary": "43 points · 22 comments"
+  },
   {
    "id": "4431cea4c5553779",
    "title": "DeepSeek v4.1 Flash 1017 scores 45 in Artificial Analysis",
@@ -1439,6 +1493,15 @@
    "section": "tech",
    "publishedAt": "2026-10-17T14:22:05.000Z",
    "summary": "91 points · 86 comments"
+  },
+  {
+   "id": "f662e689daa57a08",
+   "title": "Rabbits were a medieval royal luxury in England until the Black Death",
+   "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-17T14:07:36.000Z",
+   "summary": "93 points · 86 comments"
   },
   {
    "id": "38f8921b3ab79c67",
@@ -3367,6 +3430,15 @@
    "summary": "While Apple is rumored to be gearing up to introduce an OLED iPad mini later this month, an oversight on the company’s French site might have just confirmed the product’s existence. Here are the details. more…"
   },
   {
+   "id": "a099403d5421bd80",
+   "title": "HOL Light Tutorial",
+   "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-16T00:33:14.000Z",
+   "summary": "6 points · 1 comments"
+  },
+  {
    "id": "ce8639ef981a5991",
    "title": "Oops, Apple's Website Just Hinted at iPad Mini 8",
    "url": "https://www.macrumors.com/2026/10/15/apple-ipad-mini-8-website-reference/",
@@ -3709,6 +3781,15 @@
    "summary": "Representative Ritchie Torres wants the FTC to establish regulations ensuring you can play the games you've purchased."
   },
   {
+   "id": "2c7b3117c8b05fe8",
+   "title": "Lant – The Forgotten Resource",
+   "url": "https://sites.udel.edu/materialmatters/2018/04/11/lant-the-forgotten-resource/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-15T20:09:26.000Z",
+   "summary": "12 points · 2 comments"
+  },
+  {
    "id": "e363184ae584b579",
    "title": "Meta launches an open-weight AI model that runs on Macs",
    "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
@@ -3878,6 +3959,15 @@
    "section": "tech",
    "publishedAt": "2026-10-15T18:48:11.000Z",
    "summary": "Suspected Russian drones attack chemical tanker within Romanian waters."
+  },
+  {
+   "id": "a2fbeb69581dd6ed",
+   "title": "How Postgres DELETE can actually scale",
+   "url": "https://www.dbos.dev/blog/scaling-deletions-in-postgres",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-15T18:42:57.000Z",
+   "summary": "21 points · 6 comments"
   },
   {
    "id": "2cdafb90e61094a6",
@@ -4346,6 +4436,15 @@
    "section": "ai",
    "publishedAt": "2026-10-15T15:13:56.000Z",
    "summary": "In an interview with TIME's Andrew R. Chow, Apple's marketing chief Greg Joswiak said Apple Intelligence is meant for \"everyday people\" as opposed to the \"lunatic fringe.\" The full sentence: \"In the midst of a populist AI backlash, they contend that they are building a modest but personalized and…"
+  },
+  {
+   "id": "2e44ddb7e51de37b",
+   "title": "How to Train Your Robot",
+   "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-15T15:13:21.000Z",
+   "summary": "50 points · 15 comments"
   },
   {
    "id": "2a229e68b06e7acc",
@@ -45377,105 +45476,6 @@
    "section": "tech",
    "publishedAt": "2026-09-19T11:30:00.000Z",
    "summary": "Our latest indie gaming roundup features a John Wick-style character who works in a video store."
-  },
-  {
-   "id": "8880b3f4b137316d",
-   "title": "iPhone 18 Pro Max’s battery is so big Apple had to add this new feature to iOS 27",
-   "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-maxs-battery-is-so-big-apple-had-to-add-this-new-feature-to-ios-27/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-19T11:10:57.000Z",
-   "summary": "The iPhone 18 Pro Max offers a huge jump in battery life, partly because the battery itself is physically larger. In a new support document published today, Apple says the iPhone 18 Pro Max has such a big battery that it has additional shipping requirements. more…"
-  },
-  {
-   "id": "51005b832e1c40a7",
-   "title": "Learning another language may be one of the best ways to keep your brain healthy",
-   "url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-19T11:10:43.000Z",
-   "summary": "Research suggests that bilingualism can offer cognitive benefits."
-  },
-  {
-   "id": "d5d002e8fadb67b5",
-   "title": "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
-   "url": "https://sigabrt.dev/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-19T10:47:59.000Z",
-   "summary": "16 points · 4 comments"
-  },
-  {
-   "id": "530528e3e5edb950",
-   "title": "Laya the open source version of Jev",
-   "url": "https://laya.convaiinnovations.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-19T10:46:58.000Z",
-   "summary": "300 points · 52 comments"
-  },
-  {
-   "id": "f9afee18c408d621",
-   "title": "Rings around a tiny body have changed over the past decade",
-   "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-19T10:00:06.000Z",
-   "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing."
-  },
-  {
-   "id": "d1558c5c5c778293",
-   "title": "AI-generated posters don’t have to be horrible",
-   "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-19T09:20:58.000Z",
-   "summary": "192 points · 127 comments"
-  },
-  {
-   "id": "929bbf201979aada",
-   "title": "Chess Atlas",
-   "url": "https://chess-timeline.vercel.app/gallery.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-19T08:48:38.000Z",
-   "summary": "21 points · 8 comments"
-  },
-  {
-   "id": "e8262b6d1164ffc3",
-   "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-   "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-19T06:41:44.000Z",
-   "summary": "137 points · 69 comments"
-  },
-  {
-   "id": "338fb81238aa01b8",
-   "title": "If math is more than proof, we need to better celebrate the rest of it",
-   "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-19T06:28:02.000Z",
-   "summary": "124 points · 90 comments"
-  },
-  {
-   "id": "3ec90d89ced5f9f7",
-   "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
-   "url": "https://browser.geekbench.com/v7/cpu/389219",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-19T06:19:24.000Z",
-   "summary": "77 points · 55 comments"
-  },
-  {
-   "id": "84c974bdc8e47cf7",
-   "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-   "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-19T05:48:50.000Z",
-   "summary": "27 points · 4 comments"
   }
  ]
 }
