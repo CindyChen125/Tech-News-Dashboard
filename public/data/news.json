@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T00:10:21.619Z",
+ "updatedAt": "2026-10-19T05:15:06.337Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,78 @@
  ],
  "items": [
   {
+   "id": "4431cea4c5553779",
+   "title": "DeepSeek v4.1 Flash 1017 scores 45 in Artificial Analysis",
+   "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-19T04:41:46.000Z",
+   "summary": "16 points · 2 comments"
+  },
+  {
+   "id": "6bd788af4efa22a0",
+   "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
+   "url": "https://github.com/strot-ai/Project-STROT",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-19T04:32:07.000Z",
+   "summary": "11 points · 3 comments"
+  },
+  {
+   "id": "5a7ea904469bfc45",
+   "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming next year",
+   "url": "https://9to5mac.com/2026/10/18/new-revamped-iphone-lineup-coming-in-2027/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-19T02:16:00.000Z",
+   "summary": "iPhone Duo preorders just begun, and iPhone 18 Pro has been on the market for about a month. Of course, iPhone Duo is backordered through January right now, so whether or not you’re considering buying these phones – it makes it really easy to think about what’s coming next. more…"
+  },
+  {
+   "id": "0cb1c472fbf15b02",
+   "title": "Superlite: A Faster Alternatie to Superpowers",
+   "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T02:01:16.000Z",
+   "summary": "35 points · 16 comments"
+  },
+  {
+   "id": "7bec48f2bd3053e9",
+   "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+   "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T01:55:03.000Z",
+   "summary": "61 points · 18 comments"
+  },
+  {
+   "id": "d1a295a0892f22b4",
+   "title": "Here’s how iPhone Duo’s battery capacity compares to other iPhones",
+   "url": "https://9to5mac.com/2026/10/18/iphone-duo-battery-capacity-comparison/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-19T01:32:09.000Z",
+   "summary": "After pre-orders for iPhone Duo opened, Apple uploaded an EU regulatory document that finally revealed the true battery capacity for iPhone Duo: 4883mAh. Here’s how that compares to other iPhones. more…"
+  },
+  {
+   "id": "5dd418761511148f",
+   "title": "Sanity's Edge – A voice BBS from 1994",
+   "url": "https://sanitys-edge.shouden.us/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T00:30:34.000Z",
+   "summary": "14 points · 0 comments"
+  },
+  {
+   "id": "48e0c1ace414a631",
+   "title": "What do all the lights on your Netgear router mean, and which ones actually matter?",
+   "url": "https://www.engadget.com/2287059/netgear-router-lights-what-they-mean/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-19T00:30:00.000Z",
+   "summary": "Some router symbols are obvious, while others take a bit of work to decipher. Their lights can vary, too."
+  },
+  {
    "id": "d44985054b17aaf2",
    "title": "What does the orange dot on your Samsung Galaxy Watch mean?",
    "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
@@ -98,6 +170,24 @@
    "section": "tech",
    "publishedAt": "2026-10-18T23:45:00.000Z",
    "summary": "Laser pointers are known to damage security cameras, but do they really? Here's what damage can actually be done."
+  },
+  {
+   "id": "8ac0e73bb956f2d9",
+   "title": "William Gibson and the trademarking of cyberspace",
+   "url": "https://colo.to/cyberspace.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-18T23:37:57.000Z",
+   "summary": "113 points · 28 comments"
+  },
+  {
+   "id": "c40b845d1197a8ef",
+   "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+   "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-18T23:37:54.000Z",
+   "summary": "43 points · 29 comments"
   },
   {
    "id": "3df59c6695d9ad56",
@@ -170,6 +260,15 @@
    "section": "tech",
    "publishedAt": "2026-10-18T21:19:49.000Z",
    "summary": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com. You might not think about it often, but…"
+  },
+  {
+   "id": "e582c22d9e3089c8",
+   "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+   "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-18T21:09:12.000Z",
+   "summary": "88 points · 69 comments"
   },
   {
    "id": "44b5528f6d109e59",
@@ -1828,6 +1927,15 @@
    "summary": "Apple today expanded its App Store moderation rules to cover AI-generated nonconsensual intimate imagery. Sexually explicit content was already banned, but now Apple says app developers must proactively prevent and remove AI-generated deepfakes from their platforms. Apple warns that apps with…"
   },
   {
+   "id": "205fdce347a8bcde",
+   "title": "The DNS Museum",
+   "url": "https://dns.museum/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-16T22:21:34.000Z",
+   "summary": "34 points · 2 comments"
+  },
+  {
    "id": "1613e5d2fe1ce097",
    "title": "Nine-Inch Snails",
    "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
@@ -3358,6 +3466,15 @@
    "summary": "The smart health company is gating third-party app syncing to its own subscription plan for new users."
   },
   {
+   "id": "81a1ecb9e5b94ffe",
+   "title": "Laptop Based on 6502 CPU",
+   "url": "https://www.maddox.pro/?p=448",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-15T22:56:23.000Z",
+   "summary": "65 points · 27 comments"
+  },
+  {
    "id": "901c8ce24b25f600",
    "title": "ChatGPT can peek at your Chrome tabs now",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
@@ -3833,6 +3950,15 @@
    "section": "ai",
    "publishedAt": "2026-10-15T18:15:36.000Z",
    "summary": "The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amelia Holowaty Krales / The Verge Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its…"
+  },
+  {
+   "id": "c34b6318959fd32e",
+   "title": "Lombok Is Still Relevant in the Age of Java Records",
+   "url": "https://swaranga.dev/posts/on-lombok/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-15T18:15:23.000Z",
+   "summary": "9 points · 5 comments"
   },
   {
    "id": "9a6260747e28a696",
@@ -45350,78 +45476,6 @@
    "section": "tech",
    "publishedAt": "2026-09-19T05:48:50.000Z",
    "summary": "27 points · 4 comments"
-  },
-  {
-   "id": "03a5512c5426f3d7",
-   "title": "Apple Exec Says 'Hold Us Accountable' on iPhone Duo Crease",
-   "url": "https://www.macrumors.com/2026/09/19/apple-exec-iphone-crease/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-19T04:51:11.000Z",
-   "summary": "Apple hardware engineering VP Tom Marieb spoke with TechRadar and shared some candid thoughts about Apple's upcoming iPhone Duo. The ‌iPhone Duo‌ uses a matte nano-texture display, which is meant to cut down on glare and minimize the visibility of the crease. When asked if the ‌iPhone Duo‌'s crease…"
-  },
-  {
-   "id": "3d272c91fcacc07c",
-   "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-   "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-19T04:44:35.000Z",
-   "summary": "10 points · 0 comments"
-  },
-  {
-   "id": "619f63e1cf7cc6ae",
-   "title": "San Francisco Onion Futures Company",
-   "url": "https://onionfutures.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-19T04:23:30.000Z",
-   "summary": "125 points · 46 comments"
-  },
-  {
-   "id": "adf2105ece173acc",
-   "title": "SDCC – Small Device C Compiler",
-   "url": "https://sdcc.sourceforge.net/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-19T02:32:36.000Z",
-   "summary": "52 points · 14 comments"
-  },
-  {
-   "id": "a31d586a06b8ff2c",
-   "title": "Science Is Open Software",
-   "url": "https://jepedersen.dk/blog/202505_research/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-19T02:21:35.000Z",
-   "summary": "55 points · 25 comments"
-  },
-  {
-   "id": "147f320ef745cf5a",
-   "title": "India forces caller-ID apps to feed spam reports to telcos",
-   "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-19T01:00:00.000Z",
-   "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators."
-  },
-  {
-   "id": "10d4f26930b72ca0",
-   "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
-   "url": "https://liveworld.info/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-19T00:30:34.000Z",
-   "summary": "4 points · 0 comments"
-  },
-  {
-   "id": "36c295c70a323de2",
-   "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-   "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-19T00:12:07.000Z",
-   "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese."
   }
  ]
 }
