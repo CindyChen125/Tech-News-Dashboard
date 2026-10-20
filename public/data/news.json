@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T06:32:35.562Z",
+ "updatedAt": "2026-10-20T12:04:50.477Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -23,7 +23,7 @@
    "name": "Hugging Face",
    "section": "ai",
    "ok": true,
-   "count": 882
+   "count": 883
   },
   {
    "name": "MIT Tech Review",
@@ -77,10 +77,226 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 30
+   "count": 31
   }
  ],
  "items": [
+  {
+   "id": "d8480b4db7e844a7",
+   "title": "OpenAI says its models can help banks migrate from old COBOL programs",
+   "url": "https://www.engadget.com/2291457/openai-says-its-models-can-translate-cobol/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-20T12:01:59.000Z",
+   "summary": "OpenAI says its models now come with better COBOL capabilities."
+  },
+  {
+   "id": "7ab7fe2f734bd787",
+   "title": "Hazel (YC W24) Is Hiring",
+   "url": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T12:00:32.000Z",
+   "summary": "0 points · 0 comments"
+  },
+  {
+   "id": "f3033c0e525dd0ff",
+   "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
+   "source": "Apple Newsroom",
+   "section": "tech",
+   "publishedAt": "2026-10-20T12:00:22.992Z",
+   "summary": "Apple announced new and expanded partnerships with American companies that are supplying critical materials and components for iPhone Duo and iPhone 18 Pro."
+  },
+  {
+   "id": "912bbac9309e71c2",
+   "title": "Samsung fighting iPhone Duo by launching six foldable phones next year",
+   "url": "https://9to5mac.com/2026/10/20/samsung-fighting-iphone-duo-by-launching-six-foldable-phones-next-year/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-20T12:00:22.000Z",
+   "summary": "Even before Apple launched the iPhone Duo, it was already clear that Samsung was worried. Now that the device has been announced and is heavily backordered, the company seemingly feels that launching no fewer than six different foldable phones next year is its best way to fight back … more…"
+  },
+  {
+   "id": "e5cf6aa71cfb3527",
+   "title": "Spotify’s new podcast memberships let you pay for extra perks",
+   "url": "https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-20T12:00:00.000Z",
+   "summary": "Spotify is enabling podcast creators to earn more money through the platform by providing their fans with a way to pay to access exclusive content. First announced in May, the new Memberships subscription feature is starting to roll out in 34 regions today, allowing podcasters to offer perks…"
+  },
+  {
+   "id": "940fdb63e6df9de4",
+   "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
+   "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-20T12:00:00.000Z",
+   "summary": "Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue."
+  },
+  {
+   "id": "f3a43b442612e425",
+   "title": "Oura adds new fitness metrics to show how workouts impact your body",
+   "url": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-20T12:00:00.000Z",
+   "summary": "While Oura has largely dominated the smart ring market for years, rivals like RingConn and Ultrahuman are emerging to dethrone it, putting pressure on the company to keep innovating. By launching more advanced workout metrics, Oura is looking to differentiate itself from competitors as the smart…"
+  },
+  {
+   "id": "0cd9b4e5380e6f41",
+   "title": "Spotify's Memberships program for podcasts is here to compete with Patreon",
+   "url": "https://www.engadget.com/2290053/spotifys-memberships-program-for-podcasts-is-here-to-compete-with-patreon/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-20T12:00:00.000Z",
+   "summary": "The revenue split appears to be identical."
+  },
+  {
+   "id": "b49e56250be853d7",
+   "title": "Apple still makes it too hard for Apple Pay competitors to emerge, says UK",
+   "url": "https://9to5mac.com/2026/10/20/apple-still-makes-it-too-hard-for-apple-pay-competitors-to-emerge-says-uk/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-20T11:37:10.000Z",
+   "summary": "Apple still makes it too hard for third-party developers to launch alternatives to Apple Pay, despite loosening its grip on access to the NFC chip embedded in iPhones. That’s the claim made by the UK’s antitrust watchdog, the Competition and Markets Authority (CMA). The CMA says developers have…"
+  },
+  {
+   "id": "4707c7048da73930",
+   "title": "iPhone Duo orders limited to two per customer as Apple tackles scalping",
+   "url": "https://9to5mac.com/2026/10/20/iphone-duo-orders-limited-to-two-per-customer-as-apple-tackles-scalping/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-20T11:05:13.000Z",
+   "summary": "Apple is limiting iPhone Duo orders to a maximum of two per customer in the US, UK, and elsewhere after shipping dates slipped into January of next year within minutes of pre-orders opening. The move appears to be an attempt to tackle the problem of scalping, where people buy large volumes of…"
+  },
+  {
+   "id": "baaa9343063a2cd6",
+   "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
+   "url": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-20T11:00:16.000Z",
+   "summary": "Slate's first showroom sells the promise. Mass production will determine the rest."
+  },
+  {
+   "id": "383d12011e70fa9f",
+   "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+   "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-20T11:00:00.000Z",
+   "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences."
+  },
+  {
+   "id": "b2e32da53143ec9d",
+   "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+   "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-20T11:00:00.000Z",
+   "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for…"
+  },
+  {
+   "id": "c3ba43471c5ea006",
+   "title": "Google cloud outage takes down banks",
+   "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T10:26:02.000Z",
+   "summary": "56 points · 21 comments"
+  },
+  {
+   "id": "0801367e11472799",
+   "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+   "url": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-20T10:16:47.000Z",
+   "summary": "Google says a fix is rolling out that should solve the issue. | Photo: Jennifer Patison Tuohy / The Verge Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported…"
+  },
+  {
+   "id": "03d41df17cea43de",
+   "title": "Apple @ Work Podcast: A look at recent Apple security updates",
+   "url": "https://9to5mac.com/2026/10/20/a-look-at-recent-apple-security-updates/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-20T10:00:00.000Z",
+   "summary": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000…"
+  },
+  {
+   "id": "846a8d854d49ddf9",
+   "title": "Revolut down as users report app not working",
+   "url": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T09:54:48.000Z",
+   "summary": "70 points · 38 comments"
+  },
+  {
+   "id": "064def2e4bc38cb0",
+   "title": "DeepSeek just open-sourced its inference engine",
+   "url": "https://github.com/deepseek-ai/DeepInfer",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-20T09:08:54.000Z",
+   "summary": "595 points · 205 comments"
+  },
+  {
+   "id": "95ba0d02e1685160",
+   "title": "The Apple Store will only let you check out two iPhone Duos",
+   "url": "https://www.engadget.com/2291389/apple-store-two-iphone-duo-limit/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-20T09:07:59.000Z",
+   "summary": "Apple is limiting iPhone Duo purchases to two per customers around the world."
+  },
+  {
+   "id": "fe5417ab4304a047",
+   "title": "A visit to Samsung’s massive new semiconductor hub",
+   "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+   "source": "MIT Tech Review",
+   "section": "ai",
+   "publishedAt": "2026-10-20T09:00:00.000Z",
+   "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate…"
+  },
+  {
+   "id": "4107736af292288d",
+   "title": "There is no official XScreenSaver GitHub repository",
+   "url": "https://github.com/xscreensaver-official/xscreensaver",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T08:51:31.000Z",
+   "summary": "52 points · 24 comments"
+  },
+  {
+   "id": "d09e986dcce9dc93",
+   "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+   "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-20T07:01:00.000Z",
+   "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic."
+  },
+  {
+   "id": "57ac5a4572decb69",
+   "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+   "url": "https://github.com/microg/GmsCore/wiki",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T06:37:07.000Z",
+   "summary": "121 points · 8 comments"
+  },
+  {
+   "id": "f3e3ba082980a32c",
+   "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+   "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-20T05:59:56.000Z",
+   "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos."
+  },
   {
    "id": "8803fd6a50ac56d2",
    "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
@@ -170,6 +386,15 @@
    "section": "tech",
    "publishedAt": "2026-10-20T00:00:49.000Z",
    "summary": "37 points · 25 comments"
+  },
+  {
+   "id": "00624af5a69a2ab7",
+   "title": "MPS in PyTorch 2.15",
+   "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-10-20T00:00:00.000Z",
+   "summary": ""
   },
   {
    "id": "b29b6a54f9bae712",
@@ -1225,6 +1450,15 @@
    "summary": "50 points · 26 comments"
   },
   {
+   "id": "ca710f02b43ff8f8",
+   "title": "Why Is Speculative Decoding Fast?",
+   "url": "https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T13:53:41.000Z",
+   "summary": "23 points · 0 comments"
+  },
+  {
    "id": "273f48627a1e6b77",
    "title": "GM Says Apple Wallet Car Keys Coming to These Vehicles",
    "url": "https://www.macrumors.com/2026/10/19/gm-vehicles-iphone-apple-wallet-car-keys/",
@@ -1232,6 +1466,15 @@
    "section": "tech",
    "publishedAt": "2026-10-19T13:51:47.000Z",
    "summary": "In a late September press release that we just discovered now, GM announced that it has started rolling out Apple Wallet car key support in select Cadillac, Chevrolet, and GMC vehicle models, with additional models to follow over time. Google Wallet and Samsung Wallet will also be supported, with a…"
+  },
+  {
+   "id": "b6f138e40c022aa7",
+   "title": "Maxwell: A new kind of model that sits between code and hardware",
+   "url": "https://heymaxwell.ai/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T13:47:56.000Z",
+   "summary": "90 points · 43 comments"
   },
   {
    "id": "5650c6ad4fb069e8",
@@ -1637,6 +1880,15 @@
    "section": "tech",
    "publishedAt": "2026-10-19T01:18:02.000Z",
    "summary": "219 points · 75 comments"
+  },
+  {
+   "id": "befb7747a1b7ee8e",
+   "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
+   "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T00:43:01.000Z",
+   "summary": "14 points · 2 comments"
   },
   {
    "id": "5dd418761511148f",
@@ -2368,6 +2620,15 @@
    "summary": "AUSTIN, TEXAS - APRIL 8: Tesla Cybercabs are lined up on a lot at Tesla Giga Texas in Austin, Wednesday, April 8, 2026. | Image: Getty Images This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules…"
   },
   {
+   "id": "445eca6f29ad51c6",
+   "title": "Restoration of Retinal Regenerative Potential (2025)",
+   "url": "https://www.nature.com/articles/s41467-025-58290-8",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-18T11:32:38.000Z",
+   "summary": "73 points · 6 comments"
+  },
+  {
    "id": "0792faa658d201f6",
    "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
    "url": "https://github.com/0x23/MicroManipulatorStepper",
@@ -2951,6 +3212,15 @@
    "section": "tech",
    "publishedAt": "2026-10-17T16:00:00.000Z",
    "summary": "Samsung's Auto Blocker protects your Galaxy phone from security threats, but it does have drawbacks. Here's what it does and when you might want to turn it off."
+  },
+  {
+   "id": "731fc3f86283367f",
+   "title": "Making a 88x31 button book using ImageMagick",
+   "url": "https://k.sosnierz.me/08-11-24/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-17T15:55:43.000Z",
+   "summary": "58 points · 5 comments"
   },
   {
    "id": "8dc8c30de1bb9eaa",
@@ -4040,6 +4310,15 @@
    "section": "tech",
    "publishedAt": "2026-10-16T16:57:49.000Z",
    "summary": "84 points · 92 comments"
+  },
+  {
+   "id": "dae4ea1c1aa8b1c6",
+   "title": "There Are over 1M New York City Street Signs. Here's How They Are Made.",
+   "url": "https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-16T16:42:48.000Z",
+   "summary": "4 points · 1 comments"
   },
   {
    "id": "e05015bd4a3700c2",
@@ -46088,132 +46367,6 @@
    "section": "tech",
    "publishedAt": "2026-09-20T12:17:54.000Z",
    "summary": "29 points · 24 comments"
-  },
-  {
-   "id": "dd65dcdbc3b87ca4",
-   "title": "A great new video game movie",
-   "url": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-20T12:00:00.000Z",
-   "summary": "Hi, friends! Welcome to Installer No. 144, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I flew out to Los Angeles to try on and write about Snap's…"
-  },
-  {
-   "id": "11b4f3814c6d7473",
-   "title": "The hidden monopoly behind your TI graphing calculator",
-   "url": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-20T12:00:00.000Z",
-   "summary": "The same calculator has been on most kids' back to school shopping list since the early 2000's and the dominance of Texas Instruments' calculator division goes back even farther. In the next episode of Version History, David Pierce is joined by The Verge's Nilay Patel and Victoria Song to tell the…"
-  },
-  {
-   "id": "d1ba206743326671",
-   "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-   "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-   "source": "The Verge",
-   "section": "ai",
-   "publishedAt": "2026-09-20T12:00:00.000Z",
-   "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive…"
-  },
-  {
-   "id": "64b7897585cfddf3",
-   "title": "All roads lead to cable",
-   "url": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-20T12:00:00.000Z",
-   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pulliam-Moore. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here…"
-  },
-  {
-   "id": "339975e388459c0f",
-   "title": "Wired vs. wireless charging: Which is better for battery health?",
-   "url": "https://www.engadget.com/2258952/wired-vs-wireless-charging-better-battery-health/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-20T12:00:00.000Z",
-   "summary": "Wireless charging offers convenience, to be sure, but how does it affect your battery over time? And is it a problem if your phone heats up?"
-  },
-  {
-   "id": "4c5d112a86904775",
-   "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-   "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-20T11:07:00.000Z",
-   "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle."
-  },
-  {
-   "id": "afc9a87306e702e5",
-   "title": "Why do we need human mathematicians anymore?",
-   "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-20T10:49:58.000Z",
-   "summary": "129 points · 88 comments"
-  },
-  {
-   "id": "9f468c891cf273ad",
-   "title": "AI and the Destruction of the Creative Commons",
-   "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-20T10:07:51.000Z",
-   "summary": "184 points · 173 comments"
-  },
-  {
-   "id": "883b040a81dfeb36",
-   "title": "Don't call it an SUV: The Ferrari Purosangue review",
-   "url": "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-20T10:00:02.000Z",
-   "summary": "Unlike previous Ferrari four-seaters, this one is better for humans than cargo."
-  },
-  {
-   "id": "38222b8da98f3fba",
-   "title": "PDF Forgeries Are Surprisingly Rare (2022)",
-   "url": "https://gwern.net/blog/2022/pdf-forgery",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-20T09:57:35.000Z",
-   "summary": "28 points · 26 comments"
-  },
-  {
-   "id": "4967e38d76cf9eac",
-   "title": "A font that reads what you wrote",
-   "url": "https://rohanadwankar.github.io/posts/semfont.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-20T09:38:16.000Z",
-   "summary": "43 points · 19 comments"
-  },
-  {
-   "id": "0b834f68bbc4ca9d",
-   "title": "T. rex teeth indicate it ran as warm as an elephant",
-   "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-20T09:00:11.000Z",
-   "summary": "Isotope ratios provide a hint that the giants were actively managing temperatures."
-  },
-  {
-   "id": "09c6fe96b039885c",
-   "title": "Teleoperated Humans",
-   "url": "https://www.jefftk.com/p/teleoperated-humans",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-20T08:02:48.000Z",
-   "summary": "32 points · 35 comments"
-  },
-  {
-   "id": "1b049e2c9ebbed67",
-   "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-   "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-20T07:38:37.000Z",
-   "summary": "27 points · 31 comments"
   }
  ]
 }
