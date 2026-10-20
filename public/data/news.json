@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T01:13:36.717Z",
+ "updatedAt": "2026-10-20T06:32:35.562Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,69 @@
  ],
  "items": [
   {
+   "id": "8803fd6a50ac56d2",
+   "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+   "url": "https://deathplanswitch.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T04:37:43.000Z",
+   "summary": "29 points · 16 comments"
+  },
+  {
+   "id": "6e18025513950d3b",
+   "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+   "url": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-20T04:00:00.000Z",
+   "summary": "The bright spotlight’s focused beam improves the quality of video captured at night while scaring off unwanted visitors. | Image: Baseus Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording…"
+  },
+  {
+   "id": "660b199e73e5b48b",
+   "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+   "url": "https://github.com/golang/go/issues/82345",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T03:05:07.000Z",
+   "summary": "51 points · 18 comments"
+  },
+  {
+   "id": "bf20a5ed29594a42",
+   "title": "OpenBSD 8.0",
+   "url": "https://www.openbsd.org/80.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T02:06:40.000Z",
+   "summary": "177 points · 48 comments"
+  },
+  {
+   "id": "84f99b0d34d5dcbf",
+   "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+   "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-20T02:00:00.000Z",
+   "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch."
+  },
+  {
+   "id": "bb74393a07823215",
+   "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+   "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-20T01:27:03.000Z",
+   "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
+  },
+  {
+   "id": "348ad5c0d251e5fd",
+   "title": "Developing Taste",
+   "url": "https://emilkowal.ski/ui/developing-taste",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T01:12:03.000Z",
+   "summary": "37 points · 35 comments"
+  },
+  {
    "id": "2c2496309ae2bfb3",
    "title": "How to stop audio from auto-playing on Android Auto",
    "url": "https://www.engadget.com/2288195/how-to-stop-audio-automatically-play-android-auto/",
@@ -154,6 +217,15 @@
    "summary": "You can use it to watch media files on the device, but you'll need to use your phone as a remote."
   },
   {
+   "id": "e2e956ee6cbccdad",
+   "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+   "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-19T23:22:18.000Z",
+   "summary": "253 points · 51 comments"
+  },
+  {
    "id": "2ce1b1f30893b86c",
    "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
    "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
@@ -206,6 +278,15 @@
    "section": "ai",
    "publishedAt": "2026-10-19T22:35:24.000Z",
    "summary": "Apple acquired AI audio editing app Samplab in June, according to a notice shared today by the European Commission. Samplab offered a desktop app and plugins for converting audio to MIDI, detecting and editing chords, stem splitting for isolating different parts of a song, and editing notes in…"
+  },
+  {
+   "id": "e28d7f79331c1425",
+   "title": "An ad-free Android TV",
+   "url": "https://cretezy.com/2026/ad-free-android-tv",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T22:32:37.000Z",
+   "summary": "135 points · 40 comments"
   },
   {
    "id": "ef7982bdda258ab9",
@@ -827,6 +908,15 @@
    "section": "tech",
    "publishedAt": "2026-10-19T16:37:10.000Z",
    "summary": "380 points · 358 comments"
+  },
+  {
+   "id": "13d97ed1199b25c4",
+   "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+   "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-19T16:16:46.000Z",
+   "summary": "140 points · 128 comments"
   },
   {
    "id": "5fc333daa56c8d21",
@@ -2044,6 +2134,15 @@
    "summary": "After over a decade of not adopting touch displays on its Mac notebook lineup, Apple will finally be releasing its first touchscreen MacBook as early as November 6th, after announcing it as early as October 27th. more…"
   },
   {
+   "id": "95f9c6d69016aee7",
+   "title": "Nordwand Mono – A monospace font for coders and adventurers",
+   "url": "https://github.com/tywr/Nordwand-Mono",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-18T14:48:01.000Z",
+   "summary": "49 points · 4 comments"
+  },
+  {
    "id": "cd9c871b58b23612",
    "title": "Java sealed classes and exhaustive pattern matching",
    "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
@@ -2350,6 +2449,15 @@
    "summary": "21 points · 2 comments"
   },
   {
+   "id": "416ddde973d83174",
+   "title": "Refurb weekend II: Alpha Micro Eagle 300 and friends",
+   "url": "http://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-18T04:48:47.000Z",
+   "summary": "10 points · 0 comments"
+  },
+  {
    "id": "11c33faa700984df",
    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
    "url": "https://sphinx-six-theta.vercel.app/",
@@ -2557,6 +2665,15 @@
    "summary": "Here are some of the other, older vehicles that use fans for downforce like the Tesla Roadster does."
   },
   {
+   "id": "8a583b1826731ea6",
+   "title": "Porting video games to VHS",
+   "url": "https://gardinerbryant.com/what-if-video-games-came-on-vhs/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-17T21:12:16.000Z",
+   "summary": "30 points · 19 comments"
+  },
+  {
    "id": "32da48ec0d38b2a4",
    "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
    "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
@@ -2564,6 +2681,15 @@
    "section": "tech",
    "publishedAt": "2026-10-17T20:55:52.000Z",
    "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms."
+  },
+  {
+   "id": "42b97b441b021999",
+   "title": "How Do Fungi Keep the Planet Healthy?",
+   "url": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-17T20:27:22.000Z",
+   "summary": "32 points · 6 comments"
   },
   {
    "id": "e15dffc788c5a7b6",
@@ -46088,87 +46214,6 @@
    "section": "ai",
    "publishedAt": "2026-09-20T07:38:37.000Z",
    "summary": "27 points · 31 comments"
-  },
-  {
-   "id": "b59f520378683e3c",
-   "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
-   "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-20T06:16:42.000Z",
-   "summary": "120 points · 87 comments"
-  },
-  {
-   "id": "ac7840096d671739",
-   "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-   "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-20T05:46:19.000Z",
-   "summary": "21 points · 17 comments"
-  },
-  {
-   "id": "ba871d28f6f03317",
-   "title": "UTF-8000: Unlimited UTF-8",
-   "url": "https://utf-8000.jb2170.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-20T05:15:00.000Z",
-   "summary": "65 points · 40 comments"
-  },
-  {
-   "id": "98918e9523403f41",
-   "title": "Telling a Computer to Do Things",
-   "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-20T05:11:33.000Z",
-   "summary": "31 points · 9 comments"
-  },
-  {
-   "id": "996e69a0986cbd6c",
-   "title": "BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
-   "url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-20T04:46:34.000Z",
-   "summary": "4 points · 0 comments"
-  },
-  {
-   "id": "434d9072224cdde8",
-   "title": "Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters",
-   "url": "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-20T04:38:00.000Z",
-   "summary": "10 points · 1 comments"
-  },
-  {
-   "id": "91ff7e5d3e6a570e",
-   "title": "Step 5 Preview: Advancing the Pareto Frontier",
-   "url": "https://www.stepfun.com/step-5-preview",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-20T04:35:59.000Z",
-   "summary": "6 points · 0 comments"
-  },
-  {
-   "id": "5544c14ad9709cfd",
-   "title": "World Wide Words",
-   "url": "https://www.worldwidewords.org/genindex.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-20T03:21:12.000Z",
-   "summary": "5 points · 0 comments"
-  },
-  {
-   "id": "f7d4fab310dcaadf",
-   "title": "RSA-896",
-   "url": "https://saweis.net/posts/rsa-896.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-20T02:19:33.000Z",
-   "summary": "79 points · 20 comments"
   }
  ]
 }
