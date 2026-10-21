@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T01:58:43.478Z",
+ "updatedAt": "2026-10-21T07:29:41.877Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,150 @@
   }
  ],
  "items": [
+  {
+   "id": "59a6ec2095be6dc5",
+   "title": "Pillowfort Is Closing",
+   "url": "https://www.pillowfort.social/posts/8413273",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T05:05:37.000Z",
+   "summary": "29 points · 19 comments"
+  },
+  {
+   "id": "02f6123265256ff5",
+   "title": "Battlezone Online: BZFlag in the Browser",
+   "url": "https://github.com/timriker/bzo",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T05:05:19.000Z",
+   "summary": "20 points · 11 comments"
+  },
+  {
+   "id": "d928144c55f233fc",
+   "title": "UK Proposes New Ways to Help Apple Pay Rivals",
+   "url": "https://www.macrumors.com/2026/10/21/uk-proposes-to-help-apple-pay-rivals/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-21T04:57:09.000Z",
+   "summary": "The UK's competition regulator has proposed changes to make it easier and cheaper for companies to offer alternatives to Apple Pay on the iPhone (via Reuters). The Competition and Markets Authority (CMA) says Apple's fees and restrictions make it too difficult for rivals to launch contactless…"
+  },
+  {
+   "id": "0dc621a14e4368f8",
+   "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+   "url": "https://github.com/xamrayev/nexus-cli",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-21T04:37:18.000Z",
+   "summary": "10 points · 2 comments"
+  },
+  {
+   "id": "c6586e840fbf1993",
+   "title": "WhatsApp Developing In-App Browser for All Chat Links on iPhone",
+   "url": "https://www.macrumors.com/2026/10/21/whatsapp-developing-browser-for-chat-links/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-21T04:15:09.000Z",
+   "summary": "WhatsApp is developing an optional in-app browser for its iPhone app that would let users open any link shared in chats without leaving the app, according to WABetaInfo. Settings and Chats would let users enable the feature or continue opening links in their default browser. Users would also be…"
+  },
+  {
+   "id": "7d4643a4a86d9a8c",
+   "title": "Southeast Asia’s digital economy to hit $368 billion",
+   "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+   "source": "Google AI",
+   "section": "ai",
+   "publishedAt": "2026-10-21T04:00:00.000Z",
+   "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
+  },
+  {
+   "id": "af26f3af868faf9b",
+   "title": "Apple's App Store Chief Explains Its Push for Premium Games",
+   "url": "https://www.macrumors.com/2026/10/20/app-store-chief-explains-premium-games-push/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-21T03:58:10.000Z",
+   "summary": "More premium games are launching on the App Store this year than last, Apple's ‌App Store‌ Worldwide head Carson Oliver told Polygon, including more franchises coming from PC and consoles. Oliver said: We've seen incredible growth of games coming to the App Store, in general, with more premium…"
+  },
+  {
+   "id": "6898123bb5351e1b",
+   "title": "Setting Up SSH Keys on macOS with Touch ID",
+   "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T03:51:25.000Z",
+   "summary": "28 points · 18 comments"
+  },
+  {
+   "id": "867ca172301daaad",
+   "title": "Using Claude to reduce the attack surface of code",
+   "url": "https://www.anthropic.com/research/attack-surface-reduction",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-21T03:36:43.000Z",
+   "summary": "22 points · 5 comments"
+  },
+  {
+   "id": "3a2325ebb89e31ba",
+   "title": "Apple Could Owe Even More After $5.7 Billion Patent Verdict",
+   "url": "https://www.macrumors.com/2026/10/20/apple-could-owe-more-after-patent-verdict/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-21T03:24:11.000Z",
+   "summary": "Apple could face additional payments on top of a $5.7 billion patent verdict, with Taction Technology asking a federal judge for more damages, interest, and royalties on future iPhone and Apple Watch sales. The request follows a September jury verdict that Apple's Taptic Engine infringed two…"
+  },
+  {
+   "id": "ee18e72dbac0698d",
+   "title": "Skyrim Comes to Apple Silicon Macs With New Unofficial Installer",
+   "url": "https://www.macrumors.com/2026/10/20/skyrim-comes-to-apple-silicon-macs/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-21T02:56:30.000Z",
+   "summary": "Bethesda's beloved role-playing game \"The Elder Scrolls V: Skyrim\" has reached multiple generations of consoles since its 2011 debut, but it never officially came to the Mac. A new unofficial project called SkyrimMT now aims to make playing and modding it on Apple silicon Macs easier than ever. Mac…"
+  },
+  {
+   "id": "842be082683a1063",
+   "title": "C# now beats Rust on WASM size",
+   "url": "https://github.com/zion-sati/NetWasm",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T02:53:47.000Z",
+   "summary": "26 points · 3 comments"
+  },
+  {
+   "id": "a23b3268fec8f410",
+   "title": "Apple Highlights Mac and iPad Use in Paris Design Exhibition",
+   "url": "https://www.macrumors.com/2026/10/20/apple-highlights-paris-design-exhibition/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-21T02:29:08.000Z",
+   "summary": "Apple has showcased four design projects created using its products for this year's \"Designers of Tomorrow\" exhibition in Paris. The exhibition explores the theme of presence through furniture and lighting. Architect Salem S. Charabi used a MacBook Pro to sketch and model a lantern, while designer…"
+  },
+  {
+   "id": "ed528c646302a8b9",
+   "title": "PHP warns it plans to release 2 emergency patches imminently",
+   "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-21T02:12:18.000Z",
+   "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+  },
+  {
+   "id": "e5df997ea30f4d18",
+   "title": "In Hilbert space, all things are quantumly possible",
+   "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T02:04:15.000Z",
+   "summary": "73 points · 36 comments"
+  },
+  {
+   "id": "9acd53c85bf0ef24",
+   "title": "The Future of CSS",
+   "url": "https://www.joshwcomeau.com/css/interop-2027/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T01:47:28.000Z",
+   "summary": "252 points · 99 comments"
+  },
   {
    "id": "acde3a93110b9df0",
    "title": "Good type against all odds",
@@ -1477,6 +1621,15 @@
    "summary": "Apple says that American companies are supplying “critical materials and components” for both the iPhone 18 Pro and the iPhone Duo. In all, it says that nearly 100 components across the two phones are produced by American companies in more than a dozen states. The company has named two of its US…"
   },
   {
+   "id": "707cf965571f16fe",
+   "title": "Four Years with Decker",
+   "url": "https://beyondloom.com/blog/fouryearsdecker.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T12:18:02.000Z",
+   "summary": "22 points · 3 comments"
+  },
+  {
    "id": "005e1d297d6a8682",
    "title": "Apple broke an essential presentation feature of iPads",
    "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
@@ -1790,6 +1943,15 @@
    "section": "tech",
    "publishedAt": "2026-10-20T02:00:00.000Z",
    "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch."
+  },
+  {
+   "id": "2801973205ec4a0b",
+   "title": "Ship Your Interpreter",
+   "url": "https://www.basis.ai/blog/ship-your-interpreters/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T01:57:24.000Z",
+   "summary": "16 points · 4 comments"
   },
   {
    "id": "bb74393a07823215",
@@ -3097,6 +3259,15 @@
    "summary": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content."
   },
   {
+   "id": "c71598798d016216",
+   "title": "Borrow Checking Zero-Cost Cyclic Mutability",
+   "url": "https://antelang.org/blog/safe_cyclic_mutability/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T12:47:42.000Z",
+   "summary": "28 points · 2 comments"
+  },
+  {
    "id": "139681a6889da337",
    "title": "6 unexpected uses for your old PlayStation 3",
    "url": "https://www.engadget.com/2287344/unexpected-uses-old-playstation-3/",
@@ -3322,6 +3493,15 @@
    "summary": "43 points · 22 comments"
   },
   {
+   "id": "fbae2a9bec5df8bb",
+   "title": "Composite objects and C++26 the std:polymorphic type",
+   "url": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T05:54:43.000Z",
+   "summary": "7 points · 1 comments"
+  },
+  {
    "id": "4431cea4c5553779",
    "title": "DeepSeek v4.1 Flash 1017 scores 45 in Artificial Analysis",
    "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
@@ -3338,6 +3518,15 @@
    "section": "ai",
    "publishedAt": "2026-10-19T04:32:07.000Z",
    "summary": "11 points · 3 comments"
+  },
+  {
+   "id": "194d8d36a62b8c41",
+   "title": "ZX Spectrum Next Laptop",
+   "url": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T02:48:11.000Z",
+   "summary": "45 points · 4 comments"
   },
   {
    "id": "2563bb5d3becf949",
@@ -3743,6 +3932,15 @@
    "section": "tech",
    "publishedAt": "2026-10-18T17:56:43.000Z",
    "summary": "Apple Watch Series 12 has been a marvel of an upgrade, at least for me. I’ve written about it WHOOP. That said, in my past month testing it, there’s one WHOOP feature I’ve found myself missing. more…"
+  },
+  {
+   "id": "43d77174c547f9e8",
+   "title": "To Make, or to Buy: The Economics of Decision Models",
+   "url": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-18T17:40:56.000Z",
+   "summary": "39 points · 1 comments"
   },
   {
    "id": "b7c293eb982bcf4b",
@@ -47015,150 +47213,6 @@
    "section": "tech",
    "publishedAt": "2026-09-21T07:55:28.000Z",
    "summary": "283 points · 193 comments"
-  },
-  {
-   "id": "9b2f3a89c818c481",
-   "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-   "url": "https://github.com/jaredpalmer/kev/tree/main",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T07:11:55.000Z",
-   "summary": "233 points · 101 comments"
-  },
-  {
-   "id": "29087ebeff0a2bba",
-   "title": "Expanding OpenAI Academy with new learning paths",
-   "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-21T07:00:00.000Z",
-   "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
-  },
-  {
-   "id": "a03160991ce98af1",
-   "title": "Elektron Machinedrum in the Browser",
-   "url": "https://machinedrum-study.pages.dev/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T06:07:52.000Z",
-   "summary": "31 points · 7 comments"
-  },
-  {
-   "id": "312ae947227daf98",
-   "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-   "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T05:55:22.000Z",
-   "summary": "68 points · 10 comments"
-  },
-  {
-   "id": "60c67a224046a301",
-   "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
-   "url": "https://www.nongnu.org/txr/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T05:09:08.000Z",
-   "summary": "11 points · 0 comments"
-  },
-  {
-   "id": "7d208f4b169d709a",
-   "title": "Mini-AGI – dynamic continual learning model trained from scratch on 8GB VRAM",
-   "url": "https://github.com/volotat/mini-AGI/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-21T04:42:37.000Z",
-   "summary": "5 points · 1 comments"
-  },
-  {
-   "id": "f65063d463f546ce",
-   "title": "Heretic removes restrictions from language models",
-   "url": "https://heretic-project.org/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T04:35:22.000Z",
-   "summary": "124 points · 56 comments"
-  },
-  {
-   "id": "09e7b6eff22e11c1",
-   "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-   "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-21T04:28:44.000Z",
-   "summary": "59 points · 24 comments"
-  },
-  {
-   "id": "5ccc44142a3f1593",
-   "title": "iFixit Shares iPhone 18 Pro Teardown With Inside Look at New Features",
-   "url": "https://www.macrumors.com/2026/09/20/ifixit-iphone-18-pro-teardown/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-21T03:44:59.000Z",
-   "summary": "iFixit today published an iPhone 18 Pro and iPhone 18 Pro Max teardown in both article and video formats, providing a closer look inside the new devices. The teardown confirms the battery capacities for the eSIM-only models: iPhone 18 Pro: 4,288 mAh (+0.8% vs. 4,252 mAh for iPhone 17 Pro) iPhone 18…"
-  },
-  {
-   "id": "630dab721cdb8483",
-   "title": "Winning the Visa Lottery",
-   "url": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T03:37:02.000Z",
-   "summary": "55 points · 32 comments"
-  },
-  {
-   "id": "556a50103a770338",
-   "title": "The trouble with 'ntile()'",
-   "url": "https://blog.djnavarro.net/posts/2026-09-20_the-trouble-with-ntile/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T03:23:26.000Z",
-   "summary": "16 points · 0 comments"
-  },
-  {
-   "id": "6ebe9000cd6ed0ed",
-   "title": "Apple Fitness+ Layoffs Reported Ahead of Potential 'Major' Changes",
-   "url": "https://www.macrumors.com/2026/09/20/apple-fitness-plus-layoffs-reported/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-21T03:00:03.000Z",
-   "summary": "Apple laid off a \"handful\" of Apple Fitness+ employees last week, according to Bloomberg's Mark Gurman. Tags: Apple Fitness Plus, Mark Gurman This article, \"Apple Fitness+ Layoffs Reported Ahead of Potential 'Major' Changes\" first appeared on MacRumors.com Discuss this article in our forums"
-  },
-  {
-   "id": "0adad71e792c7083",
-   "title": "A Shorter Apple Pencil Was Supposed to Launch Alongside iPhone Duo",
-   "url": "https://www.macrumors.com/2026/09/20/iphone-duo-lacks-shorter-apple-pencil/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-21T02:47:43.000Z",
-   "summary": "A shorter Apple Pencil for the iPhone Duo was in development, but Apple scrapped it due to \"technical problems ahead of mass production,\" according to Bloomberg's Mark Gurman. gain support for the existing USB-C version of the Apple Pencil later this year. Related Roundup: iPhone Duo Tags: Apple…"
-  },
-  {
-   "id": "8515cab35ebab7e1",
-   "title": "Relativistic raytracing",
-   "url": "https://publish.obsidian.md/h1m3/Articles/Relativistic+raytracing",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T02:39:59.000Z",
-   "summary": "14 points · 2 comments"
-  },
-  {
-   "id": "d331565cacc66994",
-   "title": "Siri AI Settlement Website Now Live: Apple to Pay Some iPhone Owners",
-   "url": "https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/",
-   "source": "MacRumors",
-   "section": "ai",
-   "publishedAt": "2026-09-21T02:24:32.000Z",
-   "summary": "In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and the settlement website is now live. Apple will pay an estimated $25 per eligible iPhone to eligible customers, who can submit a claim via the settlement website between September 21 and…"
-  },
-  {
-   "id": "5113d39b906d8173",
-   "title": "Deterministic Core, Non-Deterministic Shell",
-   "url": "https://outdata.net/blog/260803",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T02:02:45.000Z",
-   "summary": "36 points · 2 comments"
   }
  ]
 }
