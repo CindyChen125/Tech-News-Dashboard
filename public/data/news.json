@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-21T07:29:41.877Z",
+ "updatedAt": "2026-10-21T13:11:17.047Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1303
+   "count": 1304
   },
   {
    "name": "Google DeepMind",
@@ -81,6 +81,303 @@
   }
  ],
  "items": [
+  {
+   "id": "95532f893521d9b4",
+   "title": "Nvidia’s latest GPU driver brings a new way to speed up PC games",
+   "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-21T13:09:26.000Z",
+   "summary": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spikes. Microsoft's Advanced Shader Delivery works by…"
+  },
+  {
+   "id": "6cb1726630008a6d",
+   "title": "Apple Says 'Reachability' Feature Coming to iPhone Duo Later This Year",
+   "url": "https://www.macrumors.com/2026/10/21/iphone-duo-reachability-later-this-year/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-21T13:05:08.000Z",
+   "summary": "Apple plans to add Reachability support to the iPhone Duo in a software update coming later this year, according to WIRED's Julian Chokkattu. The feature will presumably be available on both the inner and outer displays, but the article did not say. Related Roundup: iPhone Duo Tag: Reachability…"
+  },
+  {
+   "id": "32c5c6ba23d02c65",
+   "title": "Mach9 raises $34M after pivoting to AI CAD software",
+   "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-21T13:00:00.000Z",
+   "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021."
+  },
+  {
+   "id": "c2f4e7a03240e1ce",
+   "title": "How to spot a white label gadget, and why that's important",
+   "url": "https://www.engadget.com/2292707/how-to-spot-a-white-label-gadget/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-21T13:00:00.000Z",
+   "summary": "Sometimes the same product is sold under multiple brands, which means you might not be getting the best gear."
+  },
+  {
+   "id": "582b36e32e8e66b6",
+   "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+   "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-10-21T12:51:24.000Z",
+   "summary": ""
+  },
+  {
+   "id": "fd71bc762dc7e76a",
+   "title": "LayerFS: The filesystem for AI coding agents",
+   "url": "https://layerfs.ai/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-21T12:34:46.000Z",
+   "summary": "4 points · 0 comments"
+  },
+  {
+   "id": "1ae34efa26d79bd6",
+   "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+   "url": "https://www.ncsc.nl/actueel",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T12:31:28.000Z",
+   "summary": "59 points · 15 comments"
+  },
+  {
+   "id": "110b9bc78f13e064",
+   "title": "Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels",
+   "url": "https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T12:23:41.000Z",
+   "summary": "6 points · 1 comments"
+  },
+  {
+   "id": "3f91500fc11b54ee",
+   "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+   "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T12:22:39.000Z",
+   "summary": "21 points · 1 comments"
+  },
+  {
+   "id": "f19e9e9cd1604386",
+   "title": "Here's how SpaceX plans to catch Starship's upper stage for the first time",
+   "url": "https://www.engadget.com/2292685/heres-how-spacex-plans-to-catch-starships-upper-stage-for-the-first-time/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-21T12:19:58.000Z",
+   "summary": "SpaceX has released a demo showing how it intends to catch Starship's upper stage, which could happen as soon as next month."
+  },
+  {
+   "id": "1f3c99f4f9df6118",
+   "title": "Apple blocks web certificates that could be used by scammers, but Mac vulnerability remains",
+   "url": "https://9to5mac.com/2026/10/21/apple-blocks-web-certificates-that-could-be-used-by-scammers-but-mac-vulnerability-remains/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-21T12:16:19.000Z",
+   "summary": "Apple has blocked eight web security certificates that could have been used by scammers to impersonate legitimate websites. However, one cryptography engineer has warned that Macs may continue to trust the compromised certificates because macOS does not check for revocation … more…"
+  },
+  {
+   "id": "8392a4b46f2ea8ac",
+   "title": "I reviewed the iPhone Duo, ask me anything",
+   "url": "https://www.theverge.com/tech/1014316/iphone-duo-review-ama",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-21T12:15:00.000Z",
+   "summary": "I'm The Verge's senior smartphone reviewer and I've been using the iPhone Duo for the past week. I've unfolded it, flipped it, and folded it more times than I could count as I've been working on the review alongside our editor-in-chief Nilay Patel, and I'm ready to answer your questions about it…"
+  },
+  {
+   "id": "5b3202c532c4c6b7",
+   "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+   "url": "https://9mothers.com/careers",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T12:00:24.000Z",
+   "summary": "0 points · 0 comments"
+  },
+  {
+   "id": "bd2fa67bdcb50fde",
+   "title": "iPhone Duo review: The future is foldable",
+   "url": "https://9to5mac.com/2026/10/21/iphone-duo-review/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-21T12:00:06.000Z",
+   "summary": "The iPhone Duo is the biggest change to the iPhone’s form factor in its nearly 20-year history. It combines a compact, notebook-style design with an iPad-like inner display. It might look a little awkward, but that’s for good reason. I’ve spent the last week using the iPhone Duo. Here’s everything…"
+  },
+  {
+   "id": "4846377e2d6b0f71",
+   "title": "OpenAI models are coming to Google Cloud",
+   "url": "https://openai.com/index/openai-models-google-cloud",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-10-21T12:00:00.000Z",
+   "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+  },
+  {
+   "id": "ea48c06c22ff7840",
+   "title": "Spotify is busting free of CarPlay with the launch of its first native car app",
+   "url": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-21T12:00:00.000Z",
+   "summary": "Spotify announced Wednesday the launch of its next-generation, fully native in-car app, built directly on Google's Android Automotive operating system. The standalone app, which is launching today in select Audi models, runs directly on the vehicle's infotainment hardware - eliminating the need for…"
+  },
+  {
+   "id": "70b6864ffd01add0",
+   "title": "I can’t get enough of the iPhone Duo’s matte inner display",
+   "url": "https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-21T12:00:00.000Z",
+   "summary": "Easy on the eyes. The iPhone Duo has all the messiness of a first-gen product. And while I'm not sure I love all of the decisions Apple made around its design, it got one thing right: the matte finish on the inner screen. I've been using it for the past week to watch movies on a plane, peruse my…"
+  },
+  {
+   "id": "46526e524dc83951",
+   "title": "The iPhone Duo is a messy, expensive, good time",
+   "url": "https://www.theverge.com/tech/1015028/iphone-duo-review",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-21T12:00:00.000Z",
+   "summary": "The iPhone Duo is the riskiest Apple product in years. It's a huge rethink of what an iPhone is and could be, and it contains the seeds of many fascinating ideas that might be great in the future. But that future is yet to come. The iPhone Duo is also one of Apple's messiest first-generation…"
+  },
+  {
+   "id": "5e36b27ecec63388",
+   "title": "Apple iPhone Duo review: A first-class foldable",
+   "url": "https://www.engadget.com/2292333/apple-iphone-duo-review/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-21T12:00:00.000Z",
+   "summary": "Even though it's heavy and expensive, Apple's first foldable handset is a treat for iPhone users unwilling to switch to Android."
+  },
+  {
+   "id": "47df81d6a2373498",
+   "title": "A critical PHP vulnerability may take websites down today",
+   "url": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-21T11:49:17.000Z",
+   "summary": "This PHP issue sounds like a pretty huge problem. | Illustration by Carlo Cadenas / The Verge Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on…"
+  },
+  {
+   "id": "859f4a81e58f2f13",
+   "title": "TikTok accused of profiting from illegal child sexual exploitation videos",
+   "url": "https://9to5mac.com/2026/10/21/tiktok-accused-of-profiting-from-illegal-child-sexual-exploitation-videos/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-21T11:19:45.000Z",
+   "summary": "TikTok has been accused of profiting from illegal child sexual exploitation videos posted on its platform. The allegations were made by former and current employees, who say that the company failed to properly respond to internal reports … more…"
+  },
+  {
+   "id": "93951039c8d338c1",
+   "title": "Two dangerous internet security issues are putting site admins on edge",
+   "url": "https://www.engadget.com/2292647/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-21T11:02:54.000Z",
+   "summary": "The web is a bit of a hot mess today following the discovery of two severe vulnerabilities."
+  },
+  {
+   "id": "3ca4ff38d78f47c2",
+   "title": "Video shows French Apple store being emptied by looters",
+   "url": "https://9to5mac.com/2026/10/21/video-shows-french-apple-store-being-emptied-by-looters/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-21T10:53:36.000Z",
+   "summary": "Video captured during the protests in France show an Apple store being almost completely emptied by looters amid chaotic scenes that include cars being set alight. Reports say that looters broke into Apple stores in Bordeaux and Lille as public unrest continues in what began as protests against…"
+  },
+  {
+   "id": "b1f4789bfd718359",
+   "title": "OpenAI's agents disabled their own safety monitoring systems",
+   "url": "https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-21T10:53:21.000Z",
+   "summary": "OpenAI reveals that its agents misbehaved by switching off the system monitoring them for misbehaviors."
+  },
+  {
+   "id": "2a9d7ef0eee0529a",
+   "title": "Whatever Happened to Fire Escapes",
+   "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T10:14:43.000Z",
+   "summary": "64 points · 35 comments"
+  },
+  {
+   "id": "7bc429a0e33dfd7e",
+   "title": "Subaru is dropping gas cars for EVs in Europe by the end of 2027",
+   "url": "https://www.engadget.com/2292610/subaru-is-dropping-gas-cars-for-evs-in-europe-by-the-end-of-2027/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-21T09:14:00.000Z",
+   "summary": "Subaru will halt the sale of gas-powered vehicles in favor of an all-electric lineup in Europe no later than 2027."
+  },
+  {
+   "id": "a39b155d23076e12",
+   "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+   "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T09:08:08.000Z",
+   "summary": "361 points · 142 comments"
+  },
+  {
+   "id": "2c6689fe615e6f39",
+   "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+   "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T09:07:49.000Z",
+   "summary": "478 points · 534 comments"
+  },
+  {
+   "id": "ff478e1cdab30f56",
+   "title": "SpaceX and Tesla are exploring a possible merger",
+   "url": "https://www.engadget.com/2292594/spacex-tesla-exploring-possible-merger/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-21T08:40:59.000Z",
+   "summary": "SpaceX and Tesla have formed special committees to discuss a merger, but Elon Musk says it's not a certainty."
+  },
+  {
+   "id": "32907f45c968899d",
+   "title": "Loop Capital Cuts Apple Rating Over iPhone Sales Outlook",
+   "url": "https://www.macrumors.com/2026/10/21/loop-capital-cuts-apple-rating-over-iphone-sales-outlook/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-21T08:38:06.000Z",
+   "summary": "Loop Capital has lowered its rating on Apple from \"Buy\" to \"Hold,\" saying the company is unlikely to make up an estimated 13 million iPhone shipments cut from its plans for the second half of 2026, according to Investing.com. The firm reduced its Apple stock price target from $370 to $330. Loop…"
+  },
+  {
+   "id": "df3167142b019e6c",
+   "title": "Apple Stores in Bordeaux and Lille Looted During French Protests",
+   "url": "https://www.macrumors.com/2026/10/21/apple-stores-looted-during-french-protests/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-21T08:35:00.000Z",
+   "summary": "Apple retail stores in Bordeaux and Lille were looted earlier this week amid unrest accompanying demonstrations against the high cost of living in France, Boursorama reports. Both locations were among numerous businesses targeted across the country. The same Bordeaux location, Apple…"
+  },
+  {
+   "id": "6795338991b02b14",
+   "title": "Bluesound Adds Native Apple Music Support",
+   "url": "https://www.macrumors.com/2026/10/21/bluesound-adds-native-apple-music-support/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-21T08:06:00.000Z",
+   "summary": "Apple Music subscribers can now stream directly to compatible Bluesound speakers and hi-fi equipment, allowing playback without sending audio via AirPlay 2. Bluesound offers a range of high-end home audio products ranging from wireless speakers and soundbars to streaming components that connect to…"
+  },
+  {
+   "id": "90d820e47e8533ea",
+   "title": "Apple CEO John Ternus Explains What Makes Good Product Design",
+   "url": "https://www.macrumors.com/2026/10/21/john-ternus-explains-good-design/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-21T07:03:00.000Z",
+   "summary": "Apple CEO John Ternus says improving the user's experience guides Apple's design decisions, whether that means adding practical features or an animation that simply makes a device more enjoyable to use. TIME published an interview with Ternus last week, and released the video version on Tuesday…"
+  },
   {
    "id": "59a6ec2095be6dc5",
    "title": "Pillowfort Is Closing",
@@ -3322,6 +3619,15 @@
    "summary": "Most routers have several 1 Gbps ports, but yours might have one or more 2.5 Gbps options that are great for speeding up compatible devices."
   },
   {
+   "id": "5011d34b84ff39eb",
+   "title": "Bonanza of new dates rewrites the history of the Inca",
+   "url": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T12:13:36.000Z",
+   "summary": "21 points · 5 comments"
+  },
+  {
    "id": "99b3c027c58b6692",
    "title": "Nobody should buy the $299 Apple TV 4K, but it could have been worse",
    "url": "https://9to5mac.com/2026/10/19/nobody-should-buy-the-299-apple-tv-4k-but-it-could-have-been-worse/",
@@ -3347,6 +3653,15 @@
    "section": "ai",
    "publishedAt": "2026-10-19T12:00:00.000Z",
    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
+  },
+  {
+   "id": "da4c6ac0b41328ba",
+   "title": "The Lucrative World of Literary Scams",
+   "url": "https://www.thedial.world/articles/news/ai-book-scams",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T11:43:35.000Z",
+   "summary": "13 points · 2 comments"
   },
   {
    "id": "5a63e51f93c9eb28",
@@ -3430,6 +3745,15 @@
    "summary": "385 points · 73 comments"
   },
   {
+   "id": "d559959a7ee8e41b",
+   "title": "Way to Play Super Mario 64: On Apple Vision Pro",
+   "url": "https://www.pagetable.com/303",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T09:21:34.000Z",
+   "summary": "63 points · 19 comments"
+  },
+  {
    "id": "b2db6e325e13958a",
    "title": "Google Gemini 4 agents just beat Minecraft with no human intervention",
    "url": "https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/",
@@ -3455,6 +3779,15 @@
    "section": "tech",
    "publishedAt": "2026-10-19T09:05:07.000Z",
    "summary": "248 points · 46 comments"
+  },
+  {
+   "id": "0f6c6cfc384d4829",
+   "title": "The Decoherence Trap",
+   "url": "https://maevyn.codes/decoherence",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T08:35:44.000Z",
+   "summary": "78 points · 25 comments"
   },
   {
    "id": "13d2338df114cc05",
@@ -46799,420 +47132,6 @@
    "section": "tech",
    "publishedAt": "2026-09-21T13:16:25.000Z",
    "summary": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and…"
-  },
-  {
-   "id": "e0af7d553610a819",
-   "title": "New Mac Mini and Mac Studio Launch Tomorrow",
-   "url": "https://www.macrumors.com/2026/09/21/new-mac-mini-and-mac-studio-launch-tomorrow/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-21T13:04:41.000Z",
-   "summary": "Last month, Apple announced new Mac mini and Mac Studio models, and the computers are finally set to launch this Tuesday, September 22. The new Mac mini is available with M6 and M5 Pro chip options, while the new Mac Studio can be configured with M5 Max or M5 Ultra chips. There are no major design…"
-  },
-  {
-   "id": "9c2cec649226fd68",
-   "title": "These are the first five Googlebook laptops",
-   "url": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-21T13:01:00.000Z",
-   "summary": "Google and partners are finally announcing the first laptops under the new Googlebook banner. There are five models from Acer, Asus, Dell, HP, and Lenovo to kick things off. They're available for preorder starting today and arrive in stores on October 4th. Starting prices range from $899 to $1,299…"
-  },
-  {
-   "id": "9e616dad6ba8db87",
-   "title": "Google's pitch for Googlebooks: A laptop that works better with your Android phone",
-   "url": "https://www.engadget.com/2263649/googlebooks-a-laptop-that-works-better-with-your-android-phone/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-21T13:00:36.000Z",
-   "summary": "The first Googlebooks are up for pre-order today and they arrive on October 4."
-  },
-  {
-   "id": "08aa9efcfb17a6b8",
-   "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
-   "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-21T13:00:24.000Z",
-   "summary": "The M4 Mac mini was one of Apple's best values ever. This one, not so much."
-  },
-  {
-   "id": "20cee5d8ff94a346",
-   "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
-   "url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-21T13:00:11.000Z",
-   "summary": "Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price."
-  },
-  {
-   "id": "d979a5671607d88f",
-   "title": "M6 Mac mini review: Apple’s most versatile Mac continues to shine",
-   "url": "https://9to5mac.com/2026/09/21/m6-mac-mini-review/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-21T13:00:05.000Z",
-   "summary": "Over the last several years, the Mac mini has become one of the most compelling Macs in Apple’s lineup. It combines impressive performance with a compact footprint, making it versatile enough for all kinds of workflows. I’ve spent the last week using the M6 Mac mini, and it pushes that formula even…"
-  },
-  {
-   "id": "dec00458fac2309c",
-   "title": "The long dream of the Googlebook",
-   "url": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-21T13:00:00.000Z",
-   "summary": "Dell’s XPS Googlebook is just one of the devices Google needs to be great. In late 2010, an up-and-coming Google executive named Sundar Pichai took the stage in front of a bunch of reporters and explained that Google had a big new idea about laptops. In the future, he said, the only thing you'd…"
-  },
-  {
-   "id": "6a09c8e6d52ef60f",
-   "title": "I got to see Google’s wild ideas about the future of laptops",
-   "url": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-21T13:00:00.000Z",
-   "summary": "Googlebooks look like fancy Chromebooks at first, but there are interesting software ideas. | Photo: Antonio G. Di Benedetto / The Verge There are a few things about using a Googlebook that immediately feel just right. The hardware is polished (since it's based on current laptops). The OS is…"
-  },
-  {
-   "id": "6e53dad4e294e2f5",
-   "title": "The Mac Mini is still mighty, just not as cheap",
-   "url": "https://www.theverge.com/tech/998006/apple-mac-mini-m6-m5-pro-review",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-21T13:00:00.000Z",
-   "summary": "Apple’s little computer gets a little spendy. There are lots of compact desktop computers out there, but none match the Mac Mini's small size and big power. 2024's redesign reduced the Mini to 0.82L, a chassis so minimal you can easily mount it behind a monitor or under a desk. I've used gaming…"
-  },
-  {
-   "id": "baa29d17ca5a9700",
-   "title": "The M5 Ultra Mac Studio tears through our benchmark tests",
-   "url": "https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-21T13:00:00.000Z",
-   "summary": "What’s in the box?! Cores. So many cores. | Photo: Amelia Holowaty Krales / The Verge The Mac Studio review unit that Apple sent us to test this year is, put simply, kind of outrageous. It has an M5 Ultra chip with a 36-core CPU and 80-core GPU, 256GB of RAM, and 4TB of storage and costs $12,299…"
-  },
-  {
-   "id": "1cd54dead2a6098a",
-   "title": "Googlebooks feel like the first laptops built for Android owners",
-   "url": "https://www.theverge.com/tech/998095/googlebook-laptop-android-continue-on-app-cast",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-21T13:00:00.000Z",
-   "summary": "Googlebook OS is a little bit like ChromeOS and a whole lot like Android. There's a good chance that my next laptop will be a Googlebook. If you're an Android user like me, then yours might be too, because Google is making a compelling pitch: The Googlebook does for the Android phone what the…"
-  },
-  {
-   "id": "803d737431f3a3f5",
-   "title": "Apple Mac Studio (M5 Ultra) review: Huge AI and graphics power at a huge premium",
-   "url": "https://www.engadget.com/2263184/apple-mac-studio-m5-ultra-review/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-09-21T13:00:00.000Z",
-   "summary": "At $11,299, the M5 Ultra's extra performance over the M5 Max model is only worth it for select buyers."
-  },
-  {
-   "id": "aa7ea99e0cf51b42",
-   "title": "I tried every new Googlebook announced today",
-   "url": "https://www.engadget.com/2263652/i-tried-every-new-googlebook-announced-today/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-21T13:00:00.000Z",
-   "summary": "The new Googlebooks from Acer, ASUS, Dell, HP and Lenovo cover a variety of sizes and form factors."
-  },
-  {
-   "id": "e6a8fedf00efaf22",
-   "title": "Apple Mac mini (M6) review: The best compact desktop is no longer a great deal",
-   "url": "https://www.engadget.com/2263471/apple-mac-mini-m6-review/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-21T13:00:00.000Z",
-   "summary": "At $899, the new Mac mini loses the fun factor of the previous models."
-  },
-  {
-   "id": "3ba1152740b8cab8",
-   "title": "Trade-in vs selling: Which is the better option for your old phone?",
-   "url": "https://www.engadget.com/2260566/trade-in-vs-sell-your-old-phone-which-is-better/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-21T13:00:00.000Z",
-   "summary": "One may get you more value for the phone."
-  },
-  {
-   "id": "f4dd562452ff7a98",
-   "title": "Raspberry Pi blocks changing RAM chips",
-   "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T12:54:24.000Z",
-   "summary": "84 points · 69 comments"
-  },
-  {
-   "id": "f14038e86b4f999a",
-   "title": "Apple Watch Series 12 and Ultra 4 May Have Hidden Flash Storage",
-   "url": "https://www.macrumors.com/2026/09/21/apple-watch-series-12-ultra-4-hidden-storage/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-21T12:52:05.000Z",
-   "summary": "Apple is using a 128GB NAND flash die in Apple Watch Series 12 and Ultra 4 models, claims a Chinese hardware researcher, despite both devices officially offering only 64GB of storage. It's unclear why Apple would limit the accessible capacity, but it could conceivably be reserving some of it for…"
-  },
-  {
-   "id": "61de1af9fef8d65a",
-   "title": "A build graph that rolls dice",
-   "url": "https://fzakaria.com/2026/09/20/a-build-graph-that-rolls-dice",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T12:50:13.000Z",
-   "summary": "9 points · 2 comments"
-  },
-  {
-   "id": "3f242774d2bfe42d",
-   "title": "Apple Fitness+ team hit by layoffs, as ‘major changes’ reportedly loom",
-   "url": "https://9to5mac.com/2026/09/21/apple-fitness-team-hit-by-layoffs-as-major-changes-reportedly-loom/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-21T12:49:04.000Z",
-   "summary": "Apple is assessing the future of Apple Fitness+, according to a new Bloomberg report. The company has reportedly laid off a “handful of employees” working on the service, a move viewed as just the beginning of bigger changes still to come. more…"
-  },
-  {
-   "id": "01ce9ea11e52fa85",
-   "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
-   "url": "https://news.ycombinator.com/item?id=49786609",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T12:47:05.000Z",
-   "summary": "38 points · 16 comments"
-  },
-  {
-   "id": "633dcaff600cebf9",
-   "title": "Apple’s clever software solution lets iPhone batteries skirt shipping limits",
-   "url": "https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-21T12:37:27.000Z",
-   "summary": "Apple has developed an unexpected workaround to prevent the iPhone 18 Pro Max from being hit by shipping restrictions on big batteries. There's a \"battery-firmware solution\" in place on the new iPhones, according to Apple's support page, which keeps capacity below the 20Wh limit for single-cell…"
-  },
-  {
-   "id": "ba1f6ee81ed127d8",
-   "title": "You can now claim your payout from Apple’s $250 million Siri settlement",
-   "url": "https://9to5mac.com/2026/09/21/you-can-now-claim-your-payout-from-apples-250-million-siri-settlement/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-21T12:31:45.000Z",
-   "summary": "The major class action lawsuit against Apple over Siri and Apple Intelligence delays continues to progress. Apple is expected to pay $250 million to settle the lawsuit, and you can now submit your claim to get a chunk of that payout. Here’s how. more…"
-  },
-  {
-   "id": "7406206df5e61f52",
-   "title": "How to use an iPad as a second screen for your Mac or Windows PC",
-   "url": "https://www.engadget.com/2260556/how-to-use-ipad-as-second-screen-monitor-windows-mac/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-21T12:30:00.000Z",
-   "summary": "Your iPad can give your Mac or PC some much-needed extra screen space."
-  },
-  {
-   "id": "ca0ca60dfa786a9f",
-   "title": "What to consider when buying an Ethernet switch for your home network",
-   "url": "https://www.engadget.com/2257772/what-to-consider-buying-ethernet-switch-home-network/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-21T12:30:00.000Z",
-   "summary": "Network switches are an easy way to add more Ethernet ports to your home network, but you'll need to pick from the many varieties available."
-  },
-  {
-   "id": "29f38d823998b679",
-   "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-   "url": "https://github.com/aru-labs/lossless-memory",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-21T12:28:17.000Z",
-   "summary": "20 points · 7 comments"
-  },
-  {
-   "id": "61686f158d8c1190",
-   "title": "Show HN: SQLBraid – Write SQL directly in TypeScript without a query-builder DSL",
-   "url": "https://github.com/Clickin/SQLBraid",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T12:25:37.000Z",
-   "summary": "5 points · 1 comments"
-  },
-  {
-   "id": "042799e79d0dcbec",
-   "title": "Apple home hub device built around Siri AI may be almost ready",
-   "url": "https://www.engadget.com/2263663/apple-home-hub-device-built-around-siri-ai-may-be-almost-ready/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-09-21T12:15:00.000Z",
-   "summary": "A smart display from Apple that would compete with Amazon's Echo Show may finally launch soon."
-  },
-  {
-   "id": "f3c72233ac6cdffd",
-   "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-   "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-   "source": "MIT Tech Review",
-   "section": "ai",
-   "publishedAt": "2026-09-21T12:00:00.000Z",
-   "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review…"
-  },
-  {
-   "id": "4a47ff6c16a6420c",
-   "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-   "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-   "source": "MIT Tech Review",
-   "section": "ai",
-   "publishedAt": "2026-09-21T12:00:00.000Z",
-   "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled…"
-  },
-  {
-   "id": "94426ec33250456f",
-   "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-   "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-   "source": "MIT Tech Review",
-   "section": "ai",
-   "publishedAt": "2026-09-21T12:00:00.000Z",
-   "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within range of three…"
-  },
-  {
-   "id": "88b3558e1db93cf4",
-   "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-   "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-   "source": "MIT Tech Review",
-   "section": "ai",
-   "publishedAt": "2026-09-21T12:00:00.000Z",
-   "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked. This…"
-  },
-  {
-   "id": "d4e3c01d9c4367d2",
-   "title": "Don't throw away your old Android tablet — do this instead",
-   "url": "https://www.engadget.com/2260554/dont-throw-away-old-android-tablet-do-this-instead/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-21T12:00:00.000Z",
-   "summary": "Android Auto will run right on your tablet's screen with the Open Headunit app."
-  },
-  {
-   "id": "6ee29310402c9050",
-   "title": "Advisory Group on Mathematics and Artificial Intelligence",
-   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-21T12:00:00.000Z",
-   "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
-  },
-  {
-   "id": "5eb3fa7749ddbc71",
-   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-   "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-21T12:00:00.000Z",
-   "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
-  },
-  {
-   "id": "b23ef04646a37b8f",
-   "title": "Amazon bars Meta's Muse AI from shopping on its site",
-   "url": "https://www.engadget.com/2263659/amazon-bars-metas-muse-ai-from-shopping-on-its-site/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-09-21T11:38:42.000Z",
-   "summary": "Amazon claims Meta's Muse is a safety risk and bars the AI agent from shopping on its website."
-  },
-  {
-   "id": "beebd3533e0db34d",
-   "title": "The iPhone 18 Pro's fancy variable aperture camera is incredibly hard to repair",
-   "url": "https://www.engadget.com/2263650/the-iphone-18-pro-variable-aperture-camera-ifixit-hard-to-repair/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-21T11:30:06.000Z",
-   "summary": "Apple's variable aperture might capture better photos, but is near impossible to fix if it breaks."
-  },
-  {
-   "id": "4b3f6857d3fc5ab0",
-   "title": "iPhone 20 Pro Display Sizes Leak Ahead of 2027 Launch",
-   "url": "https://www.macrumors.com/2026/09/21/iphone-20-pro-display-sizes-leak/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-21T11:30:01.000Z",
-   "summary": "Apple's 20th-anniversary iPhone lineup could feature slightly larger displays than the iPhone 18 Pro models, if a new leak shared on Weibo is accurate. Prolific Chinese leaker Digital Chat Station claims that early iPhone 20 Pro display specifications include a 6.41-inch screen with a resolution of…"
-  },
-  {
-   "id": "4fc06f881e3ad7ab",
-   "title": "First Shader from Zero in Godot 4",
-   "url": "https://www.gdquest.com/library/first_shader_godot4_portal/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T10:57:44.000Z",
-   "summary": "31 points · 2 comments"
-  },
-  {
-   "id": "c060329290d92e20",
-   "title": "ZuckOff Know when a camera is in the room",
-   "url": "https://zuckoff.app/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T10:33:14.000Z",
-   "summary": "523 points · 220 comments"
-  },
-  {
-   "id": "0b36da18c3fe7a3d",
-   "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
-   "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T10:27:50.000Z",
-   "summary": "262 points · 32 comments"
-  },
-  {
-   "id": "d3f1a52350d15586",
-   "title": "Building standards for the next phase of AI",
-   "url": "https://openai.com/index/building-standards-next-phase-ai",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-21T10:00:00.000Z",
-   "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
-  },
-  {
-   "id": "c535e0d6cc7b11be",
-   "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
-   "url": "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T09:56:34.000Z",
-   "summary": "3 points · 1 comments"
-  },
-  {
-   "id": "d1c914405869cfda",
-   "title": "Apple Watch Series 12 and Ultra 4 Owners Report Unexpected Reboots",
-   "url": "https://www.macrumors.com/2026/09/21/apple-watch-series-12-ultra-4-reported-reboots/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-21T09:08:42.000Z",
-   "summary": "Some new Apple Watch Ultra 4 and Apple Watch Series 12 owners are reporting the devices are rebooting unexpectedly, and diagnostic logs suggest the crashes are related to the Apple Neural Engine. Reports have been posted in the MacRumors forums since the new models launched on Friday. Users…"
-  },
-  {
-   "id": "8411805a7f9e8a05",
-   "title": "Don't Use AI to Write",
-   "url": "https://paulbakker.io/writing/no-ai-for-writing/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-21T08:54:44.000Z",
-   "summary": "18 points · 7 comments"
-  },
-  {
-   "id": "7631b3aa2dda80f9",
-   "title": "Jev-Leftpad",
-   "url": "https://github.com/f/jev-leftpad",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T08:39:32.000Z",
-   "summary": "172 points · 64 comments"
-  },
-  {
-   "id": "ca643674de354931",
-   "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
-   "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T07:55:28.000Z",
-   "summary": "283 points · 193 comments"
   }
  ]
 }
