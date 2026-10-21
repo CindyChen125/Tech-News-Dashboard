@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-20T23:22:19.219Z",
+ "updatedAt": "2026-10-21T01:58:43.478Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1302
+   "count": 1303
   },
   {
    "name": "Google DeepMind",
@@ -81,6 +81,78 @@
   }
  ],
  "items": [
+  {
+   "id": "acde3a93110b9df0",
+   "title": "Good type against all odds",
+   "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T01:45:07.000Z",
+   "summary": "7 points · 1 comments"
+  },
+  {
+   "id": "6238ab326543923d",
+   "title": "Apple is looking for a cellular modem engineer to help shape its transition to 6G",
+   "url": "https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-21T01:18:32.000Z",
+   "summary": "Apple is looking for an experienced cellular modem systems engineer to help develop its next generation of cellular modems as the company transitions toward 6G. Here are the details. more…"
+  },
+  {
+   "id": "0b092f54d5dbff8d",
+   "title": "Dark comedy ‘Where’s Wanda?’ season 2 premieres on Apple TV",
+   "url": "https://9to5mac.com/2026/10/20/dark-comedy-wheres-wanda-season-2-premieres-on-apple-tv/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-21T01:01:09.000Z",
+   "summary": "German-language dark comedy “Where’s Wanda?” is back on Apple TV, with the first episode of its second season now streaming. Here are the details. more…"
+  },
+  {
+   "id": "aed6f2bc8876ddfe",
+   "title": "YouTube might be testing hiding the dislike button",
+   "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-21T00:00:56.000Z",
+   "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for…"
+  },
+  {
+   "id": "e29b9d5d45c9e29e",
+   "title": "How much power can a 1kW wind turbine produce for your home?",
+   "url": "https://www.engadget.com/2289290/wind-turbine-for-home-1kw-power/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-21T00:00:00.000Z",
+   "summary": "A 1 kW wind turbine can help with your electric bill, but the wind determines how much."
+  },
+  {
+   "id": "ab6d2963931b2161",
+   "title": "Apple Seeks 6G Modem Engineers as It Plans for Post-5G iPhones",
+   "url": "https://www.macrumors.com/2026/10/20/apple-6g-research-continues/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-20T23:46:21.000Z",
+   "summary": "Apple is continuing to work on 6G, the successor to 5G that's on track to be ready sometime around 2030. Apple has been preparing for the eventual launch of the 6G standard since at least 2020. Apple is hiring a 6G Cellular Modem Systems Engineer who will \"define and build the next generation of…"
+  },
+  {
+   "id": "91e0fe98b6cb5798",
+   "title": "First iPhone Duo Unboxing Video Appears Ahead of Friday Launch",
+   "url": "https://www.macrumors.com/2026/10/20/iphone-duo-unboxing-video/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-20T23:31:23.000Z",
+   "summary": "With just a couple of days to go until the iPhone Duo launches, the first unboxing video has surfaced online from someone who managed to get a device early. The ‌iPhone Duo‌ ships flat instead of folded, and it is otherwise packaged like any other iPhone. We've already seen first impressions from…"
+  },
+  {
+   "id": "40094344392efb68",
+   "title": "What can you use your Apple Watch Ultra 4 action button for?",
+   "url": "https://www.engadget.com/2289282/apple-watch-ultra-4-action-button-uses-explained/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-20T23:30:00.000Z",
+   "summary": "Here's what your Apple Watch Ultra 4 action button can really do, from launching workouts and retracing routes to controlling smart home devices with one tap."
+  },
   {
    "id": "651c79e9bb09e168",
    "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
@@ -368,6 +440,15 @@
    "section": "tech",
    "publishedAt": "2026-10-20T20:16:04.000Z",
    "summary": "Trying to pull up information for certain peptides on TikTok is now returning a \"no results found\" page when searching for terms like semaglutide, BPC-157, retratutide, and others. That hasn't entirely erased visibility on TikTok for peptides, which are combinations of amino acids that include…"
+  },
+  {
+   "id": "ac5ac20aad22bcea",
+   "title": "Upcoming Critical PHP Security Release",
+   "url": "https://news-web.php.net/php.announce/509",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T20:15:50.000Z",
+   "summary": "54 points · 5 comments"
   },
   {
    "id": "4f4de0c17127bf4c",
@@ -755,6 +836,15 @@
    "section": "ai",
    "publishedAt": "2026-10-20T17:11:26.000Z",
    "summary": "The company said it removed 50 million such tracks from recommendations, but hasn't necessarily wiped them entirely."
+  },
+  {
+   "id": "eb162e0ed8354e7d",
+   "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+   "url": "https://research.poh.org/bot-benchmarking-2026/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-20T17:10:31.000Z",
+   "summary": "28 points · 0 comments"
   },
   {
    "id": "a4361e27fbe26eb5",
@@ -1621,6 +1711,15 @@
    "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic."
   },
   {
+   "id": "f9ef4f16c8181ef1",
+   "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+   "url": "https://openai.com/index/terminal-x",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-10-20T07:00:00.000Z",
+   "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
+  },
+  {
    "id": "57ac5a4572decb69",
    "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
    "url": "https://github.com/microg/GmsCore/wiki",
@@ -2141,6 +2240,15 @@
    "section": "tech",
    "publishedAt": "2026-10-19T19:24:33.000Z",
    "summary": "Apple is rolling out a new feature for HomePod mini and the second-gen big HomePod called Sound Glow. This lights up the touch surface of your speaker with colors that reference the album artwork of the currently playing song, perhaps adding some additional ambience to a party vibe. Here’s how to…"
+  },
+  {
+   "id": "cc22e3f0a1be1f8a",
+   "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
+   "url": "https://dovepass.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T19:21:56.000Z",
+   "summary": "15 points · 2 comments"
   },
   {
    "id": "dcc732e4929bd795",
@@ -3178,6 +3286,15 @@
    "summary": "248 points · 46 comments"
   },
   {
+   "id": "13d2338df114cc05",
+   "title": "Shipping a LaTeX Compiler Behind an Edge App",
+   "url": "https://bhargav.dev/writing/shipping-a-latex-compiler-behind-an-edge-app",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T07:59:50.000Z",
+   "summary": "9 points · 4 comments"
+  },
+  {
    "id": "010d026f8a1c1e2b",
    "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
    "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
@@ -3626,6 +3743,15 @@
    "section": "tech",
    "publishedAt": "2026-10-18T17:56:43.000Z",
    "summary": "Apple Watch Series 12 has been a marvel of an upgrade, at least for me. I’ve written about it WHOOP. That said, in my past month testing it, there’s one WHOOP feature I’ve found myself missing. more…"
+  },
+  {
+   "id": "b7c293eb982bcf4b",
+   "title": "What the heck is /pkg?",
+   "url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-18T17:21:23.000Z",
+   "summary": "60 points · 16 comments"
   },
   {
    "id": "1231b72a609b9f27",
@@ -47033,87 +47159,6 @@
    "section": "tech",
    "publishedAt": "2026-09-21T02:02:45.000Z",
    "summary": "36 points · 2 comments"
-  },
-  {
-   "id": "416651a49a294f9e",
-   "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
-   "url": "https://github.com/xCuri0/ReBarUEFI",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T01:07:46.000Z",
-   "summary": "30 points · 10 comments"
-  },
-  {
-   "id": "2315fb675f09c91a",
-   "title": "Why back propagation goes backward",
-   "url": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T00:42:14.000Z",
-   "summary": "31 points · 4 comments"
-  },
-  {
-   "id": "785f80c0015d59c8",
-   "title": "One mobile number, two phones: What is iPhone handoff and which carriers support it?",
-   "url": "https://www.engadget.com/2260552/iphone-handoff-uses-carriers-explained/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-21T00:30:00.000Z",
-   "summary": "If you find yourself swapping between two iPhones regularly, whether for work or casual use, you're going to want to set up Handoff."
-  },
-  {
-   "id": "53ac206ff03abd59",
-   "title": "A refined phylochronology of the second plague pandemic in Western Eurasia",
-   "url": "https://www.pnas.org/doi/10.1073/pnas.2534899123",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-21T00:06:21.000Z",
-   "summary": "7 points · 0 comments"
-  },
-  {
-   "id": "16c6378bbede3137",
-   "title": "Wired vs. wireless internet: Which should you choose for your home?",
-   "url": "https://www.engadget.com/2260477/wired-vs-wireless-internet-which-choose-for-home/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-21T00:00:00.000Z",
-   "summary": "Wired and wireless internet are both ways that ISPs deliver service to your home, but one isn't necessarily superior to the other."
-  },
-  {
-   "id": "c65ea5160e62b87d",
-   "title": "How V7 gives AI agents institutional memory",
-   "url": "https://openai.com/index/v7",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-21T00:00:00.000Z",
-   "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
-  },
-  {
-   "id": "2ba70404ffa8b71c",
-   "title": "tokenizers v1: encode, decode and scaling, measured",
-   "url": "https://huggingface.co/blog/tokenizers-v1",
-   "source": "Hugging Face",
-   "section": "ai",
-   "publishedAt": "2026-09-21T00:00:00.000Z",
-   "summary": ""
-  },
-  {
-   "id": "00601221083ce00b",
-   "title": "Amiga Unix, Again",
-   "url": "https://amigaux.org/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-20T23:57:10.000Z",
-   "summary": "16 points · 6 comments"
-  },
-  {
-   "id": "76f76ae304daf2f1",
-   "title": "Which major chatbot apps work with CarPlay?",
-   "url": "https://www.engadget.com/2260401/major-chatbot-apps-work-with-carplay/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-09-20T23:30:00.000Z",
-   "summary": "If you aren't happy with Siri while driving, several other chatbot apps are compatible with CarPlay now."
   }
  ]
 }
