@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-22T17:04:51.884Z",
+ "updatedAt": "2026-10-22T20:32:25.981Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1314
+   "count": 1315
   },
   {
    "name": "Google DeepMind",
@@ -77,10 +77,523 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 31
+   "count": 30
   }
  ],
  "items": [
+  {
+   "id": "00810c91d6879c95",
+   "title": "iOS 27 adds new Phone app feature that’s an instant favorite",
+   "url": "https://9to5mac.com/2026/10/22/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-22T20:29:15.000Z",
+   "summary": "iOS 27 is packed with new features for apps like Notes, Wallet, Maps, Messages, and more. But one iOS 27 addition that’s especially impressed me is a new Phone feature: Call Context. more…"
+  },
+  {
+   "id": "544a59c6f666394a",
+   "title": "Meta turns Muse sharing back on",
+   "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-22T20:24:04.000Z",
+   "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at…"
+  },
+  {
+   "id": "7104a4dd79b0c81d",
+   "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+   "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-22T20:23:48.000Z",
+   "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain \"foreign…"
+  },
+  {
+   "id": "09cc6447e1a1d1e4",
+   "title": "Spotify's Family plan QR code could cost you Premium access",
+   "url": "https://www.engadget.com/2294799/spotify-family-plan-qr-code-cost-premium-access/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-22T20:19:19.000Z",
+   "summary": "Spotify is trying to make some Premium Family members prove they live at the same address."
+  },
+  {
+   "id": "f50660bde21d0bdd",
+   "title": "Apple's iWork Apps Get 'Intelligent Assistant' and iPhone Duo Support",
+   "url": "https://www.macrumors.com/2026/10/22/iwork-apps-intelligent-assistant/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-22T20:15:24.000Z",
+   "summary": "Apple today added an \"Intelligent Assistant\" to Keynote, Numbers, and Pages. The feature is available in beta for Apple Creator Studio subscribers. The update is available again following the temporary removal of the apps from the App Store. In Numbers, Intelligent Assistant can build formulas…"
+  },
+  {
+   "id": "27cb56fdc389e0c4",
+   "title": "iPhone Duo hands-on review, Apple announces MacBook Pro and Tell event",
+   "url": "https://9to5mac.com/2026/10/22/happy-hour-613/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-22T20:13:51.000Z",
+   "summary": "Ahead of its official launch, Chance has spent a week with the iPhone Duo and he is here to tell us all about his experiences with Apple’s new foldable phone, including the various poses, state of the software, Touch ID versus Face ID, battery life and more. Also, Apple announces yet another…"
+  },
+  {
+   "id": "cffef10e411420e7",
+   "title": "Apple is Apparently Considering a Slightly Larger iPhone Duo",
+   "url": "https://www.macrumors.com/2026/10/22/slightly-larger-iphone-duo-rumor/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-22T20:10:38.000Z",
+   "summary": "On a new episode of his Power On podcast, Bloomberg's Mark Gurman said he \"heard\" that Apple is \"looking at\" the idea of a future iPhone Duo with an inner display that is \"roughly half an inch\" larger than the one on the existing model. Related Roundup: iPhone Duo Tag: Mark Gurman Buyer's Guide…"
+  },
+  {
+   "id": "d6be9136c7e8a3b3",
+   "title": "Rhode Island sues Meta over its approach to scam ads",
+   "url": "https://www.engadget.com/2294778/rhode-island-sues-meta-over-its-approach-to-scam-ads/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-22T20:05:26.000Z",
+   "summary": "It's the first state to sue the social media company on these allegations."
+  },
+  {
+   "id": "37fcc84d8f1b09c4",
+   "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+   "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-22T20:01:51.000Z",
+   "summary": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned."
+  },
+  {
+   "id": "232804ec25ca1bd9",
+   "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+   "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-22T20:00:00.000Z",
+   "summary": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polska’s Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days."
+  },
+  {
+   "id": "d9c261a3a9bf5209",
+   "title": "The trailer for Mass Effect 5 has leaked and unfortunately it looks good",
+   "url": "https://www.engadget.com/2294768/the-trailer-for-mass-effect-5-has-leaked-and-unfortunately-it-looks-good/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-22T19:55:13.000Z",
+   "summary": "'Mass Effect: Universe' looks like it would have focused on a new protagonist and series favorite Liara T'Soni."
+  },
+  {
+   "id": "e2069d004185d4c4",
+   "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-22T19:45:00.000Z",
+   "summary": "Mars not depicted. | Image: Cath Virginia / The Verge, Getty Images Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to…"
+  },
+  {
+   "id": "534f07e84539bd5e",
+   "title": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
+   "url": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-22T19:44:51.000Z",
+   "summary": "It looks exactly like what you’d expect a Teenage Engineering guitar amp to look like. | Image: Teenage Engineering Teenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the…"
+  },
+  {
+   "id": "604cac81cdf7714d",
+   "title": "Meet the 2026 winner of Nikon's Small World photomicrography contest",
+   "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-22T19:34:40.000Z",
+   "summary": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper."
+  },
+  {
+   "id": "be962cb8b64d6e12",
+   "title": "Republican politicians have embraced anti-Indian racism — and it’s costing them votes",
+   "url": "https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-22T19:15:00.000Z",
+   "summary": "Two years ago, University of Houston student Vasant Bhatt was doing everything he could to help Republicans regain power. He knocked doors for Sen. Ted Cruz's reelection campaign and helped organize his community for Donald Trump, two victories he, like many other Republicans, celebrated in 2024…"
+  },
+  {
+   "id": "71bb6f1ecc44e57b",
+   "title": "A complete bypass of eMudhra’s 1FA OTP login system",
+   "url": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T19:14:01.000Z",
+   "summary": "85 points · 20 comments"
+  },
+  {
+   "id": "d570317e8be63c02",
+   "title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
+   "url": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-22T19:13:42.000Z",
+   "summary": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of British Columbia and…"
+  },
+  {
+   "id": "df41896d2791cd57",
+   "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+   "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-22T19:07:09.000Z",
+   "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
+  },
+  {
+   "id": "5f62d6d6aa81b3ea",
+   "title": "\"Disillusioned\" MAHA leader quits as Trump admin's food agenda spoils: Report",
+   "url": "https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-22T19:04:06.000Z",
+   "summary": "The departure comes amid turmoil in Kennedy's Make America Healthy Again movement."
+  },
+  {
+   "id": "ede155b9863afd29",
+   "title": "Electric or gas? BMW goes both ways with new 2027 X5 and iX5.",
+   "url": "https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-22T19:01:23.000Z",
+   "summary": "460 kW charging and 450 miles of range are among the reasons the EV is the one to get."
+  },
+  {
+   "id": "56d8a35909f7d0af",
+   "title": "2027 BMW iX5 first drive: You'll love the range, but maybe not the look",
+   "url": "https://www.engadget.com/2291166/2027-bmw-ix5-first-drive/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-22T19:01:00.000Z",
+   "summary": "BMW's latest EV will do over 450 miles on a charge and even close its own doors."
+  },
+  {
+   "id": "dcda7f17304ce9ea",
+   "title": "Build more responsive apps with the Decisions API",
+   "url": "https://openai.com/index/decisions-api",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-10-22T19:00:00.000Z",
+   "summary": "Fast, focused, low-cost decisions for any application."
+  },
+  {
+   "id": "06ddfd8e4db99c81",
+   "title": "Canva releases its first image generation model",
+   "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-22T19:00:00.000Z",
+   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+  },
+  {
+   "id": "ec88b46bf9ad073e",
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-22T19:00:00.000Z",
+   "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
+  },
+  {
+   "id": "0ba948dda836ff66",
+   "title": "Daft Punk is getting an official Lego set",
+   "url": "https://www.engadget.com/2294668/daft-punk-is-getting-an-official-lego-set/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-22T18:59:09.000Z",
+   "summary": "A fan-built model of the Alive tour pyramid got the green light to become a real product."
+  },
+  {
+   "id": "fed13ae1c7c46764",
+   "title": "Discord now formats Markdown previews right",
+   "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-22T18:58:19.000Z",
+   "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be…"
+  },
+  {
+   "id": "d6b88613ef3f67fc",
+   "title": "The Browser Company is officially killing Arc on December 22",
+   "url": "https://www.engadget.com/2294643/the-browser-company-is-officially-killing-arc-on-december-22/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-22T18:52:43.000Z",
+   "summary": "The organization is prioritizing an AI browser called Dia."
+  },
+  {
+   "id": "8f69385cd5b137ab",
+   "title": "Giant iPhone Duo Displays Coming to Four Apple Stores",
+   "url": "https://www.macrumors.com/2026/10/22/giant-iphone-duos-at-four-apple-stores/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-22T18:50:41.000Z",
+   "summary": "To celebrate the launch of the iPhone Duo this Friday, Apple has set up oversized iPhone Duo promotional displays at Apple Fifth Avenue in New York City, Apple Covent Garden in London, Apple BKC in India, and Apple Jing'an in Shanghai. The installations were already spotted under wraps, and Apple…"
+  },
+  {
+   "id": "0c8b9f480f8f85d1",
+   "title": "Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales",
+   "url": "https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-22T18:49:14.000Z",
+   "summary": "Searches for Samsung foldables just happened to skyrocket following iPhone Duo unveiling."
+  },
+  {
+   "id": "a8e682dfd947a48e",
+   "title": "The Foundations of Scalable AI",
+   "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+   "source": "MIT Tech Review",
+   "section": "ai",
+   "publishedAt": "2026-10-22T18:48:04.000Z",
+   "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and…"
+  },
+  {
+   "id": "9628964006e7591c",
+   "title": "Amazon unveils Kindle+ subscription, a rebrand with more audiobooks",
+   "url": "https://9to5mac.com/2026/10/22/amazon-unveils-kindle-subscription-a-rebrand-with-more-audiobooks/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-22T18:46:45.000Z",
+   "summary": "Today Amazon announced that its Kindle Unlimited subscription has been rebranded ‘Kindle+’ and includes more audiobooks than before. Here are the details. more…"
+  },
+  {
+   "id": "75a320f1d3ecf9a6",
+   "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+   "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T18:44:36.000Z",
+   "summary": "48 points · 13 comments"
+  },
+  {
+   "id": "88b53a9ef32a7212",
+   "title": "The new Fire TV Stick 4K is already half off",
+   "url": "https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-22T18:43:57.000Z",
+   "summary": "Despite being announced just a few weeks ago, both Amazon and Best Buy are now offering the latest Amazon Fire TV Stick 4K for 50 percent off, bringing the price down to an all-time low of $29.99. The most notable new feature is that the Fire TV Stick 4K no longer requires a separate power…"
+  },
+  {
+   "id": "67b8ca68a58b8d6a",
+   "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+   "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-22T18:43:53.000Z",
+   "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself."
+  },
+  {
+   "id": "5fe257d290d08222",
+   "title": "Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
+   "url": "https://3d.camilleworld.com/play/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T18:39:39.000Z",
+   "summary": "9 points · 1 comments"
+  },
+  {
+   "id": "9dc32d1c53e35850",
+   "title": "Refurbished PS5 consoles include second controller for an extra $18",
+   "url": "https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-22T18:38:50.000Z",
+   "summary": "A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished console that has the same one-year warranty? It’s a great time to consider one because…"
+  },
+  {
+   "id": "791403f8c8b57181",
+   "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+   "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-22T18:38:47.000Z",
+   "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks."
+  },
+  {
+   "id": "fb18f97d32cb177b",
+   "title": "Show HN: UI micro interactions prompts for AI",
+   "url": "https://www.typeui.sh/micro-interactions",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-22T18:32:57.000Z",
+   "summary": "42 points · 15 comments"
+  },
+  {
+   "id": "2a751ec15b0b0b54",
+   "title": "Delta can turn the iPhone Duo into your favorite folding handheld",
+   "url": "https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-22T18:30:00.000Z",
+   "summary": "The Duo has a Nintendo DS-like shape anyway, so Delta 2.0 is running with it. | Image: Riley Testut The Delta gaming emulator has been upgraded with a plethora of new goodies and support updates, which includes optimizing it for Apple's iPhone Duo. Delta 2.0 also introduces Sega Genesis games…"
+  },
+  {
+   "id": "a1843c14b71f232b",
+   "title": "US official: Russia's stalker satellite sure looks like an orbital weapon",
+   "url": "https://arstechnica.com/space/2026/10/russia-claims-its-stalker-satellite-is-purely-peaceful-in-character/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-22T18:29:39.000Z",
+   "summary": "The Russian official who called commercial satellites \"legitimate targets\" now says concerns are \"unfounded.\""
+  },
+  {
+   "id": "70636a011638ea92",
+   "title": "Award-Winning AI Literature",
+   "url": "https://jamesyu.org/award-winning-ai-literature/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-22T18:28:26.000Z",
+   "summary": "38 points · 24 comments"
+  },
+  {
+   "id": "5b23b08f0ed41ebd",
+   "title": "AI and the Enclosure of the Scientific Commons",
+   "url": "https://arxiv.org/abs/2610.27251",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-22T18:28:16.000Z",
+   "summary": "39 points · 12 comments"
+  },
+  {
+   "id": "72e6dd8369eda3ae",
+   "title": "Bluesky adds iPad support in latest feature update",
+   "url": "https://www.engadget.com/2294583/bluesky-adds-ipad-support-in-latest-feature-update/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-22T18:26:03.000Z",
+   "summary": "Profile links to third-party platforms have also arrived on the social network."
+  },
+  {
+   "id": "c3f73b58f39bf7aa",
+   "title": "Apple TV is adding two new features with iOS 27.2",
+   "url": "https://9to5mac.com/2026/10/22/apple-tv-is-adding-two-new-features-with-ios-27-2/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-22T18:16:52.000Z",
+   "summary": "iOS 27.2 is coming next week and brings two new features for Apple TV subscribers. Here’s what’s new. more…"
+  },
+  {
+   "id": "f49784ae2f912037",
+   "title": "Amazon rebrands Kindle Unlimited to Kindle+",
+   "url": "https://www.engadget.com/2294533/amazon-rebrands-kindle-unlimited-to-kindle/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-22T18:10:00.000Z",
+   "summary": "The service still offers a library of books, magazines and comics, and now includes a larger selection of audiobooks."
+  },
+  {
+   "id": "0e1010033c249124",
+   "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+   "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-22T18:02:54.000Z",
+   "summary": "42 points · 24 comments"
+  },
+  {
+   "id": "8ab6978a9917531d",
+   "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+   "url": "https://github.com/rbartoli/agent-usage-guard",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-22T18:02:38.000Z",
+   "summary": "13 points · 6 comments"
+  },
+  {
+   "id": "cf8abf4ed1ac19ba",
+   "title": "Unauthorized AI agents are reportedly already accessing US bank accounts",
+   "url": "https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-22T18:02:04.000Z",
+   "summary": "Sources at several banks have indicated that they have been taking actions independent of user instructions."
+  },
+  {
+   "id": "f189c66a1aae0a5c",
+   "title": "Apple Pulls Keynote, Pages and Numbers From App Store [Update: Back]",
+   "url": "https://www.macrumors.com/2026/10/22/apple-removes-iwork-apps-app-store/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-22T18:01:29.000Z",
+   "summary": "Apple has temporarily removed Keynote, Pages, and Numbers from the App Store, just after releasing an update that added iPhone Duo support and a new Intelligent Assistant. It is not clear if the apps were removed intentionally, or if it is a bug. Apple has not said when the apps will be reinstated…"
+  },
+  {
+   "id": "5da57bfa05c34ccc",
+   "title": "Orangetheory adds Apple Watch in-studio workout tracking for a one-time fee",
+   "url": "https://9to5mac.com/2026/10/22/orangetheory-adds-apple-watch-in-studio-workout-tracking-for-a-one-time-fee/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-22T17:48:26.000Z",
+   "summary": "Starting tomorrow, Orangetheory Fitness will allow members to connect the Apple Watch to the club’s proprietary in-studio performance-tracking experience. Using a personal Apple Watch with the Orangetheory system will require a one-time fee. more…"
+  },
+  {
+   "id": "2975ffa3320b9c23",
+   "title": "Pages, Keynote, Numbers just added powerful new AI features",
+   "url": "https://9to5mac.com/2026/10/22/pages-keynote-numbers-just-added-powerful-new-ai-features/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-10-22T17:44:43.000Z",
+   "summary": "Apple is rolling out AI-centric updates to its iWork suite—Pages, Keynote, Numbers—that include a brand new ‘Intelligent Assistant’ with powerful capabilities. Here’s what it can do. more…"
+  },
+  {
+   "id": "7cdc17c192517d2c",
+   "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+   "url": "https://github.com/NVIDIA/OpenShell",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-22T17:44:06.000Z",
+   "summary": "140 points · 69 comments"
+  },
+  {
+   "id": "24a34f5ebfc8882b",
+   "title": "Elon Musk made a $1 billion investment in Skydance, report says",
+   "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-22T17:36:38.000Z",
+   "summary": "The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price."
+  },
+  {
+   "id": "b7bd2c75a988ebdd",
+   "title": "Apple Updates More Apps With iPhone Duo Support",
+   "url": "https://www.macrumors.com/2026/10/22/apple-iphone-duo-apps-garageband/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-22T17:31:41.000Z",
+   "summary": "Apple today updated its TestFlight and GarageBand apps with support for the iPhone Duo's inner and outer displays. Both apps have the vertical toolbar and will now display properly on the ‌iPhone Duo‌ in any orientation. TestFlight functionality is largely the same with little benefit from the Duo…"
+  },
+  {
+   "id": "d7c8e93cbbd44910",
+   "title": "Arc browser gets a sunset date, and users have two months to move on",
+   "url": "https://9to5mac.com/2026/10/22/arc-browser-gets-a-sunset-date-and-users-have-two-months-to-move-on/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-22T17:28:58.000Z",
+   "summary": "The Browser Company announced plans to discontinue its flagship Arc browser in favor of a new browser project called Dia. Today, Arc received a sunset date that gives users exactly two months to move on from the discontinued app. more…"
+  },
+  {
+   "id": "632204aec0f05431",
+   "title": "1Password launches solution for safely using logins with AI agents",
+   "url": "https://9to5mac.com/2026/10/22/1password-launches-solution-for-safely-using-logins-with-ai-agents/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-10-22T17:15:01.000Z",
+   "summary": "1Password has been focused on building password management tools that make sense in the age of agentic AI. In July, the company launched a special integration with Claude. Today, 1Password is going further with the arrival of 1Password for Agents. more…"
+  },
+  {
+   "id": "f75a9f412c81cbf1",
+   "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
+   "url": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-22T17:04:31.000Z",
+   "summary": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen."
+  },
   {
    "id": "3f325a1526d3d39e",
    "title": "Arc browser is shutting down",
@@ -109,6 +622,15 @@
    "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
   },
   {
+   "id": "d07cc89c52462df2",
+   "title": "US-backed vaccine trial on babies canceled after international outcry",
+   "url": "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-22T16:37:00.000Z",
+   "summary": "The decried trial was canceled last week before police seized vaccine doses."
+  },
+  {
    "id": "14361fc343b89e93",
    "title": "Arc Is Sunsetting",
    "url": "https://arc.net/",
@@ -125,6 +647,15 @@
    "section": "tech",
    "publishedAt": "2026-10-22T16:22:50.000Z",
    "summary": "President Trump claimed that the Google CEO refused to rename the Atlantic Ocean in Maps."
+  },
+  {
+   "id": "3a934d90fbd2b8ef",
+   "title": "Mini brain organoids 'reading' Braille key step towards biohybrid computing",
+   "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T16:16:45.000Z",
+   "summary": "21 points · 12 comments"
   },
   {
    "id": "5c2b228868fd5f32",
@@ -199,6 +730,15 @@
    "summary": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide."
   },
   {
+   "id": "22e080741775eecc",
+   "title": "This emulator reimagines Nintendo’s Virtual Boy with a full color display",
+   "url": "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-22T15:59:40.000Z",
+   "summary": "Tile-based color palettes go way beyond the four shades of red on original hardware."
+  },
+  {
    "id": "e5eb7b111b172a33",
    "title": "PC shipments are in the toilet, plunging over 20 percent from last year",
    "url": "https://www.engadget.com/2294257/pc-shipments-are-in-the-toilet-plunging-over-20-percent-from-last-year/",
@@ -260,6 +800,15 @@
    "section": "tech",
    "publishedAt": "2026-10-22T15:26:22.000Z",
    "summary": "69 points · 28 comments"
+  },
+  {
+   "id": "fc411e13195d399e",
+   "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+   "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-22T15:25:02.000Z",
+   "summary": "Hackers were already probing the bug before defenders were told it existed."
   },
   {
    "id": "cd5c96e0cad0737c",
@@ -377,6 +926,15 @@
    "section": "tech",
    "publishedAt": "2026-10-22T14:26:40.000Z",
    "summary": "68 points · 16 comments"
+  },
+  {
+   "id": "a33dc085f6352bbf",
+   "title": "Sauron recruits his future Ringwraiths in Rings of Power S3 trailer",
+   "url": "https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-22T14:22:31.000Z",
+   "summary": "\"I will take my place as the conqueror, a sorcerer, a king.\""
   },
   {
    "id": "5527c6a804d827b7",
@@ -503,6 +1061,15 @@
    "section": "ai",
    "publishedAt": "2026-10-22T13:11:13.000Z",
    "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns."
+  },
+  {
+   "id": "ac50d075fd00e28e",
+   "title": "Woman faces six years in prison over Cash App account she never opened",
+   "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T13:11:00.000Z",
+   "summary": "224 points · 232 comments"
   },
   {
    "id": "3f4f058163032eee",
@@ -674,6 +1241,15 @@
    "section": "tech",
    "publishedAt": "2026-10-22T10:46:15.000Z",
    "summary": "Apple's second-generation iPhone Duo could gain Face ID, with prototypes already incorporating the technology beneath the outer display, according to Bloomberg's Mark Gurman. In the latest episode of his \"Power On\" podcast, Gurman described Apple's work on adding facial authentication technology to…"
+  },
+  {
+   "id": "cf2457bd3ac79311",
+   "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+   "url": "https://news.ycombinator.com/item?id=50193416",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T10:11:44.000Z",
+   "summary": "154 points · 48 comments"
   },
   {
    "id": "de0bc113c085359e",
@@ -2924,6 +3500,15 @@
    "section": "tech",
    "publishedAt": "2026-10-20T21:44:34.000Z",
    "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation."
+  },
+  {
+   "id": "416f4e3c225b2d44",
+   "title": "Show HN: Turn regular JavaScript into a neural net",
+   "url": "https://chenglou.me/handwired/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-20T21:32:23.000Z",
+   "summary": "17 points · 6 comments"
   },
   {
    "id": "2fe560a5bdc872ea",
@@ -46223,510 +46808,6 @@
    "section": "tech",
    "publishedAt": "2026-09-22T20:38:30.000Z",
    "summary": "Cities defend permit requirements, say ISPs aren't building networks fast enough."
-  },
-  {
-   "id": "50b027a65816a991",
-   "title": "Discord rolls out its revised age verification policy",
-   "url": "https://www.engadget.com/2265924/discord-rolls-out-its-revised-age-verification-policy/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-22T20:29:08.000Z",
-   "summary": "It will offer several privacy-focused options for users who aren't automatically confirmed as adults."
-  },
-  {
-   "id": "4eb8db5e8b56210e",
-   "title": "Apple retires the Apple Park Visitor Center’s unique AR experience",
-   "url": "https://9to5mac.com/2026/09/22/apple-retires-the-apple-park-visitor-centers-unique-ar-experience/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-22T20:27:07.000Z",
-   "summary": "Earlier this summer, Apple closed a portion of the Apple Park Visitor Center as it worked to “improve our store.” That space has now reopened, and the big change is that Apple has removed the augmented reality experience that let visitors use custom iPads to view Apple Park. more…"
-  },
-  {
-   "id": "51d0ae8bf48c1090",
-   "title": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
-   "url": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-22T20:14:54.000Z",
-   "summary": "The Kingdom of Saudi Arabia is mostly known for its global dominance over petroleum production and oil reserves - not necessarily cars and auto manufacturing, and certainly not electric vehicle production. So it was a little surprising on Monday when a Saudi startup called Ceer unveiled a pair of…"
-  },
-  {
-   "id": "3350fc6effafa708",
-   "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
-   "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-22T20:00:00.000Z",
-   "summary": "The 8 Elite Extreme Gen 6 and 8 Elite Gen 6 share most of their specs in common. | Image: Qualcomm Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively…"
-  },
-  {
-   "id": "ac6c4cac3981e73f",
-   "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
-   "url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-22T20:00:00.000Z",
-   "summary": "You couldn’t accuse Motorola of designing a boring phone. | Image: Motorola Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still…"
-  },
-  {
-   "id": "03800f2f2be4347c",
-   "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-   "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-22T20:00:00.000Z",
-   "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
-  },
-  {
-   "id": "d28d1484129bd448",
-   "title": "How to set up 5.1 surround sound system for your Xbox",
-   "url": "https://www.engadget.com/2264279/how-to-set-up-xbox-5-1-surround-sound-system/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-22T20:00:00.000Z",
-   "summary": "Your Xbox is surround-sound capable, and it's easy to enjoy 5.1 or even 7.1 immersive sound for your favorite titles."
-  },
-  {
-   "id": "e394ffdd60a2a132",
-   "title": "Motorola's new Signature 27 is among the first smartphone to use the Snapdragon 8 Elite Extreme Gen 6 processor",
-   "url": "https://www.engadget.com/2265564/motorolas-new-signature-27-is-among-the-first-smartphone-to-use-the-snapdragon-8-elite-extreme-gen-6-processor/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-22T20:00:00.000Z",
-   "summary": "Not bad for a quick refresh."
-  },
-  {
-   "id": "5ec06168c4863e5b",
-   "title": "Qualcomm is making not one but two versions of its flagship Snapdragon 8 Elite Gen 6 chip",
-   "url": "https://www.engadget.com/2265628/qualcomm-is-making-not-one-but-two-versions-of-its-flagship-snapdragon-8-elite-gen-6-chip/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-22T20:00:00.000Z",
-   "summary": "That video capture is nothing to sneeze at."
-  },
-  {
-   "id": "7fa5e5d1241dd988",
-   "title": "The JavaScript Midlife Crisis",
-   "url": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T19:58:47.000Z",
-   "summary": "14 points · 5 comments"
-  },
-  {
-   "id": "990b5c64d17ad5ce",
-   "title": "Apple TV: ‘The Sisters Grimm’ gets season 2 trailer ahead of October premiere",
-   "url": "https://9to5mac.com/2026/09/22/apple-tv-the-sisters-grimm-gets-season-2-trailer-ahead-of-october-premiere/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-22T19:55:56.000Z",
-   "summary": "Apple TV today unveiled the trailer for the upcoming second season of its animated adventure series “The Sisters Grimm.” Watch it below. more…"
-  },
-  {
-   "id": "a8021f3ecf4b5d95",
-   "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
-   "url": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-22T19:48:08.000Z",
-   "summary": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earlier this month, would be \"available\" on older…"
-  },
-  {
-   "id": "50758a1de87c079a",
-   "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-   "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-   "source": "Ars Technica",
-   "section": "ai",
-   "publishedAt": "2026-09-22T19:45:47.000Z",
-   "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier."
-  },
-  {
-   "id": "93229aae0a48ee53",
-   "title": "Apple Park Visitor Center Just Lost an Attraction Offered Since 2017",
-   "url": "https://www.macrumors.com/2026/09/22/apple-park-visitor-center-loses-exhibition/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-22T19:42:26.000Z",
-   "summary": "Following renovations, the Apple Park Visitor Center in Cupertino, California no longer features a 3D augmented reality model of the Apple Park campus. The area that housed the 3D model, which was called the Exhibition Space, now has wall-mounted shelves known as \"Avenues\" and new, rounder tables…"
-  },
-  {
-   "id": "ee4e3285a26df8cc",
-   "title": "Native apps written in TypeScript and CSS",
-   "url": "https://github.com/geastack/examples",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T19:42:20.000Z",
-   "summary": "38 points · 7 comments"
-  },
-  {
-   "id": "77c37ca8fb6958a7",
-   "title": "Shazam App for iPhone Updated With New Icon and iMessage Stickers",
-   "url": "https://www.macrumors.com/2026/09/22/shazam-app-new-icon-and-stickers/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-22T19:40:52.000Z",
-   "summary": "Apple today updated the Shazam app for iOS with an ever so slightly frostier app icon and a new set of iMessage stickers. Tag: Shazam This article, \"Shazam App for iPhone Updated With New Icon and iMessage Stickers\" first appeared on MacRumors.com Discuss this article in our forums"
-  },
-  {
-   "id": "6b17aa1de8805eb1",
-   "title": "Obscura: VPN that can't log your activity",
-   "url": "https://obscura.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T19:40:28.000Z",
-   "summary": "99 points · 84 comments"
-  },
-  {
-   "id": "85e9894d2f4347ad",
-   "title": "Apple Photos in iOS 27 gets camera roll feature it’s long needed",
-   "url": "https://9to5mac.com/2026/09/22/apple-photos-in-ios-27-gets-camera-roll-feature-its-long-needed/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-22T19:39:42.000Z",
-   "summary": "iOS 27 is a big update for Apple’s Photos app, with improvements to slideshows, shared albums, and more. It also adds a welcome camera roll-type feature many have long been asking for: ‘Captured by Me.’ more…"
-  },
-  {
-   "id": "1d3c6be29a52422b",
-   "title": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy",
-   "url": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-22T19:28:55.000Z",
-   "summary": "An early look at the first set of Googlebooks The Android-powered Googlebooks are coming soon, with familiar brands and specs that rival Windows Copilot machines. For anyone eager to get their hands on any the new laptops, there’s a preorder perk you may want to know about lasting until October…"
-  },
-  {
-   "id": "e1481aaf0c087533",
-   "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-   "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
-   "source": "Ars Technica",
-   "section": "ai",
-   "publishedAt": "2026-09-22T19:28:23.000Z",
-   "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs."
-  },
-  {
-   "id": "972734432079fea7",
-   "title": "Apple could take on Whoop with a new fitness tracker, report says",
-   "url": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-22T19:27:57.000Z",
-   "summary": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices."
-  },
-  {
-   "id": "8c68a8313cd81ee5",
-   "title": "A Faster Shortest Path Algorithm",
-   "url": "https://www.vals.ai/blogs/faster-shortest-path-algorithm",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T19:24:58.000Z",
-   "summary": "25 points · 5 comments"
-  },
-  {
-   "id": "a042f59c423101e7",
-   "title": "Anthropic Launches Claude Opus 5.5 With Fable-Level Performance at a Lower Price",
-   "url": "https://www.macrumors.com/2026/09/22/anthropic-claude-opus-5-5/",
-   "source": "MacRumors",
-   "section": "ai",
-   "publishedAt": "2026-09-22T19:23:31.000Z",
-   "summary": "Anthropic today launched Claude Opus 5.5, which it says is the first model in a new 5.5 model family. Opus 5.5 performs at the level of Claude Fable 5.1 on most work, but costs 40 percent less to run than Opus 5. According to Anthropic, Opus 5.5 is a \"major step up\" from Opus 5 with improvements in…"
-  },
-  {
-   "id": "266360c3bfbe5495",
-   "title": "Anthropic and OpenAI announce more powerful (and cheaper) AI models",
-   "url": "https://www.engadget.com/2265801/anthropic-and-openai-announce-more-powerful-and-cheaper-ai-models/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-09-22T19:11:11.000Z",
-   "summary": "I thought we were supposed to be slowing down the frontier."
-  },
-  {
-   "id": "938475c27e35ae60",
-   "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-   "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-22T19:09:11.000Z",
-   "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content."
-  },
-  {
-   "id": "607fa414a4773992",
-   "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
-   "url": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-22T19:08:58.000Z",
-   "summary": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra."
-  },
-  {
-   "id": "226cc46509dbcd8e",
-   "title": "These were the best Apple accessories I found at IFA Berlin 2026",
-   "url": "https://9to5mac.com/2026/09/22/these-were-the-best-apple-accessories-i-found-at-ifa-berlin-2026/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-22T19:08:45.000Z",
-   "summary": "9to5Mac is brought to you by Memoket: The Memoket Gem is an 11g AI wearable that slots beside your Apple Watch in a co-wear band. Press once to capture a conversation, and Gem connects it to what you discussed weeks ago — surfacing the earlier thread with a source link. From $179, shipping now…"
-  },
-  {
-   "id": "81f29d15af43562f",
-   "title": "The Curious Power of Punctuation",
-   "url": "https://www.newyorker.com/magazine/2026/09/28/on-the-mark-louis-menand-book-review",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T19:02:37.000Z",
-   "summary": "7 points · 1 comments"
-  },
-  {
-   "id": "62467d20aba33de9",
-   "title": "Apple has reportedly ‘postponed’ AI pendant product",
-   "url": "https://9to5mac.com/2026/09/22/apple-has-reportedly-postponed-ai-pendant-product/",
-   "source": "9to5Mac",
-   "section": "ai",
-   "publishedAt": "2026-09-22T19:01:44.000Z",
-   "summary": "Apple launched arguably its first AI wearables last week with Apple Watch Series 12 and Ultra 4, which are gaining new ‘Audio Intelligence’ features alongside Siri AI. But today a Bloomberg report says a different AI product—the rumored wearable pendant—has been put on hold. more…"
-  },
-  {
-   "id": "519026d32562298d",
-   "title": "SAML: A Fractal of Bad Design",
-   "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T18:57:17.000Z",
-   "summary": "84 points · 32 comments"
-  },
-  {
-   "id": "63339190ff211dbc",
-   "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
-   "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-22T18:40:30.000Z",
-   "summary": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government."
-  },
-  {
-   "id": "c4727d0ec7a1fa87",
-   "title": "How to use Google's Find Hub to locate your Android phone",
-   "url": "https://www.engadget.com/2261944/how-to-use-google-find-hub-locate-android-phone/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-22T18:30:00.000Z",
-   "summary": "Is your Android phone missing? Here's how you can use Find Hub to look for it."
-  },
-  {
-   "id": "47f3ca2e99a69390",
-   "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
-   "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-22T18:24:34.000Z",
-   "summary": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program."
-  },
-  {
-   "id": "e77d48b25016fa23",
-   "title": "Enjoy Every Sandwich",
-   "url": "https://bradmontague.substack.com/p/enjoy-every-sandwich",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T18:19:25.000Z",
-   "summary": "138 points · 58 comments"
-  },
-  {
-   "id": "c43407d232f8f6d0",
-   "title": "Unreal Agent",
-   "url": "https://unreallabs.ai/blog/unreal-agent/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T18:15:53.000Z",
-   "summary": "66 points · 42 comments"
-  },
-  {
-   "id": "75a4557870a743b1",
-   "title": "Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad",
-   "url": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-22T18:10:57.000Z",
-   "summary": "A rare discount on Apple’s dark color keyboard. | Image: The Verge Until the end of the day on September 22nd, 2026, Best Buy and Amazon have the black Apple Magic Keyboard on sale for $169.99, a $30 discount from the usual price. This is the souped-up version of Apple’s full-size, wireless…"
-  },
-  {
-   "id": "4dadfd93137c8e40",
-   "title": "An update on how we confirm your age group on Discord",
-   "url": "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T18:10:31.000Z",
-   "summary": "54 points · 9 comments"
-  },
-  {
-   "id": "cbebdb15b82126f1",
-   "title": "Apple Releases Firmware Update for Beats 360",
-   "url": "https://www.macrumors.com/2026/09/22/apple-beats-360-firmware-update/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-22T18:05:40.000Z",
-   "summary": "Apple today released a firmware update for the Beats 360 over-ear headphones, so customers ordering the headphones will have new software available when they arrive. The firmware has a 4A262 version number, up from the prior 4A260 firmware. We don't know what's included in the firmware update, but…"
-  },
-  {
-   "id": "8334a6251f425847",
-   "title": "OpenAI upgrading ChatGPT and Codex with two more GPT-6 models",
-   "url": "https://9to5mac.com/2026/09/22/openai-upgrading-chatgpt-and-codex-with-two-more-gpt-6-models/",
-   "source": "9to5Mac",
-   "section": "ai",
-   "publishedAt": "2026-09-22T18:02:45.000Z",
-   "summary": "Earlier this month, OpenAI released the first GPT-6 model with Astra. Now GPT-6 is expanding with new GPT-6 Sol and GPT-6 Luna models. more…"
-  },
-  {
-   "id": "4a2296303aa15e75",
-   "title": "Introducing GPT-6 Sol and Luna",
-   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-22T18:00:00.000Z",
-   "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
-  },
-  {
-   "id": "b6a6a5f9f04b5419",
-   "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-   "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-22T18:00:00.000Z",
-   "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
-  },
-  {
-   "id": "cd143681b13f8263",
-   "title": "How far away should you sit from your computer monitor or laptop?",
-   "url": "https://www.engadget.com/2264095/how-far-you-should-sit-from-computer-monitor-laptop/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-22T18:00:00.000Z",
-   "summary": "Don't have your monitor sitting just anywhere; the distance, tilt and angles are all important to avoid strain while working."
-  },
-  {
-   "id": "3fa27dcdbb94f8c7",
-   "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
-   "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T17:49:46.000Z",
-   "summary": "103 points · 37 comments"
-  },
-  {
-   "id": "e742e13c686c3712",
-   "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-   "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T17:46:02.000Z",
-   "summary": "126 points · 74 comments"
-  },
-  {
-   "id": "8f487966215ae2db",
-   "title": "San Francisco sues Trump Media for selling early access to Trump posts",
-   "url": "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-22T17:43:50.000Z",
-   "summary": "San Francisco is suing the Trump Media & Technology Group, the parent company behind Truth Social, for selling early access to President Donald Trump's posts on the social media site. The lawsuit, filed today in California state court, alleges that the Truth API feed is a \"corrupt business scheme\"…"
-  },
-  {
-   "id": "e0dba6fd7c026553",
-   "title": "Beats 360 Pre-Orders Open at Amazon With Cushion Kits on Sale, Plus More Beats Deals",
-   "url": "https://www.macrumors.com/2026/09/22/beats-360-pre-orders-open-amazon/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-22T17:40:24.000Z",
-   "summary": "The new Beats 360 headphones were announced today, and can be pre-ordered on Amazon ahead of their launch on Thursday. They're available in Black, Cloud, plus a bundle where you can style the headphones however you'd like thanks to interchangeable ear cushions and headbands. Note: MacRumors is an…"
-  },
-  {
-   "id": "5fe210a068ac3fb4",
-   "title": "iPhone 18 Pro’s best Dynamic Island feature is one Apple barely mentioned",
-   "url": "https://9to5mac.com/2026/09/22/iphone-18-pros-best-dynamic-island-feature-is-one-apple-barely-mentioned/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-22T17:40:08.000Z",
-   "summary": "iPhone 18 Pro is here (read our review), and its Dynamic Island is better than ever. My personal favorite change is something Apple barely mentioned: an improved dual Live Activity mode. more…"
-  },
-  {
-   "id": "6142f5d7d247db66",
-   "title": "Waymo’s latest expansion strategy: teenagers",
-   "url": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-22T17:36:06.000Z",
-   "summary": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city the offer rides to minors."
-  },
-  {
-   "id": "db82c9140fa90956",
-   "title": "Review: Resident Evil is the fresh take this flagging franchise really needed",
-   "url": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-22T17:30:07.000Z",
-   "summary": "Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore."
-  },
-  {
-   "id": "ccc3002e43b3c652",
-   "title": "The latest PlayStation update made PSSR 2.0 the default for PS5 Pro owners",
-   "url": "https://www.engadget.com/2263887/playstation-update-made-pssr-2-0-default-ps5-pro/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-22T17:30:00.000Z",
-   "summary": "Your PS5 Pro will now automatically make supported games look even better without you having to dig into menus for an obscure toggle."
-  },
-  {
-   "id": "2b0e0b8bac4cf589",
-   "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
-   "url": "https://www.coveragecat.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T17:26:36.000Z",
-   "summary": "7 points · 3 comments"
-  },
-  {
-   "id": "f30477968c467713",
-   "title": "Apple Puts AirTag-Sized AI Pin on Hold",
-   "url": "https://www.macrumors.com/2026/09/22/apple-pauses-ai-pin-development/",
-   "source": "MacRumors",
-   "section": "ai",
-   "publishedAt": "2026-09-22T17:23:42.000Z",
-   "summary": "Apple has paused development on a camera-equipped AI wearable, reports Bloomberg. The device was described as a pin or pendant that could be attached to clothing or worn around the neck. A camera would relay information about the wearer's surroundings to Siri, like the rumored AirPods with cameras…"
-  },
-  {
-   "id": "fa37648f461f2403",
-   "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
-   "url": "https://grapheneos.social/@GrapheneOS/117299954135808210",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T17:12:51.000Z",
-   "summary": "23 points · 4 comments"
-  },
-  {
-   "id": "06a2099aef4cdf31",
-   "title": "Beats 360 Ear Cushion Kits Just $9.99 Each Until the End of October",
-   "url": "https://www.macrumors.com/2026/09/22/beats-360-ear-cushions-special-pricing/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-22T17:11:31.000Z",
-   "summary": "Apple today unveiled new Beats 360 over-ear headphones, and it is offering introductory pricing on extra ear cushions. Performance Knit and UltraPlush ear cushions with matching headbands in a variety of colors are available on Apple's online store in the U.S. for just $9.99 each, with customers…"
-  },
-  {
-   "id": "37bafd3ad9afb2ed",
-   "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-   "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-22T17:06:16.000Z",
-   "summary": "Toyota's push comes as automakers race to develop and deploy humanoid robots."
-  },
-  {
-   "id": "afd10834625372b4",
-   "title": "Apple is reportedly working on a Whoop-like fitness tracker",
-   "url": "https://www.theverge.com/gadgets/998902/apple-whoop-fitness-tracker",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-22T17:04:52.000Z",
-   "summary": "The Whoop MG fitness band. | Photo by Amelia Holowaty Krales / The Verge Apple is working on a new fitness tracker with a screenless design, similar to the one made by Whoop, according to a report from Bloomberg. A prototype of the device reportedly has \"a thin fabric band with a sensor-equipped…"
   }
  ]
 }
