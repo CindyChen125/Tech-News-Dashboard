@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-22T00:38:20.922Z",
+ "updatedAt": "2026-10-22T06:03:15.308Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1311
+   "count": 1312
   },
   {
    "name": "Google DeepMind",
@@ -81,6 +81,96 @@
   }
  ],
  "items": [
+  {
+   "id": "b35d26f440eb238d",
+   "title": "Fortnite Returning to Australian App Store After Court Ruling",
+   "url": "https://www.macrumors.com/2026/10/22/fortnite-returning-to-australian-app-store/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-22T05:55:06.000Z",
+   "summary": "Fortnite will return to Australia's App Store today, Epic Games told Reuters, after a federal court ordered Apple to allow eligible Epic apps back onto the store. returned to the App Store worldwide in May. Epic held off while seeking further court orders addressing Apple's payment terms. The…"
+  },
+  {
+   "id": "072b20785752e183",
+   "title": "Apple Ordered to Open iPhone to Rival App Stores in Australia",
+   "url": "https://www.macrumors.com/2026/10/22/rival-app-stores-in-australia-ordered/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-22T05:41:09.000Z",
+   "summary": "Australia's Federal Court today ordered Apple to allow competing app stores, direct app downloads, and alternative payment services for Australian users from March 1, 2027. The orders follow the court's August 2025 finding that Apple misused its market power by restricting app distribution and…"
+  },
+  {
+   "id": "bbe87bdb27b28a47",
+   "title": "Apple Suppliers Face Hurdles Cutting Circuit Board Emissions",
+   "url": "https://www.macrumors.com/2026/10/22/apple-hurdles-cutting-circuit-board-emissions/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-22T05:15:09.000Z",
+   "summary": "Apple's efforts to cut supply chain emissions face persistent challenges among printed circuit board manufacturers, where demand for more advanced components is increasing energy consumption, according to DigiTimes. The report says requirements from Apple and Google are prompting suppliers to…"
+  },
+  {
+   "id": "a1a7698a9a7d3f08",
+   "title": "Things Updated for iPhone Duo With Adaptive Layout",
+   "url": "https://www.macrumors.com/2026/10/22/things-updated-for-iphone-duo/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-22T04:52:10.000Z",
+   "summary": "Cultured Code has updated its task management app Things with support for the iPhone Duo, introducing an adaptive layout, a sidebar, and multi-window support ahead of the device's launch on Friday. The app's interface adjusts to the ‌iPhone Duo‌'s different configurations, including when it is…"
+  },
+  {
+   "id": "ef3abac646ad5b06",
+   "title": "Simplicity and Siri AI Are HomeView's Killer Features, Apple Says",
+   "url": "https://www.macrumors.com/2026/10/22/simplicity-and-siri-ai-homeview-killer-features/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-10-22T04:28:25.000Z",
+   "summary": "Apple designed Siri AI on the HomeView to complete household tasks with natural voice commands and minimal follow-up questions, executives told The Verge, emphasizing simplicity as a key feature of the new home hub. In an new interview, Kaiann Drance, Apple's vice president of product marketing for…"
+  },
+  {
+   "id": "598479a0c5b3924c",
+   "title": "Apple must open iPhone to alternative app stores in Australia after Epic Games ruling",
+   "url": "https://9to5mac.com/2026/10/21/apple-must-open-iphone-to-alternative-app-stores-in-australia-after-epic-games-ruling/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-22T03:57:58.000Z",
+   "summary": "An Australian federal judge has ordered Apple to make sweeping changes to its App Store rules following a years-long antitrust battle with Epic Games. Apple has confirmed that it plans to appeal. Here are the details. more…"
+  },
+  {
+   "id": "0f8f8f2f4139bf8f",
+   "title": "I can't believe PowerShell is good",
+   "url": "https://www.spacebar.news/powershell-is-actually-good/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T03:47:37.000Z",
+   "summary": "41 points · 26 comments"
+  },
+  {
+   "id": "af487712c00b8d7a",
+   "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+   "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T02:30:52.000Z",
+   "summary": "104 points · 63 comments"
+  },
+  {
+   "id": "7dbfe492701278ba",
+   "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+   "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T02:18:41.000Z",
+   "summary": "40 points · 12 comments"
+  },
+  {
+   "id": "ab0e7329e04df8a1",
+   "title": "LLM agents play Pokemon showdown",
+   "url": "https://olivergrabner.com/research/pokemon/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-22T02:13:48.000Z",
+   "summary": "25 points · 14 comments"
+  },
   {
    "id": "e8142a0f7308488e",
    "title": "Tesla says it will start selling Cybercabs by end of year",
@@ -973,6 +1063,15 @@
    "summary": "\"We have had significant constructive engagement with the FAA.\""
   },
   {
+   "id": "0bc97294f9f28a10",
+   "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+   "url": "https://github.com/omnara-ai/omnara",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-21T16:44:53.000Z",
+   "summary": "54 points · 15 comments"
+  },
+  {
    "id": "b362aaabdfc15d40",
    "title": "Rust off Rails: The opinionated web stack for the AI era",
    "url": "https://rustoffrails.org/",
@@ -1720,6 +1819,15 @@
    "summary": "10 points · 2 comments"
   },
   {
+   "id": "a398133f8572e96c",
+   "title": "Using LLM for confidence scoring is a bad idea",
+   "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-21T04:27:51.000Z",
+   "summary": "45 points · 28 comments"
+  },
+  {
    "id": "c6586e840fbf1993",
    "title": "WhatsApp Developing In-App Browser for All Chat Links on iPhone",
    "url": "https://www.macrumors.com/2026/10/21/whatsapp-developing-browser-for-chat-links/",
@@ -1882,6 +1990,15 @@
    "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions."
   },
   {
+   "id": "fb44a447d7826e47",
+   "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+   "url": "https://openai.com/index/cloudflare-cyber",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-10-21T00:00:00.000Z",
+   "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
+  },
+  {
    "id": "ab6d2963931b2161",
    "title": "Apple Seeks 6G Modem Engineers as It Plans for Post-5G iPhones",
    "url": "https://www.macrumors.com/2026/10/20/apple-6g-research-continues/",
@@ -1961,6 +2078,15 @@
    "section": "tech",
    "publishedAt": "2026-10-20T22:57:57.000Z",
    "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors."
+  },
+  {
+   "id": "2909c9f58cba1591",
+   "title": "PingCap TiDB Leaks",
+   "url": "https://fulcrumsec.vg/pingcap/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T22:45:39.000Z",
+   "summary": "284 points · 42 comments"
   },
   {
    "id": "4a69a49415be6226",
@@ -3007,6 +3133,15 @@
    "summary": "11 points · 0 comments"
   },
   {
+   "id": "43f055891a801992",
+   "title": "Beyond the &",
+   "url": "https://lwn.net/Articles/1096028/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T13:59:11.000Z",
+   "summary": "40 points · 2 comments"
+  },
+  {
    "id": "90f33ebc177b7a3d",
    "title": "EMudhra Intermediate CA Compromise",
    "url": "https://emudhra.we-have-a-problem.com/",
@@ -3565,6 +3700,15 @@
    "summary": "14 points · 1 comments"
   },
   {
+   "id": "105dca268467031d",
+   "title": "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",
+   "url": "https://www.jhiblog.org/2026/10/19/clockwork-metaphors/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T03:25:47.000Z",
+   "summary": "7 points · 0 comments"
+  },
+  {
    "id": "660b199e73e5b48b",
    "title": "Go will reject certificate chains containing eight distrusted SPKIs",
    "url": "https://github.com/golang/go/issues/82345",
@@ -3608,6 +3752,15 @@
    "section": "ai",
    "publishedAt": "2026-10-20T01:27:03.000Z",
    "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
+  },
+  {
+   "id": "835a28000c330d61",
+   "title": "What Is the Karakoram Anomaly?",
+   "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T01:26:53.000Z",
+   "summary": "12 points · 2 comments"
   },
   {
    "id": "348ad5c0d251e5fd",
@@ -46988,114 +47141,6 @@
    "section": "tech",
    "publishedAt": "2026-09-22T06:08:39.000Z",
    "summary": "27 points · 0 comments"
-  },
-  {
-   "id": "57fff5045c9e184f",
-   "title": "Morphotonics raises €40M to expand its display tech into data centers",
-   "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-22T06:00:00.000Z",
-   "summary": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL."
-  },
-  {
-   "id": "22d8c4b01638ccd0",
-   "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
-   "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
-   "source": "Apple Newsroom",
-   "section": "tech",
-   "publishedAt": "2026-09-22T05:59:58.127Z",
-   "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open."
-  },
-  {
-   "id": "a06142a45cb25c1e",
-   "title": "Apple Music to open concert venue in Battersea Power Station",
-   "url": "https://www.bbc.com/news/articles/c607l2j2rj8ro",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T05:32:55.000Z",
-   "summary": "49 points · 40 comments"
-  },
-  {
-   "id": "15236a61f088ada6",
-   "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-   "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T04:02:09.000Z",
-   "summary": "26 points · 6 comments"
-  },
-  {
-   "id": "9f51e206ea4e3bab",
-   "title": "What California is learning from solar panels built over irrigation canals",
-   "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T03:10:05.000Z",
-   "summary": "35 points · 23 comments"
-  },
-  {
-   "id": "c69096168e34b95c",
-   "title": "The \"Windows XP Box\" (2003)",
-   "url": "https://www.mini-itx.com/projects/windowsxpbox/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T03:09:04.000Z",
-   "summary": "30 points · 3 comments"
-  },
-  {
-   "id": "cd7679a1c135b184",
-   "title": "Side-stepping the Secretary Problem, unwittingly",
-   "url": "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T02:47:52.000Z",
-   "summary": "67 points · 11 comments"
-  },
-  {
-   "id": "a9da910cc6045d6d",
-   "title": "watchOS 27.2 beta 2 brings the App Switcher back with a new gesture",
-   "url": "https://9to5mac.com/2026/09/21/watchos-27-2-beta-2-brings-the-app-switcher-back-with-a-new-gesture/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-22T02:07:14.000Z",
-   "summary": "If you’ve been missing the double-click of the Digital Crown that used to bring up the App Switcher on the Apple Watch before watchOS 27, it looks like the feature is making a comeback as of watchOS 27.2 beta 2. Here are the details. more…"
-  },
-  {
-   "id": "2f46479c5a663b2b",
-   "title": "Apple challenges OpenAI’s forensic analysis in trade secrets case, seeks access to hardware R&D",
-   "url": "https://9to5mac.com/2026/09/21/apple-challenges-openais-forensic-analysis-in-trade-secrets-case-seeks-access-to-hardware-rd/",
-   "source": "9to5Mac",
-   "section": "ai",
-   "publishedAt": "2026-09-22T01:37:18.000Z",
-   "summary": "Apple has asked the court overseeing its lawsuit against OpenAI and other defendants to let its own experts review forensic images used in the case, while also seeking documents related to parts of OpenAI’s hardware R&D. Here are the details. more…"
-  },
-  {
-   "id": "f6c7c6e173880b56",
-   "title": "People hooked on vapes try a new way to quit: cigarettes",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T01:21:20.000Z",
-   "summary": "52 points · 48 comments"
-  },
-  {
-   "id": "8c3f427040a53b1d",
-   "title": "Making portable my unportable transputer C compiler",
-   "url": "https://nanochess.org/transputer_c_compiler.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T01:07:46.000Z",
-   "summary": "25 points · 3 comments"
-  },
-  {
-   "id": "c775cce7e0568a17",
-   "title": "Claude Status – Elevated errors for multiple models",
-   "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-22T01:05:19.000Z",
-   "summary": "42 points · 20 comments"
   }
  ]
 }
