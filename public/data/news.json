@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T06:03:15.308Z",
+ "updatedAt": "2026-10-22T11:42:30.844Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,150 @@
  ],
  "items": [
   {
+   "id": "f390391ca414ab35",
+   "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+   "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T11:12:37.000Z",
+   "summary": "21 points · 0 comments"
+  },
+  {
+   "id": "7e68029ea3c1b128",
+   "title": "Giant iPhone Duo Installations Spotted at Apple Fifth Avenue",
+   "url": "https://www.macrumors.com/2026/10/22/giant-iphone-duo-apple-fifth-avenue/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-22T11:02:36.000Z",
+   "summary": "Apple is preparing what appear to be giant iPhone Duo displays outside its Fifth Avenue store in New York ahead of the device's launch on Friday, October 23. Photos from users on X show the structures on the plaza beside the glass cube. Their designs are hidden by wrapping and black covers, so it…"
+  },
+  {
+   "id": "56ffbba453402fd6",
+   "title": "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+   "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-22T11:00:00.000Z",
+   "summary": "The Eiliko robot toy. | Photo by Sean Hollister / The Verge Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of…"
+  },
+  {
+   "id": "f532ef6c4c5e48fe",
+   "title": "iPhone Duo 2 Prototypes Include Under-Display Face ID",
+   "url": "https://www.macrumors.com/2026/10/22/iphone-duo-2-prototypes-under-display-face-id/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-22T10:46:15.000Z",
+   "summary": "Apple's second-generation iPhone Duo could gain Face ID, with prototypes already incorporating the technology beneath the outer display, according to Bloomberg's Mark Gurman. In the latest episode of his \"Power On\" podcast, Gurman described Apple's work on adding facial authentication technology to…"
+  },
+  {
+   "id": "de0bc113c085359e",
+   "title": "Making the case for context-aware AI",
+   "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+   "source": "MIT Tech Review",
+   "section": "ai",
+   "publishedAt": "2026-10-22T10:00:00.000Z",
+   "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As…"
+  },
+  {
+   "id": "cc928d6130737007",
+   "title": "Gurman: iPhone Duo 2 prototypes with Face ID are already being tested inside Apple",
+   "url": "https://9to5mac.com/2026/10/22/gurman-iphone-duo-2-face-id/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-22T09:56:28.000Z",
+   "summary": "The iPhone Duo comes out tomorrow but, given the strong pre-order demand, it is already looking to be a smash hit. And we are all expecting Apple to follow up with a second-generation model next fall, which means the company has to be already working on the next-gen hardware. On his Power On…"
+  },
+  {
+   "id": "4a216c34fbf7e8ef",
+   "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+   "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T09:31:18.000Z",
+   "summary": "55 points · 10 comments"
+  },
+  {
+   "id": "277956a3a905e2d4",
+   "title": "Security Bite Podcast: Who is your AI agent really working for?",
+   "url": "https://9to5mac.com/2026/10/22/security-bite-podcast-who-is-your-ai-agent-really-working-for/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-10-22T09:00:00.000Z",
+   "summary": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated…"
+  },
+  {
+   "id": "d29aeae05fd5eed5",
+   "title": "Tesla plans to start selling Cybercabs by the end of the year",
+   "url": "https://www.engadget.com/2293810/tesla-plans-selling-cybercabs-by-end-of-2026/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-22T08:52:48.000Z",
+   "summary": "Tesla wants to sell Cybercabs to other transport companies before the year ends."
+  },
+  {
+   "id": "8db6658fe362f42b",
+   "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+   "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T08:51:31.000Z",
+   "summary": "161 points · 39 comments"
+  },
+  {
+   "id": "607ca83f8490f366",
+   "title": "AI’s hidden storage bill: What inference leaves behind",
+   "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+   "source": "MIT Tech Review",
+   "section": "ai",
+   "publishedAt": "2026-10-22T08:41:18.000Z",
+   "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from…"
+  },
+  {
+   "id": "0a8e4b3cdcb555e0",
+   "title": "Fortnite is coming back to Apple's Australian App Store following court ruling",
+   "url": "https://www.engadget.com/2293801/fortnite-is-back-on-apple-australian-app-store-following-court-ruling/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-22T08:18:58.000Z",
+   "summary": "Fortnite is back on the App Store in Australia after a federal court ordered Apple to open its iOS ecosystem up to competition."
+  },
+  {
+   "id": "b69ed433fdeb43db",
+   "title": "Jailbreaking the Switch 2",
+   "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T08:01:52.000Z",
+   "summary": "48 points · 6 comments"
+  },
+  {
+   "id": "b600f6ebddd768f5",
+   "title": "Ensemble forecasting with IBM Granite time-series models",
+   "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-10-22T07:51:31.000Z",
+   "summary": ""
+  },
+  {
+   "id": "88290d2f79f576b8",
+   "title": "Tesla App Gains iPad and iPhone Duo Support",
+   "url": "https://www.macrumors.com/2026/10/22/tesla-app-gains-ipad-and-iphone-duo-support/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-22T06:48:11.000Z",
+   "summary": "Tesla this week updated its app with native iPad and iPhone Duo support, adapting its vehicle and home energy controls for larger displays. Previously, ‌iPad‌ users could install the iPhone app, but it lacked native support with a layout designed for the larger screen. The new interface essentially…"
+  },
+  {
+   "id": "d8a590181660b688",
+   "title": "Apple Reportedly Boosts iPhone Duo Orders by 44%",
+   "url": "https://www.macrumors.com/2026/10/22/apple-boosts-iphone-duo-orders/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-22T06:23:10.000Z",
+   "summary": "Strong pre-orders have reportedly prompted Apple to order millions more iPhone Duo units from suppliers, according to DigiTimes. Supply chain sources said Foxconn and component manufacturers had received instructions reflecting a roughly 44% increase from 9.7 million to 14 million devices. The…"
+  },
+  {
    "id": "b35d26f440eb238d",
    "title": "Fortnite Returning to Australian App Store After Court Ruling",
    "url": "https://www.macrumors.com/2026/10/22/fortnite-returning-to-australian-app-store/",
@@ -98,6 +242,15 @@
    "section": "tech",
    "publishedAt": "2026-10-22T05:41:09.000Z",
    "summary": "Australia's Federal Court today ordered Apple to allow competing app stores, direct app downloads, and alternative payment services for Australian users from March 1, 2027. The orders follow the court's August 2025 finding that Apple misused its market power by restricting app distribution and…"
+  },
+  {
+   "id": "f23d56f924798c49",
+   "title": "OpenAI CLI",
+   "url": "https://github.com/openai/openai-cli",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-22T05:23:11.000Z",
+   "summary": "144 points · 79 comments"
   },
   {
    "id": "bbe87bdb27b28a47",
@@ -3682,6 +3835,15 @@
    "summary": "39 points · 18 comments"
   },
   {
+   "id": "8237f766c5a0a810",
+   "title": "ThinkPad I9990303 Error Catch-22",
+   "url": "http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T04:16:10.000Z",
+   "summary": "32 points · 5 comments"
+  },
+  {
    "id": "6e18025513950d3b",
    "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
    "url": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
@@ -4150,6 +4312,15 @@
    "summary": "One way to make batteries cleaner is to make fewer of them."
   },
   {
+   "id": "86594bf25ec5b2f0",
+   "title": "Eigenmoon: linear algebra puzzles by moonlight",
+   "url": "https://eigenmoon.vercel.app/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T20:02:03.000Z",
+   "summary": "4 points · 2 comments"
+  },
+  {
    "id": "e9d653d3440c661e",
    "title": "Apple strikes deal with AI startup that lets musicians rework recorded music",
    "url": "https://9to5mac.com/2026/10/19/apple-strikes-deal-with-ai-startup-that-lets-musicians-rework-recorded-music/",
@@ -4391,6 +4562,15 @@
    "section": "tech",
    "publishedAt": "2026-10-19T18:00:00.000Z",
    "summary": "Subscribing to an antivirus suite kept you safe a long time ago, but they're much less useful for most people today."
+  },
+  {
+   "id": "1bffb96404d35f30",
+   "title": "The Robot I Didn't Expect to Build",
+   "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T17:57:18.000Z",
+   "summary": "16 points · 10 comments"
   },
   {
    "id": "3a84b1a84f1465f3",
@@ -46934,213 +47114,6 @@
    "section": "tech",
    "publishedAt": "2026-09-22T11:45:06.000Z",
    "summary": "New references in the latest iOS 27.2 beta show that Apple continues to develop a new feature which will lock your iPhone if it's snatched from your hand by a thief. As previously reported, the feature will use the gyroscope, accelerometer, and other sensors to determine when an iPhone has been…"
-  },
-  {
-   "id": "5c8932c52279249d",
-   "title": "Type Punning in C and C++",
-   "url": "https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T11:29:47.000Z",
-   "summary": "32 points · 12 comments"
-  },
-  {
-   "id": "322490033128c269",
-   "title": "Don’t be fooled by this summer of AI hype",
-   "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-   "source": "MIT Tech Review",
-   "section": "ai",
-   "publishedAt": "2026-09-22T11:04:51.000Z",
-   "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly)…"
-  },
-  {
-   "id": "8d6420113ddc9f65",
-   "title": "When the Debugger Lies",
-   "url": "https://danielmangum.com/posts/when-the-debugger-lies/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T11:02:43.000Z",
-   "summary": "48 points · 17 comments"
-  },
-  {
-   "id": "7b2e85c041f087b8",
-   "title": "NASA chief: I'm only interested in \"good deals\" from international partners",
-   "url": "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-22T11:00:37.000Z",
-   "summary": "\"There was absolutely a time where we were trying to make everyone happy.\""
-  },
-  {
-   "id": "8b2e405fcf9e9a68",
-   "title": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
-   "url": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-22T11:00:00.000Z",
-   "summary": "Meta is giving plastic recycling a boost in a new deal with startup MacroCycle, which is building its first commercial plant."
-  },
-  {
-   "id": "43faa2bcfcf7cb12",
-   "title": "Peloton has made a foldable (treadmill)",
-   "url": "https://www.engadget.com/2264548/peloton-tread-flex-vision-launch/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-22T11:00:00.000Z",
-   "summary": "The Tread Flex is the company's first fold-up treadmill, and also its cheapest to date."
-  },
-  {
-   "id": "e1a1a26c39f62b86",
-   "title": "Show HN: An atlas of system designs with interactive architecture diagrams",
-   "url": "https://atlas-sysdes.vercel.app/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T10:54:31.000Z",
-   "summary": "22 points · 6 comments"
-  },
-  {
-   "id": "d66594d70ab53275",
-   "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
-   "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T10:36:44.000Z",
-   "summary": "112 points · 129 comments"
-  },
-  {
-   "id": "e8b439a4881d7ec6",
-   "title": "Polymarket is reportedly lobbying European nations not to be treated as a gambling website",
-   "url": "https://www.engadget.com/2265021/polymarket-lobbying-eu-regulators-to-not-be-seen-as-gambling-website/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-22T10:35:48.000Z",
-   "summary": "Polymarket, which enables people to bet on the outcomes of events, is telling regulators it's not for gambling."
-  },
-  {
-   "id": "efe473359d6f62f5",
-   "title": "Apple Quietly Excludes Older iPhones From New Camera Feature",
-   "url": "https://www.macrumors.com/2026/09/22/apple-backtracks-camera-feature-compatibility/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-22T10:15:46.000Z",
-   "summary": "Apple's new Texture and Grain controls for Photographic Styles are not available on iPhones other than the latest iPhone 18 Pro models and upcoming iPhone Duo, despite the company's original wording suggesting otherwise. When Apple announced the iPhone 18 Pro and iPhone 18 Pro Max earlier this…"
-  },
-  {
-   "id": "fa4c95b5ab0332b9",
-   "title": "Apple opens a dedicated concert venue with spatial audio and multi-cam video recording",
-   "url": "https://www.engadget.com/2265008/apple-music-hall-live-event-recording/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-22T10:14:37.000Z",
-   "summary": "Apple Music Hall in London seems tailor-made for Apple Music Live concerts."
-  },
-  {
-   "id": "646dfd6ccc4608b9",
-   "title": "Can you forget how you feel about Meta?",
-   "url": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-22T10:00:01.000Z",
-   "summary": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-being and mental health. It’s difficult to see coverage that misrepresents our work and our motives,”…"
-  },
-  {
-   "id": "2c798f142705ebba",
-   "title": "Apple @ Work Podcast: Phishing simulations for the AI era",
-   "url": "https://9to5mac.com/2026/09/22/phishing-simulations-for-the-ai-era/",
-   "source": "9to5Mac",
-   "section": "ai",
-   "publishedAt": "2026-09-22T10:00:00.000Z",
-   "summary": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000…"
-  },
-  {
-   "id": "09f4b798e14fd275",
-   "title": "Verda (Finland) raises $189M in Series B",
-   "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T09:36:31.000Z",
-   "summary": "50 points · 17 comments"
-  },
-  {
-   "id": "b5421809efffe94d",
-   "title": "OpenAI faces lawsuit from British Columbia over Tumbler Ridge shooting",
-   "url": "https://www.engadget.com/2264989/openai-tumbler-ridge-shooting-lawsuit/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-09-22T08:47:27.000Z",
-   "summary": "The Canadian province of British Columbia has sued OpenAI for failing to notify authorities about the Tumbler Ridge shooter's chats."
-  },
-  {
-   "id": "ffedfe75aaf44c26",
-   "title": "App Switcher Returns in watchOS 27.2 Beta With New Launch Gesture",
-   "url": "https://www.macrumors.com/2026/09/22/app-switcher-returns-watchos-27-2-beta/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-22T08:41:09.000Z",
-   "summary": "Apple has apparently listened to user feedback and brought back the App Switcher screen in the latest watchOS 27.2 beta, but accessing it is a little different than before. In watchOS 26 and earlier versions, a double press of the Digital Crown would bring up the App Switcher, where you could…"
-  },
-  {
-   "id": "39b46927564beda6",
-   "title": "AMD's random number generator can't generate a 0?",
-   "url": "https://board.flatassembler.net/topic.php?t=24261",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T08:39:43.000Z",
-   "summary": "140 points · 91 comments"
-  },
-  {
-   "id": "a192836eaef1d86e",
-   "title": "Apple’s first live music venue is opening beneath its UK headquarters",
-   "url": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-22T08:35:54.000Z",
-   "summary": "The venue is opening below Battersea Power Station, also well recognized for featuring on the cover of Pink Floyd’s Animals album. | Image: Apple Apple is preparing to open a new \"state-of-the-art\" live music venue in the UK, a 600-capacity space for hosting performances, recording sessions, and…"
-  },
-  {
-   "id": "3984bc50b3352720",
-   "title": "Apple Music Hall Spatial Audio Venue Opens in Battersea Power Station",
-   "url": "https://www.macrumors.com/2026/09/22/apple-music-hall-battersea-power-station/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-22T08:07:39.000Z",
-   "summary": "Apple has announced the opening of Apple Music Hall, a state-of-the-art 600-capacity music venue located in London's Battersea Power Station. Apple says it is \"designed to connect artists and fans through bespoke, intimate performances unlike anywhere else.\" Apple says the hall incorporates…"
-  },
-  {
-   "id": "ed7783ac2b654bb4",
-   "title": "I said no and Apple said yes",
-   "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T08:04:55.000Z",
-   "summary": "381 points · 298 comments"
-  },
-  {
-   "id": "d3fb4124ea130a60",
-   "title": "Apple Music opens new live music venue in London",
-   "url": "https://9to5mac.com/2026/09/22/apple-music-opens-new-live-music-venue-in-london/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-22T07:51:30.000Z",
-   "summary": "Apple is opening a new live music venue in Battersea Power Station, London. The new location is called Apple Music Hall, and even has its own website where fans can sign up to get alerted when the first tickets are available. The 600-person capacity venue will be the stage for intimate…"
-  },
-  {
-   "id": "21e49cbfdd889e30",
-   "title": "iCloud storage notification glitch puts unremovable red badge on Settings app",
-   "url": "https://9to5mac.com/2026/09/22/icloud-storage-notification-glitch-puts-unremovable-red-badge-on-settings-app/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-22T07:40:50.000Z",
-   "summary": "There’s an annoying little iPhone notification glitch impacting some users on iOS 27. For those affected, the Settings app gets a red badge prompting an alert to ‘Activate iCloud Storage’. However, tapping on this alert simply navigates to the iCloud storage purchase screen and the alert does not…"
-  },
-  {
-   "id": "d070dd2063aa9e19",
-   "title": "Can gzip be a language model?",
-   "url": "https://nathan.rs/posts/gzip-lm/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-22T06:08:39.000Z",
-   "summary": "27 points · 0 comments"
   }
  ]
 }
