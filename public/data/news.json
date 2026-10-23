@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T21:20:03.225Z",
+ "updatedAt": "2026-10-23T23:58:08.122Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,109 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 31
+   "count": 30
   }
  ],
  "items": [
+  {
+   "id": "57e4183793745eee",
+   "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
+   "url": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-23T23:50:49.000Z",
+   "summary": "In a new post on the WebKit blog highlighting what’s new in Safari 27.1, Apple’s Jen Simmons said the company is exploring ways to let websites make better use of the iPhone Duo’s outer display. Here are the details. more…"
+  },
+  {
+   "id": "5ed1248af084ac20",
+   "title": "The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS",
+   "url": "https://www.macrumors.com/2026/10/23/iphone-duo-fun-apps/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-23T23:22:55.000Z",
+   "summary": "The iPhone Duo has an all-new form factor with multiple folding and orientation options, and app developers are having some fun with it. You can find quite a few apps using the foldable display in unique ways, many with skeuomorphic designs. Tiny Computers ($3.99) Tiny Computers turns the ‌iPhone…"
+  },
+  {
+   "id": "f6b7871719d51698",
+   "title": "Apple’s official DIY repair guides for the iPhone Duo now available",
+   "url": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-23T23:12:21.000Z",
+   "summary": "Following today’s launch of the iPhone Duo, Apple has now published multiple repair guides and manuals for users and independent technicians looking to replace or repair individual components in the device. Here are the details. more…"
+  },
+  {
+   "id": "a8598c0b38bf9e1a",
+   "title": "Startups don’t need to go viral to win customers",
+   "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-23T23:07:45.000Z",
+   "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one."
+  },
+  {
+   "id": "1943ae2143b4ea88",
+   "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+   "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-23T23:05:49.000Z",
+   "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+  },
+  {
+   "id": "4301fa010401528a",
+   "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+   "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-23T22:48:25.000Z",
+   "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\""
+  },
+  {
+   "id": "ff8f6815e6f4e9fe",
+   "title": "OpenAI says it's cutting off internet access for frontier model training",
+   "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-23T22:37:02.000Z",
+   "summary": "OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents."
+  },
+  {
+   "id": "20af69c929e63ad8",
+   "title": "German court calls Google aerial imagery 'spying'",
+   "url": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-23T22:18:49.000Z",
+   "summary": "14 points · 3 comments"
+  },
+  {
+   "id": "8a7070df621e0cf9",
+   "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+   "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-23T21:59:19.000Z",
+   "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
+  },
+  {
+   "id": "26c5b949b7a94c7d",
+   "title": "Xbox’s first chief operating officer is out after just a few months",
+   "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-23T21:39:26.000Z",
+   "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being…"
+  },
+  {
+   "id": "f0fc0a7aaeaa1c7b",
+   "title": "CVE Tracker",
+   "url": "https://cve.0xosprey.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-23T21:21:47.000Z",
+   "summary": "67 points · 13 comments"
+  },
   {
    "id": "e0191275bea5122d",
    "title": "OpenAI now trains its frontier AI models with no internet access",
@@ -107,6 +206,24 @@
    "section": "tech",
    "publishedAt": "2026-10-23T20:49:57.000Z",
    "summary": "The iPhone Duo is compatible with the Apple Pencil, if you have the right one. MacRumors videographer Dan Barbera tested the ‌Apple Pencil‌ with the ‌iPhone Duo‌ to see if it's a useful tool to pick up. If you already have an ‌Apple Pencil‌ 1, ‌Apple Pencil‌ 2, or ‌Apple Pencil‌ Pro to use with an…"
+  },
+  {
+   "id": "abb6638d13b9d6d5",
+   "title": "No Source Code? No Problem",
+   "url": "https://queue.acm.org/doi/10.1145/945131.945155",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-23T20:38:06.000Z",
+   "summary": "23 points · 15 comments"
+  },
+  {
+   "id": "ab62fc42b4e2dfb0",
+   "title": "A whirlwind tour of systemd-nspawn containers",
+   "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-23T20:37:12.000Z",
+   "summary": "21 points · 4 comments"
   },
   {
    "id": "91631eb7f2fb31af",
@@ -197,6 +314,15 @@
    "section": "tech",
    "publishedAt": "2026-10-23T19:50:23.000Z",
    "summary": "Rising memory prices continue to weigh on the global smartphone market, with shipments in China alone falling 10% year over year in Q3. Here are the details. more…"
+  },
+  {
+   "id": "c387f52fa2d2464e",
+   "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+   "url": "https://corgi.computer/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-23T19:46:38.000Z",
+   "summary": "9 points · 0 comments"
   },
   {
    "id": "9ef3970572d36b6f",
@@ -422,6 +548,15 @@
    "section": "tech",
    "publishedAt": "2026-10-23T17:32:58.000Z",
    "summary": "Birds' compact nervous system seems to help them handle tasks very quickly."
+  },
+  {
+   "id": "ab288ac34f9baa99",
+   "title": "Air Purifiers as White Noise Machines",
+   "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-23T17:28:36.000Z",
+   "summary": "46 points · 63 comments"
   },
   {
    "id": "27d6a7f81953b76b",
@@ -665,6 +800,15 @@
    "section": "tech",
    "publishedAt": "2026-10-23T16:00:00.000Z",
    "summary": "No, I haven’t managed to get my hands on a prototype pair of Apple Glasses, but I now have experience of the rough equivalents of what we’re expecting from both a 1st- and 2nd-gen product. In both cases, I could definitely see attractions, and I would absolutely upgrade to smart glasses if I wore…"
+  },
+  {
+   "id": "2bb41044e4b1d371",
+   "title": "Reforming English Spelling",
+   "url": "https://blog.oup.com/2026/10/reforming-english-spelling/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-23T15:56:06.000Z",
+   "summary": "15 points · 66 comments"
   },
   {
    "id": "7c28c68506cb5eb2",
@@ -4519,6 +4663,15 @@
    "summary": "0 points · 0 comments"
   },
   {
+   "id": "c5098bbfa0476172",
+   "title": "John Snow Cholera Data",
+   "url": "https://johnsnow.rtwilson.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T12:00:21.000Z",
+   "summary": "5 points · 2 comments"
+  },
+  {
    "id": "bd2fa67bdcb50fde",
    "title": "iPhone Duo review: The future is foldable",
    "url": "https://9to5mac.com/2026/10/21/iphone-duo-review/",
@@ -4697,6 +4850,15 @@
    "section": "tech",
    "publishedAt": "2026-10-21T08:35:00.000Z",
    "summary": "Apple retail stores in Bordeaux and Lille were looted earlier this week amid unrest accompanying demonstrations against the high cost of living in France, Boursorama reports. Both locations were among numerous businesses targeted across the country. The same Bordeaux location, Apple…"
+  },
+  {
+   "id": "9b90028c7c35184f",
+   "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
+   "url": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T08:17:35.000Z",
+   "summary": "13 points · 5 comments"
   },
   {
    "id": "6795338991b02b14",
@@ -46385,330 +46547,6 @@
    "section": "ai",
    "publishedAt": "2026-09-23T23:58:31.000Z",
    "summary": "As reported by The Financial Times, new court filings show that OpenAI was disappointed by the adoption of ChatGPT through Apple Intelligence, which it says “dramatically underperformed” after launching in 2024. Here are the details. more…"
-  },
-  {
-   "id": "ec910142839f9d43",
-   "title": "Meta's new holographic avatars are here and they're surprisingly real",
-   "url": "https://www.engadget.com/2267223/meta-holograph-avatar-for-ai-and-vr-glasses-update-hands-on/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-23T23:53:01.000Z",
-   "summary": "They're a notable improvement over the company's earlier attempts at digital likeness."
-  },
-  {
-   "id": "886ea001de897403",
-   "title": "Meta VR Glasses",
-   "url": "https://www.meta.com/vr-glasses/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-23T23:47:56.000Z",
-   "summary": "126 points · 73 comments"
-  },
-  {
-   "id": "5c215ecb895eaab2",
-   "title": "Meta is trying VR glasses (again), this time with more IMAX",
-   "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-23T23:47:35.000Z",
-   "summary": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options."
-  },
-  {
-   "id": "345b430bbab08d68",
-   "title": "Meta Ray-Ban Display getting feature updates including holographic avatar support",
-   "url": "https://www.engadget.com/2267220/meta-ray-ban-display-getting-feature-updates-including-holographic-avatar-support/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-23T23:44:51.000Z",
-   "summary": "The smart glasses are also arriving in five new markets this fall."
-  },
-  {
-   "id": "8760dfcb40efcf63",
-   "title": "Meta's $1,300 VR Glasses look like the Vision Pro sequel Apple should be making",
-   "url": "https://www.engadget.com/2267218/meta-vr-glasses-price-specs-apple-vision-pro-comparison/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-23T23:42:52.000Z",
-   "summary": "Sorry Apple, it looks like Meta's VR Glasses are the real Vision Pro successor."
-  },
-  {
-   "id": "b1f5de4c188b0779",
-   "title": "Meta’s next VR device isn’t a headset — it’s glasses",
-   "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-23T23:42:10.000Z",
-   "summary": "The Meta VR Glasses. | Photo by Brett Putman / The Verge Meta is launching new VR hardware: a pair of glasses. The new Meta VR Glasses sit on your ears like a typical pair of glasses instead of being strapped over your head, but they still have immersive displays for watching movies, playing games…"
-  },
-  {
-   "id": "92b3b274870d3f3a",
-   "title": "Muse is coming to Meta smart glasses",
-   "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-23T23:40:56.000Z",
-   "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a…"
-  },
-  {
-   "id": "aef21d96b7007a3e",
-   "title": "Meta introduces camera-free AI glasses",
-   "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-23T23:39:44.000Z",
-   "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."
-  },
-  {
-   "id": "1458d2bfb098d09b",
-   "title": "Meta's next smart glasses collab is with Blackpink's Lisa",
-   "url": "https://www.engadget.com/2267215/meta-glasses-lisa-edition/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-23T23:37:43.000Z",
-   "summary": "Blackpink in your upper-facial area."
-  },
-  {
-   "id": "d4c9927c37eb2faa",
-   "title": "Meta ditches the camera on its newest smart glasses",
-   "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-23T23:37:17.000Z",
-   "summary": "The Ray-Ban Meta Audio Glasses have no cameras. | Photo by Brett Putman / The Verge Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect…"
-  },
-  {
-   "id": "58a5942ee21041e8",
-   "title": "Ray-Ban Meta Gen 3 hands-on: Better battery life and a price hike",
-   "url": "https://www.engadget.com/2267213/ray-ban-meta-gen-3-hands-on-better-battery-life/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-23T23:35:54.000Z",
-   "summary": "The latest lineup comes in two new frame styles: Aviator and Zena."
-  },
-  {
-   "id": "e7e8894b98601b2b",
-   "title": "Show HN: A CC0 museum of retro 3D tricks you can paste into a page",
-   "url": "https://3d-retro.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-23T23:33:39.000Z",
-   "summary": "19 points · 3 comments"
-  },
-  {
-   "id": "07bd02371bec7051",
-   "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
-   "url": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-23T23:33:22.000Z",
-   "summary": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\""
-  },
-  {
-   "id": "351a0e818e51d64d",
-   "title": "Meta announces Ray-Ban Meta Audio, its first smart glasses without a camera",
-   "url": "https://www.engadget.com/2267212/meta-announces-ray-ban-meta-audio-its-first-smart-glasses-without-a-camera/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-23T23:33:00.000Z",
-   "summary": "That's one way to avoid the whole surreptitious recording issues."
-  },
-  {
-   "id": "db61a95c8f2f45bd",
-   "title": "Meta brings FDA-cleared hearing enhancement to its smart glasses",
-   "url": "https://www.engadget.com/2267211/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-23T23:29:55.000Z",
-   "summary": "After a free trial it'll cost $150 to add on, or require a Meta One subscription."
-  },
-  {
-   "id": "5872291461ea6f06",
-   "title": "Meta's Muse AI agent is coming to its AI glasses",
-   "url": "https://www.engadget.com/2267210/meta-muse-ai-agent-smart-glasses/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-09-23T23:28:12.000Z",
-   "summary": "Have your virtual assistant book a flight while you're jogging."
-  },
-  {
-   "id": "f0594bf601c63100",
-   "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-   "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-23T23:19:42.000Z",
-   "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to communicate with your…"
-  },
-  {
-   "id": "86c373803c123dbd",
-   "title": "The purpose of the triangle symbol on your Samsung Galaxy phone",
-   "url": "https://www.engadget.com/2265257/triangle-symbol-samsung-galaxy-phone-meaning-data-saver-setting/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-23T23:00:00.000Z",
-   "summary": "Samsung phones have a few different triangle symbols that can display in the status bar in different scenarios. This is how to tell what they mean."
-  },
-  {
-   "id": "56a9b88a3c5618a7",
-   "title": "Show HN: Make cursed fonts like Times New Bastard",
-   "url": "https://bastardica.mitpit.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-23T22:53:28.000Z",
-   "summary": "201 points · 37 comments"
-  },
-  {
-   "id": "46c19b462af24827",
-   "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-   "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-23T22:45:49.000Z",
-   "summary": "39 points · 4 comments"
-  },
-  {
-   "id": "da08a0221c6bf606",
-   "title": "Meta Connect 2026: The biggest news and announcements",
-   "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-23T22:45:00.000Z",
-   "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant…"
-  },
-  {
-   "id": "060dc630fc2d6d26",
-   "title": "ASML currently sells no chipmaking machines in Europe, executive says",
-   "url": "https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-23T22:42:13.000Z",
-   "summary": "82 points · 74 comments"
-  },
-  {
-   "id": "933ae0038a6d346b",
-   "title": "Linux support is coming to Snapdragon X2 Series",
-   "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-23T22:38:16.000Z",
-   "summary": "99 points · 46 comments"
-  },
-  {
-   "id": "dd8957ec694af47f",
-   "title": "Toyota is taking the Corolla electric",
-   "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-23T22:37:28.000Z",
-   "summary": "161 points · 241 comments"
-  },
-  {
-   "id": "eaa0dc466a482e14",
-   "title": "A new world airport and its baggage",
-   "url": "https://computer.rip/2026-09-20-denver-baggage.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-23T22:30:46.000Z",
-   "summary": "24 points · 2 comments"
-  },
-  {
-   "id": "9ad615b29123804d",
-   "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-   "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-23T22:30:00.000Z",
-   "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about in a recent…"
-  },
-  {
-   "id": "76c4b669e08e2637",
-   "title": "Anthropic says its biology lab has already found something big",
-   "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-23T22:17:39.000Z",
-   "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop."
-  },
-  {
-   "id": "ee7204e57c34943c",
-   "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
-   "url": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-23T22:17:25.000Z",
-   "summary": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\""
-  },
-  {
-   "id": "da14ce70c287bcb1",
-   "title": "Mercury 2.5 LLM hits 770 tokens per second",
-   "url": "https://artificialanalysis.ai/models/mercury-2-5",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-23T22:16:19.000Z",
-   "summary": "34 points · 12 comments"
-  },
-  {
-   "id": "019ce3681601e17b",
-   "title": "Watch the trailer for Apple TV’s ‘Where’s Wanda?’ season 2",
-   "url": "https://9to5mac.com/2026/09/23/watch-the-trailer-for-apple-tvs-wheres-wanda-season-2/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-23T22:11:54.000Z",
-   "summary": "Apple TV today released the trailer for the second season of “Where’s Wanda?,” a German-language dark comedy returning to the service on October 21. Watch it below. more…"
-  },
-  {
-   "id": "b70cbc3ffd38b349",
-   "title": "We just shipped support for the ugliest part of HTTP: Vary",
-   "url": "https://blog.cloudflare.com/vary-support/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-23T22:03:21.000Z",
-   "summary": "53 points · 6 comments"
-  },
-  {
-   "id": "9bb0dd2c6d72c974",
-   "title": "The Bayeux Tapestry: Woven by the Victors",
-   "url": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-23T21:54:35.000Z",
-   "summary": "4 points · 0 comments"
-  },
-  {
-   "id": "a0dc686f1857bec7",
-   "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
-   "url": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-23T21:46:36.000Z",
-   "summary": "It's unclear what will happen if FBI misses ShinyHunters' deadline."
-  },
-  {
-   "id": "3d10b14c2470b26d",
-   "title": "Claude's Load-Bearing Seams",
-   "url": "https://madradavid.com/claudes-load-bearing-seams/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-23T21:31:04.000Z",
-   "summary": "10 points · 2 comments"
-  },
-  {
-   "id": "3fd7d63b7644beda",
-   "title": "You Can Now Try Apple's Unreleased Copland OS in Your Browser",
-   "url": "https://www.macrumors.com/2026/09/23/apple-copland-os-demo/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-23T21:27:08.000Z",
-   "summary": "In the mid–1990s, Apple worked on an operating system called Copland, which was announced but never commercially released because of project management issues and feature creep. Parts of Copland were eventually included in Mac OS 7.6 and Mac OS 8, but it was so problematic as a whole that Apple…"
-  },
-  {
-   "id": "373cd86ee4cf25df",
-   "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
-   "url": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-23T21:21:33.000Z",
-   "summary": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?"
   }
  ]
 }
