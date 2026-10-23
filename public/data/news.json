@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-23T01:54:05.273Z",
+ "updatedAt": "2026-10-23T07:23:40.483Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1315
+   "count": 1316
   },
   {
    "name": "Google DeepMind",
@@ -82,6 +82,69 @@
  ],
  "items": [
   {
+   "id": "0f72c2fcdb2fb47d",
+   "title": "Happy 25th Anniversary, iPod",
+   "url": "https://www.macrumors.com/2026/10/23/ipod-25th-anniversary/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-23T07:00:11.000Z",
+   "summary": "Apple today marks 25 years since the introduction of the original iPod, one of the company's most significant products and a major contributor to its expansion beyond the Mac. Steve Jobs unveiled the first iPod on October 23, 2001, at a small press event in the Town Hall auditorium at Apple's…"
+  },
+  {
+   "id": "f9682184284f2006",
+   "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+   "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-23T06:41:11.000Z",
+   "summary": "22 points · 3 comments"
+  },
+  {
+   "id": "ab29d7e45c4c5672",
+   "title": "iPhone Duo Demand Reportedly Exceeds Apple's Expectations",
+   "url": "https://www.macrumors.com/2026/10/23/iphone-duo-demand-exceeds-expectations/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-23T04:24:18.000Z",
+   "summary": "Apple's iPhone Duo has attracted more pre-orders than the company anticipated in several major markets, according to DigiTimes, with display chip suppliers hoping its reception will boost investment in foldable devices. OLED touch and display driver integration, known as TDDI. The technology…"
+  },
+  {
+   "id": "70e594c18c33c015",
+   "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+   "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-23T04:22:57.000Z",
+   "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents."
+  },
+  {
+   "id": "aa81ade94a8f3811",
+   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+   "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-23T04:00:00.000Z",
+   "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+  },
+  {
+   "id": "01cdd03e3899eb4d",
+   "title": "Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch",
+   "url": "https://9to5mac.com/2026/10/22/greg-joswiak-talks-iphone-duo-in-store-availability-and-demand-ahead-of-launch/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-23T03:15:09.000Z",
+   "summary": "Friday is iPhone Duo launch day, and there are a lot of eager customers hoping to walk into an Apple Store and get one after a messy pre-order launch. In a new interview with TechRadar, Apple marketing SVP Greg Joswiak offered insight into demand and in-store availability for the first foldable…"
+  },
+  {
+   "id": "b4464f669944a9da",
+   "title": "This I Believe (1952)",
+   "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-23T02:19:38.000Z",
+   "summary": "57 points · 18 comments"
+  },
+  {
    "id": "d1f26cce4bb00c92",
    "title": "Apple is finally catching up with Siri, but the goalposts are moving again",
    "url": "https://9to5mac.com/2026/10/22/apple-is-finally-catching-up-with-siri-but-the-goalposts-are-moving-again/",
@@ -134,6 +197,15 @@
    "section": "ai",
    "publishedAt": "2026-10-23T00:09:58.000Z",
    "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing…"
+  },
+  {
+   "id": "587ea999682559df",
+   "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+   "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-10-23T00:00:00.000Z",
+   "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
   },
   {
    "id": "d639a513c3136e72",
@@ -190,6 +262,15 @@
    "summary": "Strava today announced a set of new features aimed at improving route planning and discovery for runs, hikes, and rides. Here are the details. more…"
   },
   {
+   "id": "f06cd9b8066141ea",
+   "title": "We have traits at home",
+   "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T23:24:17.000Z",
+   "summary": "10 points · 0 comments"
+  },
+  {
    "id": "f59e6b9eaa0b9289",
    "title": "Retro game emulator Delta looks great on the iPhone Duo",
    "url": "https://9to5mac.com/2026/10/22/retro-game-emulator-delta-looks-great-on-the-iphone-duo/",
@@ -215,6 +296,15 @@
    "section": "tech",
    "publishedAt": "2026-10-22T23:02:43.000Z",
    "summary": "Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a…"
+  },
+  {
+   "id": "b9c2471b6fee9fad",
+   "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+   "url": "https://edjefferson.com/localwiki/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T23:01:18.000Z",
+   "summary": "128 points · 25 comments"
   },
   {
    "id": "ec0971132fe80d5e",
@@ -341,6 +431,15 @@
    "section": "ai",
    "publishedAt": "2026-10-22T21:51:25.000Z",
    "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater…"
+  },
+  {
+   "id": "d3e38b91602b41a1",
+   "title": "How does Fable 5.1 hide messages in images?",
+   "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T21:41:13.000Z",
+   "summary": "26 points · 2 comments"
   },
   {
    "id": "dbba421b52b67ad3",
@@ -566,6 +665,15 @@
    "section": "tech",
    "publishedAt": "2026-10-22T19:55:13.000Z",
    "summary": "'Mass Effect: Universe' looks like it would have focused on a new protagonist and series favorite Liara T'Soni."
+  },
+  {
+   "id": "f9c603872499b5a7",
+   "title": "The HTML-in-Canvas API origin trial",
+   "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T19:54:04.000Z",
+   "summary": "19 points · 5 comments"
   },
   {
    "id": "e2069d004185d4c4",
@@ -1018,6 +1126,15 @@
    "summary": "The decried trial was canceled last week before police seized vaccine doses."
   },
   {
+   "id": "5e0082f005d88267",
+   "title": "Objects, attributes, maps, oh my",
+   "url": "https://bernsteinbear.com/blog/object-shapes/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T16:34:39.000Z",
+   "summary": "11 points · 1 comments"
+  },
+  {
    "id": "14361fc343b89e93",
    "title": "Arc Is Sunsetting",
    "url": "https://arc.net/",
@@ -1369,6 +1486,15 @@
    "summary": "Amazon this week is taking $49 off Wi-Fi models of Apple's 11th generation iPad, with prices starting at $399.99 for the 128GB Wi-Fi iPad, down from $449.00. This is a match of the best price we've seen on the iPad since Apple's price hikes over the summer. Note: MacRumors is an affiliate partner…"
   },
   {
+   "id": "1af79f6834fc8028",
+   "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+   "url": "https://github.com/dsmurrell/onkey",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T14:04:44.000Z",
+   "summary": "26 points · 12 comments"
+  },
+  {
    "id": "8bcf4e1acba789fe",
    "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
    "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
@@ -1430,6 +1556,15 @@
    "section": "tech",
    "publishedAt": "2026-10-22T13:26:52.000Z",
    "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year."
+  },
+  {
+   "id": "ee9456e5e872705b",
+   "title": "The alien space of science: Coherent but cognitively unavailable directions",
+   "url": "https://arxiv.org/abs/2603.01092",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T13:25:01.000Z",
+   "summary": "23 points · 2 comments"
   },
   {
    "id": "1753b4547ed12561",
@@ -1738,6 +1873,15 @@
    "summary": ""
   },
   {
+   "id": "ce9f0879f034be3a",
+   "title": "A lost Schrödinger manuscript reveals a twist in quantum physics",
+   "url": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T07:41:29.000Z",
+   "summary": "26 points · 7 comments"
+  },
+  {
    "id": "88290d2f79f576b8",
    "title": "Tesla App Gains iPad and iPhone Duo Support",
    "url": "https://www.macrumors.com/2026/10/22/tesla-app-gains-ipad-and-iphone-duo-support/",
@@ -1997,6 +2141,15 @@
    "section": "tech",
    "publishedAt": "2026-10-21T22:33:44.000Z",
    "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and…"
+  },
+  {
+   "id": "df7cd8b3f06c16ef",
+   "title": "Postgres recovery_prefetch can cause outages",
+   "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T22:33:08.000Z",
+   "summary": "33 points · 0 comments"
   },
   {
    "id": "4f2c700d0306bee9",
@@ -3826,6 +3979,15 @@
    "summary": "Google's latest tracker is a middle ground between a simple tracker and full smartwatch."
   },
   {
+   "id": "52cb459e1db4180e",
+   "title": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
+   "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T22:24:23.000Z",
+   "summary": "97 points · 59 comments"
+  },
+  {
    "id": "a03277354c9f3e49",
    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
@@ -4940,6 +5102,15 @@
    "section": "tech",
    "publishedAt": "2026-10-20T13:45:00.000Z",
    "summary": "Amazon's Echo Show and Dot devices, tablets and website all have new capabilities that you might want to take for a spin."
+  },
+  {
+   "id": "c1a197fe8c251d52",
+   "title": "Why my Asus laptop kept rebooting after sleep and how to fix it",
+   "url": "https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T13:40:04.000Z",
+   "summary": "40 points · 32 comments"
   },
   {
    "id": "a9248a5953f8287f",
@@ -46835,96 +47006,6 @@
    "section": "tech",
    "publishedAt": "2026-09-23T07:26:23.000Z",
    "summary": "125 points · 47 comments"
-  },
-  {
-   "id": "a78388017f9d9da1",
-   "title": "How often do you think about the 1893 World's Fair?",
-   "url": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-23T05:32:51.000Z",
-   "summary": "13 points · 4 comments"
-  },
-  {
-   "id": "9590bc58302d5ed9",
-   "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-   "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-23T04:59:08.000Z",
-   "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do."
-  },
-  {
-   "id": "7a6492a61677b20d",
-   "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
-   "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-23T04:00:43.000Z",
-   "summary": "149 points · 38 comments"
-  },
-  {
-   "id": "cae3a0dd2e30bf84",
-   "title": "Data-Only Attacks Are Easier Than You Think",
-   "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-23T03:49:28.000Z",
-   "summary": "5 points · 0 comments"
-  },
-  {
-   "id": "ec6d8ec176733a06",
-   "title": "Discord’s age verification era is upon us, despite community backlash",
-   "url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-23T03:31:12.000Z",
-   "summary": "According to Discord, 90% of users will not have to verify their age."
-  },
-  {
-   "id": "514bb9cc79707a62",
-   "title": "New Mac Mini Has Two Storage Downsides, Including Unremovable SSD",
-   "url": "https://www.macrumors.com/2026/09/22/new-mac-mini-ssd-cant-be-removed/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-23T03:23:19.000Z",
-   "summary": "As confirmed by the website \"Expand Mac mini,\" NAND storage in the new Mac mini models with the M6 and M5 Pro chips is soldered to the logic board, whereas the previous models with the M4 and M4 Pro chips have removable storage that can be upgraded. In other words, the new Mac mini does not support…"
-  },
-  {
-   "id": "dc0fcc4b85d0d26b",
-   "title": "Transit rewards (Waymo pays you to take the train)",
-   "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-23T02:52:29.000Z",
-   "summary": "28 points · 13 comments"
-  },
-  {
-   "id": "271712ade93782f0",
-   "title": "Apple Card Savings Account's Interest Rate Just Went Up",
-   "url": "https://www.macrumors.com/2026/09/22/apple-card-savings-interest-rate-increase/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-23T02:47:01.000Z",
-   "summary": "The annual percentage yield (APY) for the Apple Card's savings account increased from 3.4% to 3.5% today. If you deposited $1,000 and made no withdrawals for one year, you would earn $35 in interest at the current APY. Tag: Apple Card This article, \"Apple Card Savings Account's Interest Rate Just…"
-  },
-  {
-   "id": "a32b43b14745c5bf",
-   "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
-   "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-23T02:13:52.000Z",
-   "summary": "82 points · 62 comments"
-  },
-  {
-   "id": "b44a7fcd87384933",
-   "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-   "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-23T02:00:00.000Z",
-   "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries."
   }
  ]
 }
