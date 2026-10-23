@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-22T23:33:46.144Z",
+ "updatedAt": "2026-10-23T01:54:05.273Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1314
+   "count": 1315
   },
   {
    "name": "Google DeepMind",
@@ -82,6 +82,105 @@
  ],
  "items": [
   {
+   "id": "d1f26cce4bb00c92",
+   "title": "Apple is finally catching up with Siri, but the goalposts are moving again",
+   "url": "https://9to5mac.com/2026/10/22/apple-is-finally-catching-up-with-siri-but-the-goalposts-are-moving-again/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-23T01:42:38.000Z",
+   "summary": "9to5Mac is brought to you by Memoket: Memoket Gem is a 0.4 oz AI wearable that slots beside your Apple Watch. One press captures a conversation, and KITE memory connects it to what you said weeks ago. 20-hour battery. Available now from $168.99 on memoket.ai and Amazon. While it is great that Siri…"
+  },
+  {
+   "id": "781e3d9c5c6170fc",
+   "title": "WhatsApp starts testing long-awaited scheduled messages on iPhone",
+   "url": "https://9to5mac.com/2026/10/22/whatsapp-starts-testing-long-awaited-scheduled-messages-on-iphone/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-23T01:22:37.000Z",
+   "summary": "After years of waiting, WhatsApp is finally making one of its most-requested messaging features available to select iPhone beta testers. Here are the details. more…"
+  },
+  {
+   "id": "44801a5b2b598db6",
+   "title": "The foolishness of \"natural language programming\" (1978)",
+   "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-23T00:52:01.000Z",
+   "summary": "19 points · 12 comments"
+  },
+  {
+   "id": "6544d6e86cf094fa",
+   "title": "Left alone with nothing to do, AI agents started playing",
+   "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-23T00:45:37.000Z",
+   "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
+  },
+  {
+   "id": "611218a58afc477c",
+   "title": "Apple wins again in copyright infringement battle over Apple TV thriller series",
+   "url": "https://9to5mac.com/2026/10/22/apple-wins-again-in-copyright-infringement-battle-over-apple-tv-thriller-series/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-23T00:30:41.000Z",
+   "summary": "The United States Court of Appeals for the Ninth Circuit today upheld a verdict from early last year that cleared Apple of allegations that one of its hit thriller series was copied from an independent film. Here are the details. more…"
+  },
+  {
+   "id": "56b5a4707d71564a",
+   "title": "Etsy is cracking down on AI slop listings",
+   "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-23T00:09:58.000Z",
+   "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing…"
+  },
+  {
+   "id": "d639a513c3136e72",
+   "title": "Mapping the Northern Sky",
+   "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T23:56:39.000Z",
+   "summary": "14 points · 4 comments"
+  },
+  {
+   "id": "5406d65b455fcc7b",
+   "title": "Jank – The native Clojure dialect with seamless C++ interop",
+   "url": "https://jank-lang.org/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T23:56:36.000Z",
+   "summary": "6 points · 0 comments"
+  },
+  {
+   "id": "e7c66a5f6903e024",
+   "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+   "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-22T23:50:41.000Z",
+   "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law."
+  },
+  {
+   "id": "0d6cfc3f69d0bc15",
+   "title": "Docker is weird",
+   "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T23:45:56.000Z",
+   "summary": "118 points · 44 comments"
+  },
+  {
+   "id": "623c843f4ded8b74",
+   "title": "AI compute is the new oil–and needs a new market",
+   "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-22T23:45:16.000Z",
+   "summary": "16 points · 8 comments"
+  },
+  {
    "id": "95cf989127050e72",
    "title": "Strava revamps route discovery with smarter search, offline improvements, more",
    "url": "https://9to5mac.com/2026/10/22/strava-revamps-route-discovery-with-smarter-search-offline-improvements-more/",
@@ -127,6 +226,15 @@
    "summary": "An Xbox Elite controller. | Photo by Antonio G. Di Benedetto / The Verge Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction…"
   },
   {
+   "id": "ca664c9883d646a4",
+   "title": "LLMs are making formal software verification feasible at a much larger scale",
+   "url": "https://www.anthropic.com/research/formal-verification",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-22T22:54:43.000Z",
+   "summary": "113 points · 56 comments"
+  },
+  {
    "id": "716c3dd841289cec",
    "title": "MacBook Neo helps Apple soften the blow of global PC market downturn, per report",
    "url": "https://9to5mac.com/2026/10/22/macbook-neo-helps-apple-soften-the-blow-of-global-pc-market-downturn-per-report/",
@@ -143,6 +251,15 @@
    "section": "tech",
    "publishedAt": "2026-10-22T22:34:54.000Z",
    "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope."
+  },
+  {
+   "id": "4bcf20eb3d871f1e",
+   "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+   "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-22T22:25:33.000Z",
+   "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter."
   },
   {
    "id": "1b261e3caa9e6eb4",
@@ -181,6 +298,15 @@
    "summary": "4 points · 0 comments"
   },
   {
+   "id": "8d0dc82e745cb7a0",
+   "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+   "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-22T22:12:19.000Z",
+   "summary": "Markers released top-line results today after previously reporting the trial succeeded."
+  },
+  {
    "id": "17ebf2963fb89b71",
    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
@@ -197,6 +323,15 @@
    "section": "tech",
    "publishedAt": "2026-10-22T22:07:34.000Z",
    "summary": "YouTube is making a number of changes to its Android and iOS apps with the launch of custom feeds, including moving Subscriptions out of the bottom bar. more…"
+  },
+  {
+   "id": "aea269730d222c92",
+   "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+   "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-22T21:52:31.000Z",
+   "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\""
   },
   {
    "id": "88f731ea322db75d",
@@ -269,6 +404,15 @@
    "section": "tech",
    "publishedAt": "2026-10-22T21:15:16.000Z",
    "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies…"
+  },
+  {
+   "id": "416a45f07440b8c4",
+   "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+   "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-22T21:07:09.000Z",
+   "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base."
   },
   {
    "id": "b681c951e3c4c498",
@@ -4348,6 +4492,15 @@
    "summary": "11 points · 4 comments"
   },
   {
+   "id": "f1629837477809ac",
+   "title": "Color Names",
+   "url": "https://names.color.pizza/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T16:27:56.000Z",
+   "summary": "11 points · 2 comments"
+  },
+  {
    "id": "9ce1f1ba5b7fcf6c",
    "title": "AMD is bringing FSR 4.1 to Xbox consoles and handhelds",
    "url": "https://www.theverge.com/news/1014455/amd-fsr-4-1-xbox-consoles-handhelds-laptops",
@@ -5219,6 +5372,15 @@
    "section": "tech",
    "publishedAt": "2026-10-20T08:51:31.000Z",
    "summary": "52 points · 24 comments"
+  },
+  {
+   "id": "60be2ed305ae216b",
+   "title": "The Secret Life of Circuits is now in stock everywhere",
+   "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T07:15:12.000Z",
+   "summary": "6 points · 1 comments"
   },
   {
    "id": "d09e986dcce9dc93",
@@ -6929,6 +7091,15 @@
    "section": "tech",
    "publishedAt": "2026-10-19T10:53:39.000Z",
    "summary": "176 points · 57 comments"
+  },
+  {
+   "id": "aaa21f6a35cc6084",
+   "title": "Speeding up code review with `small-change`",
+   "url": "https://lethain.com/small-changes/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-19T10:35:14.000Z",
+   "summary": "24 points · 13 comments"
   },
   {
    "id": "4fadeb9d2d914ca4",
@@ -46754,87 +46925,6 @@
    "section": "ai",
    "publishedAt": "2026-09-23T02:00:00.000Z",
    "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries."
-  },
-  {
-   "id": "8f124eb80885ac3c",
-   "title": "‘Brothers,’ starring Matthew McConaughey and Woody Harrelson, premieres on Apple TV",
-   "url": "https://9to5mac.com/2026/09/22/brothers-starring-matthew-mcconaughey-and-woody-harrelson-premieres-on-apple-tv/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-23T01:01:41.000Z",
-   "summary": "The first two episodes of “Brothers,” Apple TV’s new comedy series starring Woody Harrelson (Natural Born Killers) and Matthew McConaughey (Interstellar), are now available to subscribers. Watch the trailer below. more…"
-  },
-  {
-   "id": "7cad569e381b9793",
-   "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-   "url": "https://openai.com/index/airbnb-gpt-6-astra",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-23T01:00:00.000Z",
-   "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster."
-  },
-  {
-   "id": "88dbe13d914123df",
-   "title": "Public beta debuts for iPadOS 27.2 and more, here’s what’s new",
-   "url": "https://9to5mac.com/2026/09/22/public-beta-debuts-for-ipados-27-2-and-more-heres-whats-new/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-23T00:32:42.000Z",
-   "summary": "Apple has a round of new public beta updates rolling out today, including iPadOS 27.2, watchOS 27.2, and more. Here’s what’s new. more…"
-  },
-  {
-   "id": "84d3f0299aa9f354",
-   "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-   "source": "The Verge",
-   "section": "ai",
-   "publishedAt": "2026-09-23T00:17:17.000Z",
-   "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI…"
-  },
-  {
-   "id": "de0d2849a65802d6",
-   "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
-   "url": "https://github.com/pkimpel/retro-1620",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-23T00:06:25.000Z",
-   "summary": "9 points · 2 comments"
-  },
-  {
-   "id": "acf8879056343f04",
-   "title": "The pros and cons of using a password manager over an authenticator app",
-   "url": "https://www.engadget.com/2264763/using-password-manager-instead-of-authenticator-app-pros-cons/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-23T00:00:00.000Z",
-   "summary": "There's no perfect solution, but different authentication methods can work better in some circumstances than others."
-  },
-  {
-   "id": "3fe4b136bb235d16",
-   "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-   "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-23T00:00:00.000Z",
-   "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
-  },
-  {
-   "id": "af6563ea35e8c9d9",
-   "title": "Apple Pay just got even better with four new features and more",
-   "url": "https://9to5mac.com/2026/09/22/apple-pay-is-getting-even-better-with-four-new-features/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-22T23:57:57.000Z",
-   "summary": "Apple Pay is a go-to feature for iPhone users when shopping in stores, online, and in apps. Apple recently announced four new features that make Apple Pay even better. Here’s how they work, plus one major expansion that’s rolling out now. more…"
-  },
-  {
-   "id": "632e908769bcad15",
-   "title": "U.S. government urges Supreme Court to reverse Apple contempt ruling over App Store commission",
-   "url": "https://9to5mac.com/2026/09/22/u-s-government-urges-supreme-court-to-reverse-apple-contempt-ruling-over-app-store-commission/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-22T23:43:00.000Z",
-   "summary": "Several legal and business groups, in addition to the U.S. government, filed briefs with the Supreme Court this week in the Apple vs. Epic Games lawsuit, urging the justices to reverse at least part of the contempt ruling against Apple. Here are the details. more…"
   }
  ]
 }
