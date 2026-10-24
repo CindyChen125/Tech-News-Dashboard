@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T23:58:08.122Z",
+ "updatedAt": "2026-10-24T04:27:29.213Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,33 @@
  ],
  "items": [
   {
+   "id": "cc40c7f85bcb9788",
+   "title": "Apple Pushes Back on DOJ Request for More Evidence",
+   "url": "https://www.macrumors.com/2026/10/24/apple-pushes-back-on-doj-request/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-24T04:02:07.000Z",
+   "summary": "Apple and the U.S. Department of Justice disagree over how much newer evidence Apple must hand over in their antitrust case, according to a new court filing this week. The two sides previously agreed to a June 20, 2025 cutoff for Apple's records. With the evidence-gathering phase now scheduled to…"
+  },
+  {
+   "id": "041db00baeefa265",
+   "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-24T01:53:10.000Z",
+   "summary": "41 points · 11 comments"
+  },
+  {
+   "id": "a2fa1fdbff727044",
+   "title": "Twelve years of distributed SQLite",
+   "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-24T01:16:58.000Z",
+   "summary": "57 points · 5 comments"
+  },
+  {
    "id": "57e4183793745eee",
    "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
    "url": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
@@ -89,6 +116,15 @@
    "section": "tech",
    "publishedAt": "2026-10-23T23:50:49.000Z",
    "summary": "In a new post on the WebKit blog highlighting what’s new in Safari 27.1, Apple’s Jen Simmons said the company is exploring ways to let websites make better use of the iPhone Duo’s outer display. Here are the details. more…"
+  },
+  {
+   "id": "3441cd214f25b2dc",
+   "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
+   "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-23T23:30:17.000Z",
+   "summary": "123 points · 67 comments"
   },
   {
    "id": "5ed1248af084ac20",
@@ -161,6 +197,15 @@
    "section": "tech",
    "publishedAt": "2026-10-23T21:59:19.000Z",
    "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
+  },
+  {
+   "id": "3c54a8d9cdd03131",
+   "title": "One Man's Pan Am 747 Replica [video]",
+   "url": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-23T21:46:51.000Z",
+   "summary": "5 points · 0 comments"
   },
   {
    "id": "26c5b949b7a94c7d",
@@ -3007,6 +3052,15 @@
    "summary": "The Eiliko robot toy. | Photo by Sean Hollister / The Verge Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of…"
   },
   {
+   "id": "ebb8a698ef69866c",
+   "title": "The Quake Fan who built the map editor everybody uses",
+   "url": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T10:55:22.000Z",
+   "summary": "20 points · 0 comments"
+  },
+  {
    "id": "f532ef6c4c5e48fe",
    "title": "iPhone Duo 2 Prototypes Include Under-Display Face ID",
    "url": "https://www.macrumors.com/2026/10/22/iphone-duo-2-prototypes-under-display-face-id/",
@@ -4906,6 +4960,15 @@
    "summary": "18 points · 16 comments"
   },
   {
+   "id": "f68c56ad66ce8e12",
+   "title": "C vs. C#: racing VLC's Gaussian blur",
+   "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T05:48:12.000Z",
+   "summary": "41 points · 1 comments"
+  },
+  {
    "id": "59a6ec2095be6dc5",
    "title": "Pillowfort Is Closing",
    "url": "https://www.pillowfort.social/posts/8413273",
@@ -5354,6 +5417,15 @@
    "section": "tech",
    "publishedAt": "2026-10-20T21:30:57.000Z",
    "summary": "Hackers aren't giving up at cracking the Playstation 5's latest firmware as evidenced by a new video showing an apparent kernel exploit."
+  },
+  {
+   "id": "b04347fd44082f2c",
+   "title": "Bringing uv and ty together",
+   "url": "https://astral.sh/blog/uv-ty-integration",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T21:30:56.000Z",
+   "summary": "60 points · 18 comments"
   },
   {
    "id": "238a9e0635994360",
@@ -6092,6 +6164,15 @@
    "section": "tech",
    "publishedAt": "2026-10-20T15:42:45.000Z",
    "summary": "94 points · 23 comments"
+  },
+  {
+   "id": "92d4ddd9a7a610e0",
+   "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+   "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-20T15:41:28.000Z",
+   "summary": "21 points · 0 comments"
   },
   {
    "id": "165abedee68b3b2a",
@@ -46349,204 +46430,6 @@
    "section": "tech",
    "publishedAt": "2026-09-24T05:07:58.000Z",
    "summary": "21 points · 2 comments"
-  },
-  {
-   "id": "efa86d7c04392ae7",
-   "title": "Contrastive Language Models",
-   "url": "https://contrastive-lm.notion.site/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-24T04:20:59.000Z",
-   "summary": "5 points · 3 comments"
-  },
-  {
-   "id": "ba61dea7cf15a13d",
-   "title": "16GB iPod Nano 3G Upgrade",
-   "url": "https://tuckerosman.com/projects/16gb-ipod-nano",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-24T03:58:54.000Z",
-   "summary": "15 points · 1 comments"
-  },
-  {
-   "id": "39e3a33e2525c5d2",
-   "title": "Ideas on modernizing the open-source desktop",
-   "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-24T02:52:09.000Z",
-   "summary": "35 points · 12 comments"
-  },
-  {
-   "id": "e55ab9d2567bec63",
-   "title": "OpenAI agent hacked Australian government website, PM says",
-   "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-24T02:44:48.000Z",
-   "summary": "88 points · 49 comments"
-  },
-  {
-   "id": "50e2d5911c9dad42",
-   "title": "Meta announces camera-free glasses, dedicated Muse AI gadget, more",
-   "url": "https://9to5mac.com/2026/09/23/meta-announces-camera-free-glasses-dedicated-muse-ai-gadget-more/",
-   "source": "9to5Mac",
-   "section": "ai",
-   "publishedAt": "2026-09-24T01:24:44.000Z",
-   "summary": "Meta announced today a series of AI-powered devices, including the Muse Charm, a palm-sized gadget designed specifically for its new Muse AI assistant. Here are the details. more…"
-  },
-  {
-   "id": "542567092082fcbf",
-   "title": "Australia says OpenAI agent hacked into government website",
-   "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-24T01:24:00.000Z",
-   "summary": "95 points · 61 comments"
-  },
-  {
-   "id": "e1a12969e3f092c0",
-   "title": "FLAWED's Flaws and What This Means for Industry Research",
-   "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-24T01:16:33.000Z",
-   "summary": "19 points · 4 comments"
-  },
-  {
-   "id": "48a29c19af51cb7c",
-   "title": "Everything new coming to Meta’s AI agent Muse",
-   "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-24T01:13:32.000Z",
-   "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses."
-  },
-  {
-   "id": "67ddeed55889fb9f",
-   "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-   "url": "https://github.com/nestrilabs/virtio-nvgpu",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-24T01:02:23.000Z",
-   "summary": "54 points · 20 comments"
-  },
-  {
-   "id": "bfa32ce5ec6155c0",
-   "title": "Scientists build most accurate atomic clock",
-   "url": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-24T01:00:01.000Z",
-   "summary": "14 points · 4 comments"
-  },
-  {
-   "id": "3be5d6a1ec123a52",
-   "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-   "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-24T00:46:17.000Z",
-   "summary": "The tiny hardware device creates another mobile home for its AI agent Muse."
-  },
-  {
-   "id": "d3ac8ee75fe6cab6",
-   "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
-   "url": "https://carbon.ms/self-hosted",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-24T00:45:17.000Z",
-   "summary": "20 points · 11 comments"
-  },
-  {
-   "id": "b1fa1db1de3f6523",
-   "title": "Feds Target AI Critics as \"Foreign Agents\"",
-   "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-24T00:41:31.000Z",
-   "summary": "198 points · 182 comments"
-  },
-  {
-   "id": "5ab803f34fe29fac",
-   "title": "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
-   "url": "https://www.osti.gov/servlets/purl/1124870",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-24T00:34:11.000Z",
-   "summary": "14 points · 6 comments"
-  },
-  {
-   "id": "51c39c72191db274",
-   "title": "Meta is making a standalone Muse AI gadget",
-   "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-   "source": "The Verge",
-   "section": "ai",
-   "publishedAt": "2026-09-24T00:15:20.000Z",
-   "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smart watch without the strap - just a big screen, plus a little…"
-  },
-  {
-   "id": "b6cc9eb48258d01d",
-   "title": "ChatGPT in Siri 'Persistently Underperforming,' Says OpenAI",
-   "url": "https://www.macrumors.com/2026/09/23/openai-siri-chatgpt-underperforming/",
-   "source": "MacRumors",
-   "section": "ai",
-   "publishedAt": "2026-09-24T00:15:17.000Z",
-   "summary": "OpenAI saw disappointing results working with Apple to integrate ChatGPT in Siri, according to court documents filed [PDF] in its ongoing legal fight with Elon Musk's company SpaceXAI (xAI at the time the lawsuit was filed). Apple added ChatGPT to ‌Siri‌ in December 2024, but users had to go…"
-  },
-  {
-   "id": "5ababc0ec7481f28",
-   "title": "Everything announced at Meta Connect 2026",
-   "url": "https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-24T00:07:34.000Z",
-   "summary": "VR glasses, Aviator-style Ray-Ban Meta specs, Ace Attorney in virtual reality and much more."
-  },
-  {
-   "id": "96426152960be3ff",
-   "title": "Meta put Muse in a Tamagotchi like 'Charm' device",
-   "url": "https://www.engadget.com/2267229/meta-put-muse-in-a-tamagotchi-like-charm-device/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-24T00:05:03.000Z",
-   "summary": "Meta Charm is a Tamagotchi-like device with Muse AI."
-  },
-  {
-   "id": "b71d1dcac437a030",
-   "title": "Meta will stop training its AI on 'visual data' from its smart glasses — if you opt out",
-   "url": "https://www.engadget.com/2267227/meta-will-stop-training-its-ai-on-visual-data-from-its-smart-glasses-if-you-opt-out/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-09-24T00:00:44.000Z",
-   "summary": "Somewhere, a contractor just breathed a sigh of relief."
-  },
-  {
-   "id": "9b6f1a10ff955c7b",
-   "title": "Meta Connect 2026: The 7 biggest announcements",
-   "url": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-24T00:00:33.000Z",
-   "summary": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style frame with a tethered puck. Meta also announced new pairs of screen-free smart…"
-  },
-  {
-   "id": "496a1cf5d0910cda",
-   "title": "Meta VR Glasses hands-on: Hand and eye tracking is so much better than a controller",
-   "url": "https://www.engadget.com/2267222/meta-vr-glasses-hands-on-hand-tracking/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-24T00:00:00.000Z",
-   "summary": "Instead of a new Quest headset, the company showed off a more portable but less immersive device today."
-  },
-  {
-   "id": "a95f207a8e2dea55",
-   "title": "OpenAI says Apple Intelligence users showed little interest in ChatGPT integration",
-   "url": "https://9to5mac.com/2026/09/23/openai-says-apple-intelligence-users-showed-little-interest-in-chatgpt-integration/",
-   "source": "9to5Mac",
-   "section": "ai",
-   "publishedAt": "2026-09-23T23:58:31.000Z",
-   "summary": "As reported by The Financial Times, new court filings show that OpenAI was disappointed by the adoption of ChatGPT through Apple Intelligence, which it says “dramatically underperformed” after launching in 2024. Here are the details. more…"
   }
  ]
 }
