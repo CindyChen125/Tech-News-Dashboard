@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24T04:27:29.213Z",
+ "updatedAt": "2026-10-24T09:05:11.097Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,33 @@
  ],
  "items": [
   {
+   "id": "b9a3d8b847087b46",
+   "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+   "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-24T05:49:57.000Z",
+   "summary": "91 points · 16 comments"
+  },
+  {
+   "id": "0b8c9dfa1ad70138",
+   "title": "Apple Closes French Stores Ahead of Further Protests",
+   "url": "https://www.macrumors.com/2026/10/24/apple-closes-french-stores/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-24T04:51:16.000Z",
+   "summary": "Seven Apple stores across France are closed on today, as the country prepares for another round of demonstrations a week after looters targeted two of the company's locations. As first spotted by MacGeneration, the affected stores include all three Paris locations: Champs-Élysées, Opéra, and Marché…"
+  },
+  {
+   "id": "b9f3a7837591c5fb",
+   "title": "OBS Studio 33",
+   "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-24T04:49:58.000Z",
+   "summary": "116 points · 31 comments"
+  },
+  {
    "id": "cc40c7f85bcb9788",
    "title": "Apple Pushes Back on DOJ Request for More Evidence",
    "url": "https://www.macrumors.com/2026/10/24/apple-pushes-back-on-doj-request/",
@@ -89,6 +116,33 @@
    "section": "tech",
    "publishedAt": "2026-10-24T04:02:07.000Z",
    "summary": "Apple and the U.S. Department of Justice disagree over how much newer evidence Apple must hand over in their antitrust case, according to a new court filing this week. The two sides previously agreed to a June 20, 2025 cutoff for Apple's records. With the evidence-gathering phase now scheduled to…"
+  },
+  {
+   "id": "fbb246d225dbd1cb",
+   "title": "How close can pure functional programming get to C?",
+   "url": "https://rtfeldman.com/fp-vs-c",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-24T03:43:54.000Z",
+   "summary": "106 points · 10 comments"
+  },
+  {
+   "id": "5caacd4e3db4f913",
+   "title": "How Block Blast harvests its players for ad money",
+   "url": "https://ayoships.com/breakdowns/block-blast",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-24T02:43:43.000Z",
+   "summary": "44 points · 10 comments"
+  },
+  {
+   "id": "95ce4217b412a1bf",
+   "title": "Apple Security Research Device",
+   "url": "https://security.apple.com/research-device/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-24T02:36:38.000Z",
+   "summary": "54 points · 14 comments"
   },
   {
    "id": "041db00baeefa265",
@@ -107,6 +161,15 @@
    "section": "tech",
    "publishedAt": "2026-10-24T01:16:58.000Z",
    "summary": "57 points · 5 comments"
+  },
+  {
+   "id": "be7d779eea0af74b",
+   "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+   "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-24T01:15:14.000Z",
+   "summary": "41 points · 2 comments"
   },
   {
    "id": "57e4183793745eee",
@@ -2944,6 +3007,15 @@
    "summary": "Formula 1® returns to the U.S. this weekend with the United States Grand Prix™, streaming in the U.S. exclusively on Apple TV."
   },
   {
+   "id": "bc6d08b40d6706da",
+   "title": "How to run a city builder on 16 MHz",
+   "url": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T12:40:56.000Z",
+   "summary": "3 points · 0 comments"
+  },
+  {
    "id": "0c7bea94ea1d8e70",
    "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
    "url": "https://lastmuseum.com/",
@@ -3808,6 +3880,15 @@
    "summary": "24 points · 6 comments"
   },
   {
+   "id": "069c7539a5056f28",
+   "title": "Physicists trap a single antimatter particle for a month",
+   "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T19:40:01.000Z",
+   "summary": "16 points · 8 comments"
+  },
+  {
    "id": "58eb6e56b226a8b6",
    "title": "Anthropic takes on ChatGPT Dots and Meta Muse with Claude Duet",
    "url": "https://9to5mac.com/2026/10/21/anthropic-takes-on-chatgpt-dots-and-meta-muse-with-claude-duet/",
@@ -3932,6 +4013,15 @@
    "section": "ai",
    "publishedAt": "2026-10-21T18:51:42.000Z",
    "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks."
+  },
+  {
+   "id": "1e990992e28d5957",
+   "title": "A Cocktail Party in the Street: An Interview with Alan Stillman (2010)",
+   "url": "https://www.ediblegeography.com/a-cocktail-party-in-the-street-an-interview-with-alan-stillman/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T18:49:51.000Z",
+   "summary": "5 points · 0 comments"
   },
   {
    "id": "c6570ea862e5b80f",
@@ -5068,6 +5158,15 @@
    "summary": "22 points · 5 comments"
   },
   {
+   "id": "ce5f8c11e134113a",
+   "title": "The Best Monopoly Strategy, Tested on 300M Games [video]",
+   "url": "https://www.youtube.com/watch?v=S_2eVAaw1UM",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T03:30:11.000Z",
+   "summary": "22 points · 12 comments"
+  },
+  {
    "id": "3a2325ebb89e31ba",
    "title": "Apple Could Owe Even More After $5.7 Billion Patent Verdict",
    "url": "https://www.macrumors.com/2026/10/20/apple-could-owe-more-after-patent-verdict/",
@@ -5723,6 +5822,15 @@
    "section": "tech",
    "publishedAt": "2026-10-20T19:25:14.000Z",
    "summary": "TP-Link can't sell latest routers in US despite rivals getting FCC approvals."
+  },
+  {
+   "id": "9072cc828f83fd82",
+   "title": "A practical guide to AI image generation, from diffusion to agents",
+   "url": "https://danielball.com/notes/ai_image_generation.html",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-20T19:22:39.000Z",
+   "summary": "81 points · 21 comments"
   },
   {
    "id": "e159ced43012bded",
@@ -46322,114 +46430,6 @@
    "section": "tech",
    "publishedAt": "2026-09-24T09:08:59.000Z",
    "summary": "Nikon's Z5 IIC is an inexpensive but powerful full-frame camera."
-  },
-  {
-   "id": "b31e25bda1de9587",
-   "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-   "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
-   "source": "The Verge",
-   "section": "ai",
-   "publishedAt": "2026-09-24T09:04:18.000Z",
-   "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently…"
-  },
-  {
-   "id": "1118609675875157",
-   "title": "Meta Did a 'One More Thing' and It's an AI Tamagotchi",
-   "url": "https://www.macrumors.com/2026/09/24/meta-did-a-one-more-thing-and-its-an-ai-tamagotchi/",
-   "source": "MacRumors",
-   "section": "ai",
-   "publishedAt": "2026-09-24T08:54:11.000Z",
-   "summary": "Apple has reportedly shelved plans to launch an AI pendant, while Meta appears to be going all out in the nascent hardware space with a new handheld AI companion. Mark Zuckerberg used his \"one more thing\" moment at the company's annual Connect event on Wednesday to unveil the Muse Charm, a puck…"
-  },
-  {
-   "id": "6d21ef35fdc19f5d",
-   "title": "The Lost Atomic Update on Loongson CPU",
-   "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-24T08:36:40.000Z",
-   "summary": "43 points · 1 comments"
-  },
-  {
-   "id": "ec1cab12b3f3210a",
-   "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-   "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-24T08:23:03.000Z",
-   "summary": "208 points · 85 comments"
-  },
-  {
-   "id": "9a06cca626f92e3b",
-   "title": "Opera’s free built-in VPN can now turn on automatically when using public Wi-Fi",
-   "url": "https://9to5mac.com/2026/09/24/operas-free-built-in-vpn-can-now-turn-on-automatically-when-using-public-wi-fi/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-24T08:00:00.000Z",
-   "summary": "Opera announced today that its free, built-in VPN for desktop can now automatically activate when users connect to public or unsecured Wi-Fi networks. Here are the details. more…"
-  },
-  {
-   "id": "03133731b37f8844",
-   "title": "The Year of Internal Tools",
-   "url": "https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-24T07:23:07.000Z",
-   "summary": "5 points · 0 comments"
-  },
-  {
-   "id": "671440cc7e54f073",
-   "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-   "url": "https://cms-sfx-demo.apeleg.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-24T07:22:17.000Z",
-   "summary": "26 points · 12 comments"
-  },
-  {
-   "id": "801454b5937b650b",
-   "title": "Apple says software update to fix iPhone 18 Pro rebooting bug is coming next week",
-   "url": "https://9to5mac.com/2026/09/23/apple-iphone-18-pro-rebooting-bug-software-update-fix/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-24T06:43:49.000Z",
-   "summary": "On Monday, we reported on an issue where iPhone 18 Pro and iPhone 18 Pro Max users were seeing their phone freeze and reboot following a failed Face ID attempt. To us, it appeared to be a software glitch rather than an inherent hardware fault. Apple has now confirmed to 9to5Mac that a software…"
-  },
-  {
-   "id": "bc0a08f451f1cd2c",
-   "title": "iPhone Handoff in iOS 27: How It Works, Pricing, and Carrier Support",
-   "url": "https://www.macrumors.com/guide/iphone-handoff-how-it-works-carrier-support-cost/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-24T06:25:03.000Z",
-   "summary": "Apple in iOS 27 introduced iPhone Handoff, a new eSIM feature that allows you to use the same number on two iPhones and seamlessly swap between them. The number is only active on one iPhone at a time, so it's not like having two independently active lines. It's also different from Apple's existing…"
-  },
-  {
-   "id": "648c12ee59c80749",
-   "title": "Browsers Situationship: When Browsers Agree but the Spec Doesn't",
-   "url": "https://www.atbrakhi.dev/blog/browsers-situationship",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-24T05:52:39.000Z",
-   "summary": "7 points · 2 comments"
-  },
-  {
-   "id": "a7634bd0f09f33f3",
-   "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-   "url": "https://transluce.org/agent-activity",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-24T05:21:10.000Z",
-   "summary": "150 points · 123 comments"
-  },
-  {
-   "id": "a4244c3d396d5a3d",
-   "title": "Six-year-old breaks women's world Rubik's Cube record [video]",
-   "url": "https://www.youtube.com/watch?v=UCMRgvyTm08",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-24T05:07:58.000Z",
-   "summary": "21 points · 2 comments"
   }
  ]
 }
