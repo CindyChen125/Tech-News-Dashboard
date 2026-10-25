@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T10:06:18.323Z",
+ "updatedAt": "2026-10-25T14:20:45.109Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,172 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 30
+   "count": 31
   }
  ],
  "items": [
+  {
+   "id": "dbe11ad6b9763353",
+   "title": "Why are earbuds usually cheaper than headphones?",
+   "url": "https://www.engadget.com/2293014/why-earbuds-cheaper-than-headphones/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-25T14:15:00.000Z",
+   "summary": "Earbuds tend to be smaller and less complex to build than headphones."
+  },
+  {
+   "id": "c1f37a92854bf847",
+   "title": "The hottest AI wearables and gadgets you should know about",
+   "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-25T14:10:00.000Z",
+   "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+  },
+  {
+   "id": "efacc881528c7380",
+   "title": "Samsung probably isn't rebranding One UI as Galaxy OS",
+   "url": "https://www.engadget.com/2292973/samsung-probably-not-rebranding-one-ui-as-galaxy-os/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-25T13:45:00.000Z",
+   "summary": "A bunch of recent rumors have suggested Samsung has some changes in store for its smartphone interface."
+  },
+  {
+   "id": "57939532cc6bf0d8",
+   "title": "Quantum computers can get colder than deep space — Here's how they stay running",
+   "url": "https://www.engadget.com/2292950/how-quantum-computer-stays-running-extreme-cold/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-25T13:30:00.000Z",
+   "summary": "Heat disrupts the accuracy of a quantum computer, so the computer needs to be kept as cold as possible. Which is extremely cold, it turns out."
+  },
+  {
+   "id": "07365c70076cf888",
+   "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
+   "url": "https://github.com/winnin/farol",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T13:28:06.000Z",
+   "summary": "8 points · 3 comments"
+  },
+  {
+   "id": "c7b677fb3668186d",
+   "title": "r/opensource just banned AI, non-English speakers, and more",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-25T13:25:32.000Z",
+   "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to…"
+  },
+  {
+   "id": "10b3d1c4598a0bd7",
+   "title": "Don't throw away your old Chromebook (even if you're getting a Googlebook)",
+   "url": "https://www.engadget.com/2292939/dont-throw-away-old-chromebook-even-if-getting-googlebook/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-25T13:15:00.000Z",
+   "summary": "There's plenty an old Chromebook can do, even if it's not your main computer."
+  },
+  {
+   "id": "f02ffa579c7eed6b",
+   "title": "The Lego group reveals collaboration with Daft Punk",
+   "url": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T12:48:11.000Z",
+   "summary": "24 points · 15 comments"
+  },
+  {
+   "id": "f9323c844ede9f30",
+   "title": "When AI glasses could be a worthy headphones replacement",
+   "url": "https://www.engadget.com/2292076/when-ai-glasses-worth-headphones-replacement/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-25T12:45:00.000Z",
+   "summary": "Smart AI glasses are everywhere, but is the audio any good? It really depends on what you're using them for."
+  },
+  {
+   "id": "4616ab4f6e143ef3",
+   "title": "Challenge Is Gone",
+   "url": "https://blog.alxgsv.com/challenge-is-gone/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T12:43:52.000Z",
+   "summary": "46 points · 46 comments"
+  },
+  {
+   "id": "a582e579493bc90b",
+   "title": "Tool book of a Nuremberg knight from 1505",
+   "url": "https://loeffelholz-codex.org/en/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T12:37:54.000Z",
+   "summary": "44 points · 5 comments"
+  },
+  {
+   "id": "021ca3150be3f820",
+   "title": "Don't throw away your old speakers — Use them for your TV instead",
+   "url": "https://www.engadget.com/2291638/dont-throw-away-old-speakers-use-for-tv-instead/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-25T12:30:00.000Z",
+   "summary": "Old speakers often get set aside alongside the device they were used with, but you may still be able to use them with your current tech."
+  },
+  {
+   "id": "a1aed65184c2ca42",
+   "title": "Smart bulbs are easy to install, but this smart home upgrade is more inclusive",
+   "url": "https://www.engadget.com/2291551/smart-bulbs-easy-install-smart-switch-home-upgrade-more-inclusive/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-25T12:15:00.000Z",
+   "summary": "Smart bulbs are a natural entry point to smart home tech, but they come with some annoyances. Use these instead."
+  },
+  {
+   "id": "f12e6edebe0eabde",
+   "title": "Google’s AI search changes upended online publishing",
+   "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-25T12:00:00.000Z",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing…"
+  },
+  {
+   "id": "7422cbba992b10c6",
+   "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+   "url": "https://github.com/ihhub/fheroes2",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T11:09:12.000Z",
+   "summary": "83 points · 25 comments"
+  },
+  {
+   "id": "985b8bf012f55d40",
+   "title": "Some iPhone Duo displays are cracking, seemingly all in the same way",
+   "url": "https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-25T10:45:33.000Z",
+   "summary": "Following the iPhone Duo launch on Friday, a number of owners are reporting that their inner screens have cracked and broken on their own (top image via scary_duck23 on Reddit). The affected units all seem to break in the same way. The screen cracks down the center line of the hinge, and a…"
+  },
+  {
+   "id": "04a935736f002cf5",
+   "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+   "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T10:42:01.000Z",
+   "summary": "149 points · 93 comments"
+  },
+  {
+   "id": "ae440b3a41382821",
+   "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+   "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-25T09:51:17.000Z",
+   "summary": "53 points · 11 comments"
+  },
   {
    "id": "06e2aecc2c272d1a",
    "title": "Online censorship is crushing indie webcomics",
@@ -3484,6 +3646,15 @@
    "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were…"
   },
   {
+   "id": "0ee2e6dc5ea61a6f",
+   "title": "Reverse engineer of PC-98 Touhou games retires",
+   "url": "https://rec98.nmlgc.net/blog/2026-10-05",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T16:16:01.000Z",
+   "summary": "27 points · 27 comments"
+  },
+  {
    "id": "75f21848268df23b",
    "title": "Getting ready to operate GNU Taler in Germany",
    "url": "https://www.taler.net/en/news/2026-13.html",
@@ -4067,6 +4238,15 @@
    "section": "tech",
    "publishedAt": "2026-10-22T11:50:36.000Z",
    "summary": "198 points · 58 comments"
+  },
+  {
+   "id": "fb41df865c25f287",
+   "title": "Did it just build.. a clock?",
+   "url": "https://theclock.online/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T11:45:29.000Z",
+   "summary": "3 points · 8 comments"
   },
   {
    "id": "108e6eae882a75ba",
@@ -45566,375 +45746,6 @@
    "section": "tech",
    "publishedAt": "2026-09-25T14:21:25.000Z",
    "summary": "Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images into precut stickers. The Cricut StickerPix Print plus Cut and Cricut StickerPix Print are also two of the smallest machines in the…"
-  },
-  {
-   "id": "9b1c1947cc598409",
-   "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-   "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-25T14:15:00.000Z",
-   "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people."
-  },
-  {
-   "id": "1246df76d53adae0",
-   "title": "Gaming’s biggest horror series are more vital than ever",
-   "url": "https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-25T14:10:00.000Z",
-   "summary": "For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2, then the Japan-set spinoff Silent Hill F. Now I find myself slowly crawling through a quaint Scottish town in Silent Hill: Townfall, trying my best not to get…"
-  },
-  {
-   "id": "e8597657229c5891",
-   "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
-   "url": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-25T14:07:46.000Z",
-   "summary": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost."
-  },
-  {
-   "id": "4cb586777fb2c5e4",
-   "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-25T14:07:08.000Z",
-   "summary": "58 points · 47 comments"
-  },
-  {
-   "id": "9fe99eb78ad88930",
-   "title": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
-   "url": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-25T14:05:04.000Z",
-   "summary": "“We’re not Luddites... it’s just we don’t want social media, browsing, and that kind of stuff,\" said 25-year-old founder Shreyas Narlanka."
-  },
-  {
-   "id": "f156c1a8c8d5c5bb",
-   "title": "Allow Carriers on Planes",
-   "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T14:00:10.000Z",
-   "summary": "170 points · 201 comments"
-  },
-  {
-   "id": "c855f4b72d94ce2d",
-   "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-   "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-25T14:00:00.000Z",
-   "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle."
-  },
-  {
-   "id": "05d18eb53aa60706",
-   "title": "First Principles Thinking",
-   "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T13:55:37.000Z",
-   "summary": "114 points · 53 comments"
-  },
-  {
-   "id": "c571ca09cb1b5476",
-   "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
-   "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T13:49:06.000Z",
-   "summary": "124 points · 350 comments"
-  },
-  {
-   "id": "f4e796ea0af3d1f9",
-   "title": "Does Georgism work? Five years later",
-   "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T13:48:38.000Z",
-   "summary": "5 points · 0 comments"
-  },
-  {
-   "id": "a23047c458a32deb",
-   "title": "What happens when you analyze your favorite college football team like the CIA?",
-   "url": "https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T13:47:21.000Z",
-   "summary": "4 points · 2 comments"
-  },
-  {
-   "id": "d050f16d793f33b8",
-   "title": "The state of SIMD in Rust in 2026",
-   "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T13:46:34.000Z",
-   "summary": "63 points · 17 comments"
-  },
-  {
-   "id": "a17d42154555f81c",
-   "title": "Trump administration takes Musk’s side in fight over EU tech rules",
-   "url": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-25T13:45:49.000Z",
-   "summary": "Washington says Brussels overreached when it fined X €120 million under the DSA."
-  },
-  {
-   "id": "bc4053aa2611b6f2",
-   "title": "iPhone Duo video shows left-handed use for new model",
-   "url": "https://9to5mac.com/2026/09/25/iphone-duo-video-shows-left-handed-use-for-new-model/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-25T13:45:26.000Z",
-   "summary": "iPhone Duo is less than a month away, but many prospective buyers are still wondering how well the device will work in left-handed use. Here’s a video that shows a left-handed example. more…"
-  },
-  {
-   "id": "1c2ea56b53ead4a8",
-   "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
-   "url": "https://hackeratlas.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T13:37:54.000Z",
-   "summary": "32 points · 8 comments"
-  },
-  {
-   "id": "e5af3eb5df32efa9",
-   "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
-   "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-25T13:24:34.000Z",
-   "summary": "The $351 million theft from crypto exchange Bitget is the latest in a string of high profile hacks targeting the crypto sector."
-  },
-  {
-   "id": "caa0be9b9eb2ccb6",
-   "title": "A New Experiment Meta-Strategy",
-   "url": "https://chillphysicsenjoyer.substack.com/p/a-new-experiment-meta-strategy",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T13:20:04.000Z",
-   "summary": "10 points · 0 comments"
-  },
-  {
-   "id": "3061b1d2223d3473",
-   "title": "Apple Wallet in iOS 27 adds feature that’s been on my wishlist for years",
-   "url": "https://9to5mac.com/2026/09/25/apple-wallet-in-ios-27-adds-feature-thats-been-on-my-wishlist-for-years/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-25T13:10:12.000Z",
-   "summary": "iOS 27 adds a variety of new features and changes for Apple Wallet, including one that’s been on my wishlist for years: the ability to import physical passes. more…"
-  },
-  {
-   "id": "8b554cafe0358bc9",
-   "title": "We Should Be Able to Change Our Languages",
-   "url": "http://jimmyhmiller.com/change-our-languages",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T13:00:10.000Z",
-   "summary": "27 points · 10 comments"
-  },
-  {
-   "id": "153fc02a0f13077e",
-   "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-   "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-   "source": "The Verge",
-   "section": "ai",
-   "publishedAt": "2026-09-25T13:00:00.000Z",
-   "summary": "I used Google’s Nest Doorbell (left), Aqara’s HomeKit-compatible G400 (center), and the Ring Pro 4K (right) to test the new AI features of Gemini for Home, Apple Intelligence for Home, and Amazon’s Ring. | Photo by Jennifer Pattison Tuohy / The Verge A few years back, I was at a beachside Easter…"
-  },
-  {
-   "id": "c449493f464970dc",
-   "title": "Nobody Asked for a Crab Chair",
-   "url": "https://newmobility.com/nobody-asked-for-a-crab-chair/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T12:48:00.000Z",
-   "summary": "7 points · 5 comments"
-  },
-  {
-   "id": "457fcf11de9af04d",
-   "title": "The Test",
-   "url": "https://tante.cc/2026/09/24/the-test/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T12:14:02.000Z",
-   "summary": "28 points · 3 comments"
-  },
-  {
-   "id": "8b9959214cf11821",
-   "title": "I'm Tired of Being on the Network",
-   "url": "https://matduggan.com/im-tired-of-being-on-the-network/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T12:13:55.000Z",
-   "summary": "51 points · 43 comments"
-  },
-  {
-   "id": "3e45e8bcb5378936",
-   "title": "AirPods just got a long-requested feature in new software update",
-   "url": "https://9to5mac.com/2026/09/25/airpods-just-got-a-long-requested-feature-in-new-update/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-25T12:04:47.000Z",
-   "summary": "While it was overshadowed by release of iOS 27, Apple also released a new software update for AirPods this month. The update brings a long-requested feature to supported AirPods models: custom EQ. more…"
-  },
-  {
-   "id": "eeda685a1beb7bb3",
-   "title": "Insta360 conquered 360 cameras — now it’s eyeing glasses",
-   "url": "https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-25T12:00:00.000Z",
-   "summary": "It's right there in the name: \"Insta360\" makes 360-degree cameras, ones that film every angle simultaneously so you can shoot first and frame later. It didn't invent the idea, but Insta360 has become so synonymous with 360 cameras that it dominates the category with 73 percent of worldwide…"
-  },
-  {
-   "id": "1ec5198b3c58d22b",
-   "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-   "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-   "source": "The Verge",
-   "section": "ai",
-   "publishedAt": "2026-09-25T12:00:00.000Z",
-   "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it…"
-  },
-  {
-   "id": "14a8ed9869f53e5e",
-   "title": "Microsoft's Copilot app adds Office, natural coding and automation",
-   "url": "https://www.engadget.com/2268096/microsofts-copilot-app-adds-office-natural-coding-and-automation/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-09-25T12:00:00.000Z",
-   "summary": "Microsoft is giving its Copilot app another facelift."
-  },
-  {
-   "id": "b3645388c4a3916d",
-   "title": "SpaceX Starship's first orbital flight test on track after successful launch rehearsal",
-   "url": "https://www.engadget.com/2268608/spacex-starship-first-orbit-flight-set-for-september-28/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-25T11:55:23.000Z",
-   "summary": "SpaceX has completed a wet dress rehearsal for Starship, in preparation for its first orbital test flight."
-  },
-  {
-   "id": "77bd6a2358fe9def",
-   "title": "Silicon Valley 'sex assault list' with 'over 100' names circulated",
-   "url": "https://nypost.com/2026/09/24/tech/silicon-valley-sex-assault-list-with-over-100-names-circulated-warning-female-tech-workers-of-predators-to-avoid/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T11:52:27.000Z",
-   "summary": "30 points · 9 comments"
-  },
-  {
-   "id": "75174e2c55099a6a",
-   "title": "Platform-Independent SIMD in Go",
-   "url": "https://go.dev/blog/simd-experiment",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T11:47:06.000Z",
-   "summary": "67 points · 15 comments"
-  },
-  {
-   "id": "94b07696207d2f66",
-   "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-   "url": "https://github.com/git-bug/git-bug",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T11:38:31.000Z",
-   "summary": "60 points · 13 comments"
-  },
-  {
-   "id": "bf1eed0666514a7f",
-   "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-   "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
-   "source": "Ars Technica",
-   "section": "ai",
-   "publishedAt": "2026-09-25T11:00:28.000Z",
-   "summary": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\""
-  },
-  {
-   "id": "d7756e7e886079f3",
-   "title": "Rocket Report: Era of cheap launch is over? Astra sets early 2027 target for return",
-   "url": "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-25T11:00:10.000Z",
-   "summary": "\"The customer got comfortable with a high reliability and a low price.\""
-  },
-  {
-   "id": "5393e8500aea8015",
-   "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-   "url": "https://github.com/InfinityLoop1308/PipePipe",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T10:55:40.000Z",
-   "summary": "133 points · 64 comments"
-  },
-  {
-   "id": "af629b6d11c561a2",
-   "title": "Google adds creepy avatars to Gemini 3.8 live's agents",
-   "url": "https://www.engadget.com/2268587/google-video-avatars-gemini-3-8-live-agent/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-09-25T10:53:55.000Z",
-   "summary": "Google has introduced Gemini 3.8 live avatars designed for customer service and other tasks."
-  },
-  {
-   "id": "6c106b554ec2e344",
-   "title": "Create a Custom Pass in the Wallet App on iPhone",
-   "url": "https://www.macrumors.com/how-to/create-a-custom-pass-in-the-wallet-app-on-iphone/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-25T10:44:22.000Z",
-   "summary": "In iOS 27, Apple's Wallet app lets you create custom passes for things like event tickets, gift cards, loyalty cards, and more. Here's how it works. If you have a ticket for an event and there's not a digital version available for the Wallet app, you can create one using the physical pass you have…"
-  },
-  {
-   "id": "c5d4d0a4f6fba1ed",
-   "title": "Show HN: Agentic CUDA Kernel Optimizer",
-   "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-25T10:32:58.000Z",
-   "summary": "22 points · 1 comments"
-  },
-  {
-   "id": "e7bc495e221c59e4",
-   "title": "The Mafia may be keeping fentanyl out of Italy",
-   "url": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T10:20:20.000Z",
-   "summary": "130 points · 151 comments"
-  },
-  {
-   "id": "a7eaab0cb615c89b",
-   "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
-   "url": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T10:19:36.000Z",
-   "summary": "86 points · 71 comments"
-  },
-  {
-   "id": "00f27f128e711b2b",
-   "title": "An airport cooled by natural ventilation",
-   "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T10:16:50.000Z",
-   "summary": "39 points · 16 comments"
-  },
-  {
-   "id": "d6eb0e94a5991382",
-   "title": "I wrote a ray tracer in Brainfuck",
-   "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T10:08:41.000Z",
-   "summary": "20 points · 7 comments"
   }
  ]
 }
