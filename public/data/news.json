@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T20:45:09.751Z",
+ "updatedAt": "2026-10-25T23:10:55.094Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,168 @@
  ],
  "items": [
   {
+   "id": "d5d151b447cdf78e",
+   "title": "Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix",
+   "url": "https://www.macrumors.com/2026/10/25/apple-blocks-compromised-emudhra-certificates/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-25T23:07:36.000Z",
+   "summary": "Earlier this month, a security researcher discovered that private cryptographic keys associated with eight of Indian company eMudhra's intermediate certificate authority (CA) certificates were weak. The compromised keys could have allowed attackers to impersonate legitimate websites, potentially…"
+  },
+  {
+   "id": "5b451f15ff952d21",
+   "title": "Most Windows users are seriously underusing this powerful desktop feature",
+   "url": "https://www.engadget.com/2294241/why-should-use-multiple-desktop-windows/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-25T23:00:00.000Z",
+   "summary": "Windows has an option to give you more working desktop space, but you might have overlooked it."
+  },
+  {
+   "id": "d2bfe1a985c8511f",
+   "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+   "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-25T22:49:06.000Z",
+   "summary": "7 points · 1 comments"
+  },
+  {
+   "id": "cd0e90913ec667b7",
+   "title": "Does TSA actually allow AirTags in your luggage? Here's what the rules say",
+   "url": "https://www.engadget.com/2294102/does-tsa-allow-airtags-in-luggage-what-rules-say/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-25T22:45:00.000Z",
+   "summary": "Airlines don't want you to put batteries in your checked luggage, but how does this affect tiny batteries like those in AirTags?"
+  },
+  {
+   "id": "8595ee03fcbfeb8a",
+   "title": "Don't throw away your old, unsupported Nest gadgets — Do this instead",
+   "url": "https://www.engadget.com/2294122/dont-throw-away-your-old-unsupported-nest-gadgets/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-25T22:30:00.000Z",
+   "summary": "If you have a first- or second-generation Nest Learning Thermostat, you may be wondering if it's still worth having."
+  },
+  {
+   "id": "6c15fc3e82249404",
+   "title": "iPhone Duo Can Run Automations When You Open or Close It",
+   "url": "https://www.macrumors.com/2026/10/25/iphone-duo-automation-opened-or-closed/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-25T22:26:58.000Z",
+   "summary": "The iPhone Duo includes a new Shortcuts automation trigger that runs actions when the device is opened or closed. YouTuber Stephen Robles highlighted the trigger, which is called \"Opened or Closed\" and can be found under the Display automations category. It was first spotted in September by code…"
+  },
+  {
+   "id": "997b7fb9ecef8539",
+   "title": "Europe's summer heat wave killed more han 50k people in urban areas",
+   "url": "https://www.science.org/content/article/europe-s-summer-heat-wave-killed-more-50-000-people-urban-areas",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T22:02:33.000Z",
+   "summary": "12 points · 4 comments"
+  },
+  {
+   "id": "1ca799aa1c7137d8",
+   "title": "Adjust iPhone Duo's Outer Display to Accommodate Your Case",
+   "url": "https://www.macrumors.com/how-to/iphone-duo-setting-makes-room-for-case/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-25T22:00:02.000Z",
+   "summary": "On iPhone Duo, Apple includes a display setting for cases or frames that partially cover the left edge of the outer display. It's called Shift Left Edge, and it insets the display edge so that on-screen content isn't hidden beneath the case. We first covered the setting in September, and Apple has…"
+  },
+  {
+   "id": "1b82459dac3c8a74",
+   "title": "Your devices could be on the wrong Wi-Fi band, and it's slowing them down",
+   "url": "https://www.engadget.com/2294022/devices-could-be-wrong-wifi-band-slowing-them-down/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-25T22:00:00.000Z",
+   "summary": "Your router has two or perhaps three bands, and choosing the right one for each device is vital for performance."
+  },
+  {
+   "id": "29cc9ae8bb128f96",
+   "title": "iFixit iPhone Duo Teardown Points to Possible Cause of Screen Cracks",
+   "url": "https://www.macrumors.com/2026/10/25/ifixit-iphone-duo-teardown/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-25T21:44:03.000Z",
+   "summary": "Teardown site iFixit took apart the iPhone Duo to see what's inside, how it holds up to dust, and how repairable it is. There's a video walking through the teardown, as well as a blog post summing it up. Before opening up the Duo, iFixit inundated it with fluorescent dust. The ‌iPhone Duo‌ has an…"
+  },
+  {
+   "id": "aefb197b31fe16d1",
+   "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+   "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-25T21:40:27.000Z",
+   "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score…"
+  },
+  {
+   "id": "cd2c06de452747fb",
+   "title": "iFixit tears down iPhone Duo, finds possible causes of early screen failures",
+   "url": "https://9to5mac.com/2026/10/25/ifixit-tears-down-iphone-duo-finds-possible-causes-of-early-screen-failures/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-25T21:36:58.000Z",
+   "summary": "iFixit’s teardown of the iPhone Duo is up, revealing some interesting (and some worrisome) details about what it calls the most repairable foldable phone yet. Here are the details. more…"
+  },
+  {
+   "id": "693be5c82aa4c6a2",
+   "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+   "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-25T21:31:16.000Z",
+   "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+  },
+  {
+   "id": "4a62295acd8000b6",
+   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+   "url": "https://minimaxir.com/2026/10/cheap-llms/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-25T21:11:31.000Z",
+   "summary": "47 points · 64 comments"
+  },
+  {
+   "id": "bb48f9a0a0cc372f",
+   "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+   "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T21:08:28.000Z",
+   "summary": "139 points · 54 comments"
+  },
+  {
+   "id": "7e51933c8e397a72",
+   "title": "Scott Walker’s The Drift will get under your skin",
+   "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-25T21:08:09.000Z",
+   "summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott Walker's The Drift. This 2006 album from the…"
+  },
+  {
+   "id": "f572f05debd9956c",
+   "title": "The State of Context Engineering",
+   "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T20:32:31.000Z",
+   "summary": "40 points · 6 comments"
+  },
+  {
+   "id": "c9d2d0d23d503e6e",
+   "title": "What goes into making an animated film?",
+   "url": "https://www.disneyanimation.com/process/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T20:27:09.000Z",
+   "summary": "56 points · 22 comments"
+  },
+  {
    "id": "33002ff0b5effce6",
    "title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
    "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
@@ -89,6 +251,15 @@
    "section": "tech",
    "publishedAt": "2026-10-25T20:20:08.000Z",
    "summary": "\"That's a 12-year-old view of the world.\""
+  },
+  {
+   "id": "c001b7b355327ac9",
+   "title": "Focused Company Operating Principles",
+   "url": "https://focused.io/operating-principles",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T20:16:51.000Z",
+   "summary": "12 points · 0 comments"
   },
   {
    "id": "64eaa2ebb43d86fa",
@@ -134,6 +305,15 @@
    "section": "tech",
    "publishedAt": "2026-10-25T19:10:36.000Z",
    "summary": "8 points · 0 comments"
+  },
+  {
+   "id": "7b3a2c373510cd30",
+   "title": "Where the Romans Fought (interactive map)",
+   "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T18:58:14.000Z",
+   "summary": "26 points · 11 comments"
   },
   {
    "id": "c71a84cfa12bf92a",
@@ -2087,6 +2267,15 @@
    "section": "tech",
    "publishedAt": "2026-10-23T19:00:04.000Z",
    "summary": "3 points · 0 comments"
+  },
+  {
+   "id": "9ab8daa84759ceb7",
+   "title": "Making the Buddha Head from Merv Whole Again",
+   "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-23T18:46:00.000Z",
+   "summary": "6 points · 0 comments"
   },
   {
    "id": "fd1774e667ebb766",
@@ -4132,6 +4321,15 @@
    "summary": "This could reach 27 percent throughout the end of 2026 as prices continue to rise."
   },
   {
+   "id": "7283c1fa6d4603a2",
+   "title": "Overgrown, when plants invade your abandoned tabs",
+   "url": "https://charliegerard.dev/blog/overgrown-extension/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T15:52:21.000Z",
+   "summary": "71 points · 17 comments"
+  },
+  {
    "id": "68544f6937c60392",
    "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
    "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
@@ -5714,6 +5912,15 @@
    "section": "tech",
    "publishedAt": "2026-10-21T18:42:41.000Z",
    "summary": "Skate studio Full Circle will be be reduced to \"a more focused, smaller team,\" while a Sims project has been paused."
+  },
+  {
+   "id": "8218ded2e9909a1a",
+   "title": "Amazon's \"digital pacifier\" for toddlers",
+   "url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T18:37:48.000Z",
+   "summary": "57 points · 95 comments"
   },
   {
    "id": "3ca7f1753895f7a9",
@@ -45215,177 +45422,6 @@
    "section": "ai",
    "publishedAt": "2026-09-25T23:11:10.000Z",
    "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans."
-  },
-  {
-   "id": "42752ff458b7601d",
-   "title": "Apple’s dimensional drawings offer a fascinating look at its product designs",
-   "url": "https://9to5mac.com/2026/09/25/apples-dimensional-drawings-offer-a-fascinating-look-at-its-product-designs/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-25T23:07:09.000Z",
-   "summary": "Not everyone knows this (and I won’t even pretend that I did), but Apple publishes remarkably detailed dimensional drawings for dozens of its devices to help accessory makers design products around them. Here are the details. more…"
-  },
-  {
-   "id": "2cc7cfa197a26223",
-   "title": "Automattic has a new board after failed attempt to put CEO on leave",
-   "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-25T23:04:34.000Z",
-   "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board."
-  },
-  {
-   "id": "2de0c4dad5ebe2b5",
-   "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
-   "url": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-25T23:00:26.000Z",
-   "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes."
-  },
-  {
-   "id": "b1b163d64865d538",
-   "title": "Tell HN: Codex Is Down [fixed]",
-   "url": "https://news.ycombinator.com/item?id=49851032",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T22:51:44.000Z",
-   "summary": "61 points · 64 comments"
-  },
-  {
-   "id": "a79876caa3bb9ad8",
-   "title": "Exploding variance of means of exponentials: least-squares to the rescue",
-   "url": "https://francisbach.com/spectral_log_density_estimation/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T22:48:52.000Z",
-   "summary": "12 points · 0 comments"
-  },
-  {
-   "id": "98655b6806adad18",
-   "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
-   "url": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T22:28:02.000Z",
-   "summary": "33 points · 6 comments"
-  },
-  {
-   "id": "781b94a26c2fcbe5",
-   "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-   "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-25T22:20:47.000Z",
-   "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
-  },
-  {
-   "id": "10c76d811ebcd616",
-   "title": "TestFlight now works in landscape as Apple prepares for iPhone Duo",
-   "url": "https://9to5mac.com/2026/09/25/testflight-now-works-in-landscape-as-apple-prepares-for-iphone-duo/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-25T22:19:53.000Z",
-   "summary": "Apple updated TestFlight this week with support for landscape orientation, and for macOS 27 Golden Gate’s new resizable iPhone Mirroring window. Here are the details. more…"
-  },
-  {
-   "id": "984a15ca69a4d2d3",
-   "title": "Kicki: A DECsystem1060 – Interim Computer Museum",
-   "url": "https://icm.museum/blog/?p=207",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T22:11:57.000Z",
-   "summary": "7 points · 1 comments"
-  },
-  {
-   "id": "e3d904e669f5a681",
-   "title": "What even is an OS now?",
-   "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T21:36:56.000Z",
-   "summary": "66 points · 75 comments"
-  },
-  {
-   "id": "589eb4de9af64299",
-   "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
-   "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-   "source": "Ars Technica",
-   "section": "ai",
-   "publishedAt": "2026-09-25T21:36:20.000Z",
-   "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say."
-  },
-  {
-   "id": "d14cb03cc885a800",
-   "title": "\"Someone just sent me an ad that features an AI version of me. What do I do?\"",
-   "url": "https://bsky.app/profile/lebassett.bsky.social/post/3mwel345jr22s",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-25T21:15:55.000Z",
-   "summary": "11 points · 1 comments"
-  },
-  {
-   "id": "1537aef0b087601b",
-   "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-   "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-09-25T21:10:51.000Z",
-   "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026."
-  },
-  {
-   "id": "a2cb70d28f0e7918",
-   "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
-   "url": "https://www.gptbeyond.com/try?home=1",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T21:09:28.000Z",
-   "summary": "25 points · 6 comments"
-  },
-  {
-   "id": "fc86915ed344dee2",
-   "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-   "url": "https://swarmtraces.org/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-25T21:09:27.000Z",
-   "summary": "5 points · 0 comments"
-  },
-  {
-   "id": "bbced2889c811943",
-   "title": "Teaching a World Model to Play Pokemon",
-   "url": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T21:02:48.000Z",
-   "summary": "5 points · 6 comments"
-  },
-  {
-   "id": "1609f2c4ac1608e5",
-   "title": "Apple faces class action over Apple Pay fees charged to card issuers",
-   "url": "https://9to5mac.com/2026/09/25/apple-faces-class-action-over-apple-pay-fees-charged-to-card-issuers/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-25T21:01:42.000Z",
-   "summary": "U.S. District Judge Jeffrey S. White has certified a class-action lawsuit accusing Apple of charging payment card issuers inflated fees for Apple Pay transactions. Here are the details. more…"
-  },
-  {
-   "id": "2d84f16aed09a8e6",
-   "title": "Excel now supports multiple values in a single cell",
-   "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T20:55:00.000Z",
-   "summary": "71 points · 55 comments"
-  },
-  {
-   "id": "e66f01d5b6f77c4c",
-   "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-   "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T20:53:54.000Z",
-   "summary": "30 points · 23 comments"
   }
  ]
 }
