@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T05:13:51.197Z",
+ "updatedAt": "2026-10-25T10:06:18.323Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,33 @@
   }
  ],
  "items": [
+  {
+   "id": "06e2aecc2c272d1a",
+   "title": "Online censorship is crushing indie webcomics",
+   "url": "https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T09:04:13.000Z",
+   "summary": "37 points · 12 comments"
+  },
+  {
+   "id": "003ff66d1947f7f8",
+   "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+   "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T09:00:40.000Z",
+   "summary": "97 points · 32 comments"
+  },
+  {
+   "id": "0bc07e02146d01f6",
+   "title": "Not Palantir",
+   "url": "https://notpalantir.eu/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T06:55:13.000Z",
+   "summary": "11 points · 1 comments"
+  },
   {
    "id": "562516b04146a695",
    "title": "Apple Wants to Fix Safari's Cramped Layout on iPhone Duo",
@@ -3961,6 +3988,15 @@
    "summary": "Formula 1® returns to the U.S. this weekend with the United States Grand Prix™, streaming in the U.S. exclusively on Apple TV."
   },
   {
+   "id": "a167f703d5006473",
+   "title": "Rewriting a Commercial Engine in Jai",
+   "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T12:50:43.000Z",
+   "summary": "20 points · 9 comments"
+  },
+  {
    "id": "89d44e6cf5eb854c",
    "title": "Full Disk Encryption on Fedora with TPM2",
    "url": "https://www.apalrd.net/posts/2026/ent_luks/",
@@ -4006,6 +4042,15 @@
    "summary": "A significant number of websites have gone offline, and that’s not due to a service outage, but rather a deliberate decision by the site’s owners. The reason is because extremely dangerous security vulnerabilities have been found in a protocol used by most websites – PHP. This issue is unrelated to…"
   },
   {
+   "id": "46edf18370d2611f",
+   "title": "Tablesample Picks Rows",
+   "url": "https://boringsql.com/posts/tablesample/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T12:00:04.000Z",
+   "summary": "3 points · 0 comments"
+  },
+  {
    "id": "a066c13cb278baea",
    "title": "Developers bring incredible new app experiences to iPhone Duo",
    "url": "https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/",
@@ -4040,6 +4085,15 @@
    "section": "tech",
    "publishedAt": "2026-10-22T11:43:09.000Z",
    "summary": "Apple has blocked compromised security certificates on its devices that could help attackers impersonate websites, BleepingComputer reports. The certificates were issued by certificate authority eMudhra. According to Mozilla's investigation, their private keys were all numbers below 256, making…"
+  },
+  {
+   "id": "2881d08f0a7fa06a",
+   "title": "How Japanese Dried Bonito Is Made",
+   "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T11:31:03.000Z",
+   "summary": "40 points · 14 comments"
   },
   {
    "id": "8f8078c53e2d593e",
@@ -45881,96 +45935,6 @@
    "section": "tech",
    "publishedAt": "2026-09-25T10:08:41.000Z",
    "summary": "20 points · 7 comments"
-  },
-  {
-   "id": "fe45e6264cfe3dc9",
-   "title": "Topcoat is pushing the boundary of server applications with Rust",
-   "url": "https://tokio.rs/blog/2026-09-24-topcoat-server-applications",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T09:59:40.000Z",
-   "summary": "40 points · 27 comments"
-  },
-  {
-   "id": "039273d14866ebdb",
-   "title": "Ink and Switch Interactive Homepage",
-   "url": "https://www.inkandswitch.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T09:50:25.000Z",
-   "summary": "78 points · 14 comments"
-  },
-  {
-   "id": "1c991a337b64dbb8",
-   "title": "Boards of Casio",
-   "url": "https://www.ambionix.com/blog/boards-of-casio/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T09:26:01.000Z",
-   "summary": "20 points · 2 comments"
-  },
-  {
-   "id": "2a06e5df449fcb8c",
-   "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-   "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-   "source": "MIT Tech Review",
-   "section": "ai",
-   "publishedAt": "2026-09-25T09:16:25.000Z",
-   "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning…"
-  },
-  {
-   "id": "dbde36ffdad1a857",
-   "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-   "url": "https://www.dawo.community/en/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T08:06:49.000Z",
-   "summary": "533 points · 272 comments"
-  },
-  {
-   "id": "91b131a3eeb1e10c",
-   "title": "Amiga Screens: A Primer",
-   "url": "https://www.datagubbe.se/amscr/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T07:31:12.000Z",
-   "summary": "37 points · 7 comments"
-  },
-  {
-   "id": "3115cfb2bde6cfa6",
-   "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-   "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T07:27:45.000Z",
-   "summary": "132 points · 53 comments"
-  },
-  {
-   "id": "ded05240174a49ed",
-   "title": "How to Check Your Mac's Manufacture Date in macOS 27",
-   "url": "https://www.macrumors.com/how-to/check-your-mac-manufacture-date-macos/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-25T07:14:29.000Z",
-   "summary": "If you installed macOS 27 Golden Gate, here's a way to find out when your Mac was manufactured. Apple has restored access to information that effectively disappeared when it randomized its serial numbers a few years ago. On your Mac, go to System Settings ➝ General ➝ About, then click \"Regulatory…"
-  },
-  {
-   "id": "f3e6aaf2df3c4800",
-   "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
-   "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T07:03:46.000Z",
-   "summary": "5 points · 0 comments"
-  },
-  {
-   "id": "9aebcd5d10bfc9f8",
-   "title": "Lowe’s answers millions of home improvement questions with OpenAI",
-   "url": "https://openai.com/index/lowes",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-25T07:00:00.000Z",
-   "summary": "Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward."
   }
  ]
 }
