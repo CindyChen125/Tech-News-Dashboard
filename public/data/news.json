@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T00:16:20.489Z",
+ "updatedAt": "2026-10-25T05:13:51.197Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,87 @@
   }
  ],
  "items": [
+  {
+   "id": "562516b04146a695",
+   "title": "Apple Wants to Fix Safari's Cramped Layout on iPhone Duo",
+   "url": "https://www.macrumors.com/2026/10/25/apple-wants-to-fix-safari-on-iphone-duo/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-25T04:58:09.000Z",
+   "summary": "Apple is considering changes to Safari on the iPhone Duo that would give websites access to more of the outer display, although the company has yet to settle on an approach. The challenge is allowing pages to occupy the area beneath Safari's side-mounted controls without making parts of a website…"
+  },
+  {
+   "id": "ecf8f0d002164316",
+   "title": "Instagram Launches Apple TV App With Reels and More",
+   "url": "https://www.macrumors.com/2026/10/25/instagram-launches-apple-tv-app/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-25T04:27:08.000Z",
+   "summary": "Instagram is now available on the Apple TV, bringing Reels, longer videos, and live shows via the platform to Apple's streaming device for the first time. The Instagram app for ‌Apple TV‌ lets users watch content from their favorite creators, discover videos, and resume watching across devices…"
+  },
+  {
+   "id": "d18f737ef98f1a81",
+   "title": "Apple's 'Servant' Copyright Lawsuit Win Upheld on Appeal",
+   "url": "https://www.macrumors.com/2026/10/25/servant-lawsuit-win-upheld/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-25T04:05:09.000Z",
+   "summary": "Apple and M. Night Shyamalan have won an appeal in the copyright dispute over Apple TV series \"Servant,\" with a federal appeals court upholding last year's jury verdict in their favor (via Reuters). In its October 22 decision, the Ninth Circuit rejected filmmaker Francesca Gregorini's arguments…"
+  },
+  {
+   "id": "0d1b23e96aa530c1",
+   "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+   "url": "https://github.com/slee-persis/GVS5H",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T03:56:01.000Z",
+   "summary": "67 points · 16 comments"
+  },
+  {
+   "id": "434c70c3192d2cc1",
+   "title": "Xbox Turns Down Netflix $500M Offer",
+   "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T03:05:53.000Z",
+   "summary": "68 points · 80 comments"
+  },
+  {
+   "id": "1566ccc0a747b1ae",
+   "title": "Attention people who think UB is fine",
+   "url": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T02:50:32.000Z",
+   "summary": "9 points · 8 comments"
+  },
+  {
+   "id": "7bf4e48b87b0b7ef",
+   "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+   "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T02:18:35.000Z",
+   "summary": "86 points · 18 comments"
+  },
+  {
+   "id": "470508811885a0d8",
+   "title": "Cerebras Deploys Trillion-Parameter AI Models",
+   "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-25T01:33:49.000Z",
+   "summary": "59 points · 19 comments"
+  },
+  {
+   "id": "6536733e2d8ab37e",
+   "title": "Here's what you need to know before buying a wireless CarPlay adapter",
+   "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-25T00:30:00.000Z",
+   "summary": "Wireless CarPlay doesn't require a new car or head unit; with the right adapter, you can enjoy a cable-free connection."
+  },
   {
    "id": "6202dd8aa1d23646",
    "title": "What is the cheapest new gaming console you can buy in 2026?",
@@ -3178,6 +3259,15 @@
    "summary": "The service still offers a library of books, magazines and comics, and now includes a larger selection of audiobooks."
   },
   {
+   "id": "739000bc1f46d0d5",
+   "title": "Monoidal computer I: Basic computability by string diagrams (2012)",
+   "url": "https://arxiv.org/abs/1208.5205",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T18:03:57.000Z",
+   "summary": "3 points · 0 comments"
+  },
+  {
    "id": "0e1010033c249124",
    "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
    "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
@@ -3779,6 +3869,15 @@
    "section": "tech",
    "publishedAt": "2026-10-22T13:20:13.000Z",
    "summary": "122 points · 58 comments"
+  },
+  {
+   "id": "3e8c1843eceea2e0",
+   "title": "In Rainbows",
+   "url": "https://hitogata.neocities.org/Rainbows",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-22T13:20:04.000Z",
+   "summary": "13 points · 2 comments"
   },
   {
    "id": "28df3a3fc2bd2829",
@@ -4438,6 +4537,15 @@
    "summary": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship."
   },
   {
+   "id": "be6b5f4cd7baf225",
+   "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
+   "url": "https://xingjianbai.com/reactive-optimizers/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T22:17:12.000Z",
+   "summary": "23 points · 2 comments"
+  },
+  {
    "id": "bdfbec33af2bb184",
    "title": "Airbnb limits chores for guests, sparking backlash from hosts",
    "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
@@ -4787,6 +4895,15 @@
    "section": "ai",
    "publishedAt": "2026-10-21T19:39:25.000Z",
    "summary": "Anthropic is introducing a new AI assistant that can proactively manage tasks across connected apps, keep track of emails and calendars, and continue working even when the app is closed. Here are the details. more…"
+  },
+  {
+   "id": "bd29775255dfb01f",
+   "title": "A story of a Figma bug that wasn't a bug at all (2021)",
+   "url": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T19:30:52.000Z",
+   "summary": "13 points · 0 comments"
   },
   {
    "id": "4b8e0a95ffc5dc4e",
@@ -5966,6 +6083,15 @@
    "section": "tech",
    "publishedAt": "2026-10-21T06:42:12.000Z",
    "summary": "18 points · 16 comments"
+  },
+  {
+   "id": "af15abc970cb78b8",
+   "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+   "url": "https://pragtical.dev/blog/pragtical-v3140-release",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-21T06:09:04.000Z",
+   "summary": "7 points · 1 comments"
   },
   {
    "id": "f68c56ad66ce8e12",
@@ -45845,105 +45971,6 @@
    "section": "ai",
    "publishedAt": "2026-09-25T07:00:00.000Z",
    "summary": "Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward."
-  },
-  {
-   "id": "c9c79bfe6cdbf646",
-   "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-   "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-25T05:00:00.000Z",
-   "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
-  },
-  {
-   "id": "e2f81655912b610e",
-   "title": "Jev Based Code Review",
-   "url": "https://github.com/egma-ai/jev-code-reviewer",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T04:49:23.000Z",
-   "summary": "8 points · 2 comments"
-  },
-  {
-   "id": "36f6fa9ac97eb2ee",
-   "title": "Plan mode is dead",
-   "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T03:59:11.000Z",
-   "summary": "195 points · 185 comments"
-  },
-  {
-   "id": "44d1061bdae01d2f",
-   "title": "What About Rails?",
-   "url": "https://jardo.dev/what-about-rails",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T02:50:16.000Z",
-   "summary": "129 points · 76 comments"
-  },
-  {
-   "id": "89b93ce41d71edcd",
-   "title": "Evolving programming languages in the AI era",
-   "url": "https://dashbit.co/blog/evolving-ai-era",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-25T02:34:39.000Z",
-   "summary": "4 points · 1 comments"
-  },
-  {
-   "id": "ef5cb158358719a9",
-   "title": "Here’s the Tesla Semi… again",
-   "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-25T02:12:57.000Z",
-   "summary": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers…"
-  },
-  {
-   "id": "9f43fcc65d517d9f",
-   "title": "Biology might not be quantum, but its math is quantumlike",
-   "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-25T02:11:07.000Z",
-   "summary": "43 points · 14 comments"
-  },
-  {
-   "id": "f449ec961112c934",
-   "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
-   "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
-   "source": "The Verge",
-   "section": "ai",
-   "publishedAt": "2026-09-25T01:25:53.000Z",
-   "summary": "Microsoft CEO Satya Nadella introducing the company’s Copilot Plus PC initiative. | Image: Allison Johnson Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and…"
-  },
-  {
-   "id": "a6f422cb98272119",
-   "title": "Apple shares video highlighting new child safety features across its devices",
-   "url": "https://9to5mac.com/2026/09/24/apple-shares-video-highlighting-new-child-safety-features-across-its-devices/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-25T01:17:50.000Z",
-   "summary": "Apple’s YouTube channel shared a video today showcasing how parents can manage the new and existing features of Apple’s Child Accounts. Watch it below. more…"
-  },
-  {
-   "id": "61ed4b0723d9427f",
-   "title": "‘Knife Edge: Chasing Michelin Stars’ season 2 premieres on Apple TV",
-   "url": "https://9to5mac.com/2026/09/24/knife-edge-chasing-michelin-stars-season-2-premieres-on-apple-tv/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-25T01:00:44.000Z",
-   "summary": "“Knife Edge: Chasing Michelin Stars,” Apple TV’s docuseries about the pursuit of the culinary world’s highest honors, is back. Here are the details. more…"
-  },
-  {
-   "id": "1ff3631f82992fff",
-   "title": "Rare ‘Antennagate’ press conference Q&A video surfaces online",
-   "url": "https://9to5mac.com/2026/09/24/rare-antennagate-press-conference-qa-video-surfaces-online/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-25T00:31:14.000Z",
-   "summary": "The Q&A session of one of Apple’s most notable events in the last 20 years has surfaced online, and you should watch it before it vanishes. Watch it below. more…"
   }
  ]
 }
