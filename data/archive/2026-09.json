@@ -1,5 +1,365 @@
 [
  {
+  "id": "c9826801ea833e84",
+  "title": "There is more to code review than (automatable) detection",
+  "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-26T15:06:28.000Z",
+  "summary": "29 points · 11 comments"
+ },
+ {
+  "id": "b65495d0e068d84f",
+  "title": "The Art Forger Who Became a National Hero",
+  "url": "https://priceonomics.com/the-art-forger-who-became-a-national-hero/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-26T15:00:27.000Z",
+  "summary": "3 points · 0 comments"
+ },
+ {
+  "id": "b5a2673b6a8dc470",
+  "title": "Get better audio quality from your vinyl by upgrading this part",
+  "url": "https://www.engadget.com/2265869/vinyl-better-audio-quality-best-upgrade/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-09-26T15:00:00.000Z",
+  "summary": "Swapping out your turntable's stylus is an easy upgrade."
+ },
+ {
+  "id": "b2f6e4bf31df1ac4",
+  "title": "Go Concurrency Distilled",
+  "url": "https://antonz.org/go-concurrency-distilled/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-26T14:34:49.000Z",
+  "summary": "108 points · 34 comments"
+ },
+ {
+  "id": "b395fe97569268c6",
+  "title": "Earth is tearing apart beneath the Pacific Northwest",
+  "url": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-26T14:33:11.000Z",
+  "summary": "3 points · 0 comments"
+ },
+ {
+  "id": "79b15c5027f19fff",
+  "title": "Is your Roku TV talking to you? Here's why and how to turn it off",
+  "url": "https://www.engadget.com/2265732/why-roku-tv-talking-to-you-how-turn-off/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-09-26T14:30:00.000Z",
+  "summary": "Relax, that voice you're hearing from your Roku is pretty easy to turn off."
+ },
+ {
+  "id": "7e56303d7524aa38",
+  "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+  "url": "https://fakecloud.dev/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-26T14:25:16.000Z",
+  "summary": "34 points · 15 comments"
+ },
+ {
+  "id": "39384e53528275bb",
+  "title": "OpenAI bots meddled with multiple US Government agency sites",
+  "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-09-26T14:03:54.000Z",
+  "summary": "41 points · 26 comments"
+ },
+ {
+  "id": "bc5693d6efe63c02",
+  "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+  "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+  "source": "The Verge",
+  "section": "ai",
+  "publishedAt": "2026-09-26T14:00:00.000Z",
+  "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it turns out things are…"
+ },
+ {
+  "id": "19b8d35715b2539a",
+  "title": "I created an interactive digital avatar of myself — and you can talk to it",
+  "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+  "source": "TechCrunch",
+  "section": "tech",
+  "publishedAt": "2026-09-26T14:00:00.000Z",
+  "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
+ },
+ {
+  "id": "b9251bf7d707b8bb",
+  "title": "This app lets you use an Apple Watch with an Android phone",
+  "url": "https://www.engadget.com/2265684/app-to-use-apple-watch-with-android-phone/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-09-26T14:00:00.000Z",
+  "summary": "If you switched from iPhone to Android, you don't necessarily need to change watches. There's an app that lets Apple Watch work with Android."
+ },
+ {
+  "id": "54225c1fc146624e",
+  "title": "These are my favorite iPhone 18 Pro & Pro Max cases so far [Video]",
+  "url": "https://9to5mac.com/2026/09/26/these-are-my-favorite-iphone-18-pro-pro-max-cases-so-far-video/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-09-26T14:00:00.000Z",
+  "summary": "The new iPhone 18 Pro and 18 Pro Max have been out for a week, and they have been amazing devices to use and test. While the actual footprint and visual design remain unchanged, Apple spiced things up with new colors like Glacier, Burgundy, and a true Deep Black version. These colors are a nice new…"
+ },
+ {
+  "id": "bb4c0773f4a007aa",
+  "title": "You can check your Samsung Galaxy's health with a built-in test",
+  "url": "https://www.engadget.com/2265327/how-to-check-samsung-galaxy-phone-health-diagnostics-test/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-09-26T13:45:00.000Z",
+  "summary": "If your Samsung phone is acting strangely, you can test just about any element of the phone's hardware using this test."
+ },
+ {
+  "id": "c62282779966ff8b",
+  "title": "Vertical or horizontal: Does it really matter how you set up your gaming console?",
+  "url": "https://www.engadget.com/2265682/does-gaming-console-orientation-matter-vertical-vs-horizontal/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-09-26T13:30:00.000Z",
+  "summary": "Your PS5 or Xbox Series console can use either setup, but you should consider what's best for your space first."
+ },
+ {
+  "id": "b1ad4a89d460d3fd",
+  "title": "Improving site performance by shipping more CSS",
+  "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-26T13:10:05.000Z",
+  "summary": "45 points · 29 comments"
+ },
+ {
+  "id": "b10bc212c48d7468",
+  "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+  "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-09-26T13:05:36.000Z",
+  "summary": "43 points · 27 comments"
+ },
+ {
+  "id": "015fd644942e0f08",
+  "title": "Top Stories: Apple Leaks, Siri AI Settlement, and More",
+  "url": "https://www.macrumors.com/2026/09/26/top-stories-apple-leaks-siri-ai-settlement/",
+  "source": "MacRumors",
+  "section": "ai",
+  "publishedAt": "2026-09-26T13:00:12.000Z",
+  "summary": "The Apple rumor mill never stops, and this week MacRumors was able to break the news of details on several upcoming products. We're also still learning more about the just-released iPhone 18 Pro and Pro Max plus the upcoming iPhone Duo, while this week saw the debut of new Beats 360 headphones and…"
+ },
+ {
+  "id": "5626123ad26899d2",
+  "title": "Control Resonant is a great game — it’s even better when you read everything",
+  "url": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-09-26T13:00:00.000Z",
+  "summary": "In Control Resonant, the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading everything I could find, either. Reading is often optional in Resonant, but it's where some of the…"
+ },
+ {
+  "id": "3b3c24417d7f7ec0",
+  "title": "One problem with your iPhone's Always-On Display can easily be fixed",
+  "url": "https://www.engadget.com/2265555/iphone-always-on-display-one-problem-simple-fix/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-09-26T13:00:00.000Z",
+  "summary": "The Always-On Display feature of your iPhone should be straightforward, but it can turn off in several situations. You can control some of those."
+ },
+ {
+  "id": "5765b58435e8c774",
+  "title": "Apple @ Work: The enterprise needs to kill the SSO tax, and it’s an opportunity for Apple",
+  "url": "https://9to5mac.com/2026/09/26/apple-work-the-enterprise-needs-to-kill-the-sso-tax-and-its-an-opportunity-for-apple/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-09-26T13:00:00.000Z",
+  "summary": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000…"
+ },
+ {
+  "id": "dfad0887283aa730",
+  "title": "Improve your Windows 11 experience by changing these settings",
+  "url": "https://www.engadget.com/2265283/improve-windows-11-experience-change-these-settings/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-09-26T12:45:00.000Z",
+  "summary": "Windows 11 is solid out of the box, but it doesn't always get things right. You can get a lot more out of the OS when you enable some things and disable others."
+ },
+ {
+  "id": "1dfcedea82824a15",
+  "title": "Weekend Apple deals: Beats 360, AirPods Pro 3, Mac Studio, MacBook Air, more",
+  "url": "https://9to5mac.com/2026/09/26/apple-deals-this-week-best/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-09-26T12:42:34.000Z",
+  "summary": "Alongside the updated early fall Prime Day sale at Amazon and the ongoing launch deal on the brand new Beats 360 Over-Ear Headphones with the modular Cushion Kit at 80% off, this weekend’s best Apple deals are headlined by the ongoing $50 price drop on AirPods Pro 3. Joining the early discounts on…"
+ },
+ {
+  "id": "578bf589143a564a",
+  "title": "These Xbox players got GTA 6 for free the hard way",
+  "url": "https://www.engadget.com/2265444/how-to-get-gta-6-free-xbox-reward-points/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-09-26T12:30:00.000Z",
+  "summary": "GTA VI could be yours for free, or at least for a big discount, using a few tricks that Xbox offers."
+ },
+ {
+  "id": "f38bfb22485529a5",
+  "title": "Pokémon card resellers have turned collecting into an online blood sport",
+  "url": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-09-26T12:00:00.000Z",
+  "summary": "Earlier this month, Pokémon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium boxes of cards that had not yet been officially released, and implores viewers not to…"
+ },
+ {
+  "id": "53ccf7027503cb55",
+  "title": "Sleep mode vs. shutdown: Which is better to use daily for your MacBook?",
+  "url": "https://www.engadget.com/2265432/sleep-mode-vs-shutdown-macbook-which-is-better-daily/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-09-26T12:00:00.000Z",
+  "summary": "Whether you do a full shutdown or just put your MacBook to sleep should change with the circumstances we discuss here."
+ },
+ {
+  "id": "eb3d8ddeb3949aec",
+  "title": "OpenAI's agents targeted and infiltrated US government websites",
+  "url": "https://www.engadget.com/2269776/openai-agents-targeted-us-government-websites/",
+  "source": "Engadget",
+  "section": "ai",
+  "publishedAt": "2026-09-26T11:58:20.000Z",
+  "summary": "OpenAI's agents targeted websites operated by the Commerce Department, the Securities and Exchange Commission and the Department of Education during testing."
+ },
+ {
+  "id": "0045cb469878dc67",
+  "title": "Control Resonant, rapidfire CEO turnovers and other new indie games worth checking out",
+  "url": "https://www.engadget.com/2269434/control-resonant-rapidfire-ceo-turnovers-and-other-new-indie-games-worth-checking-out/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-09-26T11:30:00.000Z",
+  "summary": "Plus, a major Ball x Pit expansion and a release date for a game I can't wait to play more of."
+ },
+ {
+  "id": "146a7fdbff6d99ce",
+  "title": "Engadget review recap: Apple devices, Sonos' return and more",
+  "url": "https://www.engadget.com/2269326/engadget-review-recap-apple-devices-sonos-return-and-more/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-09-26T11:30:00.000Z",
+  "summary": "A roundup of recent reviews from Engadget."
+ },
+ {
+  "id": "3cbffb36e7295907",
+  "title": "The Greatest Pun in JavaScript",
+  "url": "https://shukla.io/blog/2026-09/pun.html",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-26T11:18:43.000Z",
+  "summary": "19 points · 8 comments"
+ },
+ {
+  "id": "b647c775949f85fe",
+  "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+  "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-26T10:55:56.000Z",
+  "summary": "280 points · 111 comments"
+ },
+ {
+  "id": "32e86ee2f6a8219a",
+  "title": "Reading’s Bayeux Tapestry",
+  "url": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-26T10:48:40.000Z",
+  "summary": "8 points · 0 comments"
+ },
+ {
+  "id": "d31408ba69934630",
+  "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
+  "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
+  "source": "Ars Technica",
+  "section": "tech",
+  "publishedAt": "2026-09-26T10:45:09.000Z",
+  "summary": "The 500-mile Semi arrives as charging gaps still limit electric trucking."
+ },
+ {
+  "id": "b732336c5a3bcf74",
+  "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+  "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-26T10:16:26.000Z",
+  "summary": "33 points · 4 comments"
+ },
+ {
+  "id": "d577095b21a0f34d",
+  "title": "One Month Without AI",
+  "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-09-26T10:08:21.000Z",
+  "summary": "124 points · 129 comments"
+ },
+ {
+  "id": "1696db3f4aa9b0dc",
+  "title": "The Copilot+ PC brand is dead",
+  "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-09-26T09:55:38.000Z",
+  "summary": "44 points · 25 comments"
+ },
+ {
+  "id": "b650a408612450da",
+  "title": "How to keep enjoying programming in a world of LLMs",
+  "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-09-26T09:41:58.000Z",
+  "summary": "13 points · 4 comments"
+ },
+ {
+  "id": "bb2c70391153fa56",
+  "title": "Fifteen years later, the Apple Cards origin story",
+  "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-26T09:13:41.000Z",
+  "summary": "153 points · 18 comments"
+ },
+ {
+  "id": "1155816d22006428",
+  "title": "Floci: Locally emulating any cloud service",
+  "url": "https://floci.io/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-26T08:31:02.000Z",
+  "summary": "7 points · 1 comments"
+ },
+ {
+  "id": "6ebd4142a1dbc880",
+  "title": "Flip Fluid on Flip Dots",
+  "url": "https://mitxela.com/projects/flipflip",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-26T07:50:24.000Z",
+  "summary": "97 points · 10 comments"
+ },
+ {
+  "id": "c30f4b3f432f876d",
+  "title": "The far side of the Moon provides clues to a previous magnetic field",
+  "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-09-26T07:49:50.000Z",
+  "summary": "17 points · 1 comments"
+ },
+ {
   "id": "a28430c42c18dd08",
   "title": "Is your Postgres migration safe or not safe?",
   "url": "https://safenotsafe.dev/",
