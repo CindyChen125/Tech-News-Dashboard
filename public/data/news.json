@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-26T20:43:45.895Z",
+ "updatedAt": "2026-10-27T00:22:04.230Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1322
+   "count": 1325
   },
   {
    "name": "Google DeepMind",
@@ -82,6 +82,258 @@
  ],
  "items": [
   {
+   "id": "e020fcc4f4edcff7",
+   "title": "9to5Mac Daily: October 26, 2026 – Apple unveils new iPad mini",
+   "url": "https://9to5mac.com/2026/10/26/daily-october-26-2026/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-27T00:16:31.000Z",
+   "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze: Backup you can rely on. Save 20% with code…"
+  },
+  {
+   "id": "5f7154b78663a8fa",
+   "title": "Older Siri Remotes Now Show Up in Find My With iOS 27.2",
+   "url": "https://www.macrumors.com/2026/10/26/siri-remote-find-my-ios-27-2/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-27T00:13:44.000Z",
+   "summary": "With iOS 27.2 and tvOS 27.2, second- and third-generation Siri Remotes can be tracked using the Find My app. There has been an option to locate a lost ‌Siri‌ Remote with an iPhone since iOS 17, but remotes did not previously show up in the ‌Find My‌ app. Locating a remote had to be done with the…"
+  },
+  {
+   "id": "5368304dc3043622",
+   "title": "T-Mobile’s new plans let users swap between Apple TV and other subscriptions",
+   "url": "https://9to5mac.com/2026/10/26/t-mobiles-new-plans-let-users-swap-between-apple-tv-and-other-subscriptions/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-26T23:51:19.000Z",
+   "summary": "T-Mobile’s new “T-Mix” plans let users choose from subscriptions like Apple TV, Netflix, and YouTube Premium, and switch between them several times a year without changing their monthly bill. Here are the details. more…"
+  },
+  {
+   "id": "bed64d51485865c3",
+   "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-26T23:34:58.000Z",
+   "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts…"
+  },
+  {
+   "id": "61779578693f32ad",
+   "title": "The most popular streaming platforms in the US might not be what you think",
+   "url": "https://www.engadget.com/2295216/most-popular-streaming-platforms-united-states-not-what-you-think/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-26T23:30:00.000Z",
+   "summary": "You might be surprised at the rankings of some streaming services when it comes to what Americans watch on their TVs."
+  },
+  {
+   "id": "a0f5287f3b29850f",
+   "title": "Just Imagining a Workout Can Make You Stronger",
+   "url": "https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-26T23:08:27.000Z",
+   "summary": "45 points · 22 comments"
+  },
+  {
+   "id": "0ad493e25f9060b3",
+   "title": "6+ ways you can use your PlayStation 5's USB ports",
+   "url": "https://www.engadget.com/2294767/ways-to-use-playstation-5-usb-ports/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-26T23:00:00.000Z",
+   "summary": "You can do more than charge your controllers with the USB ports on your PS5. Here are some of the possibilities."
+  },
+  {
+   "id": "de741746eb61add1",
+   "title": "iOS 27.2 Features: Everything New in iOS 27.2",
+   "url": "https://www.macrumors.com/2026/10/26/ios-27-2-features/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-26T22:56:08.000Z",
+   "summary": "Apple released iOS 27.2, uniting the iPhone Duo and other iPhone models on the same version of iOS. iOS 27.2 is the first major iOS 27 update, and it adds several useful new features. Siri AI Improvements Siri AI can recall past conversations you had with it, so you can ask ‌Siri‌ about something…"
+  },
+  {
+   "id": "829327e834605c7e",
+   "title": "Halide releases its first batch of updates for the iPhone Duo",
+   "url": "https://www.engadget.com/2297806/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-26T22:51:46.000Z",
+   "summary": "Camera app Halide released a new update for the iPhone Duo that adds three different shooting modes based on what position the foldable is in."
+  },
+  {
+   "id": "9de9f08740fcca52",
+   "title": "Ollama for Mac gains support for local text-to-speech models",
+   "url": "https://9to5mac.com/2026/10/26/ollama-for-mac-gains-support-for-local-text-to-speech-models/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-26T22:49:25.000Z",
+   "summary": "Ollama, the popular app for running AI models locally, announced that its Mac app now supports text-to-speech generation, with Windows and Linux support coming soon. Here are the details. more…"
+  },
+  {
+   "id": "5328e7a4d30cc9e6",
+   "title": "Why Can't iPhone Duo Users Make Eye Contact on FaceTime?",
+   "url": "https://www.macrumors.com/2026/10/26/iphone-duo-users-not-make-eye-contact-facetime/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-26T22:49:02.000Z",
+   "summary": "FaceTime's Eye Contact setting is missing on the iPhone Duo, MacRumors can confirm. The setting was first flagged as absent by MacRumors forum member TwoBytes, who noticed their eyes looking \"a little off\" during a call. Introduced in iOS 14, Eye Contact uses machine learning to subtly adjust your…"
+  },
+  {
+   "id": "58d6c0e6a5b39ad7",
+   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+   "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-26T22:41:48.000Z",
+   "summary": "43 points · 8 comments"
+  },
+  {
+   "id": "0c5cf0dc2cad2314",
+   "title": "Microsoft offers to buy out a quarter of its workforce",
+   "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-26T22:36:06.000Z",
+   "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today."
+  },
+  {
+   "id": "01a0af4dbabe9d24",
+   "title": "What are the leading causes of EV battery damage?",
+   "url": "https://www.engadget.com/2290322/leading-causing-ev-battery-damage/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-26T22:30:00.000Z",
+   "summary": "Charging behaviors and heat are the things to pay attention to."
+  },
+  {
+   "id": "c89bb6cf4d989589",
+   "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+   "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-26T22:27:17.000Z",
+   "summary": "8 points · 5 comments"
+  },
+  {
+   "id": "d73c97454721f35d",
+   "title": "Instagram takes on YouTube with new 90-minute horizontal video format",
+   "url": "https://9to5mac.com/2026/10/26/instagram-takes-on-youtube-with-new-90-minute-horizontal-video-format/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-26T22:06:38.000Z",
+   "summary": "According to The Hollywood Reporter, Instagram today began testing a new long-form horizontal video format with select creators in the U.S. Here are the details. more…"
+  },
+  {
+   "id": "8ea0b2c1318bddcc",
+   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+   "url": "https://openai.com/index/greptile-code-review-codex-astra",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-10-26T22:00:00.000Z",
+   "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+  },
+  {
+   "id": "43de0de1bd94e680",
+   "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+   "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-26T22:00:00.000Z",
+   "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team."
+  },
+  {
+   "id": "25d28fcf52b25e1e",
+   "title": "The mistake iPhone Duo buyers can easily avoid",
+   "url": "https://www.engadget.com/2294592/mistake-iphone-duo-buyers-can-avoid/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-26T22:00:00.000Z",
+   "summary": "An iPhone Duo can become even more expensive if you have to repair it, so it's vital to plan for that ahead of time."
+  },
+  {
+   "id": "969aee886791badb",
+   "title": "The Exponential Time Hypothesis Is False [pdf]",
+   "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-26T21:59:15.000Z",
+   "summary": "161 points · 69 comments"
+  },
+  {
+   "id": "f72d0deb10566c00",
+   "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+   "url": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-26T21:56:36.000Z",
+   "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo). The smaller card typically sells for around $80, and the…"
+  },
+  {
+   "id": "650d297f902466a6",
+   "title": "iOS 27.2 Fixes Over 160 Security Vulnerabilities",
+   "url": "https://www.macrumors.com/2026/10/26/ios-27-2-security-fixes/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-10-26T21:55:32.000Z",
+   "summary": "Apple's iOS 27.2 and iPadOS 27.2 updates fix more than 160 security vulnerabilities, which means it's a good idea to install the software as soon as you can. An Apple Intelligence vulnerability that could let a remote attacker access sensitive data was fixed, as was a Hide My Email bug that could…"
+  },
+  {
+   "id": "0d07f18664cde734",
+   "title": "Anthropic is burning gas to feed the AI boom",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-26T21:45:31.000Z",
+   "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission…"
+  },
+  {
+   "id": "f126697032bc693e",
+   "title": "CorridorKey 2.0",
+   "url": "https://corridorkey.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-26T21:18:05.000Z",
+   "summary": "171 points · 53 comments"
+  },
+  {
+   "id": "d30883681ce9b7d8",
+   "title": "iPhone AI Images and Edits Now Have a Hidden Watermark",
+   "url": "https://www.macrumors.com/2026/10/26/iphone-synthid-watermarks/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-10-26T21:15:14.000Z",
+   "summary": "Images generated with Image Playground and some photos edited with Apple Intelligence will now include a SynthID watermark. Apple announced plans to add SynthID support back in June, and the feature is live in iOS 27.2. SynthID is a Google-created tool that identifies AI-generated content. It…"
+  },
+  {
+   "id": "46812b53e0cf1bb9",
+   "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+   "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-26T21:05:11.000Z",
+   "summary": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram."
+  },
+  {
+   "id": "f9b6aee8e988632d",
+   "title": "Apple addressed at least 329 unique security vulnerabilities across today’s system updates",
+   "url": "https://9to5mac.com/2026/10/26/apple-addressed-at-least-329-unique-security-vulnerabilities-across-todays-system-updates/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-26T20:56:15.000Z",
+   "summary": "Apple has updated its security releases page with details of the vulnerabilities addressed in today’s updates to iOS, iPadOS, macOS, watchOS, tvOS, visionOS, and Safari. Here are the details. more…"
+  },
+  {
+   "id": "79370fde9a14d96f",
+   "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+   "url": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-26T20:27:00.000Z",
+   "summary": "Case study gives a whole new meaning to \"bedroom eyes.\""
+  },
+  {
    "id": "ab22cc27f4293344",
    "title": "From iPhone Duo to Mac, Craft shows what a native productivity app can do",
    "url": "https://9to5mac.com/2026/10/26/from-iphone-duo-to-mac-craft-shows-what-a-native-productivity-app-can-do/",
@@ -89,6 +341,24 @@
    "section": "tech",
    "publishedAt": "2026-10-26T20:26:07.000Z",
    "summary": "It’s been a busy fall for Apple. iOS and macOS 27 arrived in September, iPhone Duo went on sale just a few days ago, and more Mac announcements are expected later this week. Between the new software and hardware, there’s plenty for Apple users to explore. Of all these announcements, the iPhone Duo…"
+  },
+  {
+   "id": "35c410165f757c5d",
+   "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+   "url": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-26T20:15:07.000Z",
+   "summary": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes."
+  },
+  {
+   "id": "4dc551407533c27a",
+   "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+   "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-10-26T20:04:16.000Z",
+   "summary": "Included is the ability to limit which applications Siri can directly access."
   },
   {
    "id": "5831f86ef81c07c2",
@@ -143,6 +413,15 @@
    "section": "ai",
    "publishedAt": "2026-10-26T19:44:48.000Z",
    "summary": "Apple today announced that Siri AI will gain support for Chinese (Traditional), Norwegian, Turkish, and Vietnamese later this year. The feature initially supported English only when it launched in September, with support for French, Japanese, Korean, Portuguese, and Spanish added in iOS 27.2 and…"
+  },
+  {
+   "id": "747e422e8be6809e",
+   "title": "Magic state cultivation on a superconducting quantum processor",
+   "url": "https://arxiv.org/abs/2512.13908",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-26T19:37:59.000Z",
+   "summary": "11 points · 0 comments"
   },
   {
    "id": "0626019fae3427a9",
@@ -206,6 +485,15 @@
    "section": "tech",
    "publishedAt": "2026-10-26T19:05:41.000Z",
    "summary": "106 points · 11 comments"
+  },
+  {
+   "id": "0824dc34c04cdfc2",
+   "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+   "url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-26T19:04:40.000Z",
+   "summary": "Apple claims this is the most significant update ever for the iPad mini line."
   },
   {
    "id": "2c40d153a8479b20",
@@ -802,6 +1090,15 @@
    "summary": "Soccer practice just got more bearable."
   },
   {
+   "id": "779e2e458c4007c0",
+   "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+   "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-26T15:35:12.000Z",
+   "summary": "708 points · 624 comments"
+  },
+  {
    "id": "6abb8ab39af85aae",
    "title": "Deals: AirTag 2 all-time low, Apple TV 4K, MacBook Air $200 off, Apple Pencil (USB-C) from $59, Alpine Loop, more",
    "url": "https://9to5mac.com/2026/10/26/deals-airtag-2-apple-tv-4k-macbook-air-apple-pencil/",
@@ -928,6 +1225,15 @@
    "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot."
   },
   {
+   "id": "bf03207dadfa78df",
+   "title": "Working with academic communities to build scientific understanding",
+   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-10-26T14:30:00.000Z",
+   "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
+  },
+  {
    "id": "5ef4bc461a5afc75",
    "title": "Anker Launches Halloween Sale With Sitewide Discounts and Labubu Bundles",
    "url": "https://www.macrumors.com/2026/10/26/anker-halloween-sale-2/",
@@ -1052,6 +1358,15 @@
    "section": "tech",
    "publishedAt": "2026-10-26T13:45:00.000Z",
    "summary": "Clean up your contacts list to prioritize the people you actually want to talk to."
+  },
+  {
+   "id": "9468a1df507d51e2",
+   "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+   "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-10-26T13:45:00.000Z",
+   "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
   },
   {
    "id": "7767446aab959503",
@@ -2276,6 +2591,15 @@
    "section": "tech",
    "publishedAt": "2026-10-25T13:09:16.000Z",
    "summary": "19 points · 6 comments"
+  },
+  {
+   "id": "c2d2942e53d66079",
+   "title": "LISPy things you can do in 64K bytes of core",
+   "url": "https://t3x.org/lisp64k/index.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T12:53:47.000Z",
+   "summary": "11 points · 0 comments"
   },
   {
    "id": "f02ffa579c7eed6b",
@@ -3952,6 +4276,15 @@
    "summary": "In the early years of iPhone launches, long lines would form at Apple Stores around the world, but those queues gradually became a thing of the past amid the rise of online pre-orders. At least, until the iPhone Duo launched today. Apple Domain NORTHSIDE in Austin, Texas today iPhone Duo fever is…"
   },
   {
+   "id": "9495d59257336c1c",
+   "title": "Native Prometheus Integration with Nginx",
+   "url": "https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-23T18:38:13.000Z",
+   "summary": "27 points · 8 comments"
+  },
+  {
    "id": "e39d846114b3f67a",
    "title": "HomeKit Weekly: SwitchBot’s new light bars bring 12-zone color to Apple Home",
    "url": "https://9to5mac.com/2026/10/23/switchbots-new-light-bars-bring-12-zone-color-to-apple-home/",
@@ -3977,6 +4310,15 @@
    "section": "tech",
    "publishedAt": "2026-10-23T17:55:03.000Z",
    "summary": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes several satellite-connected trackers, including the Fi Ultra GPS we previously…"
+  },
+  {
+   "id": "c18ee2bd254a838d",
+   "title": "Who killed the EV cert? A browser whodunit for Halloween",
+   "url": "https://qwac.com/blog/who-killed-the-ev-cert",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-23T17:46:33.000Z",
+   "summary": "21 points · 33 comments"
   },
   {
    "id": "3023b81d2d3e2147",
@@ -4814,6 +5156,15 @@
    "section": "tech",
    "publishedAt": "2026-10-23T06:10:35.677Z",
    "summary": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide."
+  },
+  {
+   "id": "faa202dcde3e23ab",
+   "title": "A Printer Printing onto Paper",
+   "url": "https://twitter.com/macrofying/status/2112904628509528219",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-23T05:01:30.000Z",
+   "summary": "33 points · 10 comments"
   },
   {
    "id": "ab29d7e45c4c5672",
@@ -46106,114 +46457,6 @@
    "section": "tech",
    "publishedAt": "2026-09-27T00:30:00.000Z",
    "summary": "The iPhone Duo has an impressively minimal crease, but that's only how it looks at the start. We'll have to wait a while to see what develops over time."
-  },
-  {
-   "id": "aa8a3fb156e0f2b4",
-   "title": "How powerful of a power bank do you need to safely charge a laptop?",
-   "url": "https://www.engadget.com/2266595/how-powerful-power-bank-needs-to-be-charge-laptop/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-27T00:00:00.000Z",
-   "summary": "A power bank is more than its capacity. You also need to know how fast it can deliver power so your laptop doesn't drain while it's connected."
-  },
-  {
-   "id": "50aa09a060b41be1",
-   "title": "What reversing, modernising old games tells us about the economic impact of AI",
-   "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-26T23:49:01.000Z",
-   "summary": "6 points · 1 comments"
-  },
-  {
-   "id": "348d7dff433bc019",
-   "title": "Your old GPU could be worth more than you think",
-   "url": "https://www.engadget.com/2267877/your-old-gpu-worth-more-than-you-think/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-26T23:45:00.000Z",
-   "summary": "Your old GPU could be a goldmine thanks to the RAMaggedon."
-  },
-  {
-   "id": "4054459eca2ef04a",
-   "title": "Claude Deleted 48k Files",
-   "url": "https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r=",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-26T23:42:06.000Z",
-   "summary": "4 points · 0 comments"
-  },
-  {
-   "id": "28ca4bed59273bec",
-   "title": "Why your iPhone hates printer cables",
-   "url": "https://www.engadget.com/2266565/why-iphone-hates-printer-cables/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-26T23:30:00.000Z",
-   "summary": "AirPrint is the easiest path to printing on iPhone; other apps enable this, but printing with a cable isn't supported."
-  },
-  {
-   "id": "ef9346287c7b2f89",
-   "title": "How to factory reset your Google Home Mini",
-   "url": "https://www.engadget.com/2266523/how-to-factory-reset-google-home-mini/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-26T23:00:00.000Z",
-   "summary": "Google Home Mini speakers may have been discontinued, but there are plenty still being used. If you have one, let's talk about how to reset it."
-  },
-  {
-   "id": "8909b3d81356dfc0",
-   "title": "iPhone 18 Pro vs. iPhone 17 Pro: What's new?",
-   "url": "https://www.engadget.com/2267863/iphone-18-pro-vs-17-pro-comparison-explained/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-26T22:45:00.000Z",
-   "summary": "The iPhone 18 Pro iterates on the iPhone 17 Pro while making some minor improvements, but what exactly is different?"
-  },
-  {
-   "id": "3e8c89442c227f76",
-   "title": "God's Eye UAP – documented UFO cases on a 3D globe, with the evidence",
-   "url": "https://domw99.github.io/Gods-Eye-UAPs/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-26T22:41:13.000Z",
-   "summary": "10 points · 0 comments"
-  },
-  {
-   "id": "596d252195664eee",
-   "title": "How high is too high for speakers in your home sound system?",
-   "url": "https://www.engadget.com/2266518/how-high-too-high-speakers-home-sound-system/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-26T22:30:00.000Z",
-   "summary": "Too much height makes dialogue and fine details sound less direct."
-  },
-  {
-   "id": "9f2618d5933fe75f",
-   "title": "Stop bringing your phone in the shower: How steam can ruin 'waterproof' phones",
-   "url": "https://www.engadget.com/2266522/why-steam-ruins-phone-more-than-water/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-26T22:00:00.000Z",
-   "summary": "Phone manufacturers are pretty direct in their guidance on this one."
-  },
-  {
-   "id": "3c96f244d1f5c386",
-   "title": "Apple hit with $5.7 billion in damages over haptic patents",
-   "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-26T21:30:01.000Z",
-   "summary": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve…"
-  },
-  {
-   "id": "9f89a42f2bf053c3",
-   "title": "Insurers claim AI is already increasing healthcare costs",
-   "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-26T21:02:06.000Z",
-   "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
   }
  ]
 }
