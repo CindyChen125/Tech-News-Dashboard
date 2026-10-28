@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T00:27:19.064Z",
+ "updatedAt": "2026-10-28T06:14:06.681Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,60 @@
  ],
  "items": [
   {
+   "id": "1431732ccf816fa6",
+   "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+   "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-28T05:20:32.000Z",
+   "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries."
+  },
+  {
+   "id": "6c7f841fceb7debb",
+   "title": "iOS 27.2 brings two new features to Apple's CarPlay",
+   "url": "https://www.engadget.com/2299185/ios-27-2-two-new-features-apple-carplay/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-28T03:51:54.000Z",
+   "summary": "iOS 27.2 comes with some changes for Apple CarPlay, too."
+  },
+  {
+   "id": "6d368fc53347f545",
+   "title": "New M6 Macs buck Apple’s second wave of price hikes",
+   "url": "https://9to5mac.com/2026/10/27/new-m6-macs-buck-apples-second-wave-of-price-hikes/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-28T02:09:46.000Z",
+   "summary": "In addition to the spec bumps, today’s M6-powered iMac and 14-inch MacBook Pro announcements came with an extra piece of good news: prices remained unchanged from the previous generations, unlike several other recent Apple product launches that brought another round of increases. Here are the…"
+  },
+  {
+   "id": "8e1a335d3825fdab",
+   "title": "Git for the US Code",
+   "url": "https://lexifina.com/blog/git-for-the-us-code",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-28T01:47:50.000Z",
+   "summary": "160 points · 76 comments"
+  },
+  {
+   "id": "b80161fb0ca8fe67",
+   "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+   "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-10-28T01:15:28.000Z",
+   "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+  },
+  {
+   "id": "212fe20d65b91cc2",
+   "title": "Apple wins expanded access to evidence in OpenAI trade secrets lawsuit",
+   "url": "https://9to5mac.com/2026/10/27/apple-wins-expanded-access-to-evidence-in-openai-trade-secrets-lawsuit/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-10-28T00:54:43.000Z",
+   "summary": "Apple has scored another win in its trade secrets misappropriation lawsuit against two former employees, OpenAI, and io Products. Here are the details. more…"
+  },
+  {
    "id": "92fe8aa72ef3784d",
    "title": "Apple releases two new real-life Apple Watch stories, including a life-saving alert",
    "url": "https://9to5mac.com/2026/10/27/apple-releases-two-new-real-life-apple-watch-stories-including-a-life-saving-alert/",
@@ -98,6 +152,24 @@
    "section": "tech",
    "publishedAt": "2026-10-28T00:01:52.000Z",
    "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze: Backup you can rely on. Save 20% with code…"
+  },
+  {
+   "id": "aaeec233a6752227",
+   "title": "Don't throw away your old Kindle — repurpose it instead",
+   "url": "https://www.engadget.com/2296053/dont-throw-away-your-old-kindle-repurpose-it/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-28T00:00:00.000Z",
+   "summary": "You can probably still read on it, and, with some finessing, you can turn it into a useful display."
+  },
+  {
+   "id": "8f9744032388fd17",
+   "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+   "url": "https://github.com/maharmstone/moxnox",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-27T23:53:41.000Z",
+   "summary": "47 points · 8 comments"
   },
   {
    "id": "f867f8331e927669",
@@ -233,6 +305,15 @@
    "section": "tech",
    "publishedAt": "2026-10-27T22:26:03.000Z",
    "summary": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions."
+  },
+  {
+   "id": "f040d8e74b2d1dcc",
+   "title": "Hunger beats tenure: Advice for junior engineers",
+   "url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-27T22:25:23.000Z",
+   "summary": "28 points · 7 comments"
   },
   {
    "id": "3e55ee76872fb230",
@@ -2258,6 +2339,15 @@
    "section": "tech",
    "publishedAt": "2026-10-26T19:48:31.000Z",
    "summary": "Apple today released visionOS 27.2, the first big update for the visionOS 27 operating system that runs on the Apple Vision Pro. visionOS 27.2 can be downloaded by opening the Settings app, selecting the General section, and choosing Software Update. Installing the update requires the headset to be…"
+  },
+  {
+   "id": "133a9df67eb32652",
+   "title": "What Happened to the Neanderthals?",
+   "url": "https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-26T19:47:58.000Z",
+   "summary": "15 points · 7 comments"
   },
   {
    "id": "df52bf9812c5ab13",
@@ -4627,6 +4717,15 @@
    "summary": "44 points · 5 comments"
   },
   {
+   "id": "08edfbf712a1e643",
+   "title": "Assembly Nights (2021)",
+   "url": "https://ratfactor.com/assembly-nights",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T12:35:37.000Z",
+   "summary": "40 points · 9 comments"
+  },
+  {
    "id": "021ca3150be3f820",
    "title": "Don't throw away your old speakers — Use them for your TV instead",
    "url": "https://www.engadget.com/2291638/dont-throw-away-old-speakers-use-for-tv-instead/",
@@ -4787,6 +4886,15 @@
    "section": "tech",
    "publishedAt": "2026-10-25T02:18:35.000Z",
    "summary": "86 points · 18 comments"
+  },
+  {
+   "id": "d7e0dd3aaa8cada9",
+   "title": "MacOS Extensions Pack for the Apple Network Server v1.0",
+   "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T01:39:51.000Z",
+   "summary": "7 points · 0 comments"
   },
   {
    "id": "470508811885a0d8",
@@ -5723,6 +5831,15 @@
    "section": "tech",
    "publishedAt": "2026-10-24T09:53:26.000Z",
    "summary": "121 points · 86 comments"
+  },
+  {
+   "id": "624f75d46cff5333",
+   "title": "A Love Letter to the Super Dimension Fortress",
+   "url": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-24T08:30:32.000Z",
+   "summary": "36 points · 4 comments"
   },
   {
    "id": "102a0fe276580fe5",
@@ -47609,96 +47726,6 @@
    "section": "ai",
    "publishedAt": "2026-09-28T07:00:00.000Z",
    "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
-  },
-  {
-   "id": "6b6da18b02c7062d",
-   "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
-   "url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-28T04:30:00.000Z",
-   "summary": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market."
-  },
-  {
-   "id": "f685792c7f34a0ee",
-   "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-   "url": "https://arxiv.org/abs/2110.01834",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-28T03:23:53.000Z",
-   "summary": "73 points · 12 comments"
-  },
-  {
-   "id": "8ec5159abbe82b58",
-   "title": "Nissan's third generation e-POWER powertrain",
-   "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-28T02:31:23.000Z",
-   "summary": "126 points · 278 comments"
-  },
-  {
-   "id": "d00d39598f2b99e1",
-   "title": "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
-   "url": "https://efraingaray.com/en/blog/tabpfn-vs-xgboost/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-28T02:27:40.000Z",
-   "summary": "19 points · 9 comments"
-  },
-  {
-   "id": "6b235f9878a64107",
-   "title": "Owed a billion dollars in Nvidia stock",
-   "url": "https://colo.to/nvidia-stock-narrative.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-28T02:05:13.000Z",
-   "summary": "520 points · 208 comments"
-  },
-  {
-   "id": "954ce079525318f0",
-   "title": "Behold the pawpaw",
-   "url": "https://www.cbc.ca/radio/thecurrent/pawpaw-tropical-fruit-canada-9.7356882",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-28T01:46:29.000Z",
-   "summary": "50 points · 13 comments"
-  },
-  {
-   "id": "73c35ade9fa2d427",
-   "title": "Packing Binary Is Fun",
-   "url": "https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-28T01:33:51.000Z",
-   "summary": "8 points · 2 comments"
-  },
-  {
-   "id": "309b1acef527e808",
-   "title": "Was silent reading unusual during Augustine's time?",
-   "url": "https://www.historyofinformation.com/detail.php?entryid=4341",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-28T01:22:28.000Z",
-   "summary": "43 points · 16 comments"
-  },
-  {
-   "id": "d42cc10538a5ed48",
-   "title": "Self-parking car using genetic algorithm (2021)",
-   "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-28T01:21:32.000Z",
-   "summary": "6 points · 2 comments"
-  },
-  {
-   "id": "6d7fa2ac1f81d7bc",
-   "title": "Level 1, 2 and 3 EV chargers: Which is better to use?",
-   "url": "https://www.engadget.com/2267893/level-1-2-vs-3-ev-charger-which-is-better/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-28T00:30:00.000Z",
-   "summary": "Provided you don't drive long distances every day, Level 1 charging could be all you need."
   }
  ]
 }
