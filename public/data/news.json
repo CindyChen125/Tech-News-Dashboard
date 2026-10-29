@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T23:09:15.227Z",
+ "updatedAt": "2026-10-29T02:47:59.804Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,105 @@
  ],
  "items": [
   {
+   "id": "402db711626209d5",
+   "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+   "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-10-29T02:22:46.000Z",
+   "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a…"
+  },
+  {
+   "id": "ed0cd9a6ab5c8d62",
+   "title": "Electronic fibers weave touchscreen into sleeve that survives machine washing",
+   "url": "https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-29T01:40:52.000Z",
+   "summary": "9 points · 0 comments"
+  },
+  {
+   "id": "0473113993039b61",
+   "title": "Russia now requires Apple to store user communications and hand them over if requested",
+   "url": "https://9to5mac.com/2026/10/28/russia-now-requires-apple-to-store-user-communications-and-hand-them-over-if-requested/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-29T01:24:17.000Z",
+   "summary": "As Bloomberg reported today, Apple and Microsoft are now subject to Russian regulations requiring companies to store users’ communications and provide them to security agencies if requested. Here are the details. more…"
+  },
+  {
+   "id": "8e7cf518960a7b23",
+   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+   "url": "https://divagr.com/blog/qwenputer",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-29T00:25:45.000Z",
+   "summary": "118 points · 28 comments"
+  },
+  {
+   "id": "690ce3105e678664",
+   "title": "Apple and OpenAI trade secrets lawsuit now has an official trial date",
+   "url": "https://9to5mac.com/2026/10/28/apple-and-openai-trade-secrets-lawsuit-now-has-an-official-trial-date/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-10-29T00:17:48.000Z",
+   "summary": "Judge Edward Davila today formally established the schedule for Apple’s trade secrets misappropriation lawsuit against two former employees, OpenAI, and io Products, including a trial date. Here are the details. more…"
+  },
+  {
+   "id": "98a5ec0645fd5e60",
+   "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+   "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-28T23:45:46.000Z",
+   "summary": "93 points · 35 comments"
+  },
+  {
+   "id": "675500a6ac640766",
+   "title": "The first wired XR glasses powered by Android XR",
+   "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-28T23:45:19.000Z",
+   "summary": "42 points · 40 comments"
+  },
+  {
+   "id": "35fd0c820583fc95",
+   "title": "StackOverflow now gets fewer than 1000 questions a month",
+   "url": "https://data.stackexchange.com/stackoverflow/query/1926661",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-28T23:35:02.000Z",
+   "summary": "123 points · 143 comments"
+  },
+  {
+   "id": "e17d87b8d9eac75b",
+   "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+   "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-28T23:15:00.000Z",
+   "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price."
+  },
+  {
+   "id": "584917dcf0b01780",
+   "title": "FCC chair wants to let prisons jam illegal cellphones",
+   "url": "https://www.engadget.com/2300569/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-28T23:09:22.000Z",
+   "summary": "The agency will vote next month on relaxing its long-standing opposition to jammers."
+  },
+  {
+   "id": "82b62d19d97e3c9f",
+   "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-10-28T23:05:39.000Z",
+   "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the…"
+  },
+  {
    "id": "a645e0be640a229a",
    "title": "Best Buy Opens Pre-Orders for PROLED XDR MacBook Pro With $100 Bonus Gift Cards",
    "url": "https://www.macrumors.com/2026/10/28/best-buy-proled-xdr-macbook-pro-gift-cards/",
@@ -89,6 +188,15 @@
    "section": "tech",
    "publishedAt": "2026-10-28T23:04:16.000Z",
    "summary": "Similar to the iPad mini 8 and M6 MacBook Pro, the just-announced MacBook Pro models with PROLED XDR displays have become available for pre-order at Best Buy with a bonus gift card offer. All configurations are eligible for a $100 Best Buy e-gift card with purchase, and membership in Best Buy Plus…"
+  },
+  {
+   "id": "cc35d9c0a04f9e0d",
+   "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+   "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-28T22:51:15.000Z",
+   "summary": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters."
   },
   {
    "id": "c7445e85ad65758a",
@@ -118,6 +226,15 @@
    "summary": "In a report released today, TrendForce says that with strong demand for the iPhone Duo out of the gate, Apple is poised to capture nearly 30% of the global foldable smartphone market by 2027. Here are the details. more…"
   },
   {
+   "id": "04ae27d7923e0c6a",
+   "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
+   "url": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-28T22:35:50.000Z",
+   "summary": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea."
+  },
+  {
    "id": "84ef8be4fe0c0fc6",
    "title": "Claude Code found 145K photos I deleted from my iPhone sitting in a hidden cache",
    "url": "https://twitter.com/coolerwave/status/2114088769112477849",
@@ -134,6 +251,15 @@
    "section": "tech",
    "publishedAt": "2026-10-28T22:24:25.000Z",
    "summary": "Surprise! The new 14-inch and 16-inch MacBook Pro models with OLED displays have a glowing Apple logo, a beloved feature that was phased out a decade ago. In a hands-on video shared on his YouTube channel UrAvgConsumer, Judner Aura showed off the glowing Apple logo and revealed that its brightness…"
+  },
+  {
+   "id": "cf57bc13742093c1",
+   "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
+   "url": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-10-28T22:17:15.000Z",
+   "summary": "Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\""
   },
   {
    "id": "0c3dca8a7c4fa1d0",
@@ -3916,6 +4042,15 @@
    "summary": "Apple has updated its security releases page with details of the vulnerabilities addressed in today’s updates to iOS, iPadOS, macOS, watchOS, tvOS, visionOS, and Safari. Here are the details. more…"
   },
   {
+   "id": "ecdbf780723cbc97",
+   "title": "Image generation has come a long way since August 2022",
+   "url": "https://www.hbrooks.com/writing/image-generation-has-come-a-long-way",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-26T20:40:36.000Z",
+   "summary": "39 points · 11 comments"
+  },
+  {
    "id": "79370fde9a14d96f",
    "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
    "url": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
@@ -4753,6 +4888,15 @@
    "summary": "53 points · 5 comments"
   },
   {
+   "id": "02aaa84cf62d5d78",
+   "title": "Nixpkgs for the Front End Impaired",
+   "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-26T15:00:05.000Z",
+   "summary": "13 points · 2 comments"
+  },
+  {
    "id": "755fb17b3fcf867b",
    "title": "New iPad Mini Gains Adaptive True Tone Flash",
    "url": "https://www.macrumors.com/2026/10/26/ipad-mini-adaptive-true-tone-flash/",
@@ -5183,6 +5327,15 @@
    "section": "tech",
    "publishedAt": "2026-10-26T13:00:22.904Z",
    "summary": "Apple unveils the all-new iPad mini, featuring an OLED display in a thinner design, a leap in performance with A20 Pro, and water and dust resistance."
+  },
+  {
+   "id": "38e82178774c7614",
+   "title": "Human-enhanced tsunami hazard in large lakes",
+   "url": "https://www.nature.com/articles/s41467-026-78272-8",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-26T13:00:03.000Z",
+   "summary": "5 points · 0 comments"
   },
   {
    "id": "f2666e0fd179a7cc",
@@ -6020,6 +6173,15 @@
    "section": "tech",
    "publishedAt": "2026-10-25T18:00:00.000Z",
    "summary": "Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal even stronger."
+  },
+  {
+   "id": "2e0c3329c6774527",
+   "title": "How we made our MMDB files a 33% smaller",
+   "url": "https://ipinfo.io/blog/how-made-mmdb-files-smaller",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-25T17:33:02.000Z",
+   "summary": "16 points · 3 comments"
   },
   {
    "id": "70ff3853da670b41",
@@ -47753,159 +47915,6 @@
    "section": "tech",
    "publishedAt": "2026-09-29T04:13:28.000Z",
    "summary": "8 points · 4 comments"
-  },
-  {
-   "id": "ba75169bbaa73057",
-   "title": "Solving Factorio Quality",
-   "url": "https://exyr.org/2026/solving-factorio-quality/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-29T02:27:54.000Z",
-   "summary": "101 points · 33 comments"
-  },
-  {
-   "id": "578f6fe5adeafc53",
-   "title": "Emmy wins and recent premieres help Apple TV reach highest weekly viewership ever",
-   "url": "https://9to5mac.com/2026/09/28/emmy-wins-and-recent-premieres-help-apple-tv-reach-highest-weekly-viewership-ever/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-29T01:44:04.000Z",
-   "summary": "Deadline reports that Apple TV recently recorded its biggest week ever for viewership, fueled by its 29 Emmy wins and recent releases such as Ted Lasso and Mayday. Here are the details. more…"
-  },
-  {
-   "id": "cfe2d5a4c0cb3d54",
-   "title": "Apple and Amazon face renewed UK antitrust lawsuit",
-   "url": "https://9to5mac.com/2026/09/28/apple-and-amazon-face-renewed-uk-antitrust-lawsuit/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-29T01:21:23.000Z",
-   "summary": "A UK tribunal has allowed part of a renewed antitrust lawsuit against Apple and Amazon to move forward, over allegations that the companies restricted competition for Apple and Beats products sold on Amazon. Here are the details. more…"
-  },
-  {
-   "id": "8fbbcac741681b67",
-   "title": "This website lets you explore nearly 30 years of Apple product colors",
-   "url": "https://9to5mac.com/2026/09/28/this-website-lets-you-explore-nearly-30-years-of-apple-product-colors/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-09-29T01:01:54.000Z",
-   "summary": "The folks at sheets.works are back at it again, this time with an interactive archive of 341 Apple product colors spanning nearly three decades. Here are the details. more…"
-  },
-  {
-   "id": "f329d0ab71358f70",
-   "title": "How we will do better for Australia",
-   "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-29T01:00:00.000Z",
-   "summary": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
-  },
-  {
-   "id": "41a8113ee6b9b9ca",
-   "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
-   "url": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-09-29T01:00:00.000Z",
-   "summary": "The Headphone 1 Pro flagship headphones keep Nothing’s aesthetic while adding some surprises. | Photo: John Higgins / The Verge Nothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while the…"
-  },
-  {
-   "id": "6e7b997426ab9c04",
-   "title": "Built Dental Scope",
-   "url": "https://dental-scope.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-29T00:47:19.000Z",
-   "summary": "35 points · 7 comments"
-  },
-  {
-   "id": "9fbe093eaf563bf2",
-   "title": "Tank Body Problem",
-   "url": "http://www.jimsitu.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-29T00:41:45.000Z",
-   "summary": "3 points · 1 comments"
-  },
-  {
-   "id": "c6de3fc5be99f07f",
-   "title": "Show HN: Corral – Kill every command your agent starts",
-   "url": "https://github.com/Cardinal44/corral",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-29T00:35:05.000Z",
-   "summary": "8 points · 0 comments"
-  },
-  {
-   "id": "14a4888a353a3bb6",
-   "title": "OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns",
-   "url": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-29T00:34:27.000Z",
-   "summary": "38 points · 36 comments"
-  },
-  {
-   "id": "d8f8737053a67f4b",
-   "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-   "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-09-29T00:30:00.000Z",
-   "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India."
-  },
-  {
-   "id": "5ce4dd96a99bce84",
-   "title": "How to get started with Shortcuts on your MacBook",
-   "url": "https://www.engadget.com/2269315/how-to-use-macbook-shortcuts/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-29T00:30:00.000Z",
-   "summary": "Your Mac's Shortcuts app is a powerful way to automate tedious tasks, and you can now set up scripts using natural language."
-  },
-  {
-   "id": "47819770bed86910",
-   "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
-   "url": "https://lolchat.rip/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-29T00:06:48.000Z",
-   "summary": "14 points · 7 comments"
-  },
-  {
-   "id": "da51fc860fc32bb3",
-   "title": "iPhone Duo StandBy Leak Reveals Five Unannounced Faces",
-   "url": "https://www.macrumors.com/2026/09/28/iphone-duo-standby-leak/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-09-29T00:04:54.000Z",
-   "summary": "We've seen previews of iOS 27 running on the iPhone Duo, including a new StandBy mode that activates even when the iPhone isn't charging. Apple showed the mode in press materials, but leaker pdfu today shared a more in-depth look at some of the options. There are multiple StandBy faces available on…"
-  },
-  {
-   "id": "df8e0f598c9747f5",
-   "title": "Introducing dots",
-   "url": "https://openai.com/index/introducing-dots",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-09-29T00:00:00.000Z",
-   "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
-  },
-  {
-   "id": "508bfb416bba68d5",
-   "title": "OpenAI reportedly ditches model over safety concerns",
-   "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-28T23:39:20.000Z",
-   "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders."
-  },
-  {
-   "id": "124a598029ffb86d",
-   "title": "The warning signs that your iPhone battery needs to be replaced",
-   "url": "https://www.engadget.com/2269219/warning-signs-replace-iphone-battery/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-28T23:30:00.000Z",
-   "summary": "Your iPhone's battery doesn't have infinite longevity. Over time, it degrades, and you'll know that's happening when you see these signs."
   }
  ]
 }
