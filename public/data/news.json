@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T02:47:59.804Z",
+ "updatedAt": "2026-10-29T09:49:39.657Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,69 @@
   }
  ],
  "items": [
+  {
+   "id": "444051fa11f9b135",
+   "title": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
+   "url": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-10-29T09:41:58.000Z",
+   "summary": "Google's latest Gemini 4 Carbon AI model boasts top benchmark scores in areas like cybersecurity and coding."
+  },
+  {
+   "id": "d8ef91dce8c4e239",
+   "title": "Hackers leaked details of more than 41,000 Homeland Security personnel",
+   "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-29T08:33:46.000Z",
+   "summary": "A hacktivist group stole the information of ICE agents and border police from Homeland Security."
+  },
+  {
+   "id": "54d2b598a00d5167",
+   "title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
+   "url": "https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-29T07:52:32.000Z",
+   "summary": "56 points · 91 comments"
+  },
+  {
+   "id": "692eb810a552ef05",
+   "title": "Zero click, silent, remote Android DoS",
+   "url": "https://smsofdeath.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-29T07:08:50.000Z",
+   "summary": "47 points · 23 comments"
+  },
+  {
+   "id": "5e7d080f77fde5df",
+   "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+   "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-29T06:47:28.000Z",
+   "summary": "40 points · 8 comments"
+  },
+  {
+   "id": "52d27b615ffb907c",
+   "title": "Zillow to pay $212.5M to settle class action for real estate venture",
+   "url": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-29T03:48:05.000Z",
+   "summary": "40 points · 9 comments"
+  },
+  {
+   "id": "7ed6398608ce26b4",
+   "title": "Claude Code regularly sends each background agent’s transcript to its model",
+   "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-29T03:33:42.000Z",
+   "summary": "357 points · 116 comments"
+  },
   {
    "id": "402db711626209d5",
    "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
@@ -3097,6 +3160,15 @@
    "summary": "With the midterms closing in, its IPO paperwork reveal a company rightly worried about its regulatory future."
   },
   {
+   "id": "70ba7d9a1f594326",
+   "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
+   "url": "https://dmux.github.io/minilake/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-27T14:12:59.000Z",
+   "summary": "5 points · 0 comments"
+  },
+  {
    "id": "3396e5b412be43e0",
    "title": "The US Government Is Hiding Secret Court Ruling About How It Spies on Americans",
    "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
@@ -3646,6 +3718,15 @@
    "summary": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the two models announced in May - will be available exclusively at Best Buy on…"
   },
   {
+   "id": "476197db9ec826dd",
+   "title": "A new faster algorithm to compute 64-bit signed floor division",
+   "url": "https://www.benjoffe.com/fast-floordiv",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-27T09:13:12.000Z",
+   "summary": "59 points · 5 comments"
+  },
+  {
    "id": "a8f9782b523f0c2f",
    "title": "AI is ruining haunted houses",
    "url": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
@@ -4004,6 +4085,15 @@
    "section": "ai",
    "publishedAt": "2026-10-26T21:45:31.000Z",
    "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission…"
+  },
+  {
+   "id": "7aa1015f9ddf8166",
+   "title": "OpenAI's agents talked to each other through the CPU Cache",
+   "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-26T21:24:18.000Z",
+   "summary": "141 points · 55 comments"
   },
   {
    "id": "f126697032bc693e",
@@ -5095,6 +5185,15 @@
    "summary": "18 points · 0 comments"
   },
   {
+   "id": "c7b4aef516c7ace7",
+   "title": "Getting debug access on a Brother printer over Telnet",
+   "url": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-26T13:54:39.000Z",
+   "summary": "36 points · 8 comments"
+  },
+  {
    "id": "5e5a801d255c0452",
    "title": "New iPad Mini Available in Just Two Colors",
    "url": "https://www.macrumors.com/2026/10/26/new-ipad-mini-two-colors/",
@@ -5480,6 +5579,15 @@
    "section": "ai",
    "publishedAt": "2026-10-26T11:23:48.000Z",
    "summary": "The latest AI copyright infringement suit centers around a single music artist from decades past: Elvis."
+  },
+  {
+   "id": "64df8e8985727a1b",
+   "title": "Treap (Cartesian Tree)",
+   "url": "https://cp-algorithms.com/data_structures/treap.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-26T11:19:31.000Z",
+   "summary": "24 points · 3 comments"
   },
   {
    "id": "ab17dae16655e274",
@@ -47816,105 +47924,6 @@
    "section": "tech",
    "publishedAt": "2026-09-29T09:58:24.000Z",
    "summary": "37 points · 32 comments"
-  },
-  {
-   "id": "71728c6a7de1ddb8",
-   "title": "Meta now has a version of Muse just for small businesses",
-   "url": "https://www.engadget.com/2271498/meta-now-has-a-version-of-muse-just-for-small-businesses/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-29T09:30:00.000Z",
-   "summary": "The agent can now connect to ad accounts and analytics for Instagram and Facebook."
-  },
-  {
-   "id": "5dd8a1564707e6a7",
-   "title": "AI companies leak data to advertisers [pdf]",
-   "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-29T09:03:41.000Z",
-   "summary": "309 points · 102 comments"
-  },
-  {
-   "id": "b049fcd42008ef0a",
-   "title": "Using any C++ library in Godot",
-   "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-29T08:40:37.000Z",
-   "summary": "112 points · 30 comments"
-  },
-  {
-   "id": "0bfc56242bf93a67",
-   "title": "OpenAI reportedly cancels GPT-6.1 Astra's release over deceptive behavior",
-   "url": "https://www.engadget.com/2271626/openai-cancels-gpt-6-1-astra-release-deceptive-behavior/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-09-29T08:15:26.000Z",
-   "summary": "According to The New York Times, OpenAI scrapped GPT-6.1 Astra's release because it didn't meet safety standards."
-  },
-  {
-   "id": "c2691de785487878",
-   "title": "Opera for Android now comes with a free eSIM and 3GB of data",
-   "url": "https://www.engadget.com/2271064/opera-for-android-now-comes-with-a-free-esim-and-3gb-of-data/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-29T08:00:00.000Z",
-   "summary": "It's limited to Opera users in certain countries, however."
-  },
-  {
-   "id": "cea7d5e7d3737adf",
-   "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
-   "url": "https://www.startup-nights.ch/event/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-29T07:49:12.000Z",
-   "summary": "41 points · 23 comments"
-  },
-  {
-   "id": "0d7cd7f24ff0e891",
-   "title": "OpenAI: Tomorrow we are re-opening the Pro $200 subscription",
-   "url": "https://twitter.com/thsottiaux/status/2104823812042940713",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-29T07:07:53.000Z",
-   "summary": "39 points · 28 comments"
-  },
-  {
-   "id": "ed95bac1ee9938cf",
-   "title": "Mathematical Origami",
-   "url": "https://mathigon.org/origami",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-29T06:45:46.000Z",
-   "summary": "69 points · 15 comments"
-  },
-  {
-   "id": "2cb64f469f53fa25",
-   "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-   "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-09-29T05:13:43.000Z",
-   "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity."
-  },
-  {
-   "id": "633a3f675165c201",
-   "title": "When oil prices spike, where does the money go?",
-   "url": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-29T04:14:11.000Z",
-   "summary": "7 points · 0 comments"
-  },
-  {
-   "id": "8dc279c85d6880bf",
-   "title": "Clipboard Normalizer",
-   "url": "https://www.jefftk.com/p/clipboard-normalizer-in-mac-app-store",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-29T04:13:28.000Z",
-   "summary": "8 points · 4 comments"
   }
  ]
 }
