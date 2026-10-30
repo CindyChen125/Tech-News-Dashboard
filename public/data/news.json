@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T01:53:41.757Z",
+ "updatedAt": "2026-10-30T08:31:44.420Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,73 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 30
+   "count": 31
   }
  ],
  "items": [
+  {
+   "id": "9a9662e8606d9987",
+   "title": "Binance hacked for an estimated $6.3 billion in record crypto theft",
+   "url": "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-30T08:24:55.000Z",
+   "summary": "Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack."
+  },
+  {
+   "id": "9f6126e0e8c81ba4",
+   "title": "General Motors agrees to pay $220 million to settle multi-state data privacy lawsuit",
+   "url": "https://www.engadget.com/2301934/general-motors-220-million-settle-multi-state-data-privacy-lawsuit/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-30T07:44:26.000Z",
+   "summary": "GM has settled the Smart Driver program lawsuit brought by 35 attorneys general."
+  },
+  {
+   "id": "faab0a00b27618a4",
+   "title": "'Elite North Korean hackers' blamed for $6.3B Binance hack",
+   "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-30T07:41:13.000Z",
+   "summary": "10 points · 2 comments"
+  },
+  {
+   "id": "59fa8e19a9c73a32",
+   "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+   "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-10-30T07:01:00.000Z",
+   "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker."
+  },
+  {
+   "id": "3379ac256424b3cc",
+   "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+   "url": "https://www.workatastartup.com/jobs/98722",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-30T07:00:35.000Z",
+   "summary": "0 points · 0 comments"
+  },
+  {
+   "id": "dbb239242b6ae234",
+   "title": "Apple’s best MacBook Pro decision this week had nothing to do with touch",
+   "url": "https://9to5mac.com/2026/10/29/apples-best-macbook-pro-decision-this-week-had-nothing-to-do-with-touch/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-10-30T02:06:23.000Z",
+   "summary": "Apple’s new touchscreen MacBook Pro brings plenty of welcome upgrades, but one of the best things about this week’s launch is what the company decided not to change. more…"
+  },
+  {
+   "id": "78ca6c4741175ff4",
+   "title": "Pico CSS is no longer maintained",
+   "url": "https://github.com/picocss/pico/discussions/754",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-30T01:58:44.000Z",
+   "summary": "115 points · 44 comments"
+  },
   {
    "id": "2bb6898a626cbbd2",
    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
@@ -233,6 +296,15 @@
    "section": "tech",
    "publishedAt": "2026-10-29T22:14:23.000Z",
    "summary": "41 points · 13 comments"
+  },
+  {
+   "id": "46f4a3dbce95b026",
+   "title": "Should a medical diagnosis reshape the past? (2025)",
+   "url": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-29T22:12:29.000Z",
+   "summary": "36 points · 4 comments"
   },
   {
    "id": "02987ce9b1e576a7",
@@ -2926,6 +2998,15 @@
    "summary": "In a post on X today, Apple CEO John Ternus shared a short video that shows an Apple logo being projected onto a dark wall against a nighttime city skyline. This teaser comes just a few hours before Apple is expected to announce new MacBook models with touch-enabled OLED displays, so it is very…"
   },
   {
+   "id": "84491e3c5402a8d1",
+   "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+   "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-28T13:20:05.000Z",
+   "summary": "108 points · 9 comments"
+  },
+  {
    "id": "787ac04373b6dbda",
    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
@@ -3340,6 +3421,24 @@
    "summary": "Meta describes Waddle World as a 'daily journal disguised as a pet.'"
   },
   {
+   "id": "8923178b786e014e",
+   "title": "Astroterm: A Planetarium for Your Terminal",
+   "url": "https://github.com/da-luce/astroterm",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-28T08:29:55.000Z",
+   "summary": "111 points · 9 comments"
+  },
+  {
+   "id": "c933dc5fa591850f",
+   "title": "Solving Postgres' Count Problem",
+   "url": "https://www.paradedb.com/blog/opening-a-closed-tin-part-2",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-28T05:34:16.000Z",
+   "summary": "28 points · 3 comments"
+  },
+  {
    "id": "1431732ccf816fa6",
    "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
    "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
@@ -3536,6 +3635,15 @@
    "section": "tech",
    "publishedAt": "2026-10-27T22:50:54.000Z",
    "summary": "In a roundup of what to expect from tomorrow’s “Pro and Tell” event, Bloomberg’s Mark Gurman shared new details about the upcoming OLED touchscreen MacBook Pro models. Here’s what to expect. more…"
+  },
+  {
+   "id": "86ac2edb44e65a88",
+   "title": "An illustrated online book on Hewlett-Packard equipment",
+   "url": "https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-27T22:47:41.000Z",
+   "summary": "13 points · 3 comments"
   },
   {
    "id": "38000e3fff4d14fd",
@@ -4040,6 +4148,15 @@
    "section": "tech",
    "publishedAt": "2026-10-27T18:00:00.000Z",
    "summary": "Apple's smallest desktop delivers better performance and value for those willing to leave the laptop behind."
+  },
+  {
+   "id": "c8c3338751cbe342",
+   "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
+   "url": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-27T17:54:57.000Z",
+   "summary": "6 points · 0 comments"
   },
   {
    "id": "2be74a3ae020b3b5",
@@ -5203,6 +5320,15 @@
    "summary": "OpenAI said its models generated proof that the Exponential Time Hypothesis is false. It also released new results for math and physics problems."
   },
   {
+   "id": "27ea8a7d78a3dde6",
+   "title": "Python on My Wrist",
+   "url": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-27T07:10:45.000Z",
+   "summary": "38 points · 4 comments"
+  },
+  {
    "id": "8b3f11a4752623a6",
    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
@@ -5219,6 +5345,15 @@
    "section": "tech",
    "publishedAt": "2026-10-27T06:34:44.000Z",
    "summary": "Whose hand is behind this travesty?"
+  },
+  {
+   "id": "c15897b55e65c610",
+   "title": "Cuis: The Modern Smalltalk-80",
+   "url": "https://cuis.st/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-27T06:33:16.000Z",
+   "summary": "93 points · 14 comments"
   },
   {
    "id": "70a8103b874589ee",
@@ -47420,96 +47555,6 @@
    "section": "ai",
    "publishedAt": "2026-09-30T08:43:21.000Z",
    "summary": "176 points · 88 comments"
-  },
-  {
-   "id": "1508a3d506deac97",
-   "title": "Sony implements a lottery system to deal with the PS5 Pro shortage in Japan",
-   "url": "https://www.engadget.com/2272946/sony-lottery-system-ps5-pro-japan/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-09-30T07:55:04.000Z",
-   "summary": "Gamers in Japan will have to prove they actually use their PS consoles to be able to buy a PS5 Pro."
-  },
-  {
-   "id": "2ff27c4c2f89354f",
-   "title": "Doing a Machine Learning PhD While Working in Japan",
-   "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-30T07:33:45.000Z",
-   "summary": "6 points · 1 comments"
-  },
-  {
-   "id": "16480b91527b7d71",
-   "title": "Why Is Sam Altman a Free Man?",
-   "url": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-30T07:32:40.000Z",
-   "summary": "146 points · 93 comments"
-  },
-  {
-   "id": "5ff4fc6f338a27ca",
-   "title": "September 2026: The world today, as seen by one Polish guy",
-   "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-30T07:12:31.000Z",
-   "summary": "283 points · 156 comments"
-  },
-  {
-   "id": "0d278db668fe9ed9",
-   "title": "Tesla takes on $30B in credit as it approaches unprofitability",
-   "url": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-30T04:37:37.000Z",
-   "summary": "11 points · 1 comments"
-  },
-  {
-   "id": "089996d84ec5c06c",
-   "title": "LinkedIn Larpmaxxing",
-   "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-30T04:19:57.000Z",
-   "summary": "21 points · 13 comments"
-  },
-  {
-   "id": "f90eedb1d91ab952",
-   "title": "PSSA: A non-transformer language model written from scratch in Rust",
-   "url": "https://github.com/Sparticle62ops/pssa",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-30T03:19:54.000Z",
-   "summary": "41 points · 11 comments"
-  },
-  {
-   "id": "59f7c658c2234ca9",
-   "title": "RSS Feeds for Last.fm",
-   "url": "https://lfm.xiffy.nl/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-30T03:00:05.000Z",
-   "summary": "12 points · 3 comments"
-  },
-  {
-   "id": "a680d20046458cdb",
-   "title": "Responsible Release of AI-Generated Mathematics",
-   "url": "https://agmai.org/general-sep29/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-09-30T02:36:12.000Z",
-   "summary": "14 points · 2 comments"
-  },
-  {
-   "id": "04b47993e867ea89",
-   "title": "Ballmer Peak",
-   "url": "https://en.wikipedia.org/wiki/Ballmer_Peak",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-09-30T02:35:58.000Z",
-   "summary": "24 points · 0 comments"
   }
  ]
 }
