@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T23:40:21.325Z",
+ "updatedAt": "2026-11-01T05:52:48.978Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,78 @@
  ],
  "items": [
   {
+   "id": "412f7a90b3b558c6",
+   "title": "Data centers are now a midterm issue, even in Brooklyn",
+   "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-01T02:22:10.000Z",
+   "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers."
+  },
+  {
+   "id": "4bbb0528402c2449",
+   "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+   "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-01T02:19:53.000Z",
+   "summary": "55 points · 21 comments"
+  },
+  {
+   "id": "a07950cb93fda94c",
+   "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+   "url": "https://arxiv.org/abs/2409.02292",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-01T01:46:29.000Z",
+   "summary": "41 points · 18 comments"
+  },
+  {
+   "id": "12d25251215661c5",
+   "title": "5 expensive hobbies where owning a 3D printer actually saves you money",
+   "url": "https://www.engadget.com/2300213/3d-printer-expensive-hobbies-where-it-saves-money/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-01T00:30:00.000Z",
+   "summary": "While a personal 3D printer is certainly an investment, if you regularly engage with an expensive hobby, it might actually save you some cash."
+  },
+  {
+   "id": "c153d2680984017e",
+   "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+   "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-01T00:10:30.000Z",
+   "summary": "17 points · 5 comments"
+  },
+  {
+   "id": "d7d20123cfa44510",
+   "title": "Amazon made the AUX input on older Alexa devices less useful",
+   "url": "https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-01T00:00:00.000Z",
+   "summary": "Amazon has made a quiet change to older Echo speakers that will leave owners rethinking how they use their devices and manage their home audio setups."
+  },
+  {
+   "id": "ff3c104efb4fdffe",
+   "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
+   "url": "https://emarzion.github.io/KSRT/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-31T23:55:21.000Z",
+   "summary": "15 points · 1 comments"
+  },
+  {
+   "id": "8edcd504fc0f7e20",
+   "title": "How big and powerful is SpaceX's Starship rocket?",
+   "url": "https://www.engadget.com/2300227/how-big-powerful-spacex-starship-rocket/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-10-31T23:45:00.000Z",
+   "summary": "SpaceX's Starship has a big role to play in NASA's plans to land astronauts on the Moon. Here's how big this rocket is and how its two stages work together."
+  },
+  {
    "id": "b446a38afd12cc39",
    "title": "Why your Apple AirPods' battery drains so fast and how to make it last longer",
    "url": "https://www.engadget.com/2300231/why-airpods-battery-drains-fast-how-to-fix/",
@@ -107,6 +179,15 @@
    "section": "tech",
    "publishedAt": "2026-10-31T23:00:00.000Z",
    "summary": "Slate and Ford are both building affordable electric pickups, and that means compromises. But the two automakers are taking very different paths to get there."
+  },
+  {
+   "id": "ff061f1e1113e125",
+   "title": "Altoids Project",
+   "url": "https://uvdn7.github.io/altoids-project/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-31T22:54:55.000Z",
+   "summary": "82 points · 4 comments"
   },
   {
    "id": "00e82a92f412a3a8",
@@ -152,6 +233,24 @@
    "section": "tech",
    "publishedAt": "2026-10-31T22:00:00.000Z",
    "summary": "If there are aspects of Netflix streaming that aren't to your liking, there are several changes you can make to optimize your viewing experience."
+  },
+  {
+   "id": "2af79b465d1a5cf8",
+   "title": "AI text watermarking and quality loss",
+   "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-31T21:50:13.000Z",
+   "summary": "43 points · 7 comments"
+  },
+  {
+   "id": "8efff97070d4978e",
+   "title": "ChatGPT and Codex usage limits merging",
+   "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-10-31T21:49:07.000Z",
+   "summary": "54 points · 21 comments"
   },
   {
    "id": "e22cb59fedcd2bea",
@@ -296,6 +395,15 @@
    "section": "tech",
    "publishedAt": "2026-10-31T19:16:30.000Z",
    "summary": "41 points · 19 comments"
+  },
+  {
+   "id": "893bf7339457c667",
+   "title": "Electrification Could Cut Global Energy Use in Half",
+   "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-31T19:13:34.000Z",
+   "summary": "69 points · 16 comments"
   },
   {
    "id": "633a4b78d3b9edec",
@@ -1117,6 +1225,15 @@
    "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week."
   },
   {
+   "id": "326aa5b968262a45",
+   "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+   "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-30T22:41:03.000Z",
+   "summary": "68 points · 16 comments"
+  },
+  {
    "id": "48d4c274fad75868",
    "title": "Apple confirms iOS 27.3 beta is coming next week with Apple Intelligence in China",
    "url": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/",
@@ -1394,6 +1511,15 @@
    "section": "tech",
    "publishedAt": "2026-10-30T19:55:10.000Z",
    "summary": "63 points · 13 comments"
+  },
+  {
+   "id": "d8e292a2bfb7696f",
+   "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+   "url": "http://thales.mit.edu/bush/index.php/4801-2/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-30T19:52:56.000Z",
+   "summary": "7 points · 0 comments"
   },
   {
    "id": "9443d3bbc20fed73",
@@ -1918,6 +2044,15 @@
    "summary": "Apple this year acquired Ascend.io, a California-based company that developed technology to help businesses automate the collection and analysis of data, and more recently introduced AI agents to help engineers manage this data. on the European Commission's website today, and Ascend.io's own…"
   },
   {
+   "id": "cd31c1a8b2b16540",
+   "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
+   "url": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-30T14:46:16.000Z",
+   "summary": "19 points · 1 comments"
+  },
+  {
    "id": "1665e3233147cde3",
    "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
    "url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
@@ -2231,6 +2366,15 @@
    "section": "tech",
    "publishedAt": "2026-10-30T12:00:00.000Z",
    "summary": "Despite Lenovo providing excellent hardware for Google's new laptop platform, Googlebook OS will only impress Android die-hards."
+  },
+  {
+   "id": "ef7e702e9c494332",
+   "title": "Decode kernel panic from QR Code photo",
+   "url": "https://gist.github.com/skorotkiewicz/c59e591c26661cb52b06afc42d8ac546",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-30T11:50:24.000Z",
+   "summary": "18 points · 7 comments"
   },
   {
    "id": "e92241fc2fca2421",
@@ -3556,6 +3700,15 @@
    "summary": "Following more than two weeks of pre-orders, the HomePod mini 2 will begin arriving to customers and launch in stores this Friday, October 30. Siri AI will be one of the HomePod mini 2's key upgrades, but the feature will not be available at launch. Apple said Siri AI support on the speaker will…"
   },
   {
+   "id": "3a47ffeda2eb2be3",
+   "title": "A brief history of just-in-time: forty years of JIT work, from 1960–2000",
+   "url": "https://dl.acm.org/doi/10.1145/857076.857077",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-29T14:30:25.000Z",
+   "summary": "11 points · 0 comments"
+  },
+  {
    "id": "1b9d5074562b638c",
    "title": "There’s one week left to preorder the Ocarina of Time remake for $10 off",
    "url": "https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale",
@@ -3977,6 +4130,15 @@
    "section": "tech",
    "publishedAt": "2026-10-29T06:47:28.000Z",
    "summary": "40 points · 8 comments"
+  },
+  {
+   "id": "964a344b5acbcd2f",
+   "title": "Edgar Allan Poe, Quintessential American Writer",
+   "url": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-29T05:10:00.000Z",
+   "summary": "21 points · 0 comments"
   },
   {
    "id": "52d27b615ffb907c",
@@ -46574,159 +46736,6 @@
    "section": "tech",
    "publishedAt": "2026-10-02T06:33:06.000Z",
    "summary": "48 points · 7 comments"
-  },
-  {
-   "id": "8ca541c8eda5cdb4",
-   "title": "Shimano Bicycle Museum Review",
-   "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-02T05:12:58.000Z",
-   "summary": "12 points · 0 comments"
-  },
-  {
-   "id": "7af5d585715c100c",
-   "title": "Meta's Muse is fantastic for web scraping",
-   "url": "https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-02T04:56:02.000Z",
-   "summary": "31 points · 24 comments"
-  },
-  {
-   "id": "22586d3388d81382",
-   "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-   "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-   "source": "Hugging Face",
-   "section": "ai",
-   "publishedAt": "2026-10-02T04:01:31.000Z",
-   "summary": ""
-  },
-  {
-   "id": "565d18b5ce683f16",
-   "title": "AT&T Acknowledges iPhone 18 Pro Max Issues: 'Update Immediately'",
-   "url": "https://www.macrumors.com/2026/10/01/att-acknowledges-iphone-18-pro-max-issues/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-02T03:42:44.000Z",
-   "summary": "In a text message sent to customers today, AT&T acknowledged that some iPhone 18 Pro Max devices on its network are experiencing cellular issues. AT&T said that customers should immediately update to iOS 27.0.1, despite the fact that many affected users have said that the update does not resolve…"
-  },
-  {
-   "id": "112377658070cc43",
-   "title": "DeepSeek Harness",
-   "url": "https://www.deepseek.com/en/harness/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-02T03:11:20.000Z",
-   "summary": "105 points · 30 comments"
-  },
-  {
-   "id": "bcfe9809aa0287ed",
-   "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-   "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-02T02:51:27.000Z",
-   "summary": "143 points · 33 comments"
-  },
-  {
-   "id": "3fa9109c43cd1c8f",
-   "title": "How Singapore's government-run dating service works",
-   "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-02T01:56:52.000Z",
-   "summary": "70 points · 33 comments"
-  },
-  {
-   "id": "dbd2fabb2de659cf",
-   "title": "Nazi Germany had no hope of making an atomic bomb, uranium cubes reveal",
-   "url": "https://www.science.org/content/article/nazi-germany-had-no-hope-making-atomic-bomb-uranium-cubes-reveal",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-02T01:29:09.000Z",
-   "summary": "84 points · 34 comments"
-  },
-  {
-   "id": "bfa1d211bb69ac89",
-   "title": "Martian chaos terrain",
-   "url": "https://en.wikipedia.org/wiki/Martian_chaos_terrain",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-02T01:11:28.000Z",
-   "summary": "33 points · 6 comments"
-  },
-  {
-   "id": "f03b80982a8b4559",
-   "title": "Apple TV’s acclaimed ‘The Last First: Winter K2’ documentary now streaming",
-   "url": "https://9to5mac.com/2026/10/01/apple-tvs-acclaimed-the-last-first-winter-k2-documentary-now-streaming/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-02T01:00:20.000Z",
-   "summary": "Sporting a 100% Rotten Tomatoes score, the extreme mountain climbing documentary “The Last First: Winter K2” is now available to Apple TV subscribers. Watch the trailer below. more…"
-  },
-  {
-   "id": "767faa90b4896181",
-   "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
-   "url": "https://9to5mac.com/2026/10/01/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-02T01:00:00.000Z",
-   "summary": "Since iOS 5 in 2011, the iPhone and iPad have included Notification Center, a central place to find alerts from various apps in chronological order. Starting with iOS 27, Apple is making a major change to how users open Notification Center on iPhone and iPad. iOS 27 is here after a summer of beta…"
-  },
-  {
-   "id": "98ad068f80f6038a",
-   "title": "Robotaxi operators will face fines for blocking first responders",
-   "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-10-02T00:57:57.000Z",
-   "summary": "A new California law places new rules on autonomous vehicles operators"
-  },
-  {
-   "id": "d88efb3e8b2f6c8e",
-   "title": "Limited Liability In Historical Perspective (1997) [pdf]",
-   "url": "https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1623&context=wlulr",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-02T00:55:26.000Z",
-   "summary": "12 points · 3 comments"
-  },
-  {
-   "id": "55e18062e50a2a6a",
-   "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-   "url": "https://stillwet.art/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-02T00:27:56.000Z",
-   "summary": "103 points · 33 comments"
-  },
-  {
-   "id": "f46551cfcfa9e8bf",
-   "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-   "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-10-02T00:03:23.000Z",
-   "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that."
-  },
-  {
-   "id": "54ccb8fd807a85e3",
-   "title": "Chatham scales its capital markets expertise with OpenAI",
-   "url": "https://openai.com/index/chatham-financial",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-10-02T00:00:00.000Z",
-   "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
-  },
-  {
-   "id": "06000d74ad943924",
-   "title": "C++ Insights – See your source code with the eyes of a Compiler",
-   "url": "https://github.com/andreasfertig/cppinsights",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-01T23:53:36.000Z",
-   "summary": "72 points · 9 comments"
   }
  ]
 }
