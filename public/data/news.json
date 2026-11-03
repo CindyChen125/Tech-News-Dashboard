@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-02T19:44:49.174Z",
+ "updatedAt": "2026-11-03T02:13:07.694Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1344
+   "count": 1346
   },
   {
    "name": "Google DeepMind",
@@ -82,6 +82,474 @@
  ],
  "items": [
   {
+   "id": "5a740160bd1669cf",
+   "title": "Show HN: Hacker Times, a New York Times-Inspired Version Hacker News",
+   "url": "https://hackertimes.ca/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T01:53:34.000Z",
+   "summary": "3 points · 0 comments"
+  },
+  {
+   "id": "4fbee1dd5414d3cb",
+   "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+   "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-03T01:49:52.000Z",
+   "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
+  },
+  {
+   "id": "ddaf53d4c29b9766",
+   "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+   "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T01:33:43.000Z",
+   "summary": "19 points · 3 comments"
+  },
+  {
+   "id": "e379e83ec3ca68d9",
+   "title": "This Chinese Android phone brand has launched a Harry Potter collab",
+   "url": "https://www.engadget.com/2300381/chinese-android-phone-brand-realme-harry-potter-collaboration/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-03T01:30:00.000Z",
+   "summary": "Everything about this latest collectible Android phone is designed to evoke the popular franchise, from its magical packaging to its themed accessories."
+  },
+  {
+   "id": "99a2a1ba998de0d4",
+   "title": "Apple to require 18+ age ratings for dating apps and AI romantic companions",
+   "url": "https://9to5mac.com/2026/11/02/apple-to-require-18-age-ratings-for-dating-apps-and-ai-romantic-companions/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-11-03T01:28:51.000Z",
+   "summary": "Apple today announced new age rating requirements coming to the App Store, covering apps with location-sharing features, as well as dating and relationship features. Here are the details. more…"
+  },
+  {
+   "id": "825a6e19b1a509be",
+   "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+   "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-03T01:12:55.000Z",
+   "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived."
+  },
+  {
+   "id": "39dd57a388aad9c1",
+   "title": "Apple stock drops nearly 3% after hours following Q4 2026 results",
+   "url": "https://9to5mac.com/2026/11/02/apple-stock-drops-nearly-3-after-hours-following-q4-2026-results/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T01:07:40.000Z",
+   "summary": "Apple shares fell as much as 4.43% in after-hours trading on Monday during the company’s fiscal Q4 2026 earnings call, before recovering some of those losses later in the evening. Here are the details. more…"
+  },
+  {
+   "id": "4b9127203baacff3",
+   "title": "Apple Requiring Developers to Disclose Location Sharing and Dating Features in Apps",
+   "url": "https://www.macrumors.com/2026/11/02/apple-developer-dating-app-requirement/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T00:43:57.000Z",
+   "summary": "Starting November 16, Apple will require developers to disclose whether their apps include real-world location sharing or dating features so age ratings can be assigned appropriately. Apple says the Dating and Relationships disclosure is required for apps that allow dating or relationship…"
+  },
+  {
+   "id": "8b71257b0ba5d326",
+   "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+   "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-03T00:35:52.000Z",
+   "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion."
+  },
+  {
+   "id": "264e79e5905b9d61",
+   "title": "Is it actually safe to charge your iPhone at airport USB ports?",
+   "url": "https://www.engadget.com/2279347/is-it-safe-to-charge-phone-with-airport-usb-port/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-03T00:30:00.000Z",
+   "summary": "Using a random USB charger can be unsafe, even though the risk is minimal. Thankfully, you have ways to protect your devices."
+  },
+  {
+   "id": "1258cb95bf490150",
+   "title": "Apple's Q4 2026 Earnings Call Takeaways",
+   "url": "https://www.macrumors.com/2026/11/02/apple-q4-2026-earnings-takeaways/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T00:27:08.000Z",
+   "summary": "Apple held its earnings call for the fourth fiscal quarter of 2026 today, and it was Apple CEO John Ternus' first earnings call in his new role. He had Apple CFO Kevan Parekh on hand, and he brought in Chief Operating Officer Sabih Khan. The trio covered iPhone Duo sales, Siri AI, and increasing…"
+  },
+  {
+   "id": "21515c01a5232c47",
+   "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+   "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-03T00:14:51.000Z",
+   "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan."
+  },
+  {
+   "id": "24b39fab9f1d8966",
+   "title": "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
+   "url": "https://news.ycombinator.com/item?id=50346164",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T00:09:36.000Z",
+   "summary": "35 points · 5 comments"
+  },
+  {
+   "id": "523718d7c83118a2",
+   "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+   "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T00:08:53.000Z",
+   "summary": "76 points · 43 comments"
+  },
+  {
+   "id": "87c8722eba955d74",
+   "title": "Apple Dodges Question on More Price Hikes as Memory Costs Climb",
+   "url": "https://www.macrumors.com/2026/11/02/apple-memory-costs-increase-december/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T00:02:11.000Z",
+   "summary": "Apple expects memory costs to continue to increase in the December quarter and beyond, CEO John Ternus said during today's earnings call. Ternus, COO Sabih Khan, and CFO Kevan Parekh all commented on Apple's struggle with memory. \"What we're seeing with memory pricing right now is unprecedented,\"…"
+  },
+  {
+   "id": "ce679f762011e473",
+   "title": "The reason why some iPhone calls don't have a decline option, and others do",
+   "url": "https://www.engadget.com/2300377/some-iphone-calls-decline-option-reason-why/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-03T00:00:00.000Z",
+   "summary": "Sometimes your iPhone lets you decline a call and sometimes it doesn't. Here's why that happens, and a few easy ways to handle the calls you'd rather skip."
+  },
+  {
+   "id": "bbe4ad2d3e8778a1",
+   "title": "Apple forecasts its biggest revenue quarter ever despite supply constraints",
+   "url": "https://9to5mac.com/2026/11/02/apple-forecasts-its-biggest-revenue-quarter-ever-despite-supply-constraints/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-02T23:38:32.000Z",
+   "summary": "During today’s earnings call following its fiscal Q4 2026 report, Apple said it expects its December quarter “to be the best quarter for revenue in the history of the company.” Here are the details. more…"
+  },
+  {
+   "id": "2af2a8a76e1cf6a9",
+   "title": "GUI64 – GUI for the Commodore 64 running on top of the built-in ROM",
+   "url": "https://www.c64-wiki.com/wiki/GUI64",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-02T23:32:22.000Z",
+   "summary": "5 points · 0 comments"
+  },
+  {
+   "id": "4e78b3c30b57b122",
+   "title": "WorkOS reports security breach",
+   "url": "https://news.ycombinator.com/item?id=50345712",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-02T23:30:59.000Z",
+   "summary": "43 points · 5 comments"
+  },
+  {
+   "id": "afd4b7a29f1ee51e",
+   "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+   "url": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-02T23:30:16.000Z",
+   "summary": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open."
+  },
+  {
+   "id": "ff17b30710353a26",
+   "title": "Why it's important to never plug power strips into each other",
+   "url": "https://www.engadget.com/2300370/why-important-never-plug-power-strip-each-other/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-02T23:30:00.000Z",
+   "summary": "Power strips are lifesavers when you don't have enough outlets to power all of your electronics and some also offer protection from power surges."
+  },
+  {
+   "id": "7c4a8a9c97fe4744",
+   "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+   "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-02T23:25:32.000Z",
+   "summary": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year."
+  },
+  {
+   "id": "5ed4bb18cda24429",
+   "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+   "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-02T23:13:53.000Z",
+   "summary": "The one-year-old startup is now valued at $300 million."
+  },
+  {
+   "id": "1f1b48f0804fb017",
+   "title": "Apple says memory costs and Siri AI will weigh on holiday quarter profit margins",
+   "url": "https://9to5mac.com/2026/11/02/apple-says-memory-costs-and-siri-ai-will-weigh-on-holiday-quarter-profit-margins/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-11-02T23:08:58.000Z",
+   "summary": "Following today’s earnings report, Apple held its quarterly earnings call, during which the company discussed the impact of rising memory costs on its profit margins and warned of additional pressure from Siri AI expenses during the holiday quarter. Here are the details. more…"
+  },
+  {
+   "id": "04a136f9d6d7b36f",
+   "title": "Apple’s inventory surges 154% as memory chip costs climb",
+   "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-02T23:04:57.000Z",
+   "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion."
+  },
+  {
+   "id": "bc5977bf34d25fe5",
+   "title": "How to use your phone's camera to translate anything",
+   "url": "https://www.engadget.com/2300368/how-to-use-phone-camera-built-in-translation-feature-google/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-02T23:00:00.000Z",
+   "summary": "With the aid of a quick picture, you can use your phone's camera to translate pretty much any text while you're traveling across the globe."
+  },
+  {
+   "id": "63e7a2dae54de6dc",
+   "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
+   "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-02T22:56:11.000Z",
+   "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this ​point, we're not able to predict when supply and demand…"
+  },
+  {
+   "id": "6a8d05605bdce1f8",
+   "title": "Why large dogs age faster than small ones, and other October research highlights",
+   "url": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-02T22:54:35.000Z",
+   "summary": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more."
+  },
+  {
+   "id": "363b1de5eb2661e7",
+   "title": "9to5Mac Daily: November 2, 2026 – What’s next for the Mac and iPad",
+   "url": "https://9to5mac.com/2026/11/02/daily-november-2-2026/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-02T22:40:40.000Z",
+   "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze: Backup you can rely on. Save 20% with code…"
+  },
+  {
+   "id": "ca5373b2a2fbd770",
+   "title": "Anthropic's growth just flattened",
+   "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-02T22:33:20.000Z",
+   "summary": "164 points · 196 comments"
+  },
+  {
+   "id": "09c36e890f9ce998",
+   "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+   "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-02T22:30:47.000Z",
+   "summary": "203 points · 128 comments"
+  },
+  {
+   "id": "6ce047928449c9ac",
+   "title": "Apple spent a record $45.77 billion on R&D in fiscal 2026, up 32%",
+   "url": "https://9to5mac.com/2026/11/02/apple-spent-a-record-45-77-billion-on-rd-in-fiscal-2026-up-32/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-02T22:16:51.000Z",
+   "summary": "Apple’s research and development expenses reached a new all-time high in fiscal 2026, climbing 32% year over year to $45.77 billion. Here are the details. more…"
+  },
+  {
+   "id": "5df77030a127f6a2",
+   "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-02T22:14:50.000Z",
+   "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
+  },
+  {
+   "id": "a33799d6940c00e8",
+   "title": "Apple CEO Ternus Says iPhone Duo Shortages Have No End Date in Sight",
+   "url": "https://www.macrumors.com/2026/11/02/iphone-duo-shortages-no-end/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-02T22:03:23.000Z",
+   "summary": "Apple is unable to meet demand for the iPhone Duo and there's no timeline for when the company will catch up, CEO John Ternus told Reuters following today's earnings report. Duo is constrained as of today. The ramp is going well, and we're working hard to get it to as many customers as quickly as…"
+  },
+  {
+   "id": "a13b8fb669ae754d",
+   "title": "Apple set an iPhone sales record even without a new standard iPhone",
+   "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-02T22:02:36.000Z",
+   "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the same time last year. The increase in…"
+  },
+  {
+   "id": "c2a361161fc2db06",
+   "title": "John Ternus addresses iPhone Duo supply constraints, display issue",
+   "url": "https://9to5mac.com/2026/11/02/john-ternus-addresses-iphone-duo-supply-constraints-display-issue/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-02T21:47:30.000Z",
+   "summary": "Today Apple reported record Q4 earnings, which beat Wall Street expectations overall. And in an interview with Reuters, CEO John Ternus addressed current iPhone Duo supply constraints and also referenced units that have been returned for display issues. more…"
+  },
+  {
+   "id": "c86293fbf241355b",
+   "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
+   "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-02T21:42:25.000Z",
+   "summary": "22 points · 3 comments"
+  },
+  {
+   "id": "a1afd431123e9d35",
+   "title": "Apple Reports 4Q 2026 Results: $30.7B Profit on $114.5B Revenue",
+   "url": "https://www.macrumors.com/2026/11/02/apple-4q-2026-earnings/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-02T21:38:09.000Z",
+   "summary": "Apple today announced financial results for the fourth fiscal quarter of 2026, which corresponds to the third calendar quarter of the year. The quarter included a number of August and September product releases from Apple, as well as the CEO transition from Tim Cook to John Ternus that took place…"
+  },
+  {
+   "id": "9c925986ab64b3d7",
+   "title": "Apple reports Q4 2026 earnings: $114.5 billion in revenue, up 12% [Charts]",
+   "url": "https://9to5mac.com/2026/11/02/apple-reports-q4-2026-earnings/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-02T21:32:54.000Z",
+   "summary": "Apple just released its earnings report for the fourth fiscal quarter of 2026. The company reported $114.5 billion in revenue, and $30.71 billion in net profit. Here’s the full breakdown. more…"
+  },
+  {
+   "id": "27cb2276ba003473",
+   "title": "Apple reports fourth quarter results",
+   "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+   "source": "Apple Newsroom",
+   "section": "tech",
+   "publishedAt": "2026-11-02T21:30:04.319Z",
+   "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026."
+  },
+  {
+   "id": "281159ccf3223cf1",
+   "title": "Third person dies of bird flu since virus started jumping to livestock",
+   "url": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-02T21:21:43.000Z",
+   "summary": "The threat is still considered to be low, but the virus continues to spread."
+  },
+  {
+   "id": "cb239a27975747a9",
+   "title": "Meta will end Quest 2 OS updates in 2027",
+   "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-02T21:04:20.000Z",
+   "summary": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and critical bug fixes through the end of…"
+  },
+  {
+   "id": "513a99ea7d69b3a4",
+   "title": "How long could HDDs and SSDs remain expensive?",
+   "url": "https://www.engadget.com/2302215/how-long-hdd-ssd-stay-expensive/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-02T21:00:00.000Z",
+   "summary": "Thanks to shortages of microchips and other computer components, we've been experiencing high prices for years."
+  },
+  {
+   "id": "6ea5191ecfbd5618",
+   "title": "Apple releases new tvOS 27.2 build ahead of updated Apple TV 4K launch [U]",
+   "url": "https://9to5mac.com/2026/11/02/apple-releases-new-tvos-27-2-build-ahead-of-updated-apple-tv-4k-launch/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-02T20:45:00.000Z",
+   "summary": "Ahead of the new Apple TV 4K’s November 13 launch, Apple today released an updated build of tvOS 27.2 exclusively for the fourth-generation model. Here are the details. more…"
+  },
+  {
+   "id": "01e1888f0eccff3f",
+   "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+   "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-02T20:37:49.000Z",
+   "summary": "A current Videostrong Android TV device. Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based…"
+  },
+  {
+   "id": "5ef13257d8309a93",
+   "title": "OpenAI is retiring ChatGPT Classic app, will soon combine Chat and Work tabs in new app",
+   "url": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-11-02T20:07:21.000Z",
+   "summary": "Users who still rely on the ChatGPT Classic app were greeted today with a message informing them that the app will soon be retired. Separately, OpenAI is also preparing to merge ChatGPT and Work into a single interface. Here are the details. more…"
+  },
+  {
+   "id": "9eeee3b9b0c7713a",
+   "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+   "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-02T20:03:52.000Z",
+   "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help steer, speed up, and slow down the vehicle on both highways and city streets using…"
+  },
+  {
+   "id": "c1a549c33a23b46b",
+   "title": "iOS 27.2’s clever new Messages feature can be tailored to your needs",
+   "url": "https://9to5mac.com/2026/11/02/ios-27-2s-clever-new-messages-feature-can-be-tailored-to-your-needs/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-02T19:56:12.000Z",
+   "summary": "iOS 27.2 launched last week with a convenient new Messages feature called ‘Suggested Actions.’ Here’s how you can customize the feature to your liking. more…"
+  },
+  {
+   "id": "151d1a631422f22a",
+   "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
+   "url": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-02T19:52:23.000Z",
+   "summary": "\"The flow of time is always cruel.\""
+  },
+  {
+   "id": "c8673e78b28bb71e",
+   "title": "MagSafe Monday: Pelican’s MagSafe Battery Pack is the battery built to go anywhere",
+   "url": "https://9to5mac.com/2026/11/02/magsafe-monday-pelicans-magsafe-battery-pack-is-the-battery-built-to-go-anywhere/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-02T19:49:00.000Z",
+   "summary": "A few weeks ago, I wrote about why the Pelican MagSafe Wallet is my favorite wallet for the fall, and the short version was that it’s built for being out and about. The Pelican MagSafe Battery Pack is the exact same idea applied to a power bank: a 5,000mAh MagSafe battery wrapped in a hardshell…"
+  },
+  {
+   "id": "37a66931e3208abd",
+   "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+   "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-02T19:45:54.000Z",
+   "summary": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked."
+  },
+  {
+   "id": "94de7a5b4f2a7511",
+   "title": "Casio's new keyboard lets anyone play along to songs without ever hitting a wrong note",
+   "url": "https://www.engadget.com/2304552/casio-new-keyboard-lets-anyone-play-along-to-songs-without-ever-hitting-a-wrong-note/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-02T19:41:36.000Z",
+   "summary": "Casio's new Feel Sync technology helps keep new players in tune."
+  },
+  {
    "id": "a22ffe67bb63237b",
    "title": "Your Apple AirPods' chirping noise doesn't just mean low battery",
    "url": "https://www.engadget.com/2300367/what-apple-airpods-chirping-noise-means-battery/",
@@ -134,6 +602,15 @@
    "section": "tech",
    "publishedAt": "2026-11-02T19:19:17.000Z",
    "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity."
+  },
+  {
+   "id": "7da5808701fe1c1f",
+   "title": "Most of our measures of a key cognitive process don't agree",
+   "url": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-02T19:13:26.000Z",
+   "summary": "A big study with very little beyond negative results still gets published."
   },
   {
    "id": "98f17148574e40a1",
@@ -215,6 +692,15 @@
    "section": "tech",
    "publishedAt": "2026-11-02T18:42:04.000Z",
    "summary": "13 points · 8 comments"
+  },
+  {
+   "id": "9d16d25f14b87008",
+   "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+   "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-02T18:39:38.000Z",
+   "summary": "341 points · 82 comments"
   },
   {
    "id": "cfc5d7e1d8156d00",
@@ -352,6 +838,15 @@
    "summary": "6 points · 0 comments"
   },
   {
+   "id": "0259325e8b615564",
+   "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+   "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-02T17:47:40.000Z",
+   "summary": "103 points · 28 comments"
+  },
+  {
    "id": "523b578c3e151c8c",
    "title": "Byesky: Wipe your Bluesky account clean",
    "url": "https://byesky.pirhoo.com/",
@@ -397,6 +892,15 @@
    "summary": "Apple initially aimed to \"wait until November\" to release the iPhone Duo in the U.S. and China only, according to Bloomberg's Mark Gurman, but it ultimately launched the device in more than 70 countries on Friday, October 23. \"Apple rushed the Duo to market without enough inventory to meet demand,\"…"
   },
   {
+   "id": "f229f6c72913e965",
+   "title": "Polyend releases the Tracker firmware source code",
+   "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-02T17:20:13.000Z",
+   "summary": "84 points · 19 comments"
+  },
+  {
    "id": "f2ffdb40d2f5e040",
    "title": "Show HN: Subvocal – Talk to your computer without making noise",
    "url": "https://subvocal.company/",
@@ -404,6 +908,15 @@
    "section": "tech",
    "publishedAt": "2026-11-02T17:16:17.000Z",
    "summary": "276 points · 191 comments"
+  },
+  {
+   "id": "7b2ad3ce9472344d",
+   "title": "Show HN: Subvocal – Talk to your computer without making noise",
+   "url": "https://news.ycombinator.com/item?id=50340088",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-02T17:16:17.000Z",
+   "summary": "560 points · 304 comments"
   },
   {
    "id": "56b871b6ec93865f",
@@ -683,6 +1196,15 @@
    "section": "tech",
    "publishedAt": "2026-11-02T15:36:27.000Z",
    "summary": "Apple’s new HomeView product arrives in users’ homes next week, but today a report from The Information outlines what to expect from a larger, high-end ‘HomeView Ultra’ product coming next year. more…"
+  },
+  {
+   "id": "006ec733ab4a2f0d",
+   "title": "Scaling Git at OpenAI",
+   "url": "https://openai.com/index/scaling-git-at-openai",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-02T15:30:00.000Z",
+   "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
   },
   {
    "id": "7f0707b52683d918",
@@ -1277,6 +1799,15 @@
    "section": "ai",
    "publishedAt": "2026-11-02T00:00:00.000Z",
    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
+  },
+  {
+   "id": "951828cd113121a9",
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "url": "https://openai.com/index/dan-driscoll-joins-openai",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-02T00:00:00.000Z",
+   "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
   },
   {
    "id": "399dbbdec12a0920",
@@ -2332,6 +2863,15 @@
    "summary": "Roku only sells one streaming device that doesn't support 4K output."
   },
   {
+   "id": "58fdd4a591eed0d2",
+   "title": "Trademarks and Symbols, Volume 2: Symbolical Designs (1973)",
+   "url": "https://www.symbools.com/kuwayama-trademarks-symbols-vol-2/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-31T18:50:43.000Z",
+   "summary": "4 points · 2 comments"
+  },
+  {
    "id": "3503966feaaa9b83",
    "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
    "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
@@ -2375,6 +2915,15 @@
    "section": "ai",
    "publishedAt": "2026-10-31T18:30:00.000Z",
    "summary": "For now, you'll need to first join a waitlist."
+  },
+  {
+   "id": "3389bdc91e9bde99",
+   "title": "A Conversation with Paul Masurel, Creator of Tantivy",
+   "url": "https://www.paradedb.com/blog/tantivy-interview",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-31T18:26:43.000Z",
+   "summary": "18 points · 0 comments"
   },
   {
    "id": "735e7b0c4b524c70",
@@ -46340,213 +46889,6 @@
    "section": "ai",
    "publishedAt": "2026-10-04T02:34:22.000Z",
    "summary": "71 points · 112 comments"
-  },
-  {
-   "id": "49e3086621a0dc40",
-   "title": "Rust's derive often implies inline",
-   "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T01:27:02.000Z",
-   "summary": "62 points · 8 comments"
-  },
-  {
-   "id": "829a53b2b7458cdf",
-   "title": "We're working on a new RuneScape MMO",
-   "url": "https://play.runescape.com/4",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T01:12:22.000Z",
-   "summary": "52 points · 17 comments"
-  },
-  {
-   "id": "f11a22409e81e110",
-   "title": "Bob Cringely Has Died",
-   "url": "https://news.ycombinator.com/item?id=49949438",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T00:50:52.000Z",
-   "summary": "105 points · 15 comments"
-  },
-  {
-   "id": "9f4c784e97774971",
-   "title": "What are amplifiers for and how important are they to your sound system's quality?",
-   "url": "https://www.engadget.com/2273783/amplifier-what-for-how-important-for-sound-system-quality/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-04T00:30:00.000Z",
-   "summary": "If you're looking into a new sound system, you may be wondering if you need an amplifier as well. Here's how to tell and why amps even matter."
-  },
-  {
-   "id": "84c11c83e20371a9",
-   "title": "We're going to need default hard budget caps on pretty much everything",
-   "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T00:20:16.000Z",
-   "summary": "189 points · 96 comments"
-  },
-  {
-   "id": "04bab6579bdd7b81",
-   "title": "Apple's \"Clean Design\" Is Stupidity When It Comes to Hiding Fire Extinguishers",
-   "url": "https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T00:09:21.000Z",
-   "summary": "48 points · 12 comments"
-  },
-  {
-   "id": "c9838379c403e90b",
-   "title": "How has Apple's Mac Studio changed over the years?",
-   "url": "https://www.engadget.com/2273779/apple-mac-studio-how-changed-over-years/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-04T00:00:00.000Z",
-   "summary": "Explore how Apple's Mac Studio has evolved, with internal upgrades, performance gains, and subtle design changes shaping each new generation of the desktop."
-  },
-  {
-   "id": "7b26d4db09aad125",
-   "title": "What's the difference between battery capacity and battery life?",
-   "url": "https://www.engadget.com/2273775/battery-capacity-vs-life-differences/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-03T23:45:00.000Z",
-   "summary": "Battery capacity often plays into battery life, but an impressive capacity stat doesn't translate to excellent battery life."
-  },
-  {
-   "id": "d6b9cbb47e01b4c5",
-   "title": "Why is this the only pink MacBook available right now?",
-   "url": "https://www.engadget.com/2273771/why-only-pink-macbook-available-right-now/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-03T23:30:00.000Z",
-   "summary": "Is it too much to ask for some more colorful laptops?"
-  },
-  {
-   "id": "70cff6c016bd1cd1",
-   "title": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
-   "url": "https://birdshistory.com/how-long-to-declare-a-bird-extinct/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-03T23:16:45.000Z",
-   "summary": "11 points · 5 comments"
-  },
-  {
-   "id": "f13d74d5c537ed51",
-   "title": "This little-known app lets you display song lyrics on Apple CarPlay",
-   "url": "https://www.engadget.com/2273743/little-known-app-display-song-lyrics-apple-carplay/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-03T23:00:00.000Z",
-   "summary": "You can host your own episode of Carpool Karaoke with the Dynamic Lyrics CarPlay widget."
-  },
-  {
-   "id": "dafdb2cac5cf3b91",
-   "title": "The Agent Said It Was Done. The Database Disagreed.",
-   "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-   "source": "Hugging Face",
-   "section": "ai",
-   "publishedAt": "2026-10-03T22:46:38.000Z",
-   "summary": ""
-  },
-  {
-   "id": "5a0955ab3947c861",
-   "title": "Why this ancient cable still connects to modern TVs with a simple adapter",
-   "url": "https://www.engadget.com/2273698/dvi-cable-why-still-connects-modern-tv-simple-adapter/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-03T22:45:00.000Z",
-   "summary": "DVI to HDMI adapters are a cheap and simple way to connect up old hardware, but don't expect miracles."
-  },
-  {
-   "id": "2de9b39428a7eb7d",
-   "title": "How to improve your laptop's webcam quality",
-   "url": "https://www.engadget.com/2273684/how-to-improve-laptop-webcam-quality/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-03T22:30:00.000Z",
-   "summary": "Your laptop's webcam is not usually an impressive piece of hardware, but you can help make up for its shortcomings."
-  },
-  {
-   "id": "13cd3b20a024dd49",
-   "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-   "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-03T22:18:13.000Z",
-   "summary": "172 points · 121 comments"
-  },
-  {
-   "id": "ccb82edb0dfc59eb",
-   "title": "We ported the original Doom to SQL",
-   "url": "https://cedardb.com/blog/sqldoom/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-03T22:14:00.000Z",
-   "summary": "30 points · 4 comments"
-  },
-  {
-   "id": "06ccef57b4f6db08",
-   "title": "Online retailers that don't support digital wallets are losing Gen Z customers",
-   "url": "https://www.engadget.com/2273492/online-retailers-dont-support-digital-wallets-losing-gen-z-customers/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-03T22:00:00.000Z",
-   "summary": "A study suggests younger people are more likely to walk away if their preferred payment option isn't supported."
-  },
-  {
-   "id": "afbf9405b916e3eb",
-   "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
-   "url": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
-   "source": "9to5Mac",
-   "section": "ai",
-   "publishedAt": "2026-10-03T21:26:32.000Z",
-   "summary": "Following the compute-based usage change in May, Google will soon introduce limits on which Gemini models free users and AI Plus subscribers can access. more…"
-  },
-  {
-   "id": "dcb7d0ae6ccddd6f",
-   "title": "Reasons I didn't become an EMT, ranked",
-   "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-03T20:49:15.000Z",
-   "summary": "26 points · 7 comments"
-  },
-  {
-   "id": "1346a85f77457116",
-   "title": "'Neanderthals Among Us' review",
-   "url": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-03T20:41:15.000Z",
-   "summary": "43 points · 38 comments"
-  },
-  {
-   "id": "1323e79ec9709da3",
-   "title": "Surely you have ultra-wideband radios on your bins too?",
-   "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-03T20:27:44.000Z",
-   "summary": "23 points · 6 comments"
-  },
-  {
-   "id": "d77dcb6580ede8a1",
-   "title": "ICE is reportedly using a Palantir database to compile dossiers on protestors",
-   "url": "https://www.engadget.com/2276609/ice-is-reportedly-using-a-palantir-database-to-compile-dossiers-on-protestors/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-03T20:08:20.000Z",
-   "summary": "An attorney representing protestors said this infringes on First Amendment rights."
-  },
-  {
-   "id": "c5ce50f9b5cf42c5",
-   "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
-   "url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-10-03T19:45:17.000Z",
-   "summary": "\"...we were making history.\""
   }
  ]
 }
