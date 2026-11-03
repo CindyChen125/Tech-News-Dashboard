@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-03T02:13:07.694Z",
+ "updatedAt": "2026-11-03T09:59:33.731Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1346
+   "count": 1348
   },
   {
    "name": "Google DeepMind",
@@ -23,7 +23,7 @@
    "name": "Hugging Face",
    "section": "ai",
    "ok": true,
-   "count": 894
+   "count": 895
   },
   {
    "name": "MIT Tech Review",
@@ -81,6 +81,132 @@
   }
  ],
  "items": [
+  {
+   "id": "3709bda2276a73b3",
+   "title": "Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features",
+   "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-03T09:21:36.000Z",
+   "summary": "First revealed at the company's event in September, Apple's AI-powered Apple Watch features are finally landing in beta."
+  },
+  {
+   "id": "a99b9cc909db3d84",
+   "title": "Apple Released the iPhone X Nine Years Ago Today",
+   "url": "https://www.macrumors.com/2026/11/03/apple-released-iphone-x-nine-years-ago-today/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T08:58:51.000Z",
+   "summary": "Apple's iPhone X went on sale nine years ago today, November 3, 2017. The 10th-anniversary iPhone was the first with an all-screen OLED display and no Home button, and its gesture navigation and Face ID authentication shaped the flagship iPhone models that followed it. September 12, 2017, the…"
+  },
+  {
+   "id": "3ab267b572d7b5b8",
+   "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+   "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-03T08:01:00.000Z",
+   "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech."
+  },
+  {
+   "id": "3d4e6e98d6d978f2",
+   "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
+   "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T07:36:47.000Z",
+   "summary": "56 points · 13 comments"
+  },
+  {
+   "id": "d9f38926074b2d01",
+   "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+   "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-03T07:20:00.000Z",
+   "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
+  },
+  {
+   "id": "51f06f8b8fa8ccfb",
+   "title": "Nvidia – open-source auto-ontology",
+   "url": "https://github.com/NVIDIA/auto-ontology",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T07:04:50.000Z",
+   "summary": "35 points · 4 comments"
+  },
+  {
+   "id": "4baa7f1ab305e8ad",
+   "title": "Show HN: ReBirth 338 in Browser",
+   "url": "https://margeux.com/rb338.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T06:24:50.000Z",
+   "summary": "17 points · 8 comments"
+  },
+  {
+   "id": "e7bae6c03a7f88f3",
+   "title": "Cloudflare experiencing multiple active incidents",
+   "url": "https://www.cloudflarestatus.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T04:57:27.000Z",
+   "summary": "45 points · 4 comments"
+  },
+  {
+   "id": "44bd09d9b101f6b5",
+   "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+   "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+   "source": "MIT Tech Review",
+   "section": "ai",
+   "publishedAt": "2026-11-03T04:18:47.000Z",
+   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been…"
+  },
+  {
+   "id": "b02378445d35efe8",
+   "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+   "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-03T03:30:00.000Z",
+   "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
+  },
+  {
+   "id": "7597c1521c4df2ed",
+   "title": "Show HN: I built a little browser game to practice Vim commands",
+   "url": "https://hjkl.duy.run/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T03:10:04.000Z",
+   "summary": "27 points · 23 comments"
+  },
+  {
+   "id": "88d378710a8eb199",
+   "title": "SCOTUS sets hearing date for Apple’s appeal in Epic Games case",
+   "url": "https://9to5mac.com/2026/11/02/scotus-sets-hearing-date-for-apples-appeal-in-epic-games-case/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T03:00:42.000Z",
+   "summary": "The U.S. Supreme Court has officially scheduled oral arguments in Apple’s appeal in its long-running legal battle with Epic Games. Here are the details. more…"
+  },
+  {
+   "id": "6c0c2bd1de5affc5",
+   "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+   "url": "https://arxiv.org/abs/2608.25820",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T02:58:44.000Z",
+   "summary": "27 points · 2 comments"
+  },
+  {
+   "id": "f1cf6c54f3b1b218",
+   "title": "Apple recently notified users in 99 countries of potential mercenary spyware attacks",
+   "url": "https://9to5mac.com/2026/11/02/apple-recently-notified-users-in-99-countries-of-potential-mercenary-spyware-attacks/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T02:19:39.000Z",
+   "summary": "Apple reportedly sent notifications to users in 99 countries warning of potential mercenary spyware attacks, as German authorities investigate reports that lawmakers and government officials may have been targeted. Here are the details. more…"
+  },
   {
    "id": "5a740160bd1669cf",
    "title": "Show HN: Hacker Times, a New York Times-Inspired Version Hacker News",
@@ -226,6 +352,15 @@
    "summary": "Sometimes your iPhone lets you decline a call and sometimes it doesn't. Here's why that happens, and a few easy ways to handle the calls you'd rather skip."
   },
   {
+   "id": "dd4cc698b53261c1",
+   "title": "Transformers Model Integration Contracts",
+   "url": "https://huggingface.co/blog/transformers-mic",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-11-03T00:00:00.000Z",
+   "summary": ""
+  },
+  {
    "id": "bbe4ad2d3e8778a1",
    "title": "Apple forecasts its biggest revenue quarter ever despite supply constraints",
    "url": "https://9to5mac.com/2026/11/02/apple-forecasts-its-biggest-revenue-quarter-ever-despite-supply-constraints/",
@@ -359,6 +494,15 @@
    "section": "ai",
    "publishedAt": "2026-11-02T22:30:47.000Z",
    "summary": "203 points · 128 comments"
+  },
+  {
+   "id": "76233e1d86b70245",
+   "title": "V100 SXM2 pinout and NVLink reference",
+   "url": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-02T22:30:13.000Z",
+   "summary": "37 points · 6 comments"
   },
   {
    "id": "6ce047928449c9ac",
@@ -800,6 +944,24 @@
    "section": "ai",
    "publishedAt": "2026-11-02T18:01:30.000Z",
    "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000…"
+  },
+  {
+   "id": "090392424f92894b",
+   "title": "Preparing our next security sprint to harden OpenAI",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-02T18:00:00.000Z",
+   "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
+  },
+  {
+   "id": "3c84be35884c2a5c",
+   "title": "Rewarding defenders with bigger bug bounties",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-02T18:00:00.000Z",
+   "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
   },
   {
    "id": "54a17931b4c1a4a1",
@@ -1621,6 +1783,15 @@
    "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
   },
   {
+   "id": "4266cb7bb24fe51b",
+   "title": "European RISC-V Industrial Computing Initiative",
+   "url": "https://erici.eu/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-02T08:58:33.000Z",
+   "summary": "91 points · 41 comments"
+  },
+  {
    "id": "9967463597954d3b",
    "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
    "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
@@ -1700,6 +1871,15 @@
    "section": "tech",
    "publishedAt": "2026-11-02T01:59:38.000Z",
    "summary": "111 points · 12 comments"
+  },
+  {
+   "id": "443dc0468121dca4",
+   "title": "Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform",
+   "url": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-02T01:34:16.000Z",
+   "summary": "3 points · 0 comments"
   },
   {
    "id": "261667cbe7c16e68",
@@ -2278,6 +2458,15 @@
    "summary": "Improve your audio quality, keep kids music out of your algorithm and more."
   },
   {
+   "id": "8bf012d336dab859",
+   "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
+   "url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-01T14:52:05.000Z",
+   "summary": "62 points · 6 comments"
+  },
+  {
    "id": "8186b9e21ab51410",
    "title": "Which Android is the closest counterpart to the iPhone 18 Pro Max?",
    "url": "https://www.engadget.com/2300277/which-android-closest-to-iphone-18-pro-max/",
@@ -2494,6 +2683,15 @@
    "summary": "64 points · 35 comments"
   },
   {
+   "id": "fb38cad844c98178",
+   "title": "Resisting Cognitive Surrender",
+   "url": "https://knlb.dev/essays/surrender",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-01T06:13:30.000Z",
+   "summary": "150 points · 61 comments"
+  },
+  {
    "id": "d6756f65c5e670a6",
    "title": "The AI cost of JavaScript frameworks",
    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
@@ -2537,6 +2735,15 @@
    "section": "tech",
    "publishedAt": "2026-11-01T00:30:00.000Z",
    "summary": "While a personal 3D printer is certainly an investment, if you regularly engage with an expensive hobby, it might actually save you some cash."
+  },
+  {
+   "id": "cca75e18d41981b8",
+   "title": "Toit v2.0.0",
+   "url": "https://toit.io/blog/toit-v2-0-0/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-01T00:25:04.000Z",
+   "summary": "40 points · 15 comments"
   },
   {
    "id": "c153d2680984017e",
@@ -2636,6 +2843,15 @@
    "section": "tech",
    "publishedAt": "2026-10-31T22:41:06.000Z",
    "summary": "30 points · 6 comments"
+  },
+  {
+   "id": "92d0ff33d081d80d",
+   "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
+   "url": "https://www.argmin.net/p/galactus-the-devourer",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-10-31T22:31:49.000Z",
+   "summary": "33 points · 14 comments"
   },
   {
    "id": "44f73b07cbaf879b",
@@ -46772,123 +46988,6 @@
    "section": "tech",
    "publishedAt": "2026-10-04T10:24:01.000Z",
    "summary": "We are touching down to let folks know the Amazon fall Prime Day sale is getting a head start today – AirPods Pro 3 have now dropped down to one of the lowest prices to date at $179 shipped. more…"
-  },
-  {
-   "id": "cc0a5c332f15bc3b",
-   "title": "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear",
-   "url": "https://github.com/rsutcliffe/nightwatch",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T09:31:01.000Z",
-   "summary": "63 points · 9 comments"
-  },
-  {
-   "id": "d5a1c934bb7a6de8",
-   "title": "Show HN: AI search for every photo and every frame of video on macOS",
-   "url": "https://github.com/allenv0/SCM",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-04T09:24:52.000Z",
-   "summary": "38 points · 20 comments"
-  },
-  {
-   "id": "95bcd50472a3c326",
-   "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-   "url": "https://gamehistory.org/5k-magazines/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T09:07:11.000Z",
-   "summary": "60 points · 8 comments"
-  },
-  {
-   "id": "bcbce56452e7ce8a",
-   "title": "How to scale intent, quality, and artistry with AI [video]",
-   "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-04T08:41:58.000Z",
-   "summary": "29 points · 7 comments"
-  },
-  {
-   "id": "bd34132c4e9b559e",
-   "title": "Using Blu-ray M-Disk as Backup of Last Resort",
-   "url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T08:03:24.000Z",
-   "summary": "19 points · 17 comments"
-  },
-  {
-   "id": "beb888c4268f900b",
-   "title": "What's the Future for Pure Math Research in the Age of AI?",
-   "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-04T07:53:45.000Z",
-   "summary": "10 points · 1 comments"
-  },
-  {
-   "id": "78641e76e4da8349",
-   "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-   "url": "https://github.com/PowderworksCode/headstart",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T06:26:57.000Z",
-   "summary": "49 points · 7 comments"
-  },
-  {
-   "id": "6457dcf56fb89b44",
-   "title": "Accountability mechanisms can be joyful (2024)",
-   "url": "https://liquidbrain.net/blog/accountability-and-joy/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T06:15:17.000Z",
-   "summary": "33 points · 6 comments"
-  },
-  {
-   "id": "973073e917503209",
-   "title": "UK Government Body Kept Files on People Criticizing Prevent Program",
-   "url": "https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T06:10:57.000Z",
-   "summary": "18 points · 0 comments"
-  },
-  {
-   "id": "40317904ec212306",
-   "title": "The cost of lies: A Mineserver story",
-   "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T05:17:12.000Z",
-   "summary": "80 points · 30 comments"
-  },
-  {
-   "id": "efd7f6252637beca",
-   "title": "Testing 12 different Zigbee temperature/humidity sensors",
-   "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T04:30:46.000Z",
-   "summary": "38 points · 7 comments"
-  },
-  {
-   "id": "b0552b2018f4eb59",
-   "title": "Why don't more developers “use the platform”?",
-   "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T04:10:47.000Z",
-   "summary": "109 points · 76 comments"
-  },
-  {
-   "id": "a1a19c656c75d3d8",
-   "title": "Religious scholars met with Anthropic",
-   "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-04T02:34:22.000Z",
-   "summary": "71 points · 112 comments"
   }
  ]
 }
