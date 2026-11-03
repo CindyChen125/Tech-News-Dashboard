@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-03T17:45:25.386Z",
+ "updatedAt": "2026-11-03T23:14:29.054Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1349
+   "count": 1354
   },
   {
    "name": "Google DeepMind",
@@ -82,6 +82,789 @@
  ],
  "items": [
   {
+   "id": "3775953ba587f973",
+   "title": "macOS 27.3 adds native Markdown rendering to Quick Look",
+   "url": "https://9to5mac.com/2026/11/03/macos-27-3-adds-native-markdown-rendering-to-quick-look/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T23:11:22.000Z",
+   "summary": "Starting with macOS 27.3, users can preview Markdown files with proper formatting directly in Quick Look. Here are the details. more…"
+  },
+  {
+   "id": "08d620ddda3ed0f0",
+   "title": "NVIDIA's controversial DLSS 5 is coming to RTX Remix to 'enhance' older games",
+   "url": "https://www.engadget.com/2306095/nvidia-dlss-5-update-rtx-remix-enhance-older-games/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-03T23:00:21.000Z",
+   "summary": "The NVIDIA modding platform lets you remaster classic games with modern graphics, and now DLSS 5 is included."
+  },
+  {
+   "id": "755bbfb32a1fae97",
+   "title": "Here's how to adjust Apple AirPods for small ears",
+   "url": "https://www.engadget.com/2300409/how-adjust-apple-airpods-for-small-ears/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-03T23:00:00.000Z",
+   "summary": "Those with small ears may require some extra finessing when adjusting their Apple AirPods to get the perfect fit, and there are a few ways you can ensure that."
+  },
+  {
+   "id": "52c890ec3eb88f66",
+   "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+   "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-03T22:59:36.000Z",
+   "summary": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being asked to relocate to centralised hubs,\" says Perkins. \"Sadly, it will also mean saying…"
+  },
+  {
+   "id": "b1ffffe71bf2d159",
+   "title": "Meta's Quest 2 and Quest Pro reach 'end of feature development'",
+   "url": "https://www.engadget.com/2306079/meta-quest-2-and-quest-pro-reach-end-of-feature-development/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-03T22:43:06.000Z",
+   "summary": "The app stores will stay open for both devices after support ends next year."
+  },
+  {
+   "id": "2c6b872de8ea6e12",
+   "title": "Anthropic is working on a system to prove AI models’ identity",
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-03T22:41:03.000Z",
+   "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
+  },
+  {
+   "id": "91b30d19c98f14af",
+   "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
+   "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-11-03T22:20:50.000Z",
+   "summary": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly on the homescreen so you can quickly start playback. If you're in the US, you can also…"
+  },
+  {
+   "id": "94b510967bebf2c4",
+   "title": "iPhone Jailbreak Gets Past Lockdown Mode and Survives an Update",
+   "url": "https://www.macrumors.com/2026/11/03/iphone-jailbreak-lockdown-mode/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T22:20:33.000Z",
+   "summary": "Just over a week after jailbreaking an iPhone Duo on launch day, hacker team Calif is back with another jailbreak demonstration. This time, the group has jailbroken an iPhone in Lockdown Mode, and the jailbreak appears to persist across an iOS update. Calif shared a video of a jailbroken iPhone 18…"
+  },
+  {
+   "id": "6736614e96518821",
+   "title": "Data centers are turning to old jet engines as the wait for power grows",
+   "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-03T22:19:53.000Z",
+   "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines."
+  },
+  {
+   "id": "4b4cbc52b8f52f9a",
+   "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
+   "url": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-03T22:15:33.000Z",
+   "summary": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\" for reviews instead of the typical 3-5 days. Indie developers have recently expressed…"
+  },
+  {
+   "id": "f659740101153fbf",
+   "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+   "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-11-03T22:04:02.000Z",
+   "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious…"
+  },
+  {
+   "id": "44cc73988bb6d596",
+   "title": "Apple now explicitly bans employees from using confidential information in prediction markets",
+   "url": "https://9to5mac.com/2026/11/03/apple-now-explicitly-bans-employees-from-using-confidential-information-in-prediction-markets/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T21:58:58.000Z",
+   "summary": "Apple has updated its insider trading policy to explicitly prohibit employees from using confidential information to bet on prediction markets. Here are the details. more…"
+  },
+  {
+   "id": "760e7cab1659c2cb",
+   "title": "The Internals of PostgreSQL",
+   "url": "https://www.interdb.jp/pg/index.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T21:51:06.000Z",
+   "summary": "38 points · 1 comments"
+  },
+  {
+   "id": "c60ef377abd1fcba",
+   "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+   "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-03T21:43:08.000Z",
+   "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
+  },
+  {
+   "id": "4e946e73eee4be9b",
+   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+   "url": "https://arxiv.org/abs/2605.29713",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-03T21:40:53.000Z",
+   "summary": "106 points · 12 comments"
+  },
+  {
+   "id": "ef1ab26cae35368d",
+   "title": "Safari introduces Adaptive Dark Mode in 27.3",
+   "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T21:39:05.000Z",
+   "summary": "167 points · 106 comments"
+  },
+  {
+   "id": "d76874018ce8d1fe",
+   "title": "9to5Mac Daily: November 3, 2026 – Apple reports Q4 earnings",
+   "url": "https://9to5mac.com/2026/11/03/daily-november-3-2026/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T21:30:02.000Z",
+   "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze: Backup you can rely on. Save 20% with code…"
+  },
+  {
+   "id": "a560090b7637c104",
+   "title": "Reddit is testing in-app search ads as traffic from Google declines",
+   "url": "https://www.engadget.com/2305984/reddit-is-testing-search-ads-as-traffic-from-google-declines/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-03T21:27:50.000Z",
+   "summary": "The company wants to help advertisers reach users who show a \"high purchase\" intent."
+  },
+  {
+   "id": "fe791b0724480249",
+   "title": "Don’t miss this scary-good deal: make your wireless bill less frightening this Halloween",
+   "url": "https://9to5mac.com/2026/11/03/dont-miss-this-scary-good-deal-make-your-wireless-bill-less-frightening-this-halloween/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T21:27:24.000Z",
+   "summary": "Halloween is full of tricks, but your phone bill doesn’t have to be one of them. While mobile carriers might advertise plans starting from low monthly fees, the reality for most people is that they are paying $60 to $100 per month or more. Comparing your current plan to the Tello Mobile equivalent…"
+  },
+  {
+   "id": "c231fbbc3ed00aa3",
+   "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-03T21:26:44.000Z",
+   "summary": "87 points · 25 comments"
+  },
+  {
+   "id": "c24d6fef519cd6fc",
+   "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
+   "url": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-03T21:21:04.000Z",
+   "summary": "Siri can still make mistakes in transcripts. | Photo by Victoria Song / The Verge It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features…"
+  },
+  {
+   "id": "e940ea158fc7bfbd",
+   "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+   "url": "https://github.com/finic-ai/kairos",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T21:16:48.000Z",
+   "summary": "29 points · 3 comments"
+  },
+  {
+   "id": "426b4cfeb7843d2a",
+   "title": "iPadOS 27.3 Expands Siri Mode to Camera App",
+   "url": "https://www.macrumors.com/2026/11/03/ipados-27-3-siri-mode-in-camera-app/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T21:07:21.000Z",
+   "summary": "iOS 27 added a Siri tab to the Camera app on the iPhone 15 Pro and newer for convenient access to Visual Intelligence. Starting with iPadOS 27.3, which is in beta starting today, that feature has expanded to iPad Pro and iPad Air models with the M1 chip and newer, as well as the iPad mini models…"
+  },
+  {
+   "id": "fe8efd454eb9badc",
+   "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+   "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-03T21:05:55.000Z",
+   "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
+  },
+  {
+   "id": "4abdd596c8595850",
+   "title": "Xcode 27.3 adds GitHub Copilot to its built-in coding assistant",
+   "url": "https://9to5mac.com/2026/11/03/xcode-27-3-adds-github-copilot-to-its-built-in-coding-assistant/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-11-03T21:04:18.000Z",
+   "summary": "Apple released Xcode 27.3 beta 1 today with multiple new features, chief among them an expansion of its built-in coding assistant to support GitHub Copilot. Here are the details. more…"
+  },
+  {
+   "id": "f81b6331222bfc74",
+   "title": "Those Jeff Bezos hair transplant photos are very fake",
+   "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-03T21:01:07.000Z",
+   "summary": "These edits of Jason Statham (left) and Jeff Bezos are a bit jarring, but that’s sort of the point. | Image: The Verge Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days…"
+  },
+  {
+   "id": "b59a6984e45ea1ed",
+   "title": "What type of battery does the Slate Truck use?",
+   "url": "https://www.engadget.com/2303044/slate-battery-type-different-plans-before-debut/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-03T21:00:00.000Z",
+   "summary": "Slate had made arrangements in 2025 to buy its batteries from a Georgia company, then switched this year to an Illnois firm with a different kind of technology."
+  },
+  {
+   "id": "099ae44f67e48d84",
+   "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
+   "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-03T20:57:17.000Z",
+   "summary": "An in-space construction first could be an enabler for the space data centers of the future."
+  },
+  {
+   "id": "dd9637c0ecb1a858",
+   "title": "Sonos' new voice assistant is launching in early access on November 6",
+   "url": "https://www.engadget.com/2305897/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-03T20:48:49.000Z",
+   "summary": "The company is hoping to collect feedback on Sonos 27voice to avoid a repeat of its previous app redesign debacle."
+  },
+  {
+   "id": "8e2344600f04c6c3",
+   "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+   "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-03T20:39:55.000Z",
+   "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires."
+  },
+  {
+   "id": "4637bd09b841cad3",
+   "title": "iOS 27.3 Adding New StandBy Mode Features to iPhone 11 and Newer",
+   "url": "https://www.macrumors.com/2026/11/03/ios-27-3-new-standby-features-on-more-iphones/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T20:32:45.000Z",
+   "summary": "iOS 27.3 will expand new StandBy features first introduced on the iPhone Duo to all iPhone models compatible with the update, according to Apple. StandBy mode makes it easier to view information at a glance while your iPhone is placed on a charger and in a landscape position. It effectively turns…"
+  },
+  {
+   "id": "89943bfd14df863f",
+   "title": "The Pixel Buds Pro 2 have returned to their lowest price to date",
+   "url": "https://www.theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-03T20:29:26.000Z",
+   "summary": "Android owners looking for an earbud upgrade are in luck. The Google Pixel Buds Pro 2 are back down to $169 at Amazon, Best Buy, and the Google Store, matching the lowest price we’ve seen. Google’s site claims the deal will last until 11:59PM PT on November 8th, and other retailers will likely…"
+  },
+  {
+   "id": "f2061265fedc16de",
+   "title": "Veterans Day Apple Watch Activity Challenge Launches November 11",
+   "url": "https://www.macrumors.com/2026/11/03/apple-watch-veterans-day-challenge-2026/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T20:18:29.000Z",
+   "summary": "Apple is planning an Apple Watch Activity Challenge for Veterans Day, which takes place next Wednesday in the United States. Apple Watch owners are tasked with doing any workout for 11 minutes or more on November 11. Apple Watch owners who complete the challenge will win an Apple Watch activity…"
+  },
+  {
+   "id": "3e4e13f7a4a51fd2",
+   "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
+   "url": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-03T20:16:54.000Z",
+   "summary": "The iPhone 17’s successor might cost more. | Photo: Amelia Holowaty Krales / The Verge After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too. A Weibo post from leaker Digital Chat Station, spotted by 9to5Mac, says the…"
+  },
+  {
+   "id": "59bfeb95d2b86fdb",
+   "title": "Apple starts giving Siri AI access to third-party apps",
+   "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-11-03T20:16:17.000Z",
+   "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language…"
+  },
+  {
+   "id": "092479838c4dacee",
+   "title": "iOS 27.3 brings the iPhone Duo’s revamped StandBy to other iPhones",
+   "url": "https://9to5mac.com/2026/11/03/ios-27-3-brings-the-iphone-duos-revamped-standby-to-other-iphones/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T20:14:38.000Z",
+   "summary": "Apple released iOS 27.3 beta 1 today, with a surprisingly extensive set of new features and improvements across the system. One of them is the expansion of the iPhone Duo’s redesigned StandBy experience to other iPhone models. Here are the details. more…"
+  },
+  {
+   "id": "7a4d1946b44d4da2",
+   "title": "Apple Watch Challenge set for Veterans Day",
+   "url": "https://9to5mac.com/2026/11/03/apple-watch-challenge-set-for-veterans-day/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T20:12:15.000Z",
+   "summary": "The next Apple Watch fitness challenge is set for Veterans Day on Wednesday, November 11th, 2026. Apple Watch Challenges increase awareness about fitness features and healthy habits while observing holidays and other notable occasions. more…"
+  },
+  {
+   "id": "e7559f19356ef80a",
+   "title": "Pratt parsing is a black box",
+   "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T20:07:41.000Z",
+   "summary": "26 points · 13 comments"
+  },
+  {
+   "id": "9c4ab6c19a7e7294",
+   "title": "Netflix thinks AI might save you from scrolling aimlessly for something to watch",
+   "url": "https://www.engadget.com/2305778/netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-11-03T19:57:41.000Z",
+   "summary": "The tab will initially offer suggestions based on a range of AI-generated themes."
+  },
+  {
+   "id": "c74f8a06638a810b",
+   "title": "iOS 27.3 expands Siri AI to these new languages",
+   "url": "https://9to5mac.com/2026/11/03/ios-27-3-expands-siri-ai-to-these-new-languages/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-11-03T19:51:07.000Z",
+   "summary": "iOS 27.3 is available now in beta, and it’s a big release for Siri AI improvements. Joining new app actions, Siri Recaps, and developer features, iOS 27.3 also expands Siri AI to several additional languages. more…"
+  },
+  {
+   "id": "a2a95f4ef90a8a7a",
+   "title": "You can’t hit a wrong note when playing along with songs on Casio’s new keyboard",
+   "url": "https://www.theverge.com/tech/1025673/casio-digital-piano-keyboard-ct-fs1-feel-sync-technology",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:48:41.000Z",
+   "summary": "Casio announced a new addition to its Casiotone line of portable electronic keyboards with a feature that could help aspiring musicians master skills like rhythm and timing without the frustrations or discouragement of hitting the wrong note. The Casiotone CT-FS1 is available now for $399.99 in a…"
+  },
+  {
+   "id": "ae17ed7633c7ef93",
+   "title": "iOS 27.3 Adds Vertical Tabs and Adaptive Dark Mode to Safari",
+   "url": "https://www.macrumors.com/2026/11/03/ios-27-3-safari/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:47:50.000Z",
+   "summary": "With iOS 27.3, iPadOS 27.3, and macOS Golden Gate 27.3, Apple is making major updates to Safari. The browser is getting a Vertical Tabs layout, which can be used instead of the standard horizontal tab bar. It's a change that pairs well with the iPhone Duo's larger display, but it is available…"
+  },
+  {
+   "id": "0319004398415f9b",
+   "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+   "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:45:48.000Z",
+   "summary": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard."
+  },
+  {
+   "id": "6fc1cfa8642c68d5",
+   "title": "Apple Fitness+ Gets Gym Strength Plans in iOS 27.3",
+   "url": "https://www.macrumors.com/2026/11/03/apple-fitness-plus-gym-strength/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:35:33.000Z",
+   "summary": "With iOS 27.3, Apple is adding a new Gym Strength workout to Apple Fitness+. It's a custom fitness option that generates a four-week plan based on a user's goals, experience, schedule, and equipment. People of all experience levels can use the feature, selecting workout days, areas of the body to…"
+  },
+  {
+   "id": "0ac3fd933cc97aa8",
+   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-03T19:34:43.000Z",
+   "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
+  },
+  {
+   "id": "c58c381b1f59aaa5",
+   "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+   "url": "https://flipper.net/pages/flipper-one",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:32:13.000Z",
+   "summary": "150 points · 72 comments"
+  },
+  {
+   "id": "1dba848ad3275e8e",
+   "title": "iOS 27.3 brings Apple Intelligence features to China",
+   "url": "https://9to5mac.com/2026/11/03/ios-27-3-brings-apple-intelligence-features-to-china/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:31:26.000Z",
+   "summary": "iOS 27.3 beta 1 is here, and it includes the first Apple Intelligence features in China. Siri AI isn’t available yet, but a lot of other capabilities are. Here’s what to expect. more…"
+  },
+  {
+   "id": "3d4a891a7087273c",
+   "title": "Don't throw away your laptop's old SSDs — do this instead",
+   "url": "https://www.engadget.com/2300270/dont-throw-away-your-laptop-old-ssd-do-this-instead/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:30:00.000Z",
+   "summary": "Get some extra life out of your unused SSDs by converting them into external storage devices."
+  },
+  {
+   "id": "d6b187f7ece2b2a8",
+   "title": "Apple Releases New AirPods Beta Firmware",
+   "url": "https://www.macrumors.com/2026/11/03/airpods-beta-firmware-9b5045a/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:29:37.000Z",
+   "summary": "Apple today released new beta firmware for the AirPods Pro 2, AirPods Pro 3, AirPods 4, AirPods 5, and AirPods Max 2. The firmware has a build number of 9B5045a and is rolling out for developers and public beta testers. There's no word on what's included in the firmware update because Apple doesn't…"
+  },
+  {
+   "id": "f1803ebf719f6f4c",
+   "title": "macOS 27 does not support CoreStorage volumes",
+   "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:27:53.000Z",
+   "summary": "73 points · 40 comments"
+  },
+  {
+   "id": "61b75632e5a3d49a",
+   "title": "Itch.io adds a filter for games with gen AI disclosures",
+   "url": "https://www.engadget.com/2305699/itchio-adds-a-filter-for-games-with-gen-ai-disclosures/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-11-03T19:27:28.000Z",
+   "summary": "Your turn, Steam."
+  },
+  {
+   "id": "12a8c364746b150c",
+   "title": "Developers can now create advanced ‘app skills’ for Siri AI",
+   "url": "https://9to5mac.com/2026/11/03/developers-can-now-create-advanced-app-skills-for-siri-ai/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-11-03T19:25:48.000Z",
+   "summary": "Apple today announced a major new Siri AI initiative for third-party developers, allowing any app to create Siri AI integrations for the first time. The first versions of Siri AI were limited to a much smaller set of supported schemas. The new ‘app skills’ also let apps teach Siri how to coordinate…"
+  },
+  {
+   "id": "ce437e1b8242af2e",
+   "title": "Introduction to Programming in ATS",
+   "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:25:18.000Z",
+   "summary": "42 points · 7 comments"
+  },
+  {
+   "id": "3df8184248b5b394",
+   "title": "iOS 27.3 Beta Brings Apple Intelligence to China",
+   "url": "https://www.macrumors.com/2026/11/03/ios-27-3-apple-intelligence-china-2/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:25:00.000Z",
+   "summary": "Select Apple Intelligence features are now available in China, with Apple testing the functionality in the iOS 27.3 beta. Developers in China can turn on ‌Apple Intelligence‌ after updating to the new software. ‌Apple Intelligence‌ first launched in the United States with iOS 18.1, but Apple was…"
+  },
+  {
+   "id": "045e9972e7e02e23",
+   "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+   "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:24:37.000Z",
+   "summary": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content."
+  },
+  {
+   "id": "9a7327dc1e9dfc98",
+   "title": "watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch",
+   "url": "https://www.macrumors.com/2026/11/03/watchos-27-3-audio-intelligence/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:22:24.000Z",
+   "summary": "With the first beta of watchOS 27.3, Apple is introducing new Audio Intelligence features it previewed for the Apple Watch Series 12 and Ultra 4 earlier this year. Powered by the S11 chip, Audio Intelligence includes Live Rewind, Siri Recap, Sound Recognition, and Shazam Music Recognition. Sound…"
+  },
+  {
+   "id": "411b95ab45d545b4",
+   "title": "iOS 27.3 expands Siri AI with many new capabilities across Apple apps",
+   "url": "https://9to5mac.com/2026/11/03/ios-27-3-expands-siri-ai-with-many-new-capabilities-across-apple-apps/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-11-03T19:19:40.000Z",
+   "summary": "iOS 27.3 has just entered beta testing and includes major new features for Siri AI across iPhone, iPad and Mac. The company has unlocked many new capabilities across major Apple apps, like Music, Messages, Safari, Reminders and more. We are still digging into the beta, but here’s a taste of what…"
+  },
+  {
+   "id": "89f1937ca6c94f50",
+   "title": "iPhone Duo Gets Reachability in iOS 27.3 Beta",
+   "url": "https://www.macrumors.com/2026/11/03/iphone-duo-reachability-ios-27-3/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:19:02.000Z",
+   "summary": "With today's iOS 27.3 beta, Apple expanded Reachability to the iPhone Duo. Reachability lets ‌iPhone Duo‌ users shift the content on the left or right side of the outer screen to make it easier to reach with a thumb. Reachability can be turned on or off by going to Settings > Accessibility > Touch…"
+  },
+  {
+   "id": "7041acd6a9ac37f6",
+   "title": "iOS 27.3 introduces new iPhone Duo feature for one-handed use",
+   "url": "https://9to5mac.com/2026/11/03/ios-27-3-introduces-new-iphone-duo-feature-for-one-handed-use/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:09:11.000Z",
+   "summary": "iOS 27.3 beta 1 launched today with a variety of new features, including a big upgrade for one-handed iPhone Duo use thanks to Reachability. more…"
+  },
+  {
+   "id": "11429ef58361b290",
+   "title": "Siri AI Gets More Capable in iOS 27.3",
+   "url": "https://www.macrumors.com/2026/11/03/ios-27-3-siri-ai/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-11-03T19:06:26.000Z",
+   "summary": "Apple is expanding what Siri AI can do in and across apps in iOS 27.3, which is available to developers as of today. ‌Siri‌ can complete more complex tasks across Calendar, Files, Finder, Journal, Mail, Maps, Messages, Music, Notes, Photos, Preview, Reminders, Safari, Shortcuts, and Weather. You…"
+  },
+  {
+   "id": "f9cb8439fc665224",
+   "title": "Everything new in iOS 27.3 beta 1 so far",
+   "url": "https://9to5mac.com/2026/11/03/everything-new-in-ios-27-3-beta-1-so-far/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:05:31.000Z",
+   "summary": "iOS 27.3 beta 1 is here. Apple’s next iPhone software update brings a ton of changes including the redesigned Health app and much more. Below, we’re collecting the new features and changes discovered during testing. more…"
+  },
+  {
+   "id": "cf140dd3cbe0b3c1",
+   "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
+   "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:04:52.000Z",
+   "summary": "Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change."
+  },
+  {
+   "id": "aa1b4ceb99d4f49e",
+   "title": "iOS 27.3 Beta Brings Back Apple's Redesigned Health App",
+   "url": "https://www.macrumors.com/2026/11/03/ios-27-3-health-app/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:03:23.000Z",
+   "summary": "iOS 27.3 reintroduces the redesigned Health app previewed in September. Apple tested the new Health app in the iOS 27.2 beta, but it was removed before the update launched. The Health app has been updated, and there are new Insights and Longevity tabs that show more information about your health…"
+  },
+  {
+   "id": "26b3b87f5e080f96",
+   "title": "How to use your phone to find hidden cameras",
+   "url": "https://www.engadget.com/2300439/how-to-use-phone-find-hidden-cameras/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-03T19:00:00.000Z",
+   "summary": "When you feel wary, a quick check might provide some peace of mind."
+  },
+  {
+   "id": "f8d15acee980f567",
+   "title": "watchOS 27.3 beta adds new Siri Recap and Live Rewind features for Apple Watch",
+   "url": "https://9to5mac.com/2026/11/03/watchos-27-3-beta-adds-new-siri-recap-and-live-rewind-features-for-apple-watch/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T18:56:25.000Z",
+   "summary": "Apple has released the first beta of watchOS 27.3 for developers, including two new Audio Intelligence features for Apple Watch Series 12 and Apple Watch Ultra 4: Siri Recap and Live Rewind. Apple first announced these features at its special event in September, saying they would “arrive in beta…"
+  },
+  {
+   "id": "69b28d5cd05407ac",
+   "title": "iOS 27.3 and macOS 27.3 add Vertical Tabs, Adaptive Dark Mode, and more to Safari",
+   "url": "https://9to5mac.com/2026/11/03/ios-27-3-and-macos-27-3-add-vertical-tabs-adaptive-dark-mode-and-more-to-safari/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T18:51:53.000Z",
+   "summary": "Apple just released the first betas of iOS 27.3, iPadOS 27.3, and macOS 27.3, with some big changes to Safari. The updates add a new vertical tab layout, Adaptive Dark Mode, and Siri AI Custom Actions. more…"
+  },
+  {
+   "id": "c9c31c8b9fc8d75f",
+   "title": "Ferrari’s controversial Luce EV is sold out for 2027",
+   "url": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-03T18:51:33.000Z",
+   "summary": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna."
+  },
+  {
+   "id": "7697b2c4a3c778e3",
+   "title": "iOS 27.3 adds all-new Apple Health app, details here",
+   "url": "https://9to5mac.com/2026/11/03/ios-27-3-adds-all-new-apple-health-app-details-here/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T18:45:17.000Z",
+   "summary": "Apple released iOS 27.3 beta 1 today, and it reintroduces the all-new Health app that was first available for testing during the iOS 27.2 beta. Here’s what’s new. more…"
+  },
+  {
+   "id": "094bf36588a1d4ca",
+   "title": "iPad Mini 8 Reviewer Dissatisfied With Apple's Excuse for Lack of 120Hz Display",
+   "url": "https://www.macrumors.com/2026/11/03/ipad-mini-8-review-highlights-lack-of-120hz/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T18:42:36.000Z",
+   "summary": "The new iPad mini has an OLED display, but the device does not support ProMotion, meaning the display's refresh rate is limited to 60Hz instead of 120Hz. Apple said OLED displays still have significantly faster pixel response times compared to LCDs, resulting in reduced motion blur, but The Verge's…"
+  },
+  {
+   "id": "983b8315fcf9f9fb",
+   "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+   "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-03T18:42:16.000Z",
+   "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
+  },
+  {
+   "id": "bdf42ac65817129e",
+   "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+   "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-11-03T18:30:27.000Z",
+   "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content."
+  },
+  {
+   "id": "c9d6ac851bf70ff1",
+   "title": "First macOS Sequoia 15.8.3 and macOS Tahoe 26.7.3 RCs now available",
+   "url": "https://9to5mac.com/2026/11/03/first-macos-sequoia-15-8-3-and-macos-tahoe-26-7-3-rcs-now-available/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T18:29:08.000Z",
+   "summary": "In addition to the release of macOS 27.3 beta 1, Apple is also rolling out the first release candidates of macOS Sequoia 15.8.3 and macOS Tahoe 26.7.3. Here are the details. more…"
+  },
+  {
+   "id": "d31fb8d84a4911df",
+   "title": "Razer unveils the Raiju V3 Pro Signature Edition PS5 controller",
+   "url": "https://www.engadget.com/2305576/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-03T18:28:03.000Z",
+   "summary": "It sure is pretty and will likely be expensive."
+  },
+  {
+   "id": "fd97b79d00f024a4",
+   "title": "Apple announces Fitness+ Gym Strength program with personalized workout plans",
+   "url": "https://9to5mac.com/2026/11/03/apple-announces-fitness-gym-strength-program-with-personalized-workout-plans/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T18:26:16.000Z",
+   "summary": "Apple wants to help you get stronger. Apple Fitness+ is expanding to the gym with a new strength training experience. Gym Strength is now available in beta, bringing personalized workout plans, exercise demonstrations, and Apple Watch logging to your lifting routine. more…"
+  },
+  {
+   "id": "b31223e2750fadc7",
+   "title": "Redesigned Health app expands language support",
+   "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
+   "source": "Apple Newsroom",
+   "section": "tech",
+   "publishedAt": "2026-11-03T18:24:58.012Z",
+   "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide."
+  },
+  {
+   "id": "89a6cac74e64e6a7",
+   "title": "Buttons are back and storage is king when it comes to car interiors",
+   "url": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-03T18:19:31.000Z",
+   "summary": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing."
+  },
+  {
+   "id": "52a844a5a32aa627",
+   "title": "watchOS 27.3, iPadOS 27.3, and more now available in beta",
+   "url": "https://9to5mac.com/2026/11/03/watchos-27-3-ipados-27-3-and-more-now-available-in-beta/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T18:12:50.000Z",
+   "summary": "Apple has officially kicked off a new wave of developer betas, with beta 1 debuting for watchOS 27.3, iPadOS 27.3, tvOS 27.3, and more. more…"
+  },
+  {
+   "id": "0bdc3021bf7ad560",
+   "title": "How I use AI (Oct 2026)",
+   "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-03T18:11:11.000Z",
+   "summary": "54 points · 52 comments"
+  },
+  {
+   "id": "32653b2ad32161bd",
+   "title": "Apple Releases First macOS Golden Gate 27.3 Beta",
+   "url": "https://www.macrumors.com/2026/11/03/apple-releases-first-macos-golden-gate-27-3-beta/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T18:10:20.000Z",
+   "summary": "Apple today started testing the next macOS Golden Gate update, and developers can now download the first beta of ‌macOS Golden Gate‌ 27.3. The beta comes a week after Apple launched ‌macOS Golden Gate‌ 27.2. Registered developers can download ‌macOS Golden Gate‌ 27.3 by opening up the System…"
+  },
+  {
+   "id": "7c6d6af44d68aa13",
+   "title": "macOS 27.3 Golden Gate beta 1 now available, here’s what to expect",
+   "url": "https://9to5mac.com/2026/11/03/macos-27-3-golden-gate-beta-1-now-available-heres-what-to-expect/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T18:10:18.000Z",
+   "summary": "Following last week’s release of macOS 27.2, Apple has now kicked off the next round of beta testing with the first developer beta of macOS 27.3 Golden Gate. Here are the details. more…"
+  },
+  {
+   "id": "42756804f26fe259",
+   "title": "Apple Seeds First iOS 27.3 Beta",
+   "url": "https://www.macrumors.com/2026/11/03/apple-seeds-first-ios-27-3-beta/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T18:09:10.000Z",
+   "summary": "Apple today seeded the first betas of upcoming iOS 27.3 and iPadOS 27.3 updates to developers, with the betas coming a week after iOS 27.2 and iPadOS 27.2 were released. Registered developers can download the betas by going to Settings > General > Software Update and opting in to the developer…"
+  },
+  {
+   "id": "e0d8691d98f95a8d",
+   "title": "Apple releases first iOS 27.3 developer beta for iPhone",
+   "url": "https://9to5mac.com/2026/11/03/apple-releases-first-ios-27-3-developer-beta-for-iphone/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-03T18:08:48.000Z",
+   "summary": "Apple has released the first iOS 27.3 developer beta for iPhone. The update starts a new round of testing as Apple prepares more features for release later this year. more…"
+  },
+  {
+   "id": "896c37cdc4523e8a",
+   "title": "Apple Releases First watchOS 27.3, tvOS 27.3 and visionOS 27.3 Betas",
+   "url": "https://www.macrumors.com/2026/11/03/apple-watchos-27-3-beta-1/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-03T18:07:00.000Z",
+   "summary": "Alongside new betas of iOS 27.3, iPadOS 27.3, and macOS Golden Gate 27.3, Apple has released the first betas of watchOS 27.3, tvOS 27.3, and visionOS 27.3. The betas come a week after the 27.2 software updates were released. Registered developers can download the betas through the Settings app on…"
+  },
+  {
+   "id": "8dedcad415926c42",
+   "title": "How to make your older Android phones last longer",
+   "url": "https://www.engadget.com/2302743/how-to-make-older-android-phones-last-longer/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-03T18:00:00.000Z",
+   "summary": "Your Android phone can last much longer if you take steps to protect and optimize it. Try these tactics to extend your phone's life."
+  },
+  {
+   "id": "77620626110fdb30",
+   "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+   "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-03T17:56:52.000Z",
+   "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing."
+  },
+  {
+   "id": "a3345bd426db6343",
+   "title": "Google will let schools skip AI tools, but they have to give up search, too",
+   "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-11-03T17:54:43.000Z",
+   "summary": "Google will offer schools AI tools that purportedly don't give away the answers."
+  },
+  {
+   "id": "ca282f3dd9100b88",
+   "title": "Don't throw away your old AirPods — do this instead",
+   "url": "https://www.engadget.com/2300435/dont-throw-away-old-airpods-do-this-instead/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-03T17:45:00.000Z",
+   "summary": "AirPods aren't useless even after you've had them for years and get a new pair. Repurpose them with a few tricks."
+  },
+  {
    "id": "453653ea7309a8c6",
    "title": "Hands-On: The OLED iPad Mini is Almost an iPad Pro Mini",
    "url": "https://www.macrumors.com/2026/11/03/oled-ipad-mini-hands-on/",
@@ -89,6 +872,15 @@
    "section": "tech",
    "publishedAt": "2026-11-03T17:40:47.000Z",
    "summary": "The OLED iPad mini is launching this Friday, and we were able to test one out ahead of release. MacRumors videographer Dan Barbera has been using the new iPad for about a week at this point, and he shared his initial thoughts over on YouTube. Subscribe to the MacRumors YouTube channel for more…"
+  },
+  {
+   "id": "fdf1822c9e6772c3",
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-03T17:40:00.000Z",
+   "summary": "427 points · 137 comments"
   },
   {
    "id": "13a474582e0baf7c",
@@ -116,6 +908,15 @@
    "section": "tech",
    "publishedAt": "2026-11-03T17:22:12.000Z",
    "summary": "Tom's Guide ran the new iPad mini through its standard battery test, which involves continuous web browsing over Wi-Fi with the display set to 150 nits of brightness, and the device achieved much better battery life than Apple advertises. According to the review, the iPad mini 8 lasted for 14 hours…"
+  },
+  {
+   "id": "f9f728650cc60b1e",
+   "title": "Another child dies of measles as CDC reportedly holds up health alert",
+   "url": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-03T17:21:29.000Z",
+   "summary": "NY governor pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks."
   },
   {
    "id": "ca0d70c7a6152d2a",
@@ -287,6 +1088,15 @@
    "section": "tech",
    "publishedAt": "2026-11-03T16:47:34.000Z",
    "summary": "Apple could capture nearly 30% of the global foldable smartphone market in 2027, according to TrendForce's latest forecast. TrendForce projects Apple's share of shipments rising from 24.8% in 2026 to 29.8% in 2027. Samsung is expected to retain first place, although its share is forecast to fall…"
+  },
+  {
+   "id": "302ed1b3bc8cea35",
+   "title": "Stringman, an $800 open-source room scale gripper robot",
+   "url": "https://neufangled.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T16:47:29.000Z",
+   "summary": "286 points · 115 comments"
   },
   {
    "id": "efa0233597b9ff05",
@@ -838,6 +1648,15 @@
    "summary": "694 points · 160 comments"
   },
   {
+   "id": "944ed7784bd78c52",
+   "title": "Accelerating engineering for the physical world",
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-03T12:00:00.000Z",
+   "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
+  },
+  {
    "id": "5800f3a0fba5d6af",
    "title": "Apple Explores Cheaper Way to Make New MacBook Pro's OLED Tech",
    "url": "https://www.macrumors.com/2026/11/03/apple-exploring-next-gen-oled-tech-macs/",
@@ -908,6 +1727,15 @@
    "section": "ai",
    "publishedAt": "2026-11-03T08:00:00.000Z",
    "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+  },
+  {
+   "id": "340ee1cd1e089e1a",
+   "title": "How Cisco defends at machine speed with OpenAI",
+   "url": "https://openai.com/index/cisco-cyber",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-03T08:00:00.000Z",
+   "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
   },
   {
    "id": "6913e1d76a89789d",
@@ -1063,6 +1891,15 @@
    "summary": "Apple today announced new age rating requirements coming to the App Store, covering apps with location-sharing features, as well as dating and relationship features. Here are the details. more…"
   },
   {
+   "id": "2fcd9fcdaf9ffc69",
+   "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+   "url": "https://hackertv.org/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T01:18:09.000Z",
+   "summary": "100 points · 24 comments"
+  },
+  {
    "id": "825a6e19b1a509be",
    "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
    "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
@@ -1178,6 +2015,15 @@
    "section": "ai",
    "publishedAt": "2026-11-03T00:00:00.000Z",
    "summary": ""
+  },
+  {
+   "id": "64dc33c45391c0d7",
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-03T00:00:00.000Z",
+   "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
   },
   {
    "id": "bbe4ad2d3e8778a1",
@@ -1448,6 +2294,15 @@
    "section": "tech",
    "publishedAt": "2026-11-02T20:37:49.000Z",
    "summary": "A current Videostrong Android TV device. Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based…"
+  },
+  {
+   "id": "c7e1d9648b3575cd",
+   "title": "Union Types and Option Types",
+   "url": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-02T20:08:33.000Z",
+   "summary": "5 points · 1 comments"
   },
   {
    "id": "5ef13257d8309a93",
@@ -2188,6 +3043,15 @@
    "summary": "It's handy, but most people likely won't miss it."
   },
   {
+   "id": "b45e7dfad8054317",
+   "title": "Curiosity Traps",
+   "url": "https://www.autodidacts.io/curiosity-traps/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-02T15:40:04.000Z",
+   "summary": "18 points · 3 comments"
+  },
+  {
    "id": "25c099da9bd7cc06",
    "title": "New report on ‘HomeView Ultra’ product covers features, pricing, more",
    "url": "https://9to5mac.com/2026/11/02/new-report-on-homeview-ultra-product-covers-features-pricing-more/",
@@ -2699,6 +3563,15 @@
    "section": "tech",
    "publishedAt": "2026-11-02T05:00:00.000Z",
    "summary": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery's smallest power station to date, measuring only 4.6 by 3.4 by 3.4…"
+  },
+  {
+   "id": "944e126cccc563ab",
+   "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+   "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-02T04:31:20.000Z",
+   "summary": "63 points · 13 comments"
   },
   {
    "id": "7ad4effc9a1c2e36",
@@ -3581,6 +4454,15 @@
    "section": "ai",
    "publishedAt": "2026-11-01T06:06:19.000Z",
    "summary": "130 points · 82 comments"
+  },
+  {
+   "id": "a705790641fd802c",
+   "title": "We're Training a Figma-Fluent Editing Model",
+   "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-01T04:05:23.000Z",
+   "summary": "49 points · 22 comments"
   },
   {
    "id": "412f7a90b3b558c6",
@@ -8360,6 +9242,15 @@
    "section": "tech",
    "publishedAt": "2026-10-28T19:42:27.000Z",
    "summary": "The company says it won't make \"policy changes\" until it consults with publishers."
+  },
+  {
+   "id": "33ac7898bd0b081c",
+   "title": "Evernote turns AI-driven discovery into paid subscriptions",
+   "url": "https://openai.com/ads/customers/evernote",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-10-28T19:40:49.000Z",
+   "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions."
   },
   {
    "id": "ca6c63f8bedefcd7",
@@ -47204,276 +48095,6 @@
    "section": "tech",
    "publishedAt": "2026-10-04T23:15:00.000Z",
    "summary": "Everyone has different needs when it comes to internet connectivity, and Starlink's dish selection caters to a many applications, from stationary to mobile."
-  },
-  {
-   "id": "e38400cf05773f0d",
-   "title": "When is it worth getting a sound card for your PC?",
-   "url": "https://www.engadget.com/2274701/when-worth-getting-sound-card-for-pc/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-04T23:00:00.000Z",
-   "summary": "Whether or not adding a sound card makes sense really depends on how you're regularly using your PC."
-  },
-  {
-   "id": "c08b932cd4643328",
-   "title": "The popular Apple features you won't be getting with the iPhone Duo",
-   "url": "https://www.engadget.com/2274700/iphone-duo-apple-popular-features-wont-come-with/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-04T22:45:00.000Z",
-   "summary": "The iPhone Duo lacks a few features we're used to seeing on other iPhones."
-  },
-  {
-   "id": "0d2bcd62d98274f1",
-   "title": "How the iPhone Duo will improve your group selfies",
-   "url": "https://www.engadget.com/2274699/iphone-duo-smart-take-ai-photo-capturing-feature-improve-group-selfies/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-04T22:30:00.000Z",
-   "summary": "The iPhone Duo's foldable form factor allows for more placement options, but there are also new camera features you should know about."
-  },
-  {
-   "id": "76634a6ffceec42c",
-   "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T22:25:10.000Z",
-   "summary": "38 points · 11 comments"
-  },
-  {
-   "id": "5371ca81ad4e1c35",
-   "title": "How to improve your iPhone's call quality",
-   "url": "https://www.engadget.com/2274693/how-to-improve-iphone-call-quality-voice-isolation/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-04T22:00:00.000Z",
-   "summary": "Your iPhone should handle calls reliably, but if you can't hear the other person or calls aren't stable, it's time to run through a few fixes."
-  },
-  {
-   "id": "fcb973bfd0e0f1b4",
-   "title": "Time Travel in Braid (2015)",
-   "url": "https://qntm.org/braid",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T21:42:43.000Z",
-   "summary": "22 points · 2 comments"
-  },
-  {
-   "id": "37d44dbeb0635b1f",
-   "title": "iPhone Duo shows what the future of smartphones could look like",
-   "url": "https://9to5mac.com/2026/10/04/iphone-duo-shows-what-the-future-of-smartphones-could-look-like/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-04T21:32:00.000Z",
-   "summary": "Since the unveiling of iPhone Duo, the idea of all major interface navigation elements being accessible from your thumb has been really interesting. Apple re-invented the idea of smartphone navigation with the outer display on iPhone Duo, and now it feels quite wrong that every smartphone puts…"
-  },
-  {
-   "id": "dc70a1709c3296cf",
-   "title": "The new Fitbit Edge leaks",
-   "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-04T21:02:09.000Z",
-   "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel…"
-  },
-  {
-   "id": "a832f2926fb8e753",
-   "title": "In the wake of closure, a digital archive of animated materials appears online",
-   "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T21:01:28.000Z",
-   "summary": "11 points · 2 comments"
-  },
-  {
-   "id": "509d98eded2783db",
-   "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-   "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-10-04T20:31:07.000Z",
-   "summary": "AI slop seems to be overwhelming bug bounty programs."
-  },
-  {
-   "id": "06b138ee821b3dce",
-   "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-   "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-10-04T20:08:34.000Z",
-   "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI."
-  },
-  {
-   "id": "49ca0a1f5c5841f1",
-   "title": "Prick’s theatrical industrial punk is perfect for spooky season",
-   "url": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-04T20:00:00.000Z",
-   "summary": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as the producer on four tracks off Prick's self-titled…"
-  },
-  {
-   "id": "1e3f8968f445c0e1",
-   "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-   "url": "https://island-three.gruberbuilds.workers.dev/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-04T19:49:12.000Z",
-   "summary": "23 points · 20 comments"
-  },
-  {
-   "id": "d8a2331cb7cfedb3",
-   "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "url": "https://github.com/omlahore/RemoveMacAI",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T19:42:25.000Z",
-   "summary": "169 points · 83 comments"
-  },
-  {
-   "id": "a7a4a00ee2eb4d2c",
-   "title": "Homa: The end of TCP for AI clusters [video]",
-   "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-04T19:42:25.000Z",
-   "summary": "32 points · 4 comments"
-  },
-  {
-   "id": "62ccb3158df863ad",
-   "title": "Improper redaction reveals Google Data Center water and electricity usage",
-   "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T19:37:05.000Z",
-   "summary": "120 points · 146 comments"
-  },
-  {
-   "id": "7180ac89c6b1e34a",
-   "title": "The upcoming touchscreen OLED MacBook Pro is reportedly 'significantly lighter'",
-   "url": "https://www.engadget.com/2276786/the-upcoming-touchscreen-oled-macbook-pro-is-reportedly-significantly-lighter/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-04T19:27:15.000Z",
-   "summary": "The high-end laptop is still expected to make its debut by next month."
-  },
-  {
-   "id": "a4198cb2664e8924",
-   "title": "This is my biggest AirPods complaint, and it’s not necessarily about the hardware",
-   "url": "https://9to5mac.com/2026/10/04/this-is-my-biggest-airpods-complaint/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-04T19:09:34.000Z",
-   "summary": "AirPods are one of Apple’s most interesting products. The demand for them was largely invented by the fact that the company removed the headphone jack 10 years ago, and now most of us carry this almost magical pair of earbuds that do so much more than just play audio. AirPods offer best-in-class…"
-  },
-  {
-   "id": "004faf31f12c8ff5",
-   "title": "Show HN: Build with Python – a beginner course where your code draws",
-   "url": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T18:59:25.000Z",
-   "summary": "13 points · 3 comments"
-  },
-  {
-   "id": "8c9b953c5b90e29c",
-   "title": "A browser-native classic Visual Basic VB6 IDE",
-   "url": "https://wieslawsoltes.github.io/VB6/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T18:49:17.000Z",
-   "summary": "58 points · 22 comments"
-  },
-  {
-   "id": "6b5b0ad33a561c3d",
-   "title": "Five iPhone 18 Pro features you'll want to try the second you unbox it",
-   "url": "https://www.engadget.com/2274578/iphone-18-pro-feature-try-when-unboxed/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-04T18:45:00.000Z",
-   "summary": "The iPhone 18 Pro doesn't have a super long list of improvements, but these upgrades are still worth a try."
-  },
-  {
-   "id": "642b18009747618d",
-   "title": "What does V-Sync actually do to your PC's frames per second?",
-   "url": "https://www.engadget.com/2273753/what-v-sync-does-pc-frames-per-second/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-04T18:30:00.000Z",
-   "summary": "It can fix some problems, but create others."
-  },
-  {
-   "id": "b47a35f578b22340",
-   "title": "Mosquitoes Are a Choice",
-   "url": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T18:06:04.000Z",
-   "summary": "75 points · 68 comments"
-  },
-  {
-   "id": "736e8eb9c21cf2cd",
-   "title": "A fourth RuneScape game is under development using Unreal Engine",
-   "url": "https://www.engadget.com/2276772/a-fourth-runescape-game-is-under-development-using-unreal-engine/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-04T18:05:53.000Z",
-   "summary": "Jagex says it will reveal more details about the game, tentatively named RS4, next year."
-  },
-  {
-   "id": "e1c1ffa6c2cba975",
-   "title": "Unruly Folded Sheets",
-   "url": "https://literaryreview.co.uk/unruly-folded-sheets",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T18:05:10.000Z",
-   "summary": "4 points · 0 comments"
-  },
-  {
-   "id": "999c1cbdf7d74fe1",
-   "title": "What causes screen tearing and how can you fix it?",
-   "url": "https://www.engadget.com/2274514/screen-tear-causes-how-to-fix/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-04T18:00:00.000Z",
-   "summary": "Screen tearing is a distracting and ugly problem, but you have several ways to combat it to keep your games running smoothly."
-  },
-  {
-   "id": "a0993117f6006258",
-   "title": "Gallery of Processor Cache Effects (2010)",
-   "url": "https://igoro.com/archive/gallery-of-processor-cache-effects/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T17:58:51.000Z",
-   "summary": "34 points · 4 comments"
-  },
-  {
-   "id": "03ba081ac6b429b9",
-   "title": "Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN",
-   "url": "https://awesomedataviz.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T17:54:49.000Z",
-   "summary": "7 points · 1 comments"
-  },
-  {
-   "id": "0506389c0eeb6507",
-   "title": "Building a RAG Pipeline for Semantic Code Search",
-   "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T17:51:48.000Z",
-   "summary": "11 points · 0 comments"
-  },
-  {
-   "id": "ffa54812bc94c947",
-   "title": "All I wanted was a custom domain email",
-   "url": "https://jacobg.co/emails-at-jacobg-co/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-04T17:47:21.000Z",
-   "summary": "6 points · 3 comments"
   }
  ]
 }
