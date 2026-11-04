@@ -1,5 +1,257 @@
 [
  {
+  "id": "afa983f4637f356e",
+  "title": "Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",
+  "url": "https://github.com/project-minigraf/minigraf",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-05T11:18:18.000Z",
+  "summary": "12 points · 2 comments"
+ },
+ {
+  "id": "c5fb1ae13a5a0480",
+  "title": "Nobel Prize in Physiology or Medicine 2026",
+  "url": "https://www.nobelprize.org/prizes/medicine/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-05T11:17:20.000Z",
+  "summary": "4 points · 1 comments"
+ },
+ {
+  "id": "d2d57ffd2b9264e0",
+  "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
+  "url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-05T11:17:18.000Z",
+  "summary": "45 points · 14 comments"
+ },
+ {
+  "id": "c5e52de8b83fe368",
+  "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+  "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-05T11:13:51.000Z",
+  "summary": "274 points · 239 comments"
+ },
+ {
+  "id": "64a46b07cd265641",
+  "title": "Mac Users Reclaim 12GB+ of Storage With Apple Intelligence Removal Tool",
+  "url": "https://www.macrumors.com/2026/10/05/apple-intelligence-removal-tool-frees-mac-storage/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-05T11:12:56.000Z",
+  "summary": "A new open-source tool is making waves in the Mac community by helping users reclaim valuable storage space taken up by Apple's AI models. Called \"RemoveMacAI,\" the command line tool disables Apple Intelligence on macOS 27, removes its downloaded models, and prevents them from being downloaded…"
+ },
+ {
+  "id": "bff7c7c44be62fec",
+  "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
+  "url": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
+  "source": "Ars Technica",
+  "section": "tech",
+  "publishedAt": "2026-10-05T11:00:41.000Z",
+  "summary": "Ars Technica's guide to new keyboard sensing technologies."
+ },
+ {
+  "id": "7eeee74ac9c93963",
+  "title": "Google admits not every Android app runs great on Intel Googlebooks",
+  "url": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-05T10:58:22.000Z",
+  "summary": "This Asus Googlebook is one of the Intel models that may have issues. | Photo: Antonio G. Di Benedetto / The Verge Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based models may have issues running some Android apps. Before now, Google has emphasized…"
+ },
+ {
+  "id": "cceb807383789b8c",
+  "title": "Focus Modes are another way Apple has adapted iOS 27 for the iPhone Duo",
+  "url": "https://9to5mac.com/2026/10/05/focus-modes-are-another-way-apple-has-adapted-ios-27-for-the-iphone-duo/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-05T10:54:53.000Z",
+  "summary": "The unique form factor of the iPhone Duo led Apple to adapt iOS 27 in a number of ways to take full advantage of the upcoming new phone. This includes the iPhone dock sitting on the right-hand side of the outer display instead of at the bottom of the screen. Developer pdfu has now spotted another…"
+ },
+ {
+  "id": "82fd323b744922f5",
+  "title": "Web Search API",
+  "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-05T10:47:06.000Z",
+  "summary": "195 points · 103 comments"
+ },
+ {
+  "id": "ec394220b5de51ca",
+  "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
+  "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-05T10:35:59.000Z",
+  "summary": "114 points · 25 comments"
+ },
+ {
+  "id": "85242eb87a5f5c23",
+  "title": "iPhone Duo Makes Focus Modes Easier to Toggle From the Lock Screen",
+  "url": "https://www.macrumors.com/2026/10/05/iphone-duo-focus-modes-easier-toggle-lock-screen/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-05T10:18:54.000Z",
+  "summary": "Code explorer pdfu has shared a new feature tidbit for the upcoming iPhone Duo. Apple is reportedly introducing new Focus mode controls on the device's Lock Screen. When a Focus mode is active, a new button appears above the bottom controls that lets you toggle it off and on while you remain on the…"
+ },
+ {
+  "id": "831fc558928b1d5c",
+  "title": "Apple and a Hacker's Future",
+  "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-05T10:05:02.000Z",
+  "summary": "138 points · 122 comments"
+ },
+ {
+  "id": "245f816ab91816bb",
+  "title": "Building advertising for the way people use AI",
+  "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+  "source": "OpenAI",
+  "section": "ai",
+  "publishedAt": "2026-10-05T10:00:00.000Z",
+  "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
+ },
+ {
+  "id": "0990bc219b73d4cb",
+  "title": "Our minds aren’t equipped to handle AI",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+  "source": "The Verge",
+  "section": "ai",
+  "publishedAt": "2026-10-05T10:00:00.000Z",
+  "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a…"
+ },
+ {
+  "id": "4cbf4dbb30c9cca1",
+  "title": "EU iPhone and iPad Users Could Still Face Months-Long Wait for Siri AI",
+  "url": "https://www.macrumors.com/2026/10/05/extended-eu-wait-predicted-for-siri-ai/",
+  "source": "MacRumors",
+  "section": "ai",
+  "publishedAt": "2026-10-05T09:51:48.000Z",
+  "summary": "Apple's upgraded Siri AI could remain unavailable in the European Union for several months yet, according to Bloomberg's Mark Gurman. In his latest Power On newsletter, Gurman said a delay of around five months would be the \"absolute best-case scenario,\" with European users potentially facing an…"
+ },
+ {
+  "id": "57e032c442d35a3e",
+  "title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
+  "url": "https://www.nobelprize.org/prizes/medicine/2026/summary/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-05T09:33:13.000Z",
+  "summary": "110 points · 45 comments"
+ },
+ {
+  "id": "d42061c3ff6ce770",
+  "title": "Today Marks the 15th Anniversary of Steve Jobs' Death",
+  "url": "https://www.macrumors.com/2026/10/05/today-15th-anniversary-steve-jobs-death/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-05T09:12:23.000Z",
+  "summary": "15 years ago today, Steve Jobs passed away from pancreatic cancer at the age of 56. It was the day after Apple executives introduced the iPhone 4s at a media event on the company's Infinite Loop headquarters campus. In the days following his passing, Apple began posting comments from fans on its…"
+ },
+ {
+  "id": "c8e7ac170d45761c",
+  "title": "iPhone 18 Pro's Triple Live Activity Support Comes With a Catch",
+  "url": "https://www.macrumors.com/2026/10/05/iphone-18-pro-three-live-activities-dynamic-island/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-05T08:25:45.000Z",
+  "summary": "On iPhone 18 Pro models, Apple slimmed down the cutout where the Dynamic Island lives, allowing the latter to support up to three simultaneous Live Activities. But it turns out there's a catch. pdfu, the third Live Activity in iOS 27 is only ever a system activity, such as Now Playing or navigation…"
+ },
+ {
+  "id": "0f65f0e84b6b582f",
+  "title": "Google's Fitbit Edge leaks out with a screen and Pixel 11 colors",
+  "url": "https://www.engadget.com/2276917/google-fitbit-edge-leaks-out-with-a-screen-and-pixel-11-colors/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-05T08:18:13.000Z",
+  "summary": "The upcoming Fitbit Edge looks like a replacement for the Fitbit Charge last seen in 2023."
+ },
+ {
+  "id": "7dab7a1cfaba96c2",
+  "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+  "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-05T08:09:36.000Z",
+  "summary": "329 points · 249 comments"
+ },
+ {
+  "id": "1bd2c642c3d24a8c",
+  "title": "People really hate AI, so why can’t they get enough?",
+  "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+  "source": "MIT Tech Review",
+  "section": "ai",
+  "publishedAt": "2026-10-05T08:00:00.000Z",
+  "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…"
+ },
+ {
+  "id": "0ef377222b4d350f",
+  "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+  "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-05T07:46:10.000Z",
+  "summary": "121 points · 70 comments"
+ },
+ {
+  "id": "918a94c87e065c4c",
+  "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+  "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-05T07:46:10.000Z",
+  "summary": "167 points · 105 comments"
+ },
+ {
+  "id": "8b4fc4a025d9663c",
+  "title": "Anthropic reported diary entry to police, woman faces felony charge",
+  "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-05T05:37:40.000Z",
+  "summary": "37 points · 33 comments"
+ },
+ {
+  "id": "4f232e4145a7d97d",
+  "title": "Replacement of petroleum based products with plant-based materials (2025)",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-05T05:09:43.000Z",
+  "summary": "32 points · 4 comments"
+ },
+ {
+  "id": "49af0d10ddea7e34",
+  "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+  "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+  "source": "Ars Technica",
+  "section": "tech",
+  "publishedAt": "2026-10-05T04:00:52.000Z",
+  "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls"
+ },
+ {
+  "id": "89ef428cefeabd32",
+  "title": "EmTech Future 2026: When AI Meets Everything",
+  "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+  "source": "MIT Tech Review",
+  "section": "ai",
+  "publishedAt": "2026-10-05T04:00:00.000Z",
+  "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp…"
+ },
+ {
+  "id": "f9d6d9b008bb9d73",
+  "title": "Anatomy Unzipped: John of Arderne's Sweden Scroll (Ca. 1425–35)",
+  "url": "https://publicdomainreview.org/collection/arderne-scroll/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-05T03:12:10.000Z",
+  "summary": "5 points · 0 comments"
+ },
+ {
   "id": "ea66099cdffdf81d",
   "title": "Apple's New CEO John Ternus is Making Product Design a 'Major Priority'",
   "url": "https://www.macrumors.com/2026/10/04/john-ternus-making-design-a-major-priority/",
