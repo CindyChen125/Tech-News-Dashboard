@@ -1,5 +1,140 @@
 [
  {
+  "id": "fbea7a8fcd3346cd",
+  "title": "New repository settings for configuring pull request access",
+  "url": "https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-06T07:01:51.000Z",
+  "summary": "30 points · 19 comments"
+ },
+ {
+  "id": "e8fd5872cd3d5471",
+  "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+  "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+  "source": "Hugging Face",
+  "section": "ai",
+  "publishedAt": "2026-10-06T06:44:39.000Z",
+  "summary": ""
+ },
+ {
+  "id": "23c932f55fc9c895",
+  "title": "Wood Tape (2004)",
+  "url": "http://gamesbyemail.com/WoodTape/Default.htm",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-06T04:25:41.000Z",
+  "summary": "113 points · 13 comments"
+ },
+ {
+  "id": "bd2da50c2ad361c7",
+  "title": "Resurrecting iChat Audio and Video Conferencing",
+  "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-06T03:39:01.000Z",
+  "summary": "45 points · 12 comments"
+ },
+ {
+  "id": "168cab5046753975",
+  "title": "Mallet Head Angle",
+  "url": "http://www.timberframe-tools.com/tools/mallet-head-angle/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-06T03:29:20.000Z",
+  "summary": "15 points · 1 comments"
+ },
+ {
+  "id": "8b7b68e3ddd79020",
+  "title": "Apple reportedly planning second wave of product announcements later this month",
+  "url": "https://9to5mac.com/2026/10/05/apple-reportedly-planning-second-wave-of-product-announcements-later-this-month/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-06T03:25:14.000Z",
+  "summary": "MacRumors reports that in addition to Apple’s expected event on October 13, the company is planning to unveil another batch of new products in the final week of the month. Here are the details. more…"
+ },
+ {
+  "id": "e77f18e99b34cde1",
+  "title": "Apple Announces iPhone Duo Apps Can Now Be Submitted to App Store",
+  "url": "https://www.macrumors.com/2026/10/05/apple-opens-iphone-duo-app-submissions/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-06T03:20:06.000Z",
+  "summary": "Apple today announced that apps optimized for the iPhone Duo can now be submitted for App Store approval, ahead of the foldable device launching on Friday, October 23. Apple shared some tips on its website. Related Roundup: iPhone Duo Tags: App Store, App Store Connect, Xcode Buyer's Guide: iPhone…"
+ },
+ {
+  "id": "c27c8d9cb7c7f786",
+  "title": "LLMs may have helped my RSI",
+  "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-06T03:01:04.000Z",
+  "summary": "29 points · 16 comments"
+ },
+ {
+  "id": "f3d63d4a49fa35c4",
+  "title": "Why Common Lisp is now the best programming language",
+  "url": "https://www.vivienhenz.com/common-lisp",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-06T02:51:51.000Z",
+  "summary": "155 points · 213 comments"
+ },
+ {
+  "id": "c4d142affdbaec3a",
+  "title": "Sources: Apple Planning Two Sets of Product Launches in October",
+  "url": "https://www.macrumors.com/2026/10/05/apple-two-sets-of-product-launches-october/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-06T02:25:00.000Z",
+  "summary": "Bloomberg's Mark Gurman recently reported that Apple plans to unveil an all-new home hub, a new HomePod mini, and a new Apple TV 4K on Tuesday, October 13, and MacRumors has since learned about another launch slated for later in the month. Apple is planning to unveil additional new products in the…"
+ },
+ {
+  "id": "5abcd42113b3b401",
+  "title": "Apple accuses OpenAI of improperly adding new arguments to trade secrets case",
+  "url": "https://9to5mac.com/2026/10/05/apple-accuses-openai-of-improperly-adding-new-arguments-to-trade-secrets-case/",
+  "source": "9to5Mac",
+  "section": "ai",
+  "publishedAt": "2026-10-06T01:43:32.000Z",
+  "summary": "A few days ago, OpenAI accused Apple of improperly adding new evidence to its trade secrets case. Today, Apple fired back with its own accusation that OpenAI went beyond what court rules permit in its response. Here are the details. more…"
+ },
+ {
+  "id": "dbc37fd7a0d6b8ea",
+  "title": "Apple invites developers to submit iPhone Duo-ready apps to the App Store",
+  "url": "https://9to5mac.com/2026/10/05/apple-invites-developers-to-submit-iphone-duo-ready-apps-to-the-app-store/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-06T00:52:16.000Z",
+  "summary": "With the iPhone Duo launch fast approaching, Apple is now accepting submissions of iPhone Duo-optimized apps and games built with Xcode 27.1. Here are the details. more…"
+ },
+ {
+  "id": "e81405032124f876",
+  "title": "Photopea creator weighs in on Photosuite project",
+  "url": "https://github.com/eolix/photosuite/issues/77",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-06T00:41:44.000Z",
+  "summary": "4 points · 0 comments"
+ },
+ {
+  "id": "c7dd6842e529f1f0",
+  "title": "Common mistakes you should avoid when using foldable phones",
+  "url": "https://www.engadget.com/2276483/common-mistakes-avoid-using-foldable-phones/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-06T00:30:00.000Z",
+  "summary": "Foldable phones have unique durability concerns thanks to their moving parts and internal screens."
+ },
+ {
+  "id": "3b94313f67d587b9",
+  "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
+  "url": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-06T00:24:57.000Z",
+  "summary": "27 points · 8 comments"
+ },
+ {
   "id": "ac0fa3d1aaba82f6",
   "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
   "url": "https://edworkingpapers.com/ai26-1551",
