@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T02:19:31.021Z",
+ "updatedAt": "2026-11-07T09:11:48.516Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,60 @@
   }
  ],
  "items": [
+  {
+   "id": "89c0257a7f90a5d5",
+   "title": "Bong: DuckDuckGo bang alternative, open-source and self-hosted",
+   "url": "https://bong.glendalab.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-07T07:48:13.000Z",
+   "summary": "8 points · 1 comments"
+  },
+  {
+   "id": "b44ca4f50a4b80da",
+   "title": "The Components of Agent Memory",
+   "url": "https://www.anthropic.com/research/components-of-agent-memory",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-07T06:39:04.000Z",
+   "summary": "27 points · 8 comments"
+  },
+  {
+   "id": "28d8f037ea4f17e8",
+   "title": "Asahi Linux Progress Linux 7.3",
+   "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-07T05:20:18.000Z",
+   "summary": "156 points · 102 comments"
+  },
+  {
+   "id": "ecc3e9434d2192ad",
+   "title": "Sequoia shutting down its Scouts program marks the end of an era",
+   "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-07T05:01:54.000Z",
+   "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form."
+  },
+  {
+   "id": "466e4446f824e719",
+   "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+   "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-07T04:54:36.000Z",
+   "summary": "81 points · 39 comments"
+  },
+  {
+   "id": "d5f57d4866c10d9f",
+   "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+   "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-07T04:16:43.000Z",
+   "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do."
+  },
   {
    "id": "879f27fa4ac0e51e",
    "title": "Apple Music Classical gets new black-and-white icon in latest update",
@@ -710,6 +764,15 @@
    "section": "tech",
    "publishedAt": "2026-11-06T17:17:14.000Z",
    "summary": "The bloc said the platform needs to change how the For You page works to help protect users' mental health."
+  },
+  {
+   "id": "c02c343c3fdff3d2",
+   "title": "Notes on San Marino",
+   "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-06T17:12:05.000Z",
+   "summary": "60 points · 20 comments"
   },
   {
    "id": "10f9aab107478e0e",
@@ -3322,6 +3385,15 @@
    "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup."
   },
   {
+   "id": "f2e0ec2128425195",
+   "title": "The great butter and cheese fire of 1991",
+   "url": "https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-05T00:44:16.000Z",
+   "summary": "22 points · 7 comments"
+  },
+  {
    "id": "2d16cc8fd670a8ac",
    "title": "X says its updated web app is way faster",
    "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
@@ -3932,6 +4004,15 @@
    "section": "tech",
    "publishedAt": "2026-11-04T18:10:11.000Z",
    "summary": "It is easier to watch the Elizabeth Holmes documentary \"You Can See Everything\" in low Earth orbit than in London."
+  },
+  {
+   "id": "d8b3bcf7224e9363",
+   "title": "8088 Domination Post-Mortem",
+   "url": "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-04T18:06:14.000Z",
+   "summary": "8 points · 1 comments"
   },
   {
    "id": "49449305c2a82976",
@@ -4733,6 +4814,15 @@
    "section": "ai",
    "publishedAt": "2026-11-04T07:00:00.000Z",
    "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+  },
+  {
+   "id": "bb8dcab5bc98ee00",
+   "title": "PostgreSQL Internals [pdf]",
+   "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-04T05:22:43.000Z",
+   "summary": "13 points · 0 comments"
   },
   {
    "id": "220b2a89a26ab692",
@@ -5797,6 +5887,15 @@
    "summary": "Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at several different angles for hands-free use, or reconfigure the Dynamic…"
   },
   {
+   "id": "a1f9d28c969a49c8",
+   "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+   "url": "https://github.com/andrewboldi/tmux-restore",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T17:25:21.000Z",
+   "summary": "33 points · 22 comments"
+  },
+  {
    "id": "2e948531deb54db0",
    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
    "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
@@ -6371,6 +6470,15 @@
    "section": "tech",
    "publishedAt": "2026-11-03T14:50:01.000Z",
    "summary": "T-Mobile has announced a new 5 gigabit fiber broadband service priced at $90 a month, starting today. The company also says that if you sign up now, the price is guaranteed not to increase for a full decade … more…"
+  },
+  {
+   "id": "6b6d35a70decbe15",
+   "title": "The Flash C Compiler",
+   "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T14:49:42.000Z",
+   "summary": "48 points · 5 comments"
   },
   {
    "id": "2384d1b32e30e524",
@@ -47285,150 +47393,6 @@
    "section": "tech",
    "publishedAt": "2026-10-08T09:15:54.000Z",
    "summary": "Ahead of the expected imminent launch of the new iPad mini 8, word out of Asia suggests that the device will feature a 60Hz OLED display rather than a ProMotion 120Hz display. The information comes courtesy of a hit-and-miss tipster running the account \"yeux1122\" on the Korean Naver blog. \"There…"
-  },
-  {
-   "id": "286afaa66cb88e8d",
-   "title": "Show HN: Proton Drive for Linux",
-   "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-08T09:10:42.000Z",
-   "summary": "26 points · 7 comments"
-  },
-  {
-   "id": "05af695c0bf10dce",
-   "title": "AI breakthroughs in robotics won’t change your life any time soon",
-   "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-   "source": "MIT Tech Review",
-   "section": "ai",
-   "publishedAt": "2026-10-08T09:00:00.000Z",
-   "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video…"
-  },
-  {
-   "id": "281bb9119c556c17",
-   "title": "The new BMW iX4 is the X4 reborn as an EV",
-   "url": "https://www.engadget.com/2280880/bmw-ix4-is-the-x4-reborn-as-an-ev/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-08T08:45:55.000Z",
-   "summary": "BMW has brought the X4 design to its third Neue Klasse EV with an electric version called the iX4."
-  },
-  {
-   "id": "da4a5533619df246",
-   "title": "GPT-6 is coming to all tiers of ChatGPT",
-   "url": "https://www.engadget.com/2280879/gpt-6-coming-all-tiers-chatgpt/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-10-08T08:45:16.000Z",
-   "summary": "OpenAI is rolling out GPT-6 to ChatGPT, and it will come with the capability to build more visual responses."
-  },
-  {
-   "id": "01b60bae68a439ae",
-   "title": "Gurman: OLED MacBook Pro Won't Be 'Significantly Thinner'",
-   "url": "https://www.macrumors.com/2026/10/08/oled-macbook-pro-wont-be-thinner/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-08T08:30:04.000Z",
-   "summary": "Bloomberg's Mark Gurman has walked back somewhat on his previous reporting that Apple's upcoming touchscreen OLED MacBook Pro will be thinner than current models. \"I don't think it'll be significantly thinner in the end,\" he posted on X late Wednesday in reply to a question about the machine, which…"
-  },
-  {
-   "id": "30ea6a9a22d43eb1",
-   "title": "Building a safer path to autonomous industrial AI",
-   "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-   "source": "MIT Tech Review",
-   "section": "ai",
-   "publishedAt": "2026-10-08T08:17:32.000Z",
-   "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the…"
-  },
-  {
-   "id": "7c1cb73d9bc8dcd4",
-   "title": "OpenAI Withdraws 3 Math Papers",
-   "url": "https://github.com/openai/math/blob/main/history.md",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-08T08:08:37.000Z",
-   "summary": "176 points · 128 comments"
-  },
-  {
-   "id": "8d5770ed96352b21",
-   "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-   "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-08T07:07:34.000Z",
-   "summary": "75 points · 23 comments"
-  },
-  {
-   "id": "7e813afdc2dd0ebb",
-   "title": "OpenAI withdraws three mathematical results",
-   "url": "https://twitter.com/danintheory/status/2108065033070789090",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-08T07:05:40.000Z",
-   "summary": "283 points · 561 comments"
-  },
-  {
-   "id": "d31b0ee9dcedb4d4",
-   "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
-   "url": "https://dat-ecosystem.org/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-08T06:43:13.000Z",
-   "summary": "29 points · 13 comments"
-  },
-  {
-   "id": "3bdeaf80ae85dad0",
-   "title": "Classic PC demoscene productions running natively in the browser",
-   "url": "https://treylorswift.github.io/demoscene-recomp/web/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-08T06:29:25.000Z",
-   "summary": "117 points · 103 comments"
-  },
-  {
-   "id": "02ee01ee2128d146",
-   "title": "AI Crawler Index",
-   "url": "https://mojodojo.io/ai-crawler-index",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-08T06:26:03.000Z",
-   "summary": "8 points · 1 comments"
-  },
-  {
-   "id": "0dd725663a74107a",
-   "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
-   "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-10-08T06:14:11.000Z",
-   "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India."
-  },
-  {
-   "id": "b4210c55869c44d6",
-   "title": "Clojure in the age of language models",
-   "url": "https://yogthos.net/posts/2026-10-07-clojure-llms.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-08T05:56:31.000Z",
-   "summary": "21 points · 6 comments"
-  },
-  {
-   "id": "0a32b6f24df115e4",
-   "title": "Terence Tao Responds to the OpenAI Math Drop",
-   "url": "https://mathstodon.xyz/@tao/117395269325940185",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-08T05:14:14.000Z",
-   "summary": "154 points · 74 comments"
-  },
-  {
-   "id": "80b7ac0ac9b41e1f",
-   "title": "A 100x faster* alternative to homebrew",
-   "url": "https://github.com/zerobrewhq/zerobrew",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-08T03:23:08.000Z",
-   "summary": "50 points · 29 comments"
   }
  ]
 }
