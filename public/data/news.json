@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T05:52:40.854Z",
+ "updatedAt": "2026-11-08T13:14:18.073Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,87 @@
  ],
  "items": [
   {
+   "id": "546f19120a502e62",
+   "title": "There’s no slowing down media’s pivot-to-video 2.0",
+   "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-08T13:00:00.000Z",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Almost…"
+  },
+  {
+   "id": "7001019028ef89e4",
+   "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+   "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-08T12:15:31.000Z",
+   "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not."
+  },
+  {
+   "id": "74f6c0ead3164d67",
+   "title": "I will not be using LLMs in my coding",
+   "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-08T12:14:10.000Z",
+   "summary": "8 points · 0 comments"
+  },
+  {
+   "id": "85ea7255eeff8a50",
+   "title": "Person of Interest",
+   "url": "https://krthr.co/person-of-interest/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-08T11:23:28.000Z",
+   "summary": "95 points · 57 comments"
+  },
+  {
+   "id": "64ad34f04455bb2b",
+   "title": "Petered (what happens after the Peter Principle)",
+   "url": "https://aworkinglibrary.com/writing/petered",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-08T10:56:43.000Z",
+   "summary": "53 points · 24 comments"
+  },
+  {
+   "id": "ca845bc604e907a8",
+   "title": "JIT bitmap text rendering for microcontrollers",
+   "url": "https://linebender.org/blog/jit-bitmap-text/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-08T10:42:15.000Z",
+   "summary": "24 points · 4 comments"
+  },
+  {
+   "id": "7b0caeadc3d9b349",
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+   "url": "https://github.com/synchopate/llama-modchip",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-08T10:22:04.000Z",
+   "summary": "34 points · 14 comments"
+  },
+  {
+   "id": "f9954052438a790d",
+   "title": "Agent memory needs its OpenTelemetry moment",
+   "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-08T08:40:23.000Z",
+   "summary": "72 points · 66 comments"
+  },
+  {
+   "id": "eaabfe047443ba1f",
+   "title": "WaveDudeNext 2D Wave Simulator",
+   "url": "https://github.com/graealex/WaveDudeNext",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-08T07:09:02.000Z",
+   "summary": "27 points · 6 comments"
+  },
+  {
    "id": "28259e2c7c224bd5",
    "title": "Kirlian Photography: Building Your Own Equipment",
    "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
@@ -107,6 +188,15 @@
    "section": "tech",
    "publishedAt": "2026-11-08T03:48:04.000Z",
    "summary": "3 points · 1 comments"
+  },
+  {
+   "id": "5631902190eb0097",
+   "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+   "url": "https://github.com/dmunozv04/isponsorblocktv",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-08T03:47:19.000Z",
+   "summary": "61 points · 17 comments"
   },
   {
    "id": "51524ff18223c314",
@@ -2620,6 +2710,15 @@
    "summary": "76 points · 19 comments"
   },
   {
+   "id": "eb4007edcf267bca",
+   "title": "Earliest evidence of cannabis use found in ancient Siberian tomb",
+   "url": "https://www.cnn.com/2026/11/05/science/ancient-cannabis-siberia-scli-intl",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-06T02:27:08.000Z",
+   "summary": "15 points · 5 comments"
+  },
+  {
    "id": "633f61cd58fdded1",
    "title": "‘Awkwafina: The Unlikely Cook’ premieres on Apple TV",
    "url": "https://9to5mac.com/2026/11/05/awkwafina-the-unlikely-cook-premieres-on-apple-tv/",
@@ -3790,6 +3889,15 @@
    "summary": "CNET built a ‘Fold-a-Phone’ machine that’s been constantly folding and unfolding iPhone Duo for over a week to test durability, while livestreaming daily. Here’s how it’s going. more…"
   },
   {
+   "id": "985236d2b76833c1",
+   "title": "Mizu – zero-copy parallel R and Python over shared memory",
+   "url": "https://github.com/shikokuchuo/pymizu",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-05T15:09:04.000Z",
+   "summary": "31 points · 2 comments"
+  },
+  {
    "id": "1404be1af4b0e922",
    "title": "Apple Creator Studio gets powerful new AI features using OpenAI models [U: Now available]",
    "url": "https://9to5mac.com/2026/11/05/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/",
@@ -4049,6 +4157,15 @@
    "section": "tech",
    "publishedAt": "2026-11-05T14:00:00.000Z",
    "summary": "The M6 MacBook Pro is more of the same, but that's still pretty great."
+  },
+  {
+   "id": "acb69ddc8f1b2685",
+   "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+   "url": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-05T13:44:07.000Z",
+   "summary": "34 points · 2 comments"
   },
   {
    "id": "a8fe3ac9fd9c5dfa",
@@ -4789,6 +4906,15 @@
    "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers."
   },
   {
+   "id": "8e86db2ba48c3161",
+   "title": "New typeface using intricate designs from Shakespeare's First Folio (2023)",
+   "url": "https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-04T20:53:54.000Z",
+   "summary": "21 points · 9 comments"
+  },
+  {
    "id": "fc760b25320b2446",
    "title": "Apple Photos keeps getting better, here’s what’s new in iOS 27",
    "url": "https://9to5mac.com/2026/11/04/heres-everything-new-for-apple-photos-in-ios-27/",
@@ -5455,6 +5581,15 @@
    "summary": "46 points · 22 comments"
   },
   {
+   "id": "f0febdaa6649e9cd",
+   "title": "Clj.rs – a Clojure dialect implemented in Rust",
+   "url": "https://clj.rs/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-04T15:23:16.000Z",
+   "summary": "85 points · 21 comments"
+  },
+  {
    "id": "ef4227bdbead9554",
    "title": "Pierre Computer is being acquired by OpenAI",
    "url": "https://twitter.com/pierrecomputer/status/2117999036175188183",
@@ -5480,6 +5615,15 @@
    "section": "tech",
    "publishedAt": "2026-11-04T15:20:49.000Z",
    "summary": "35 points · 59 comments"
+  },
+  {
+   "id": "1c1cc958e8ba7d4e",
+   "title": "Porting Android 16 to my blind mother's keypad phone",
+   "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-04T15:18:59.000Z",
+   "summary": "9 points · 1 comments"
   },
   {
    "id": "30fa917c149ca443",
@@ -46556,357 +46700,6 @@
    "section": "tech",
    "publishedAt": "2026-10-09T13:14:33.000Z",
    "summary": "The US says Microsoft abused immigration rules; the company disputes the claim."
-  },
-  {
-   "id": "e765995207b2ac74",
-   "title": "Our $445M Series D",
-   "url": "https://oxide.computer/blog/our-445m-series-d",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T13:12:47.000Z",
-   "summary": "129 points · 29 comments"
-  },
-  {
-   "id": "a555d480ba717d4a",
-   "title": "Meta is banning TikTok ads across its platforms",
-   "url": "https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-09T13:12:45.000Z",
-   "summary": "Meta has banned ads from TikTok's Chinese parent company ByteDance across the US and several other countries as the rivalry between the major social media operators heats up, as reported earlier by Bloomberg. The ban, which went into effect on Thursday, restricts ads and paid marketing messages…"
-  },
-  {
-   "id": "bb835228ab08c3af",
-   "title": "Deno Is Joining Cloudflare",
-   "url": "https://deno.com/blog/cloudflare",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T13:03:48.000Z",
-   "summary": "259 points · 132 comments"
-  },
-  {
-   "id": "bd4e38a44814c82e",
-   "title": "The humble Playdate has become one of gaming’s best deals",
-   "url": "https://www.theverge.com/entertainment/1008441/playdate-season-3",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-09T13:00:00.000Z",
-   "summary": "The Playdate, Panic's tiny yellow handheld that launched in 2022, has slowly but surely become a great deal - which is a good thing, because everything else in gaming has only gotten more expensive. Despite being a weird device with a black-and-white screen and a crank jutting out the side, the…"
-  },
-  {
-   "id": "5b1de98bc86d3f02",
-   "title": "Study: Exercise increases cancer survival rates",
-   "url": "https://www.nejm.org/doi/10.1056/NEJMoa2502760",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T12:49:41.000Z",
-   "summary": "16 points · 3 comments"
-  },
-  {
-   "id": "5673d0dc25bc9148",
-   "title": "Report: Apple cuts iPhone 18 Pro production due to ‘soft demand’",
-   "url": "https://9to5mac.com/2026/10/09/report-apple-cuts-iphone-18-pro-production-due-to-soft-demand/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-09T12:37:23.000Z",
-   "summary": "Apple has reportedly cut orders for the iPhone 18 Pro and iPhone 18 Pro Max due to “soft demand.” A new report from Nikkei Asia says Apple has told select suppliers to cut component production for the devices, as price increases allegedly “dampened consumer demand.” more…"
-  },
-  {
-   "id": "7b9f0f579b749b0a",
-   "title": "Meadows – a small language for stock-and-flow diagrams that run",
-   "url": "https://lorezzed.github.io/meadows/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T12:29:40.000Z",
-   "summary": "11 points · 2 comments"
-  },
-  {
-   "id": "2f6ea625ad7b3bd8",
-   "title": "Webb telescope detects galaxy origin of the farthest fast radio burst we've seen to date",
-   "url": "https://www.engadget.com/2282035/webb-telescope-detects-galaxy-origin-of-the-farthest-fast-radio-burst-weve-seen-to-date/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-09T12:28:24.000Z",
-   "summary": "Astronomers used the Webb telescope to see where the farthest fast radio burst we've ever seen had come from."
-  },
-  {
-   "id": "f8e0b99e654953fb",
-   "title": "100+ reactions to 100+ solutions",
-   "url": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T12:26:12.000Z",
-   "summary": "33 points · 25 comments"
-  },
-  {
-   "id": "8427182b6ff54d95",
-   "title": "Apple Reportedly Cuts iPhone 18 Pro Orders After Price Hike Dampens Demand",
-   "url": "https://www.macrumors.com/2026/10/09/apple-cuts-iphone-18-pro-orders-price-demand/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-09T12:23:22.000Z",
-   "summary": "Apple has asked some of its suppliers to cut production of iPhone 18 Pro components due to lower-than-expected demand, according to Nikkei Asia ($). Citing its own sources, the report claims that Apple has been more cautious about shipments since early September because of the rising cost of memory…"
-  },
-  {
-   "id": "c8728cc380088c4c",
-   "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-   "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-09T12:21:24.000Z",
-   "summary": "58 points · 28 comments"
-  },
-  {
-   "id": "6e223ce5af128f2f",
-   "title": "The Hetzner Cloud network stack – history and technical overview",
-   "url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T12:20:55.000Z",
-   "summary": "40 points · 9 comments"
-  },
-  {
-   "id": "43b24e34307f8d04",
-   "title": "Xona’s commercial GPS alternative is about to go live",
-   "url": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-10-09T12:00:00.000Z",
-   "summary": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company."
-  },
-  {
-   "id": "66fb98b1c70e086f",
-   "title": "What to expect at Apple's 'Welcome home' event next week",
-   "url": "https://www.engadget.com/2281840/what-to-expect-at-apples-welcome-home-event-next-week/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-09T12:00:00.000Z",
-   "summary": "The company is reportedly rebooting its smart home ambitions with a smart display and a whole bunch of other accessories."
-  },
-  {
-   "id": "c8e5456625604fda",
-   "title": "The Wild West of polyglot docs sites",
-   "url": "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T11:53:43.000Z",
-   "summary": "10 points · 1 comments"
-  },
-  {
-   "id": "d9bce324cec65853",
-   "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-   "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-09T11:36:20.000Z",
-   "summary": "39 points · 20 comments"
-  },
-  {
-   "id": "2753d7624cdfb18a",
-   "title": "Anthropic now offers a free vulnerability-finding service for open-source software",
-   "url": "https://www.engadget.com/2282005/anthropic-offers-open-source-software-free-ai-security-checks/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-10-09T11:24:27.000Z",
-   "summary": "Anthropic is offering open-source projects a new way to check for vulnerabilities with its OSS Scanner."
-  },
-  {
-   "id": "376139bd33e81935",
-   "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
-   "url": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T11:20:49.000Z",
-   "summary": "35 points · 2 comments"
-  },
-  {
-   "id": "e9b20ef847dc33fd",
-   "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-   "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-09T11:03:48.000Z",
-   "summary": "179 points · 73 comments"
-  },
-  {
-   "id": "7fde5df260e1e49c",
-   "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
-   "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-10-09T11:00:57.000Z",
-   "summary": "\"I can say we’re weeks away from launching on Vulcan.\""
-  },
-  {
-   "id": "81519970edb3b211",
-   "title": "Netflix releases trailer for its miniseries about Sam Bankman-Fried's scandal-ridden crypto exchange",
-   "url": "https://www.engadget.com/2281997/netflix-the-altruists-sam-bankman-fried-trailer/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-09T10:54:19.000Z",
-   "summary": "Watch the trailer for Netflix's The Altruists, a mini-series about the rise and fall of cryptocurrency exchange FTX."
-  },
-  {
-   "id": "62d6372f03a2937a",
-   "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
-   "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T10:12:11.000Z",
-   "summary": "200 points · 112 comments"
-  },
-  {
-   "id": "a30ce45db1cbcec5",
-   "title": "Volkswagen's replacement for the ID.4 crossover is here",
-   "url": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-10-09T10:00:59.000Z",
-   "summary": "The new EV’s digital cockpit can mimic instrument displays from VWs of old."
-  },
-  {
-   "id": "bd785a481aa122ee",
-   "title": "Meta bans TikTok ads from its platforms in tit-for-tat row",
-   "url": "https://www.engadget.com/2281983/meta-bans-tiktok-ads/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-09T09:54:24.000Z",
-   "summary": "Meta has placed a complete ban on ads and marketing from TikTok's US minority owner, ByteDance."
-  },
-  {
-   "id": "1f38854686457c6b",
-   "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-   "source": "The Verge",
-   "section": "ai",
-   "publishedAt": "2026-10-09T09:48:26.000Z",
-   "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear policies on handling…"
-  },
-  {
-   "id": "1c509322edb0157c",
-   "title": "Once: Cache CLI Commands",
-   "url": "https://github.com/alex0ptr/once",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T09:43:06.000Z",
-   "summary": "39 points · 18 comments"
-  },
-  {
-   "id": "8bb58d626a96a534",
-   "title": "I'm in a Meeting",
-   "url": "https://iminafleeting.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T09:21:48.000Z",
-   "summary": "215 points · 81 comments"
-  },
-  {
-   "id": "bf5cbe0fc0218604",
-   "title": "We’re putting too much faith in AI’s ability to say no",
-   "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-   "source": "MIT Tech Review",
-   "section": "ai",
-   "publishedAt": "2026-10-09T09:00:00.000Z",
-   "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But…"
-  },
-  {
-   "id": "7639a007b84e7caa",
-   "title": "Apple Signs Hiring and Licensing Deal With AI Podcast Startup Huxe",
-   "url": "https://www.macrumors.com/2026/10/09/apple-signs-hiring-deal-ai-podcast-startup-huxe/",
-   "source": "MacRumors",
-   "section": "ai",
-   "publishedAt": "2026-10-09T08:44:22.000Z",
-   "summary": "Apple has reached an agreement to recruit employees from Huxe and license the AI audio startup's technology, according to a new European Commission filing. The filing says Apple will have the right to make employment offers to certain Huxe employees and receive a non-exclusive license to the…"
-  },
-  {
-   "id": "98d633b53ca18728",
-   "title": "SpaceX wants to become a 'major mobile carrier' with low-band spectrum acquisition",
-   "url": "https://www.engadget.com/2281967/spacex-major-mobile-carrier-low-band-spectrum-acquisition/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-09T08:30:18.000Z",
-   "summary": "SpaceX has revealed its plans to become a major mobile carrier."
-  },
-  {
-   "id": "c53b2a6d1f471662",
-   "title": "Fired OpenAI safety researchers dispute their dismissals in open letter",
-   "url": "https://www.engadget.com/2281966/fired-openai-safety-researchers-dispute-their-dismissals-in-open-letter/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-10-09T08:25:18.000Z",
-   "summary": "Three OpenAI researchers said their firings may have a 'chilling' effect on employees."
-  },
-  {
-   "id": "17e537abeee1ca19",
-   "title": "How big is a Git commit?",
-   "url": "https://ratfactor.com/cards/git-commit-size",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T08:13:44.000Z",
-   "summary": "6 points · 1 comments"
-  },
-  {
-   "id": "c92a970824af9d29",
-   "title": "Programming Isn't Special",
-   "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T07:44:36.000Z",
-   "summary": "128 points · 141 comments"
-  },
-  {
-   "id": "eaf47c1fad93190b",
-   "title": "Nix wrote half of my debugger",
-   "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T07:29:08.000Z",
-   "summary": "19 points · 1 comments"
-  },
-  {
-   "id": "7ef47efee486ec33",
-   "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
-   "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
-   "source": "The Verge",
-   "section": "ai",
-   "publishedAt": "2026-10-09T07:14:32.000Z",
-   "summary": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsoft is about to let Microsoft 365 Family and Premium subscribers share Copilot and AI usage features…"
-  },
-  {
-   "id": "c4d95f9c65a73b4c",
-   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-   "url": "https://openai.com/index/sophos",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-10-09T07:00:00.000Z",
-   "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
-  },
-  {
-   "id": "a4c4280ba8d128dd",
-   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-   "url": "https://openai.com/index/asana-browser-agent",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-10-09T07:00:00.000Z",
-   "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
-  },
-  {
-   "id": "85499a1067e09921",
-   "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-   "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T06:52:49.000Z",
-   "summary": "67 points · 8 comments"
-  },
-  {
-   "id": "fe970c007492ef33",
-   "title": "Whooping Cranes Learned to Migrate by Following Costumed Pilots",
-   "url": "https://theverifiedpost.com/article/whooping-cranes-ultralight-costumed-pilots-operation-migration",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T06:21:36.000Z",
-   "summary": "14 points · 0 comments"
   }
  ]
 }
