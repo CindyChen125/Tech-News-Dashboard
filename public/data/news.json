@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T23:54:57.760Z",
+ "updatedAt": "2026-11-08T05:52:40.854Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,114 @@
  ],
  "items": [
   {
+   "id": "28259e2c7c224bd5",
+   "title": "Kirlian Photography: Building Your Own Equipment",
+   "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-08T04:14:12.000Z",
+   "summary": "9 points · 1 comments"
+  },
+  {
+   "id": "e17f8c89d1363d68",
+   "title": "I Use Development-Driven Specs, Not Spec-Driven Development",
+   "url": "https://github.com/waywardgeek/ensemble",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-08T03:51:55.000Z",
+   "summary": "12 points · 8 comments"
+  },
+  {
+   "id": "47fab1c975a1c6e8",
+   "title": "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
+   "url": "https://github.com/AmSach/maple",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-08T03:48:04.000Z",
+   "summary": "3 points · 1 comments"
+  },
+  {
+   "id": "51524ff18223c314",
+   "title": "Goodbye Claude, Hello Pi",
+   "url": "https://caleb.software/posts/claude-to-pi.html",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-08T03:11:48.000Z",
+   "summary": "58 points · 31 comments"
+  },
+  {
+   "id": "72ad88435c674192",
+   "title": "Consumer brain wave headsets threaten privacy",
+   "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-08T02:02:38.000Z",
+   "summary": "10 points · 3 comments"
+  },
+  {
+   "id": "cf152ff42930d391",
+   "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+   "url": "https://github.com/crmne/zapfast",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-08T02:02:27.000Z",
+   "summary": "28 points · 15 comments"
+  },
+  {
+   "id": "123784e0f77942a3",
+   "title": "Syncing Apple Music across your devices is easier than you think",
+   "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-08T01:30:00.000Z",
+   "summary": "One perk of subscribing to Apple Music is having your collection synced across all your devices - and all it takes is a simple toggle. Here's how."
+  },
+  {
+   "id": "fcb185625cc27b67",
+   "title": "Samsung One UI 9.5 beta may be coming soon: Here's how to sign up for the program",
+   "url": "https://www.engadget.com/2307479/samsung-one-ui-9-5-beta-program-how-to-sign-up/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-08T01:00:00.000Z",
+   "summary": "Samsung appears to be preparing the One UI 9.5 beta program ahead of an expected 2027 launch. Here's what to do if you want to test Samsung's latest OS."
+  },
+  {
+   "id": "5d99e6f429a8375c",
+   "title": "How do spam callers get your number in the first place?",
+   "url": "https://www.engadget.com/2307324/spam-callers-how-they-get-your-number/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-08T00:45:00.000Z",
+   "summary": "Ever wonder how a total stranger ended up with your phone number? The answer starts earlier than you think, and a few small habits can keep it from spreading."
+  },
+  {
+   "id": "bb7b7db3245791e2",
+   "title": "What does Apple One Family come with and which subscription is best for you?",
+   "url": "https://www.engadget.com/2307150/apple-one-family-plan-what-comes-with-which-subscription-best/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-08T00:30:00.000Z",
+   "summary": "Apple One offers strong value if you're using a lot of Apple services anyway, but make sure you do the math before signing up."
+  },
+  {
+   "id": "9d7a2d46b657c28d",
+   "title": "10 useful iPad apps that could make your daily life easier",
+   "url": "https://www.engadget.com/2309904/useful-ipad-apps-make-daily-life-easier/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-08T00:15:00.000Z",
+   "summary": "Your iPad can do a lot with the right apps. Go beyond Apple's defaults and try these useful offerings that all have great free tiers."
+  },
+  {
+   "id": "5b243a6556ff3e7d",
+   "title": "Why you shouldn't remove the screen protector film on your Nintendo Switch 2",
+   "url": "https://www.engadget.com/2307095/why-keep-nintendo-switch-2-screen-protector/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-08T00:00:00.000Z",
+   "summary": "The Switch 2 comes with a protective film on its screen, and you may be tempted to peel it off. Here's why you shouldn't."
+  },
+  {
    "id": "c4599d6108357522",
    "title": "Why you should never put your PlayStation 5 on a carpeted floor",
    "url": "https://www.engadget.com/2306821/why-never-put-playstation-5-on-carpeted-floor/",
@@ -98,6 +206,15 @@
    "section": "tech",
    "publishedAt": "2026-11-07T23:30:00.000Z",
    "summary": "Thinking about an Amazfit smartwatch? Find out what makes these budget wearables so appealing and where they fall short before you spend your money."
+  },
+  {
+   "id": "665e9fd981a7ac93",
+   "title": "Commodore PET – The Worlds First Personal Computer",
+   "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-07T23:15:34.000Z",
+   "summary": "36 points · 14 comments"
   },
   {
    "id": "57244409bcc137ea",
@@ -7649,6 +7766,15 @@
    "section": "tech",
    "publishedAt": "2026-11-03T14:00:00.000Z",
    "summary": "Peak Design fans, rejoice. The company is now ready to show off its debut collection of smartphone chargers, cables and batteries."
+  },
+  {
+   "id": "54af0a7eead4b706",
+   "title": "Amsterdam School",
+   "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-03T13:50:19.000Z",
+   "summary": "14 points · 2 comments"
   },
   {
    "id": "6b39e5f06ae727d3",
@@ -46781,105 +46907,6 @@
    "section": "tech",
    "publishedAt": "2026-10-09T06:21:36.000Z",
    "summary": "14 points · 0 comments"
-  },
-  {
-   "id": "06a38494d87fcfa3",
-   "title": "MXC - a sandboxed code execution system",
-   "url": "https://github.com/microsoft/mxc",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T05:51:29.000Z",
-   "summary": "89 points · 48 comments"
-  },
-  {
-   "id": "3b2b61c49a173974",
-   "title": "Show HN: Quake ported to safe Rust, playable in browser",
-   "url": "https://quake-srp.pages.dev/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T05:22:58.000Z",
-   "summary": "89 points · 56 comments"
-  },
-  {
-   "id": "c6c2c01e6b535a9d",
-   "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
-   "url": "https://hangul.ink/blog/hangul-day",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T03:58:16.000Z",
-   "summary": "29 points · 5 comments"
-  },
-  {
-   "id": "9bc0280737373e55",
-   "title": "Keyboard differences between Windows and Macs",
-   "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T03:08:05.000Z",
-   "summary": "65 points · 54 comments"
-  },
-  {
-   "id": "af224e7e28bd77f2",
-   "title": "What should we tell our students?",
-   "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T02:27:45.000Z",
-   "summary": "76 points · 79 comments"
-  },
-  {
-   "id": "cce8aba12fcecf0c",
-   "title": "OLED MacBook Pro to help boost premium display shipments, per report",
-   "url": "https://9to5mac.com/2026/10/08/oled-macbook-pro-to-help-boost-premium-display-shipments-per-report/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-09T02:21:43.000Z",
-   "summary": "A new Counterpoint Research report says Apple’s next-generation MacBook Pro will help drive a 50% increase in OLED notebook display shipments in 2026 alone. Here are the details. more…"
-  },
-  {
-   "id": "df237043e0ef8b20",
-   "title": "Apple rolls out AT&T carrier update for iPhone 18 Pro Max on iOS 27.2 beta",
-   "url": "https://9to5mac.com/2026/10/08/apple-rolls-out-att-carrier-update-for-iphone-18-pro-max-on-ios-27-2-beta/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-09T02:11:17.000Z",
-   "summary": "After releasing a carrier settings update last week to address cellular issues affecting some iPhone 18 Pro Max users on AT&T, Apple is now rolling out a different carrier bundle update for devices running the iOS 27.2 beta. Here are the details. more…"
-  },
-  {
-   "id": "9c8ed7c74b8c4e31",
-   "title": "Reducing undefined behavior in the C language",
-   "url": "https://lwn.net/Articles/1095811/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T02:02:53.000Z",
-   "summary": "89 points · 52 comments"
-  },
-  {
-   "id": "c4324bcee4f5f082",
-   "title": "‘Matchbox The Movie’ starring John Cena premieres on Apple TV",
-   "url": "https://9to5mac.com/2026/10/08/matchbox-the-movie-starring-john-cena-premieres-on-apple-tv/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-09T01:00:23.000Z",
-   "summary": "Apple TV subscribers can now watch Apple TV’s “Matchbox The Movie,” the platform’s new action-packed comedy inspired by the iconic Mattel toys. Watch the trailer below. more…"
-  },
-  {
-   "id": "938a20b369989698",
-   "title": "Timestamping a Giant Record of the Web",
-   "url": "https://projecttimestamper.org/blog/common-crawl/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-09T00:29:01.000Z",
-   "summary": "31 points · 2 comments"
-  },
-  {
-   "id": "4350f47a35d58414",
-   "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-   "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-   "source": "MIT Tech Review",
-   "section": "ai",
-   "publishedAt": "2026-10-09T00:08:24.000Z",
-   "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be…"
   }
  ]
 }
