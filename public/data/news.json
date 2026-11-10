@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-10T11:42:25.034Z",
+ "updatedAt": "2026-11-10T19:39:04.730Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1373
+   "count": 1376
   },
   {
    "name": "Google DeepMind",
@@ -23,7 +23,7 @@
    "name": "Hugging Face",
    "section": "ai",
    "ok": true,
-   "count": 900
+   "count": 902
   },
   {
    "name": "MIT Tech Review",
@@ -82,6 +82,1005 @@
  ],
  "items": [
   {
+   "id": "a022e642bf2f980a",
+   "title": "The best-selling game console of all time is over 25 years old",
+   "url": "https://www.engadget.com/2307802/the-best-selling-game-console-of-all-time-is-over-25-years-old/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-10T19:30:00.000Z",
+   "summary": "Sony shipped over 160 million PlayStation 2 units over its 13-year run."
+  },
+  {
+   "id": "7b422c9e5e889384",
+   "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+   "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-10T19:23:34.000Z",
+   "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”"
+  },
+  {
+   "id": "96f19d41f22f2d38",
+   "title": "New York will independently test AI models",
+   "url": "https://www.engadget.com/2312487/new-york-will-independently-test-ai-models/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-11-10T19:19:20.000Z",
+   "summary": "The state's research center will check AI companies' work instead of taking their word."
+  },
+  {
+   "id": "22ea2c3d1fde5b17",
+   "title": "Starlink Mini 2 adds a swappable battery",
+   "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-10T19:19:12.000Z",
+   "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the dish is priced at…"
+  },
+  {
+   "id": "c16a54fe8aae8a67",
+   "title": "Apple has new Mac app coming to make running local AI models easy",
+   "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-11-10T19:15:32.000Z",
+   "summary": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple called Harbor, which makes it easy to run local AI models across one or more Macs. more…"
+  },
+  {
+   "id": "4c2b262942ea53a8",
+   "title": "The US is winning the AI race. Jensen Huang could have blown it",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-11-10T19:04:05.000Z",
+   "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool…"
+  },
+  {
+   "id": "659aac6402158fa8",
+   "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+   "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-10T19:03:52.000Z",
+   "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
+  },
+  {
+   "id": "6f37bd791cfe89f3",
+   "title": "Gemini Intelligence: New features, on more devices",
+   "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+   "source": "Google AI",
+   "section": "ai",
+   "publishedAt": "2026-11-10T19:00:00.000Z",
+   "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
+  },
+  {
+   "id": "8aaa194d25f70f12",
+   "title": "Google’s Pixel Tag tracker is now available",
+   "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-10T19:00:00.000Z",
+   "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub last year. The Pixel…"
+  },
+  {
+   "id": "3ceb27b9a0ed538a",
+   "title": "Google is making Pixel HiLight slightly more useful",
+   "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-10T19:00:00.000Z",
+   "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: as part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to the disappointing ways you could use…"
+  },
+  {
+   "id": "86323ec45fa7aa3d",
+   "title": "Google's impressive Rambler dictation tech is now available on Pixel 10 devices too",
+   "url": "https://www.engadget.com/2312136/google-november-pixel-drop-rambler-hilight-updates/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-10T19:00:00.000Z",
+   "summary": "November's Pixel Drop also brings other AI features to older Pixel phones, while the Pixel 11's HiLight feature now works with Google Messages."
+  },
+  {
+   "id": "b8241231322d3328",
+   "title": "How much did the ASUS ROG Zephyrus G14 cost in 2020 vs 2026?",
+   "url": "https://www.engadget.com/2307807/how-much-asus-rog-zephyrus-g14-cost-2020-vs-2026/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-10T19:00:00.000Z",
+   "summary": "You've adjusted for inflation, but the math isn't mathing. We can explain why you may be feeling sticker shock over the cost of a ASUS ROG Zephyrus G14."
+  },
+  {
+   "id": "37c77b9ffce889bf",
+   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+   "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-10T18:49:52.000Z",
+   "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
+  },
+  {
+   "id": "bd7d75f766186eb9",
+   "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+   "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-10T18:49:19.000Z",
+   "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag."
+  },
+  {
+   "id": "738e4c971b4bdd01",
+   "title": "One of our favorite multi-filament 3D printers is $100 off",
+   "url": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-10T18:42:03.000Z",
+   "summary": "The Bambu P2S Combo. | Image: Bambu If you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s easy to use, is discounted. It’s $649 at Best Buy, as well as directly from Bambu…"
+  },
+  {
+   "id": "249a608498da9690",
+   "title": "Starlink Mini 2",
+   "url": "https://starlink.com/mini-2",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T18:22:32.000Z",
+   "summary": "81 points · 55 comments"
+  },
+  {
+   "id": "271cd93d4b724654",
+   "title": "Apple announces Swift Student Challenge 2027 with new twist",
+   "url": "https://9to5mac.com/2026/11/10/apple-announces-swift-student-challenge-2027-with-new-twist/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-10T18:11:28.000Z",
+   "summary": "Apple has announced details for 2027’s Swift Student Challenge, and there’s a new twist this year: students can submit an app for any Apple platform. more…"
+  },
+  {
+   "id": "1223e6f131307cda",
+   "title": "Synaptics patent claims stop work on DisplayLink drivers",
+   "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T18:02:02.000Z",
+   "summary": "88 points · 43 comments"
+  },
+  {
+   "id": "dbcaa75b2aafe3df",
+   "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T18:01:15.000Z",
+   "summary": "66 points · 25 comments"
+  },
+  {
+   "id": "89fa750c197a4698",
+   "title": "ChatGPT is getting verified AI ‘Business Agents’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-11-10T18:00:00.000Z",
+   "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in…"
+  },
+  {
+   "id": "455b82abb82e2fd3",
+   "title": "Here's what to look for so you don't get scammed by a fake GPU",
+   "url": "https://www.engadget.com/2307801/fake-gpu-scam-what-to-look-for/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-10T18:00:00.000Z",
+   "summary": "From tracking number heists to missing memory dies, don't waste your precious time and money on a bogus GPU bargain."
+  },
+  {
+   "id": "956883dd2d03790b",
+   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-10T17:55:07.000Z",
+   "summary": "21 points · 10 comments"
+  },
+  {
+   "id": "0029971795ad361c",
+   "title": "An Open Field Guide to Inference Engineering",
+   "url": "https://docs.modelplane.ai/guides/inference-guide",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T17:55:07.000Z",
+   "summary": "13 points · 1 comments"
+  },
+  {
+   "id": "19d687af1f6ac742",
+   "title": "Next iPad Air Likely to Have These 10 New Features",
+   "url": "https://www.macrumors.com/2026/11/10/next-ipad-air-10-likely-new-features/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-10T17:53:26.000Z",
+   "summary": "Earlier today, it was once again reported that the next-generation iPad Air will be equipped with an OLED display, albeit with a 60Hz refresh rate. That is not all, of course, with the new iPad mini announced last month likely providing us with a preview of some other upgrades coming to the iPad…"
+  },
+  {
+   "id": "ef72d2ad3325fe8b",
+   "title": "New Apple TV 4K remote’s best feature requires a newer iPhone model",
+   "url": "https://9to5mac.com/2026/11/10/new-apple-tv-4k-remotes-best-feature-requires-a-newer-iphone-model/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-10T17:47:32.000Z",
+   "summary": "A new Apple TV 4K releases this Friday (pre-order here), with an upgraded Siri Remote. But the new remote’s best feature might not work on your iPhone. more…"
+  },
+  {
+   "id": "ef2298b8c8724bc6",
+   "title": "NVIDIA DLSS 4.5 has presets you should know about",
+   "url": "https://www.engadget.com/2307797/nvidia-dlss-4-5-presets-should-know/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-10T17:45:00.000Z",
+   "summary": "These tweaks can help you squeeze better performance and cleaner visuals from your favorite PC gaming titles on multiple types of hardware."
+  },
+  {
+   "id": "1ff17037067199e6",
+   "title": "Ableton Live 13 announced with a step sequencer, new drum synth, and more",
+   "url": "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-10T17:43:49.000Z",
+   "summary": "Today, Ableton announced Live 13, which is expected to arrive in early 2027 with a slew of new features. Most of the changes are seemingly minor on paper, but when combined, they make for the biggest update to the digital audio workstation (DAW) in years. The feature most likely to draw attention…"
+  },
+  {
+   "id": "6cce3b7821d84b0e",
+   "title": "Polestar is banned in the US, but we still want its latest concept car",
+   "url": "https://www.engadget.com/2312286/polestar-is-banned-in-the-us-but-we-still-want-its-latest-concept-car/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-10T17:38:43.000Z",
+   "summary": "The Formula 2030 has inflatable seats, a pop-up LiDAR sensor and physical buttons."
+  },
+  {
+   "id": "299b0aba2590fd0a",
+   "title": "Google turns Gemini towards medical paperwork",
+   "url": "https://www.engadget.com/2312279/google-turns-gemini-towards-medical-paperwork/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-11-10T17:35:46.000Z",
+   "summary": "Gemini for healthcare is in preview now, with some big-name partners already on board."
+  },
+  {
+   "id": "c279cf2eb7a487c6",
+   "title": "The indie game community is in disarray over AI and Big Walk",
+   "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-11-10T17:32:47.000Z",
+   "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's…"
+  },
+  {
+   "id": "e0ce7053a4a9ab37",
+   "title": "Google Fi is bringing back multiple cell network support for better coverage",
+   "url": "https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-10T17:32:39.000Z",
+   "summary": "Google Fi is launching a new \"super network\" that can automatically switch users between two different 5G networks depending on which one has better connectivity. The feature is rolling out starting today on Pixel 9 and newer phones that have Google Fi active on eSIM and have any non-Fi SIMs…"
+  },
+  {
+   "id": "513ba4f463662785",
+   "title": "Val Town is winding down",
+   "url": "https://blog.val.town/winding-down",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T17:31:14.000Z",
+   "summary": "132 points · 32 comments"
+  },
+  {
+   "id": "8ed73b8a06956e69",
+   "title": "Anthropic has its own AI-powered office suite now",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+   "source": "The Verge",
+   "section": "ai",
+   "publishedAt": "2026-11-10T17:30:00.000Z",
+   "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And…"
+  },
+  {
+   "id": "ba9b26392c417fb6",
+   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+   "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-10T17:30:00.000Z",
+   "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures."
+  },
+  {
+   "id": "f09e91756813a524",
+   "title": "Anthropic takes on Google and Microsoft with Claude Sheets",
+   "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-11-10T17:30:00.000Z",
+   "summary": "The company also has a new whiteboard app."
+  },
+  {
+   "id": "c2a87ac60dfe558a",
+   "title": "Google Fi announces super network automatic carrier switching for improved speed and reception",
+   "url": "https://www.engadget.com/2312022/google-fi-super-network-automatic-carrier-switching/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-10T17:30:00.000Z",
+   "summary": "It's rolling out first on Pixel phones before wider availability arrives in 2027."
+  },
+  {
+   "id": "c055ff387081209a",
+   "title": "Apple Announces Swift Student Challenge Ahead of WWDC 2027",
+   "url": "https://www.macrumors.com/2026/11/10/apple-2027-swift-student-challenge/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-10T17:28:19.000Z",
+   "summary": "Apple today announced the Swift Student Challenge for 2027, with submissions set to be accepted from February 8 to February 28, 2027. The Swift Student Challenge is an annual contest that gives young developers worldwide a chance to show off their creativity and app development skills by creating…"
+  },
+  {
+   "id": "0f7a097cd4da5335",
+   "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
+   "url": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-10T17:26:44.000Z",
+   "summary": "Benchmark tools for generic gaming rigs could be coming soon."
+  },
+  {
+   "id": "6f43f0339ce5876e",
+   "title": "Can you use WD-40 on your electronics?",
+   "url": "https://www.engadget.com/2307782/can-you-use-wd40-on-electronics/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-10T17:15:00.000Z",
+   "summary": "Maintaining your electronics involves cleaning them correctly. Discover if WD-40 is the right product for the job."
+  },
+  {
+   "id": "25290d8e69340359",
+   "title": "iPad Mini 2021 vs. 2026 Buyer's Guide: Is It Worth Upgrading?",
+   "url": "https://www.macrumors.com/guide/ipad-mini-2021-vs-2026/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-10T17:11:48.000Z",
+   "summary": "Apple's eighth-generation iPad mini went on sale earlier this month with a larger OLED display, a thinner and lighter design, the A20 Pro chip, and water and dust resistance. If you still use the sixth-generation ‌iPad mini‌ from 2021, the upgrade also brings changes that debuted on the 2024 model…"
+  },
+  {
+   "id": "f300ec713c42ffd4",
+   "title": "New Apple TV Sign Language Feature Announced",
+   "url": "https://www.macrumors.com/2026/11/10/apple-tv-sign-language-interpretation/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-10T17:11:11.000Z",
+   "summary": "Apple today announced a new accessibility feature for the Apple TV app that gives viewers the option to watch supported movies and shows with on-screen sign language interpretation. An interpreter will appear in the bottom-right corner of the screen, with the experience said to have been designed…"
+  },
+  {
+   "id": "f7c3d6b59a9630e1",
+   "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+   "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-10T17:04:19.000Z",
+   "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+   "id": "8d833d971d51009d",
+   "title": "Adobe and Google have teamed up to connect Drive, Gmail and Acrobat",
+   "url": "https://www.engadget.com/2312215/adobe-and-google-have-teamed-up-to-connect-drive-gmail-and-acrobat/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-10T17:02:46.000Z",
+   "summary": "Some Adobe tools will end up in Google Search's AI mode, as well."
+  },
+  {
+   "id": "9832b4069957ddea",
+   "title": "AMD's Zen 6 Family: Feeding the Beast",
+   "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T17:02:32.000Z",
+   "summary": "85 points · 29 comments"
+  },
+  {
+   "id": "489c15a18dda7c0e",
+   "title": "Satechi expands lineup of color-matched accessories for MacBook Neo",
+   "url": "https://9to5mac.com/2026/11/10/satechi-new-macbook-neo-accessories/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-10T17:00:00.000Z",
+   "summary": "Earlier this year, Satechi launched a line of Mac accessories in colors inspired by the MacBook Neo. Now, the company is back with a new expansion of that line with four new accessories: MacBook Neo OntheGo 45W GaN Charger with 60W Max $30 MacBook Neo Core USB-C to 4K HDMI Adapter $30 MacBook Neo…"
+  },
+  {
+   "id": "c06e0183e444a04e",
+   "title": "Anker's Early Black Friday Sale Surprises With Mystery Boxes and Big Discounts",
+   "url": "https://www.macrumors.com/2026/11/10/ankers-early-black-friday/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-10T16:58:43.000Z",
+   "summary": "Early Black Friday deals are in full swing at many retailers, and Anker is joining in today with an event that includes big discounts on popular accessories, plus special blind box surprises. This sale will run through November 18th, after which Anker will switch over to its official Black Friday…"
+  },
+  {
+   "id": "9728c65cfcb14841",
+   "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
+   "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-10T16:50:38.000Z",
+   "summary": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud."
+  },
+  {
+   "id": "3634b19b159c3ea3",
+   "title": "Don't throw away your old phone box — you might need it in an emergency",
+   "url": "https://www.engadget.com/2307779/dont-throw-away-your-old-phone-box/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-10T16:45:00.000Z",
+   "summary": "If you're thinking of tossing your old phone box, here are the practical reasons the packaging is worth holding onto, including what to do in an emergency."
+  },
+  {
+   "id": "b7ccd45d59dfe442",
+   "title": ".name Grandfathered",
+   "url": "https://neil.fraser.name/news/2026/11/10/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T16:37:44.000Z",
+   "summary": "388 points · 67 comments"
+  },
+  {
+   "id": "aeea79445d1caa76",
+   "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
+   "url": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T16:34:45.000Z",
+   "summary": "106 points · 47 comments"
+  },
+  {
+   "id": "a1139fe54f8dcbe4",
+   "title": "Deals: M5 MacBook Air up to $300 off, M6 Mac mini, AirPods Pro 3, HomeView, Magic Trackpad, more",
+   "url": "https://9to5mac.com/2026/11/10/deals-macbook-air-mac-mini-airpods-homeview-trackpad/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-10T16:31:02.000Z",
+   "summary": "Amazon now $150 off and these Amazon all-time lows on Apple’s Magic Trackpad in white and black. We have Twelve South’s adjustable metal Curve Mini stand for your OLED iPad mini and/or iPhone Duo down at $40, the popular Airfly Drive CarPlay wireless adapter back in-stock, and loads more accessory…"
+  },
+  {
+   "id": "58231d6dd444d8b6",
+   "title": "High oil prices have led to a dip in global carbon emissions",
+   "url": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-10T16:29:27.000Z",
+   "summary": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent."
+  },
+  {
+   "id": "5d91960ac0008086",
+   "title": "Apple Arcade Adding These Four Games in December",
+   "url": "https://www.macrumors.com/2026/11/10/apple-arcade-games-december-2026/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-10T16:26:30.000Z",
+   "summary": "Apple today announced that an additional four games will be added to the Apple Arcade catalog on Thursday, December 3: LEGO DUPLO Playtime, Plants vs. Zombies: Replanted, solitaire(ish), and Prince of Persia: The Lost Crown+. Tag: Apple Arcade This article, \"Apple Arcade Adding These Four Games in…"
+  },
+  {
+   "id": "0dd9582e89bc3f32",
+   "title": "One space station company sues another for copying its work",
+   "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-10T16:17:51.000Z",
+   "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\""
+  },
+  {
+   "id": "033d424edbb00b23",
+   "title": "Blender 5.3 released with Gaussian Splat support",
+   "url": "https://www.blender.org/download/releases/5-3/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T16:15:43.000Z",
+   "summary": "299 points · 43 comments"
+  },
+  {
+   "id": "84498826ccae1c9d",
+   "title": "What is the difference between rest mode and shutdown for your PlayStation 5?",
+   "url": "https://www.engadget.com/2307774/playstation-5-shutdown-vs-rest-mode-differences/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-10T16:15:00.000Z",
+   "summary": "Rest mode is more convenient, but shutting the console off could give you more piece of mind."
+  },
+  {
+   "id": "643cacf8ba55e9d7",
+   "title": "iPadOS 27.3 adds new iPad setting I instantly turned on",
+   "url": "https://9to5mac.com/2026/11/10/ipados-27-3-adds-new-ipad-setting-i-instantly-turned-on/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-10T16:14:54.000Z",
+   "summary": "iPadOS 27.3 is currently available in beta, and it introduces a new iPad setting for app windowing that I instantly turned on. Here are the details. more…"
+  },
+  {
+   "id": "950c4931a126cc00",
+   "title": "GTA 6 is targeting 30 fps and has ray-tracing support on PS5 Pro",
+   "url": "https://www.engadget.com/2312120/gta-6-is-targeting-30-fps-and-has-ray-tracing-support-on-ps5-pro/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-10T16:12:44.000Z",
+   "summary": "Xbox Cloud Gaming support means you'll be able to stream GTA6 on Xbox One."
+  },
+  {
+   "id": "f3eda17ceacb42a1",
+   "title": "Apple TV launches new sign language accessibility feature",
+   "url": "https://9to5mac.com/2026/11/10/apple-tv-new-sign-language-accessibility/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-10T16:06:43.000Z",
+   "summary": "Apple today launched a neat new accessibility feature for the Apple TV streaming service. Users will now have the option to watch with a sign language interpretation for some of Apple’s original movies. The feature is launching this Friday with the debut of the new film Being Heumann, as well as…"
+  },
+  {
+   "id": "e66b7789c44e65d6",
+   "title": "Disable Touch on MacBook Pro PROLED XDR and When Using Sidecar",
+   "url": "https://www.macrumors.com/how-to/disable-touch-macbook-pro-proled-xdr-sidecar/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-10T16:05:48.000Z",
+   "summary": "Apple has long rejected the idea of a touchscreen Mac, so moving ahead with one was always going to be a major shift in the company's thinking. In 2010, Steve Jobs argued that \"touch surfaces don't want to be vertical,\" citing the arm fatigue that comes from repeatedly reaching up to a screen. Some…"
+  },
+  {
+   "id": "e55418bb424c3f4d",
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source": "Google DeepMind",
+   "section": "ai",
+   "publishedAt": "2026-11-10T16:03:47.000Z",
+   "summary": ""
+  },
+  {
+   "id": "96f600e75440d6a4",
+   "title": "Apple TV introduces new Sign Language interpretation feature",
+   "url": "https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/",
+   "source": "Apple Newsroom",
+   "section": "tech",
+   "publishedAt": "2026-11-10T16:00:26.015Z",
+   "summary": "Today, Apple announced a new accessibility feature on the Apple TV app offering sign language interpretation for supported titles."
+  },
+  {
+   "id": "e41b5038fefa6d7b",
+   "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
+   "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-10T16:00:00.000Z",
+   "summary": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles."
+  },
+  {
+   "id": "d9ba6ad79ee8bafa",
+   "title": "Google's Gemini 4 Carbon is now widely available around the world",
+   "url": "https://www.engadget.com/2311855/gemini-4-carbon-now-available-worldwide/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-11-10T16:00:00.000Z",
+   "summary": "Google is rolling out Gemini 4 Carbon after a limited release to cybersecurity companies."
+  },
+  {
+   "id": "0c14b18a949ef90b",
+   "title": "Apple brings Sign Language interpretation to a selection of original Apple TV titles",
+   "url": "https://www.engadget.com/2311778/apple-sign-language-interpretation-original-apple-tv-titles/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-10T16:00:00.000Z",
+   "summary": "You'll be able to watch 'Being Heumann,' 'F1' and other original titles with sign language interpretation."
+  },
+  {
+   "id": "6dd7a66c833e6c83",
+   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+   "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-10T15:54:08.000Z",
+   "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity."
+  },
+  {
+   "id": "284a1abae94bd6d3",
+   "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+   "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-10T15:45:27.000Z",
+   "summary": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks."
+  },
+  {
+   "id": "e398bdc27c26eb23",
+   "title": "Why does your phone keep switching between Wi-Fi and mobile data?",
+   "url": "https://www.engadget.com/2307770/why-phone-switches-wifi-to-mobile-data/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-10T15:45:00.000Z",
+   "summary": "Your phone switches to mobile data to keep you connected, but it can drain your data plan. Learn what causes it and how to stop it on iPhone and Android."
+  },
+  {
+   "id": "5cfb1565fe376243",
+   "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+   "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-10T15:29:30.000Z",
+   "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch."
+  },
+  {
+   "id": "a66cbd29e929ce94",
+   "title": "Apple Arcade unveils three new games from hit franchises",
+   "url": "https://9to5mac.com/2026/11/10/apple-arcade-unveils-three-new-games-from-hit-franchises/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-10T15:25:21.000Z",
+   "summary": "Apple Arcade just added new games last week, but today another title has debuted, and several more have been announced for release soon. Here are the details. more…"
+  },
+  {
+   "id": "298505a3fa128adc",
+   "title": "Smart home devices should work without the internet",
+   "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T15:25:20.000Z",
+   "summary": "311 points · 131 comments"
+  },
+  {
+   "id": "c2ed74b53e7a061a",
+   "title": "Amazon Begins Early Black Friday Sale, Featuring Sitewide Discounts on Tech and Decor",
+   "url": "https://www.macrumors.com/2026/11/10/amazon-early-black-friday/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-10T15:14:15.000Z",
+   "summary": "Amazon has joined in on early Black Friday deals this week, with sitewide savings across TVs, headphones, Amazon devices, Apple products, and much more. Another retailer offering a major early Black Friday sale right now is Best Buy. Note: MacRumors is an affiliate partner with Amazon. When you…"
+  },
+  {
+   "id": "50cac826c8284df5",
+   "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+   "url": "https://tinyvalencia.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T15:12:16.000Z",
+   "summary": "101 points · 28 comments"
+  },
+  {
+   "id": "548158e65d29c0b4",
+   "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+   "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-11-10T15:00:39.000Z",
+   "summary": "The new model is up to twice as successful at some tasks."
+  },
+  {
+   "id": "09b4d4ab5046f390",
+   "title": "The Hardest Tarball?",
+   "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T15:00:39.000Z",
+   "summary": "127 points · 21 comments"
+  },
+  {
+   "id": "d75f51d9e18b1d27",
+   "title": "Reddit is turning user conversations into AI-powered product reviews",
+   "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-10T15:00:00.000Z",
+   "summary": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays."
+  },
+  {
+   "id": "f8b3760fc7be4cd6",
+   "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+   "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-10T15:00:00.000Z",
+   "summary": "Kunal Shah said the company wants to make voice notes, groups, stickers, and video \"simpler and more expressive.\""
+  },
+  {
+   "id": "8468888aef5f9c4e",
+   "title": "Reddit is (sort of) getting into the product reviews business",
+   "url": "https://www.engadget.com/2310918/reddit-is-sort-of-getting-into-the-product-reviews-business/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-10T15:00:00.000Z",
+   "summary": "The platform's new toolset collects and organizes user data on thousands of items."
+  },
+  {
+   "id": "466853e2756d6f90",
+   "title": "Football Manager and other hit franchises headline Apple Arcade’s holiday lineup",
+   "url": "https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/",
+   "source": "Apple Newsroom",
+   "section": "tech",
+   "publishedAt": "2026-11-10T14:59:45.256Z",
+   "summary": "Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for every kind of player on December 3."
+  },
+  {
+   "id": "48bde4670e4e1af2",
+   "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
+   "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-10T14:53:05.000Z",
+   "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor."
+  },
+  {
+   "id": "2f49153e76bba51e",
+   "title": "Apple’s new HomeView to add two major features not yet announced, per leaks",
+   "url": "https://9to5mac.com/2026/11/10/apples-new-homeview-to-add-two-major-features-not-yet-announced-per-leaks/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-10T14:52:57.000Z",
+   "summary": "Apple’s HomeView arrives this Friday (pre-order here), but leaks indicate there are already two major new features in the works that haven’t been announced. Here’s what to expect. more…"
+  },
+  {
+   "id": "22c5fa2f3c45b1e1",
+   "title": "A Chinese team made a big splash with a drone swarm world record",
+   "url": "https://www.engadget.com/2307769/116-underwater-drone-swarm-world-record-china/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-10T14:45:00.000Z",
+   "summary": "The performance of these underwater drones is much more than a gimmick. It signals serous geopolitical swagger that's turning heads across global sectors."
+  },
+  {
+   "id": "ca26ae0c05f674b3",
+   "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
+   "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-10T14:43:49.000Z",
+   "summary": "The risk appears small and data is mixed, but FDA wants patients to be aware."
+  },
+  {
+   "id": "f53a59bd08a38761",
+   "title": "The death knell of digital search",
+   "url": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T14:41:36.000Z",
+   "summary": "53 points · 62 comments"
+  },
+  {
+   "id": "a7bb33df8f1e849f",
+   "title": "Screens 5.10 adds two highly-requested remote desktop features",
+   "url": "https://9to5mac.com/2026/11/10/screens-5-10-adds-two-highly-requested-remote-desktop-features/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-10T14:33:53.000Z",
+   "summary": "Screens, the remote desktop app for iPhone, iPad, Mac, and Apple Vision Pro, is adding two highly-requested features. Version 5.10 introduces remote Mac audio and automatic desktop resizing through Apple’s High Performance Screen Sharing technology. more…"
+  },
+  {
+   "id": "dfcb194285ee1743",
+   "title": "Another report backs OLED iPad Air early next year",
+   "url": "https://9to5mac.com/2026/11/10/another-report-backs-oled-ipad-air-early-next-year/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-10T14:23:14.000Z",
+   "summary": "Following the recent update to the iPad mini, we’re expecting the iPad Air to be next in line to be upgraded to an OLED screen. Previous reports have gradually narrowed down the launch to early 2027, and a new supply chain report echoes this … more…"
+  },
+  {
+   "id": "a996250d83317dff",
+   "title": "Polestar has a new look with its Formula 2030 concept",
+   "url": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-10T14:22:02.000Z",
+   "summary": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2."
+  },
+  {
+   "id": "7eb1b709a2fbcca4",
+   "title": "Adobe unveils new AI tools for Photoshop, Premiere, and more, with MCP support coming in 2027",
+   "url": "https://9to5mac.com/2026/11/10/adobe-unveils-new-ai-tools-for-photoshop-premiere-and-more-with-mcp-support-coming-in-2027/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-11-10T14:18:40.000Z",
+   "summary": "Adobe today announced a sweeping set of updates at its annual Adobe MAX conference, focused on giving users more ways to automate complex workflows, edit content, and work across its creative apps. Here are the details. more…"
+  },
+  {
+   "id": "f3edfb8a31e1232a",
+   "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+   "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-10T14:05:10.000Z",
+   "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly."
+  },
+  {
+   "id": "9cb9806067b47ce6",
+   "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+   "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-10T14:01:39.000Z",
+   "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis."
+  },
+  {
+   "id": "c153c1744a5eb655",
+   "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+   "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+   "source": "Google AI",
+   "section": "ai",
+   "publishedAt": "2026-11-10T14:00:00.000Z",
+   "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
+  },
+  {
+   "id": "86ca9a4e18f3664d",
+   "title": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
+   "url": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-10T14:00:00.000Z",
+   "summary": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos."
+  },
+  {
+   "id": "bbf50afa5501a868",
+   "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+   "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-10T14:00:00.000Z",
+   "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents."
+  },
+  {
+   "id": "3d5c2fd018996d68",
+   "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+   "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-10T14:00:00.000Z",
+   "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs."
+  },
+  {
+   "id": "de820ec6fafcba43",
+   "title": "Ring’s wheeled and flying robots will patrol your home",
+   "url": "https://9to5mac.com/2026/11/10/rings-wheeled-and-flying-robots-will-patrol-your-home/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-10T13:58:00.000Z",
+   "summary": "Some people use a whole bunch of fixed cameras to monitor their homes, but Amazon has just announced a more flexible solution through wheeled and flying robots. Both the $250 Drone Cam and $1,000 Rover Cam can respond to alarms or door and window sensor alerts in order to go check out what’s…"
+  },
+  {
+   "id": "ddd9e7dce4c3843a",
+   "title": "OLED iPad Air Rumored to Launch in Two Sizes in Early 2027",
+   "url": "https://www.macrumors.com/2026/11/10/oled-ipad-air-rumored-to-launch-in-early-2027/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-10T13:42:52.000Z",
+   "summary": "Apple is expected to replace the LCD screens in both sizes of the iPad Air with OLED displays in the first half of 2027, according to DigiTimes. An ‌OLED‌ ‌iPad Air‌ has been rumored for over a year. Bloomberg's Mark Gurman reported in October 2025 that Apple was developing one and that it was…"
+  },
+  {
+   "id": "1fcfe4429145d739",
+   "title": "Apple Maps could soon factor in how long it takes you to park",
+   "url": "https://9to5mac.com/2026/11/10/apple-maps-could-soon-factor-in-how-long-it-takes-you-to-park/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-10T13:32:12.000Z",
+   "summary": "On some journeys in busy cities, it feels like it can take you longer to park than it does to drive there in the first place. Code spotted in iOS 27.3 suggests that Apple Maps may soon factor in parking time when it provides journey ETAs. Separately, Waze has partnered with Garmin to help improve…"
+  },
+  {
+   "id": "a4321f25fa52f514",
+   "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+   "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-10T13:30:00.000Z",
+   "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses."
+  },
+  {
+   "id": "68ecada325b5ac5e",
+   "title": "Google Cloud launches Gemini for healthcare.",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "source": "Google AI",
+   "section": "ai",
+   "publishedAt": "2026-11-10T13:00:00.000Z",
+   "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+  },
+  {
+   "id": "75627218b8d2a817",
+   "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+   "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-10T13:00:00.000Z",
+   "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide."
+  },
+  {
+   "id": "6b43ae74a2811b7e",
+   "title": "Ableton Live 13",
+   "url": "https://www.ableton.com/en/live/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T12:58:04.000Z",
+   "summary": "195 points · 233 comments"
+  },
+  {
+   "id": "cb800a1333e24460",
+   "title": "The Original iPod Went on Sale 25 Years Ago Today",
+   "url": "https://www.macrumors.com/2026/11/10/original-ipod-went-on-sale-25-years-ago/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-10T12:54:45.000Z",
+   "summary": "Apple's original iPod went on sale 25 years ago today, on November 10, 2001. The $399 music player initially worked only with a Mac, but it went on to become one of Apple's most significant products and helped the company expand beyond the computer business. Steve Jobs had unveiled the first iPod…"
+  },
+  {
+   "id": "a5a1835ec1ce8cac",
+   "title": "Google DeepMind analysis proves Signal and WhatsApp encryption is secure",
+   "url": "https://9to5mac.com/2026/11/10/google-deepmind-analysis-proves-signal-and-whatsapp-encryption-is-secure/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-11-10T12:39:23.000Z",
+   "summary": "The Signal protocol has long been considered the gold standard for end-to-end encrypted messaging, with Edward Snowden a notable advocate. Now a Google DeepMind analysis has “formally verified” the security of the protocol. In addition to its use in the Signal app, the same protocol is also used by…"
+  },
+  {
+   "id": "2cf828e55014154a",
+   "title": "What's new in the .NET 11 runtime",
+   "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T12:20:07.000Z",
+   "summary": "167 points · 118 comments"
+  },
+  {
+   "id": "f33913900e34c100",
+   "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+   "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+   "source": "Ars Technica",
+   "section": "ai",
+   "publishedAt": "2026-11-10T12:15:32.000Z",
+   "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply."
+  },
+  {
+   "id": "82f4fff29e2b934b",
+   "title": "Apple Maps Could Factor Parking Into Your Arrival Time",
+   "url": "https://www.macrumors.com/2026/11/10/apple-maps-factor-parking-into-arrival-time/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-10T12:15:18.000Z",
+   "summary": "Apple may be working on a way for Maps arrival estimates that account for parking as well as the walk to your destination, according to findings shared by code explorer pdfu. A new \"TimeToPark\" flag in the iOS 27.3 beta apparently allows the system to measure time spent near a destination before…"
+  },
+  {
+   "id": "4133c672faa896b7",
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "Google DeepMind",
+   "section": "ai",
+   "publishedAt": "2026-11-10T12:02:28.000Z",
+   "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption."
+  },
+  {
+   "id": "23b835f801cb96af",
+   "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
+   "url": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-10T12:00:21.000Z",
+   "summary": "Per usual, the basic MacBook Pro lags behind the flagships where it counts."
+  },
+  {
+   "id": "8d4e395b11ad53be",
+   "title": "Waze Now Alerts Drivers to Nearby Cyclists Using Garmin LiveTrack",
+   "url": "https://www.macrumors.com/2026/11/10/waze-alerts-drivers-nearby-cyclists-garmin/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-10T12:00:10.000Z",
+   "summary": "Waze and Garmin have announced the launch of real-time cycling alerts for drivers to help create a safer environment on the road. Going forward, when cyclists turn on Garmin LiveTrack on their Garmin Edge bike computer or Garmin smartwatch, they can choose to show up in Waze as a real-time moving…"
+  },
+  {
+   "id": "e404dac8ec41c09e",
+   "title": "Helping caregivers use AI in everyday life",
+   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-10T12:00:00.000Z",
+   "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+  },
+  {
+   "id": "17c333806f509447",
+   "title": "Instagram Effect Builder lets you create images with an AI prompt",
+   "url": "https://9to5mac.com/2026/11/10/instagram-effect-builder-lets-you-create-images-with-an-ai-prompt/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-11-10T11:56:53.000Z",
+   "summary": "Instagram launched an Edits app for iPhone back in 2025, with a Mac version introduced just a few days ago. Meta has now supplemented this with an AI-powered Instagram Effect Builder, letting users create imagery for Stories simply by describing what they want to see … more…"
+  },
+  {
    "id": "819eb1606a0858ee",
    "title": "iPhone 20 Pro: Ten Big Changes That Could Redefine Apple's Flagship",
    "url": "https://www.macrumors.com/2026/11/10/iphone-20-pro-rumors-ten-big-changes/",
@@ -89,6 +1088,15 @@
    "section": "tech",
    "publishedAt": "2026-11-10T11:39:01.000Z",
    "summary": "In 2017, Apple celebrated the iPhone's 10th birthday with the iPhone X, the biggest redesign in the product's history. For the device's 20th anniversary, all the rumors indicate that the company is preparing another landmark redesign. The commemorative \"iPhone 20\" model isn't expected until…"
+  },
+  {
+   "id": "c59626e482fb0035",
+   "title": "Apple @ Work Podcast: Osaurus wants your company’s AI to run on the Mac, not in the cloud",
+   "url": "https://9to5mac.com/2026/11/10/apple-work-podcast-osaurus-wants-your-companys-ai-to-run-on-the-mac-not-in-the-cloud/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-11-10T11:32:28.000Z",
+   "summary": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000…"
   },
   {
    "id": "f0cf86eb809ae933",
@@ -116,6 +1124,15 @@
    "section": "tech",
    "publishedAt": "2026-11-10T10:01:45.000Z",
    "summary": "With its release just nine days away, Grand Theft Auto VI is now available for preloading on Xbox Series X|S and PlayStation 5."
+  },
+  {
+   "id": "fb18e273e4ff84d4",
+   "title": "Introducing Businesses in ChatGPT",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-10T10:00:00.000Z",
+   "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
   },
   {
    "id": "9854cf3995d59082",
@@ -163,6 +1180,15 @@
    "summary": "The HoverAir Versa is a clever combination that makes a lot of sense, but don't expect the best of both worlds."
   },
   {
+   "id": "b7cda7c80de37d87",
+   "title": "M John Harrison becomes first science fiction author to win the Booker",
+   "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T07:40:52.000Z",
+   "summary": "81 points · 71 comments"
+  },
+  {
    "id": "c612c9566c2aeb45",
    "title": "Fireworks AI security breach impacts Notion and their customers",
    "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
@@ -179,6 +1205,15 @@
    "section": "ai",
    "publishedAt": "2026-11-10T07:00:00.000Z",
    "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
+  },
+  {
+   "id": "1f81bf923bcdc07b",
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "url": "https://openai.com/index/ai-effect-on-freelance-work",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-10T07:00:00.000Z",
+   "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
   },
   {
    "id": "1f610b60af52a366",
@@ -334,6 +1369,24 @@
    "summary": "While traveling through the airport, TSA may ask you to power up your phone. Border agents can conduct a more thorough search as well."
   },
   {
+   "id": "6fd06cc5bf95c1ab",
+   "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+   "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-11-10T00:00:00.000Z",
+   "summary": ""
+  },
+  {
+   "id": "e8f22730f8d6de25",
+   "title": "Decision Models in Hugging Face",
+   "url": "https://huggingface.co/blog/decision",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-11-10T00:00:00.000Z",
+   "summary": ""
+  },
+  {
    "id": "c26d0f91ede40ec4",
    "title": "What could China get from Jensen Huang?",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
@@ -449,6 +1502,15 @@
    "section": "tech",
    "publishedAt": "2026-11-09T22:31:20.000Z",
    "summary": "Popular video meeting app Webex was today updated with support for Apple's iPhone Duo. Webex works open or closed, in portrait or landscape mode, and even in a laptop or tent position. When open, the ‌iPhone Duo‌ shows more meeting participants, keeps shared content visible, and gives access to a…"
+  },
+  {
+   "id": "f2debe716ed2341a",
+   "title": "Process Explorer for macOS",
+   "url": "https://github.com/microsoft/Procexp-Mac",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-09T22:30:41.000Z",
+   "summary": "49 points · 18 comments"
   },
   {
    "id": "1cf4f2cf2e0db27a",
@@ -692,6 +1754,15 @@
    "section": "tech",
    "publishedAt": "2026-11-09T19:55:53.000Z",
    "summary": "63 points · 44 comments"
+  },
+  {
+   "id": "9b9db002d7e98500",
+   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "source": "Google DeepMind",
+   "section": "ai",
+   "publishedAt": "2026-11-09T19:51:47.000Z",
+   "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
   },
   {
    "id": "e8958268862d0fca",
@@ -1540,6 +2611,15 @@
    "summary": "On this episode of Overtime, we answer your comments on the touchscreen MacBook Pro and the iPad mini’s missing 120Hz display, then dive into the iOS 27.3 beta. Safari adopts adaptive dark mode and vertical tabs, StandBy is redesigned, and the new Health app returns. We also debate Apple Watch’s…"
   },
   {
+   "id": "76add5b73569fd64",
+   "title": "Taking another shot at the cheap IP camera, part 2",
+   "url": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-09T14:40:42.000Z",
+   "summary": "95 points · 35 comments"
+  },
+  {
    "id": "ec2101e408595d3d",
    "title": "Leaker Envisions a Shorter iPhone With a New iOS Layout",
    "url": "https://www.macrumors.com/2026/11/09/leaker-envisions-shorter-iphone/",
@@ -1790,6 +2870,15 @@
    "section": "tech",
    "publishedAt": "2026-11-09T11:00:00.000Z",
    "summary": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated…"
+  },
+  {
+   "id": "264374369b43cfba",
+   "title": "Variable-width Bézier curves (2025)",
+   "url": "https://luthert.web.illinois.edu/blog/posts/775.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-09T10:23:30.000Z",
+   "summary": "11 points · 2 comments"
   },
   {
    "id": "70b69bb380946910",
@@ -2771,6 +3860,15 @@
    "section": "ai",
    "publishedAt": "2026-11-08T12:14:10.000Z",
    "summary": "8 points · 0 comments"
+  },
+  {
+   "id": "4e763292884ea0e7",
+   "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+   "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-08T12:07:17.000Z",
+   "summary": "105 points · 65 comments"
   },
   {
    "id": "85ea7255eeff8a50",
@@ -3896,6 +4994,15 @@
    "section": "tech",
    "publishedAt": "2026-11-07T13:00:00.000Z",
    "summary": "Update: Amazon just brought back the pre-order deal on the new Apple TV 4K (4th Generation) ahead of release next week. Joining the pre-order deals on the new Apple HomeView and what could be a fleeting chance to secure the 2026 Apple Polishing Cloth at $9 Prime shipped, the early Black Friday…"
+  },
+  {
+   "id": "c3bedf90666fbef1",
+   "title": "Twelve things you could build on a live index of internet radio",
+   "url": "https://tuneping.com/notes/twelve-things-to-build-on-a-live-radio-index/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-07T12:44:29.000Z",
+   "summary": "9 points · 1 comments"
   },
   {
    "id": "e32b6d18dcbc80c1",
@@ -6308,6 +7415,15 @@
    "section": "tech",
    "publishedAt": "2026-11-05T18:23:55.000Z",
    "summary": "Bad Monkey, an Apple TV comedy from the creator of Ted Lasso and Shrinking, returns soon for a new season. Here’s the just-released trailer for Bad Monkey season 2. more…"
+  },
+  {
+   "id": "e02d038d7bce9147",
+   "title": "I deleted all my SSH keys",
+   "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-05T18:17:51.000Z",
+   "summary": "117 points · 38 comments"
   },
   {
    "id": "0c7ec0bd084d97bf",
@@ -46871,654 +47987,6 @@
    "section": "tech",
    "publishedAt": "2026-10-11T19:43:32.000Z",
    "summary": "182 points · 19 comments"
-  },
-  {
-   "id": "35544d6d9c66fd6f",
-   "title": "The Unreasonable Effectiveness of Vex in NixOS",
-   "url": "https://blog.kammel.dev/post/nixos_vex/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T19:23:07.000Z",
-   "summary": "37 points · 0 comments"
-  },
-  {
-   "id": "b2fa87ab0caf0840",
-   "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-   "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-10-11T19:00:00.000Z",
-   "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals."
-  },
-  {
-   "id": "098267f0400709c6",
-   "title": "Anbernic's next dual-screen handheld has the perfect aspect ratio for 3DS games",
-   "url": "https://www.engadget.com/2283296/anbernics-next-dual-screen-handheld-has-the-perfect-aspect-ratio-for-3ds-games/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-11T18:54:38.000Z",
-   "summary": "The RG DDS's main display has a 5:3 aspect ratio while its bottom screen will be 4:3."
-  },
-  {
-   "id": "6f41422e186e0b59",
-   "title": "The iPhone clock app has an oddity not many people know about",
-   "url": "https://www.engadget.com/2281209/iphone-clock-app-oddity-time-linear-list/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-11T18:45:00.000Z",
-   "summary": "Sure, you can set your iPhone's alarm to any time you choose. But there's a hidden limit to how far your choices will stretch, though most users won't reach it."
-  },
-  {
-   "id": "8c0389e8639525de",
-   "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-   "source": "The Verge",
-   "section": "ai",
-   "publishedAt": "2026-10-11T18:33:56.000Z",
-   "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying…"
-  },
-  {
-   "id": "42b862a6248a5861",
-   "title": "Steam Frame teardown reveals one problem with its future repairs",
-   "url": "https://www.engadget.com/2281207/steam-frame-teardown-reveals-one-problem-repairs/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-11T18:30:00.000Z",
-   "summary": "In an otherwise repairable device, the cooling fan is hard to reach."
-  },
-  {
-   "id": "72d658de606c95ae",
-   "title": "Chapter 1 of Ways of Seeing by John Berger",
-   "url": "https://www.ways-of-seeing.com/ch1",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T18:26:24.000Z",
-   "summary": "56 points · 9 comments"
-  },
-  {
-   "id": "de370c2f8aada186",
-   "title": "Review: 4-hour Musk documentary feels like two different films",
-   "url": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-10-11T18:10:54.000Z",
-   "summary": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers."
-  },
-  {
-   "id": "56c17b008f979e8e",
-   "title": "Arena Allocators in C",
-   "url": "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T18:07:56.000Z",
-   "summary": "46 points · 15 comments"
-  },
-  {
-   "id": "48aa178b2f84cecf",
-   "title": "Total Annihilation, rebuilt for modern computers",
-   "url": "https://nanolathe.gg/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T18:04:47.000Z",
-   "summary": "272 points · 111 comments"
-  },
-  {
-   "id": "fe94b0c16dbcaf50",
-   "title": "NYC's \"Click to Cancel\" rule is now in effect",
-   "url": "https://www.nyc.gov/main/click-to-cancel",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T18:01:16.000Z",
-   "summary": "269 points · 124 comments"
-  },
-  {
-   "id": "c36349bc2bd36c3f",
-   "title": "The meaning behind the padlock symbol in your PlayStation 5 game library",
-   "url": "https://www.engadget.com/2281153/playstation-5-game-library-padlock-symbol-meaning-explained/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-11T18:00:00.000Z",
-   "summary": "Digital game licenses aren't perfect, which is why you might see a padlock icon blocking you from PS5 games."
-  },
-  {
-   "id": "987ba5f2d9450167",
-   "title": "We're unlocking the biggest mysteries of the clitoris",
-   "url": "https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T17:56:13.000Z",
-   "summary": "11 points · 1 comments"
-  },
-  {
-   "id": "76b40e6e93350ea9",
-   "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-   "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-10-11T17:53:37.000Z",
-   "summary": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13."
-  },
-  {
-   "id": "a192251c6408a7c6",
-   "title": "YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T17:40:42.000Z",
-   "summary": "28 points · 14 comments"
-  },
-  {
-   "id": "79ae68f6f729b59d",
-   "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
-   "url": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-11T17:31:07.000Z",
-   "summary": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remote or a connected HomePod device. That could also let the Apple TV serve as a…"
-  },
-  {
-   "id": "6eba1d3a261d5b63",
-   "title": "Kuxiu’s D5 charger now comes in Burgundy to perfectly match your iPhone 18 Pro",
-   "url": "https://9to5mac.com/2026/10/11/kuxius-d5-charger-now-comes-in-burgundy-to-perfectly-match-your-iphone-18-pro/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-11T17:03:34.000Z",
-   "summary": "Last year, Kuxiu was the first to make chargers that perfectly match the Cosmic Orange iPhone. They released their 3-in-1 X40 turbo and their S4 Solid State battery pack. They both matched the orange color so well that it seemed as if they were 1st-party accessories. This year, the new hero color…"
-  },
-  {
-   "id": "6a10a1b53dcacee7",
-   "title": "apsw: Another Python SQLite Wrapper",
-   "url": "https://github.com/rogerbinns/apsw",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T16:58:22.000Z",
-   "summary": "15 points · 3 comments"
-  },
-  {
-   "id": "e352f0d330809fd6",
-   "title": "macOS 27 brings three key upgrades to my favorite feature",
-   "url": "https://9to5mac.com/2026/10/11/macos-27-brings-three-key-upgrades-to-iphone-mirroring/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-11T16:54:26.000Z",
-   "summary": "I use iPhone Mirroring every day to quickly access my iPhone directly from my Mac, and it’s even better this year. iOS 27 and macOS 27 Golden Gate were released last month, bringing three key updates to iPhone Mirroring. Here’s everything new. more…"
-  },
-  {
-   "id": "392814145f83b4ad",
-   "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-   "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-10-11T16:52:33.000Z",
-   "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem."
-  },
-  {
-   "id": "165eb61aa15b05cb",
-   "title": "Sound – Bartosz Ciechanowski (2022)",
-   "url": "https://ciechanow.ski/sound/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T16:46:43.000Z",
-   "summary": "42 points · 4 comments"
-  },
-  {
-   "id": "8f0af201ccf253c0",
-   "title": "Why strong magnets can hinder the iPhone's rear-facing camera",
-   "url": "https://www.engadget.com/2281130/why-strong-magnetic-hinder-iphone-rear-facing-camera/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-11T16:45:00.000Z",
-   "summary": "Magnetic accessories can be handy, but make sure they're not interfering with your camera."
-  },
-  {
-   "id": "b5c8dcef3508ddb3",
-   "title": "Playgrnd – tiny tools for making weird, beautiful things",
-   "url": "https://www.playgrnd.tools/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T16:31:37.000Z",
-   "summary": "45 points · 9 comments"
-  },
-  {
-   "id": "71747d1f720875e8",
-   "title": "Apple's smart home hub will reportedly be called HomeView",
-   "url": "https://www.engadget.com/2283275/apples-smart-home-hub-will-reportedly-be-called-homeview/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-11T16:28:47.000Z",
-   "summary": "Bloomberg reported that the HomeView device will start shipping in November."
-  },
-  {
-   "id": "d607935a3e530454",
-   "title": "Apple Home's new AI summaries for security cameras cost more than you'd think",
-   "url": "https://www.engadget.com/2281077/apple-home-ai-summaries-security-camera-prices/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-10-11T16:15:00.000Z",
-   "summary": "If you have a lot of cameras in your home, get ready to pay for more expensive iCloud+ plans."
-  },
-  {
-   "id": "46e6c1bb609dfc0c",
-   "title": "How to Build Wealth as a Career Person",
-   "url": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T16:03:58.000Z",
-   "summary": "26 points · 19 comments"
-  },
-  {
-   "id": "f5961426f1df1203",
-   "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
-   "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-10-11T16:02:00.000Z",
-   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
-  },
-  {
-   "id": "e8e65e4c9f28c286",
-   "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
-   "url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-10-11T16:00:00.000Z",
-   "summary": "Richualist is one of TechCrunch's Battlefield 200 Companies!"
-  },
-  {
-   "id": "bbfdf43e7743ec1a",
-   "title": "New Entry-Level iPad Not Expected Until Early 2027",
-   "url": "https://www.macrumors.com/2026/10/11/new-entry-level-ipad-not-expected-until-2027/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-11T15:57:06.000Z",
-   "summary": "Apple's next entry-level iPad models, codenamed J581 and J582, will not arrive until early 2027, according to Bloomberg's Mark Gurman. iPad Air refresh to add an OLED display and a new iPad Pro in 2027. The latter could gain a vapor chamber to improve thermals and performance. A new iPad mini is…"
-  },
-  {
-   "id": "9f25f7fa22d5a442",
-   "title": "Here's how long your Google Pixel phone will get software updates",
-   "url": "https://www.engadget.com/2281041/how-long-google-pixel-phone-get-software-updates/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-11T15:45:00.000Z",
-   "summary": "Your Google Pixel phone has a set lifetime of support based on when it first went on sale. After that, you have few options for using it securely."
-  },
-  {
-   "id": "b61d81b700fa36f9",
-   "title": "Apple Plans Major iPhone Duo Retail Showcase, But Supply Will Be Limited",
-   "url": "https://www.macrumors.com/2026/10/11/iphone-duo-retail-showcase/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-11T15:44:17.000Z",
-   "summary": "Apple is preparing new displays and large numbers of demo units for the iPhone Duo's October 23 launch, but supply will be limited, according to Bloomberg's Mark Gurman. Ahead of the October 23 launch, Apple plans to set aside a section of its Fifth Avenue flagship store for the ‌iPhone Duo‌. Most…"
-  },
-  {
-   "id": "080001db5997e4e3",
-   "title": "NASA dumped over 800GB of Artemis II data online",
-   "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-11T15:34:40.000Z",
-   "summary": "A crew annotated image showing where the Artemis II team observed impact flashes on the dark side of the Moon. | Image: NASA If you thought you'd seen all there is to see from the Artemis II mission, you're wrong. This week NASA posted over 800GB worth of science data, images, and videos on the…"
-  },
-  {
-   "id": "c13dffee555355f5",
-   "title": "How I reverse engineered a commercial spatial audio effect",
-   "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T15:21:58.000Z",
-   "summary": "36 points · 14 comments"
-  },
-  {
-   "id": "37a0120e074b58b7",
-   "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
-   "url": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-11T15:15:00.000Z",
-   "summary": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known films: There's Always Vanilla, which I'll admit I've never seen, and Season of the…"
-  },
-  {
-   "id": "c05afb2646b58ccf",
-   "title": "The hidden features every Waze user should know about",
-   "url": "https://www.engadget.com/2280999/waze-hidden-features-users-should-know/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-11T15:15:00.000Z",
-   "summary": "There are a load of features tucked away in Google's 'other' mapping app."
-  },
-  {
-   "id": "6b922de1bd12ed25",
-   "title": "Apple TV 4K Getting A19 Chip and a Potentially Easier-to-Find Siri Remote",
-   "url": "https://www.macrumors.com/2026/10/11/apple-tv-4k-a19-chip-easier-to-find-remote/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-11T15:08:50.000Z",
-   "summary": "Apple's new Apple TV 4K will be powered by a standard A19 chip, up from the A15 in the current 2022 model, reports Bloomberg's Mark Gurman. Writing in his Power On newsletter, Gurman also said Apple has tested a refreshed Siri Remote with a speaker to make it easier to find between couch cushions…"
-  },
-  {
-   "id": "ac59d14942395310",
-   "title": "Loop Engineering: Optimizing Code Generation and Verification",
-   "url": "https://bradleygibbs.dev/posts/loop-optimization/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T15:01:17.000Z",
-   "summary": "7 points · 3 comments"
-  },
-  {
-   "id": "ccb33db2ca8eff89",
-   "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
-   "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-10-11T15:00:00.000Z",
-   "summary": "This Battlefield 200 startup has developed blood-purification tech to save children"
-  },
-  {
-   "id": "d90ba551c326b7ba",
-   "title": "Report: HomePod mini 2 to release on October 30 with these upgrades",
-   "url": "https://9to5mac.com/2026/10/11/apple-homepod-mini-2-release-date/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-11T14:56:13.000Z",
-   "summary": "In just a couple days, Apple should be unveiling its long-awaited new lineup of new Home products. That includes an updated HomePod mini, Apple TV 4K, the brand-new smart home hub called ‘HomeView’, as well as a new lineup of smart home accessories, in collaboration with LG. Here’s what to expect…"
-  },
-  {
-   "id": "e02a7911deb77abc",
-   "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
-   "url": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-10-11T14:50:24.000Z",
-   "summary": "Also: new trailer for Godzilla Minus Zero, the sequel to Takashi Yamazaki’s kaiju epic, Godzilla Minus One"
-  },
-  {
-   "id": "6bd736bf877d5e56",
-   "title": "We're in the middle of a PS5 Pro shortage and GTA 6 will only make it worse",
-   "url": "https://www.engadget.com/2280934/playstation-5-pro-shortage-gta-6-only-make-worse/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-11T14:45:00.000Z",
-   "summary": "Rockstar's Grand Theft Auto 6 is set to become the most popular game ever and Sony is finding it very difficult to satisfy demand for the PlayStation 5 Pro."
-  },
-  {
-   "id": "17a9a7a6d44a81b2",
-   "title": "New Mac Mini and Mac Studio Receive Up to $200 Price Cuts at Amazon",
-   "url": "https://www.macrumors.com/2026/10/11/mac-mini-studio-200-off/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-11T14:44:20.000Z",
-   "summary": "Amazon has Apple's brand new Mac mini for up to $149 off this weekend, with both the M6 and M5 Pro Mac mini available on sale. You'll also find $200 off the M5 Max Mac Studio below. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may…"
-  },
-  {
-   "id": "720321726f15c081",
-   "title": "Apple HomeView Smart Hub to Ship in Mid-November in Four Colors",
-   "url": "https://www.macrumors.com/2026/10/11/apple-homeview-smart-home-hub-ship-next-month/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-11T14:40:00.000Z",
-   "summary": "Apple's all-new smart home hub, the HomeView, will ship around mid-November, roughly a month after its unveiling at Apple's \"Welcome home\" October 13 event, according to Bloomberg's Mark Gurman. HomeView concept image Writing in the latest edition of his Power On newsletter, Gurman said the…"
-  },
-  {
-   "id": "10902a8dbc503916",
-   "title": "Apple planning huge iPhone Duo demo experiences at select retail stores: report",
-   "url": "https://9to5mac.com/2026/10/11/apple-planning-huge-iphone-duo-demo-experiences-at-select-retail-stores-report/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-11T14:31:59.000Z",
-   "summary": "iPhone Duo is just about two weeks away from releasing, and according to Bloomberg’s Mark Gurman, Apple has big retail plans ahead for its first foldable iPhone, to make sure every customer gets to see it to the fullest. more…"
-  },
-  {
-   "id": "5b02f4a11eef881f",
-   "title": "I'm sorry, but you still have to think",
-   "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T14:29:07.000Z",
-   "summary": "139 points · 46 comments"
-  },
-  {
-   "id": "4b451b27d6eabeac",
-   "title": "Bloomberg: New iPad mini with OLED display will be significantly more expensive than current model",
-   "url": "https://9to5mac.com/2026/10/11/ipad-mini-oled-higher-price/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-11T14:28:57.000Z",
-   "summary": "The current iPad mini sells for $599 in its starting 128 GB configuration. Apple is set to introduce the next-generation iPad mini later this month and — while the starting storage may increase — interested buyers should start probably bracing for a price rise. Bloomberg’s Mark Gurman says he is…"
-  },
-  {
-   "id": "cb3c59caf53e4f2e",
-   "title": "Documents add to evidence in climate deception case against ExxonMobil",
-   "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T14:28:39.000Z",
-   "summary": "340 points · 176 comments"
-  },
-  {
-   "id": "31a1364bfcb04dbb",
-   "title": "Apple testing two new features for upgraded Apple TV 4K, per report",
-   "url": "https://9to5mac.com/2026/10/11/apple-testing-two-new-features-for-upgraded-apple-tv-4k-per-report/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-11T14:27:21.000Z",
-   "summary": "Apple will hold its “Welcome home” product launch on Tuesday, with the headlining announcement expected to be the new “HomeView” smart display. A new Apple TV 4K is also on the docket for this week, and Apple has tested two new features for it: microphones and an upgraded Siri Remote. 9to5Mac’s…"
-  },
-  {
-   "id": "d1bf729e4d07cf8f",
-   "title": "New Apple TV 4K and HomePod Mini to Ship on October 30",
-   "url": "https://www.macrumors.com/2026/10/11/new-apple-tv-4k-homepod-mini-ship-oct-30/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-11T14:24:03.000Z",
-   "summary": "The new upcoming Apple TV 4K with A19 chip and new HomePod mini with S10 chip will launch on Friday, October 30, according to Bloomberg's Mark Gurman. Writing in his Power On newsletter, Gurman said the devices will ship to customers and arrive in stores on that day. Welcome home\" event, which will…"
-  },
-  {
-   "id": "5d414326608e3765",
-   "title": "What to know about the landmark Warner Bros. Discovery sale",
-   "url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-10-11T14:15:00.000Z",
-   "summary": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop."
-  },
-  {
-   "id": "0cfc039242e64c53",
-   "title": "Why it's important to backup data saved on your older thumb drives",
-   "url": "https://www.engadget.com/2280904/why-its-important-to-backup-data-saved-on-older-thumb-drives/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-11T14:15:00.000Z",
-   "summary": "Transferring important files to a thumb drive is brilliant for portability, but not always great for longevity. Here's why you should back them up elsewhere."
-  },
-  {
-   "id": "f63c919d63039863",
-   "title": "Report: Apple ‘HomeView’ smart home hub will ship in November, come in four colors, A18 chip",
-   "url": "https://9to5mac.com/2026/10/11/apple-homeview-home-hub-four-colors-november/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-11T14:09:49.000Z",
-   "summary": "Bloomberg’s Mark Gurman today reported that the Apple home hub – set to be announced on October 13 as part of Apple’s ‘Welcome home’ event experience — will be called the HomeView. The brand would obviously sit alongside the company’s existing HomePod brand for smart speakers. Gurman also reported…"
-  },
-  {
-   "id": "412a1d3200b63d14",
-   "title": "AirPods Max 2 Available for $429 in All Colors on Amazon",
-   "url": "https://www.macrumors.com/2026/10/11/airpods-max-2-for-429/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-11T14:05:50.000Z",
-   "summary": "Amazon has Apple's AirPods Max 2 on sale for $429.00 this weekend, down from $549.00. This is a Prime Day sale that has stuck around all these days later, and it's available in all five colors of the AirPods Max 2: Blue, Midnight, Orange, Purple, and Starlight. Note: MacRumors is an affiliate…"
-  },
-  {
-   "id": "f8f2f357b933296a",
-   "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-   "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-10-11T14:00:00.000Z",
-   "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
-  },
-  {
-   "id": "227e33a00542539a",
-   "title": "Here's how much the PlayStation 5 cost in 2020 vs. 2026",
-   "url": "https://www.engadget.com/2280620/how-much-playstation-5-cost-2020-vs-2026/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-11T13:45:00.000Z",
-   "summary": "The PS5 hasn't seen a major price cut or bundle like its predecessors. Instead, you'll pay even more for one today than at launch."
-  },
-  {
-   "id": "39ff948440abca8c",
-   "title": "What's the difference between Android Automotive and Google Built-In?",
-   "url": "https://www.engadget.com/2280617/google-built-in-vs-android-automotive-difference-between-comparison/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-11T13:30:00.000Z",
-   "summary": "One is a set of apps while the other can run almost everything inside of a car."
-  },
-  {
-   "id": "e6ce3a3dfca5af73",
-   "title": "Terence Tao: Math 2.0 [pdf]",
-   "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T13:16:45.000Z",
-   "summary": "275 points · 329 comments"
-  },
-  {
-   "id": "2a210272cc172218",
-   "title": "What is the oldest Samsung device that still gets software updates in 2026?",
-   "url": "https://www.engadget.com/2280584/oldest-samsung-device-still-gets-software-updates-2026/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-11T13:15:00.000Z",
-   "summary": "Knowing how long your phone will get updates is important for deciding when to upgrade."
-  },
-  {
-   "id": "4d4bd4a015bb41b3",
-   "title": "Bot traffic plunged to near 0 following the strike on its Vladimir data center",
-   "url": "https://bsky.app/profile/perevaa.bsky.social/post/3mxlm6w2wcs26",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T13:00:27.000Z",
-   "summary": "3 points · 0 comments"
-  },
-  {
-   "id": "5d2f81e1cfc4daaa",
-   "title": "Vurt wants you to look at vertical videos as a genre of their own",
-   "url": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-11T13:00:00.000Z",
-   "summary": "From Disney Plus to HBO Max, almost every major established streaming service is experimenting with ways to get into vertical content. It's clear that these companies see video-focused social media platforms like TikTok and Instagram as existential threats. In this arms race for viewers' attention…"
-  },
-  {
-   "id": "9afa724b2545e142",
-   "title": "What to expect from Apple’s ‘Welcome Home’ event",
-   "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-11T13:00:00.000Z",
-   "summary": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub. We could also see the debut of a new platform called homeOS, and some partner…"
-  },
-  {
-   "id": "4dde2c1fa44c5c43",
-   "title": "Why CPU overclocking is mostly now a thing of the past",
-   "url": "https://www.engadget.com/2280537/why-overclocking-cpu-mostly-outdated/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-11T12:45:00.000Z",
-   "summary": "The performance gains you get with modern chips aren't as noteworthy as they used to be."
-  },
-  {
-   "id": "6714fc8db3492d6d",
-   "title": "How to properly clean your solar panels (and why it's important)",
-   "url": "https://www.engadget.com/2280495/how-to-properly-clean-solar-panels-why-its-important-to/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-11T12:30:00.000Z",
-   "summary": "Dirt can cut solar output, but cleaning only pays off when the numbers make sense."
-  },
-  {
-   "id": "8fa71204e71ab54f",
-   "title": "Here's how much the MacBook Pro cost in 2021 vs. 2026",
-   "url": "https://www.engadget.com/2280441/how-much-macbook-pro-cost-2021-vs-2026/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-11T12:15:00.000Z",
-   "summary": "You'll be shocked to learn things are getting a lot more expensive."
-  },
-  {
-   "id": "c5e67f05c5ace565",
-   "title": "Don't Put Tilde In Your Path",
-   "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T12:13:13.000Z",
-   "summary": "30 points · 2 comments"
-  },
-  {
-   "id": "537dc162d69749e5",
-   "title": "Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",
-   "url": "https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T12:07:22.000Z",
-   "summary": "27 points · 18 comments"
-  },
-  {
-   "id": "d08547e4e0195189",
-   "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-   "url": "https://verdagon.dev/blog/valen-group-borrowing",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T12:06:22.000Z",
-   "summary": "16 points · 3 comments"
-  },
-  {
-   "id": "628669dd3e807dff",
-   "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
-   "url": "https://betterwispr.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T12:01:28.000Z",
-   "summary": "84 points · 55 comments"
-  },
-  {
-   "id": "183b4e541e491ef0",
-   "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-   "url": "https://jobs.ashbyhq.com/weave-os",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-11T12:01:08.000Z",
-   "summary": "0 points · 0 comments"
-  },
-  {
-   "id": "de7d51cb29788944",
-   "title": "Horror is big business",
-   "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-11T12:00:00.000Z",
-   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster. The Stepback, arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Resident Evil has…"
-  },
-  {
-   "id": "228e35641c1bccfa",
-   "title": "Why the LeapPad couldn’t survive the iPad",
-   "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-11T12:00:00.000Z",
-   "summary": "For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read. It was the kind of gadget seemingly any parent could get behind, but it came with a high price - and some unexpected…"
-  },
-  {
-   "id": "eea371104a5b80df",
-   "title": "I paid people to try and follow my README",
-   "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-11T11:47:29.000Z",
-   "summary": "81 points · 51 comments"
   }
  ]
 }
