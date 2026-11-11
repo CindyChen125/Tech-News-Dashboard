@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-11T00:36:03.223Z",
+ "updatedAt": "2026-11-11T07:06:04.019Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1376
+   "count": 1380
   },
   {
    "name": "Google DeepMind",
@@ -23,7 +23,7 @@
    "name": "Hugging Face",
    "section": "ai",
    "ok": true,
-   "count": 902
+   "count": 903
   },
   {
    "name": "MIT Tech Review",
@@ -82,6 +82,159 @@
  ],
  "items": [
   {
+   "id": "06c2b6efe9e1d5a5",
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-11T07:06:04.019Z",
+   "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+  },
+  {
+   "id": "700082c54602bbb1",
+   "title": "ChatGPT Plus for veterans and servicemembers",
+   "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-11T07:06:04.019Z",
+   "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+  },
+  {
+   "id": "7b372048d9424b72",
+   "title": "Samsung Gallery now syncs with Google to back up your photos",
+   "url": "https://www.engadget.com/2313059/samsung-gallery-syncs-with-google/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-11T06:47:17.000Z",
+   "summary": "You can now sync your photos and videos on select Samsung devices to your Google account."
+  },
+  {
+   "id": "fb070ad71ce779d5",
+   "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+   "url": "https://github.com/gmkurtzer/ginux",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-11T05:25:54.000Z",
+   "summary": "38 points · 8 comments"
+  },
+  {
+   "id": "09936140454cf609",
+   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+   "url": "https://huggingface.co/blog/qvac/botpsy",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-11-11T05:01:16.000Z",
+   "summary": ""
+  },
+  {
+   "id": "28abaf3d231e3a5c",
+   "title": "Protecting SSH Keys with macOS Secure Enclave",
+   "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-11T04:28:57.000Z",
+   "summary": "93 points · 33 comments"
+  },
+  {
+   "id": "dbe386fce359d63d",
+   "title": "'Apple Support Community' Permanently Closing on November 20",
+   "url": "https://www.macrumors.com/2026/11/10/apple-support-community-closing-november-20/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-11T03:50:59.000Z",
+   "summary": "Apple today announced that the long-running Apple Support Community discussion forums will be permanently closing on Friday, November 20. Effectively immediately, the Apple Support Community forums are in a read-only state, with new posts no longer being accepted. The final message posted to the…"
+  },
+  {
+   "id": "8ea7d581c4bccd44",
+   "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+   "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-11T02:57:08.000Z",
+   "summary": "59 points · 33 comments"
+  },
+  {
+   "id": "ab74dd831e078312",
+   "title": "End of an era: Apple Support Community forums will permanently close on November 20",
+   "url": "https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-11T02:49:08.000Z",
+   "summary": "Users visiting the Apple Support Community tonight were greeted with a message informing them that the platform will permanently shut down on November 20. Here are the details. more…"
+  },
+  {
+   "id": "dd23e364ff5080ba",
+   "title": "Hooked on Tuna",
+   "url": "https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-11T02:23:25.000Z",
+   "summary": "26 points · 2 comments"
+  },
+  {
+   "id": "0f7383eaa440cf8d",
+   "title": "A great old-timey game-programming hack (2013)",
+   "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-11T01:56:31.000Z",
+   "summary": "109 points · 16 comments"
+  },
+  {
+   "id": "3d4589e93519b26c",
+   "title": "Apple Music debuts Labrinth’s new single, created live on the touchscreen MacBook Pro",
+   "url": "https://9to5mac.com/2026/11/10/apple-music-debuts-labrinths-new-single-created-live-on-the-touchscreen-macbook-pro/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-11T01:31:51.000Z",
+   "summary": "Following last week’s livestream, when Labrinth composed and recorded a song overnight at Apple Tower Theatre in Los Angeles on the new touchscreen MacBook Pro, the single is now available on Apple Music. Here are the details. more…"
+  },
+  {
+   "id": "f9adc6e70a4d1e3e",
+   "title": "X launches its own clipping feature to spur influencer engagement",
+   "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-11T01:02:13.000Z",
+   "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral."
+  },
+  {
+   "id": "8285aace14684bf7",
+   "title": "What is the average lifespan of recordable Blu-ray discs?",
+   "url": "https://www.engadget.com/2307784/average-lifespan-recordable-blu-ray-discs/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-11T01:00:00.000Z",
+   "summary": "How long they will last depends on a few factors."
+  },
+  {
+   "id": "00265a399ab77a12",
+   "title": "Apple's Holiday Gift Guide Highlights iPhone Duo and More",
+   "url": "https://www.macrumors.com/2026/11/10/apple-hoilday-gift-guide/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-11T00:57:36.000Z",
+   "summary": "Apple this week updated its homepage in the U.S. and other countries to start promoting holiday gift suggestions as the shopping season approaches. The website has colorful, festive imagery featuring Apple devices, along with suggestions on what you can buy for your loved ones and friends. Apple's…"
+  },
+  {
+   "id": "0a9ea2bb03b9a99f",
+   "title": "Three Workers Die at Tata iPhone Parts Plant in India",
+   "url": "https://www.macrumors.com/2026/11/10/india-tata-electronics-gas-incident/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-11T00:46:21.000Z",
+   "summary": "Three contract workers died on Monday at a factory owned by Indian Apple supplier Tata Electronics, reports Reuters. The facility in Hosur, Tamil Nadu, manufactures components for the iPhone. The workers were performing maintenance at a wastewater treatment plant at the Tata facility when they…"
+  },
+  {
+   "id": "96333789225a4a17",
+   "title": "LLMs Play Zachtronics' TIS-100",
+   "url": "https://tis-100.wincon.dev/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-11T00:37:05.000Z",
+   "summary": "43 points · 7 comments"
+  },
+  {
    "id": "c59b10e431c95afa",
    "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
    "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
@@ -98,6 +251,15 @@
    "section": "tech",
    "publishedAt": "2026-11-11T00:30:00.000Z",
    "summary": "A Roku isn't as sensitive to the chosen HDMI port as a game console or sound bar, but you should still choose the right one for the job."
+  },
+  {
+   "id": "288385c2cbef6bbc",
+   "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+   "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-11T00:15:33.000Z",
+   "summary": "43 points · 24 comments"
   },
   {
    "id": "9eaa8feffa322909",
@@ -1090,6 +1252,15 @@
    "summary": ""
   },
   {
+   "id": "f0852804d3a6d22a",
+   "title": "Announcing .NET 11",
+   "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T16:01:27.000Z",
+   "summary": "150 points · 210 comments"
+  },
+  {
    "id": "96f600e75440d6a4",
    "title": "Apple TV introduces new Sign Language interpretation feature",
    "url": "https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/",
@@ -1639,6 +1810,15 @@
    "summary": "The HoverAir Versa is a clever combination that makes a lot of sense, but don't expect the best of both worlds."
   },
   {
+   "id": "7404eb2749111ec4",
+   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+   "url": "https://openai.com/index/singapore-airlines-travel-work",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-10T08:00:00.000Z",
+   "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot."
+  },
+  {
    "id": "b7cda7c80de37d87",
    "title": "M John Harrison becomes first science fiction author to win the Booker",
    "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
@@ -1844,6 +2024,15 @@
    "section": "ai",
    "publishedAt": "2026-11-10T00:00:00.000Z",
    "summary": ""
+  },
+  {
+   "id": "f0a7c8b59c2632ed",
+   "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+   "url": "https://openai.com/index/cogent-security",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-10T00:00:00.000Z",
+   "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents."
   },
   {
    "id": "c26d0f91ede40ec4",
@@ -2935,6 +3124,15 @@
    "summary": "The new MacBook Pro models with PROLED XDR displays began arriving to customers on Friday, and various details about the laptops continue to surface. Given these models are available with the same M5 Pro and M5 Max chips that power the models with mini-LED displays, performance was expected to be…"
   },
   {
+   "id": "ac6e731005de3f70",
+   "title": "Why I wrote the BEAM book (2025)",
+   "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-09T15:41:35.000Z",
+   "summary": "42 points · 3 comments"
+  },
+  {
    "id": "6ef394a7447a705c",
    "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
    "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
@@ -3428,6 +3626,15 @@
    "section": "tech",
    "publishedAt": "2026-11-09T03:15:17.000Z",
    "summary": "27 points · 0 comments"
+  },
+  {
+   "id": "53e1a82ed8710105",
+   "title": "Unremarkable things we made in 2026",
+   "url": "https://www.neilchen.co/blog/things2026",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-09T03:12:52.000Z",
+   "summary": "26 points · 0 comments"
   },
   {
    "id": "0b06d07c99287f5e",
@@ -4085,6 +4292,15 @@
    "section": "tech",
    "publishedAt": "2026-11-08T16:45:00.000Z",
    "summary": "The first iPhone launched at $499 in 2007. See how that price compares to today's models once inflation, storage and features are factored in."
+  },
+  {
+   "id": "4d577edb11c74beb",
+   "title": "A Compendium of Abandoned Greenhouses",
+   "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-08T16:30:04.000Z",
+   "summary": "11 points · 1 comments"
   },
   {
    "id": "10701a5d80d0ef01",
@@ -48077,96 +48293,6 @@
    "section": "tech",
    "publishedAt": "2026-10-12T07:28:53.000Z",
    "summary": "123 points · 54 comments"
-  },
-  {
-   "id": "a04b02530723bd9c",
-   "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-   "url": "https://github.com/snuri00/ps2-web-recomp",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-12T06:46:53.000Z",
-   "summary": "9 points · 0 comments"
-  },
-  {
-   "id": "9d9d6b50a372239c",
-   "title": "Postgres isn't slow, your storage is",
-   "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-12T06:36:53.000Z",
-   "summary": "57 points · 31 comments"
-  },
-  {
-   "id": "f5afeb65983a403d",
-   "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-   "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-12T05:03:47.000Z",
-   "summary": "50 points · 9 comments"
-  },
-  {
-   "id": "ed1d1ddd9cbbac2b",
-   "title": "Type-safe HTML templating in Zig",
-   "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-12T05:02:34.000Z",
-   "summary": "105 points · 45 comments"
-  },
-  {
-   "id": "0feb3922c1f53205",
-   "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-   "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-12T04:54:00.000Z",
-   "summary": "137 points · 140 comments"
-  },
-  {
-   "id": "3aa8305f7f09cd6b",
-   "title": "Crest – an Arc-inspired open-source browser for Mac",
-   "url": "https://crestbrowser.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-12T03:37:09.000Z",
-   "summary": "16 points · 13 comments"
-  },
-  {
-   "id": "f3bffd13949c1e8d",
-   "title": "New Apple TV 4K and HomePod Mini 2 Pre-Orders Expected to Begin This Week",
-   "url": "https://www.macrumors.com/2026/10/11/new-apple-tv-homepod-mini-2-preorders/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-12T03:17:03.000Z",
-   "summary": "Bloomberg's Mark Gurman today reported that new Apple TV 4K and HomePod mini models will be unveiled on Tuesday, October 13 and launch on Friday, October 30. video, Gurman said he was told that both devices should be available to pre-order starting this week. Related Roundups: Apple TV, HomePod…"
-  },
-  {
-   "id": "ab55105808592eea",
-   "title": "Do dentists know what they're doing?",
-   "url": "https://mapwriting.substack.com/p/dentists",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-12T02:21:54.000Z",
-   "summary": "111 points · 92 comments"
-  },
-  {
-   "id": "cfe12008948559a0",
-   "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-   "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-10-12T00:59:01.000Z",
-   "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that."
-  },
-  {
-   "id": "4b0722d6a2f21176",
-   "title": "Doory – Open-Source Canva",
-   "url": "https://github.com/shaongitbd/doory",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-12T00:48:27.000Z",
-   "summary": "107 points · 37 comments"
   }
  ]
 }
