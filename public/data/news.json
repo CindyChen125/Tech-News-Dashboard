@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T01:00:18.569Z",
+ "updatedAt": "2026-11-13T07:51:04.460Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,87 @@
   }
  ],
  "items": [
+  {
+   "id": "e319d2ff8edcf41a",
+   "title": "Global Microsoft Outage",
+   "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-13T06:18:23.000Z",
+   "summary": "27 points · 0 comments"
+  },
+  {
+   "id": "175a9f9e6e3ff92b",
+   "title": "Scientists claim the universe is twice as old as believed",
+   "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-13T05:13:30.000Z",
+   "summary": "54 points · 46 comments"
+  },
+  {
+   "id": "4e2dc7779055a3ad",
+   "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+   "url": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-13T05:10:27.000Z",
+   "summary": "41 points · 33 comments"
+  },
+  {
+   "id": "16f483e7a24d424f",
+   "title": "Microsoft Outlook/365 still down after 12 hours",
+   "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-13T05:08:23.000Z",
+   "summary": "58 points · 18 comments"
+  },
+  {
+   "id": "8fe49cbc6ca151b5",
+   "title": "IceWM",
+   "url": "https://ice-wm.org/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-13T04:54:53.000Z",
+   "summary": "102 points · 54 comments"
+  },
+  {
+   "id": "321f92d50eeae1d6",
+   "title": "Switcher (2004)",
+   "url": "https://folklore.org/Switcher.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-13T03:14:59.000Z",
+   "summary": "86 points · 22 comments"
+  },
+  {
+   "id": "15e07be6bdc898f7",
+   "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+   "url": "https://brave.com/blog/search-api-agentic-payments/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-13T03:08:08.000Z",
+   "summary": "74 points · 33 comments"
+  },
+  {
+   "id": "21999bd1fca6737a",
+   "title": "Nvidia employees petition to bring back Jensen Huang",
+   "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-13T02:16:24.000Z",
+   "summary": "475 points · 343 comments"
+  },
+  {
+   "id": "ce47ef8e8a2487f1",
+   "title": "Apple TV just debuted three new originals, including a heist thriller series",
+   "url": "https://9to5mac.com/2026/11/12/apple-tv-just-debuted-three-new-originals-including-a-heist-thriller-series/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-13T02:02:34.000Z",
+   "summary": "Apple TV subscribers can now watch three new originals, including a heist thriller series, a film based on true events, and the first of two holiday specials coming to the platform this season. Watch the trailers below. more…"
+  },
   {
    "id": "bc6f7dd938b60989",
    "title": "Donald Trump really wants Tim Cook to run Nvidia",
@@ -253,6 +334,15 @@
    "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday that Huang and the…"
   },
   {
+   "id": "f04341d95d564c29",
+   "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
+   "url": "https://github.com/KoljaB/RealtimeVAD",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-12T21:30:57.000Z",
+   "summary": "20 points · 2 comments"
+  },
+  {
    "id": "16d6d410f70942c3",
    "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
    "url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
@@ -386,6 +476,15 @@
    "section": "tech",
    "publishedAt": "2026-11-12T19:59:59.000Z",
    "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time."
+  },
+  {
+   "id": "21b5e36d2df312fe",
+   "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+   "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-12T19:51:33.000Z",
+   "summary": "233 points · 248 comments"
   },
   {
    "id": "2b07432dfedc48f5",
@@ -1610,6 +1709,15 @@
    "section": "tech",
    "publishedAt": "2026-11-11T23:10:17.000Z",
    "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future."
+  },
+  {
+   "id": "7a5697150053afdc",
+   "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+   "url": "https://github.com/jjba23/sift",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-11T23:09:27.000Z",
+   "summary": "48 points · 6 comments"
   },
   {
    "id": "8d8815afb017bf6b",
@@ -47429,150 +47537,6 @@
    "section": "tech",
    "publishedAt": "2026-10-14T08:27:59.000Z",
    "summary": "102 points · 35 comments"
-  },
-  {
-   "id": "18f595c4eb5d7cd6",
-   "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
-   "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-14T07:21:12.000Z",
-   "summary": "20 points · 1 comments"
-  },
-  {
-   "id": "6458714b5736bcab",
-   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-   "url": "https://openai.com/index/third-moment-research",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-10-14T07:00:00.000Z",
-   "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
-  },
-  {
-   "id": "64626446ba4f10bd",
-   "title": "How Block is building AI-powered security with OpenAI technology",
-   "url": "https://openai.com/index/block-ai-powered-security",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-10-14T07:00:00.000Z",
-   "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
-  },
-  {
-   "id": "071df7d2173e99c5",
-   "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-   "url": "https://github.com/android/ndk/issues/2260",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-14T06:18:01.000Z",
-   "summary": "269 points · 120 comments"
-  },
-  {
-   "id": "59ef71d78177a01b",
-   "title": "Why is every rationalist blog post way too long?",
-   "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-14T06:02:16.000Z",
-   "summary": "198 points · 147 comments"
-  },
-  {
-   "id": "0aa9dab0002d91b7",
-   "title": "The 8-mile hole in a Hawaii national park that no one can explain",
-   "url": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-14T05:08:09.000Z",
-   "summary": "28 points · 18 comments"
-  },
-  {
-   "id": "91933d8d603ceca3",
-   "title": "MS Paint Adds Freeform Rotation (2026)",
-   "url": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-14T04:55:40.000Z",
-   "summary": "10 points · 4 comments"
-  },
-  {
-   "id": "60e62dc73b977be3",
-   "title": "Felix Rieseberg Homepage",
-   "url": "https://felixrieseberg.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-14T04:42:33.000Z",
-   "summary": "10 points · 2 comments"
-  },
-  {
-   "id": "b06f74bf613bd744",
-   "title": "A Tudor Life in the Time of Plague",
-   "url": "https://www.historytoday.com/archive/history-matters/tudor-life-time-plague",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-14T04:23:25.000Z",
-   "summary": "17 points · 0 comments"
-  },
-  {
-   "id": "c48090f0e4c2d9b3",
-   "title": "New York City's iconic horse-drawn carriages expected to take their last trot",
-   "url": "https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-14T03:41:42.000Z",
-   "summary": "34 points · 17 comments"
-  },
-  {
-   "id": "1762d35c2df00d7d",
-   "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
-   "url": "https://strafe.chat/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-14T03:28:00.000Z",
-   "summary": "29 points · 12 comments"
-  },
-  {
-   "id": "e145f3e2b779ce8f",
-   "title": "Is 'Attention' the Essence of Intelligence?",
-   "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-14T03:10:25.000Z",
-   "summary": "35 points · 12 comments"
-  },
-  {
-   "id": "4211cf8b52e6a120",
-   "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-   "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-   "source": "Google DeepMind",
-   "section": "ai",
-   "publishedAt": "2026-10-14T02:00:14.000Z",
-   "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
-  },
-  {
-   "id": "094ef3809d9f59fc",
-   "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-   "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-10-14T01:30:42.000Z",
-   "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang."
-  },
-  {
-   "id": "07d5887a46cf07f0",
-   "title": "I built a tool to track what AI leaders say and how their views change on video",
-   "url": "https://blumify.io/people",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-14T01:09:13.000Z",
-   "summary": "57 points · 30 comments"
-  },
-  {
-   "id": "3ad9815416b9b672",
-   "title": "Do Frameworks Matter Anymore?",
-   "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-14T01:01:08.000Z",
-   "summary": "21 points · 7 comments"
   }
  ]
 }
