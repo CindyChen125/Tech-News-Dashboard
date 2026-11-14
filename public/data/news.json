@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T02:39:48.546Z",
+ "updatedAt": "2026-11-14T10:11:54.598Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,60 @@
  ],
  "items": [
   {
+   "id": "2c905a0f8093620e",
+   "title": "Outage at HR platform Workday locks millions of employees out of their account",
+   "url": "https://www.engadget.com/2316804/workday-outage-locks-millions-employees-out-of-account/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-14T08:54:55.000Z",
+   "summary": "Workday outage leaves employees of thousands of businesses unable to access workplace tasks."
+  },
+  {
+   "id": "eb3cea87b2421d8a",
+   "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+   "url": "https://news.ycombinator.com/item?id=50494696",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-14T06:56:42.000Z",
+   "summary": "21 points · 24 comments"
+  },
+  {
+   "id": "bef992810f8adec0",
+   "title": "FAA allows flights to resume after hours-long ground stop across the US",
+   "url": "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-14T06:35:40.000Z",
+   "summary": "The FAA grounded flights for hours on November 13, and the transportation secretary blamed it on old and malfunctioning air traffic control system."
+  },
+  {
+   "id": "6a1e89d81ca8a0ad",
+   "title": "Monkey Island: all 13 versions side by side",
+   "url": "https://monkeyisland.pages.dev/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-14T04:23:30.000Z",
+   "summary": "107 points · 18 comments"
+  },
+  {
+   "id": "ceff632aeaf0c045",
+   "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+   "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-14T02:52:59.000Z",
+   "summary": "574 points · 331 comments"
+  },
+  {
+   "id": "9d387dd0f20e67c6",
+   "title": "Ggml v1.0.0",
+   "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-14T02:28:29.000Z",
+   "summary": "263 points · 42 comments"
+  },
+  {
    "id": "eb44f3479cbe6b78",
    "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
@@ -89,6 +143,15 @@
    "section": "tech",
    "publishedAt": "2026-11-14T02:21:36.000Z",
    "summary": "7 points · 1 comments"
+  },
+  {
+   "id": "9f5eda764eb86845",
+   "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+   "url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-14T02:15:41.000Z",
+   "summary": "101 points · 11 comments"
   },
   {
    "id": "753a5784a0ed7eed",
@@ -3016,6 +3079,15 @@
    "summary": "27 points · 6 comments"
   },
   {
+   "id": "0b3a6b97ca7e08eb",
+   "title": "The Other Nefertiti (2015)",
+   "url": "https://alloversky.com/puzzlepieces/the-other-nefertiti",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-12T04:08:33.000Z",
+   "summary": "19 points · 1 comments"
+  },
+  {
    "id": "3014977dadd650ef",
    "title": "9to5Mac Daily: November 11, 2026 – New Apple TV feature, more",
    "url": "https://9to5mac.com/2026/11/11/daily-november-11-2026/",
@@ -4411,6 +4483,15 @@
    "summary": "Apple this week updated its homepage in the U.S. and other countries to start promoting holiday gift suggestions as the shopping season approaches. The website has colorful, festive imagery featuring Apple devices, along with suggestions on what you can buy for your loved ones and friends. Apple's…"
   },
   {
+   "id": "ff7002e9b25df610",
+   "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+   "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-11T00:48:14.000Z",
+   "summary": "14 points · 3 comments"
+  },
+  {
    "id": "0a9ea2bb03b9a99f",
    "title": "Three Workers Die at Tata iPhone Parts Plant in India",
    "url": "https://www.macrumors.com/2026/11/10/india-tata-electronics-gas-incident/",
@@ -4931,6 +5012,15 @@
    "section": "ai",
    "publishedAt": "2026-11-10T19:15:32.000Z",
    "summary": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple called Harbor, which makes it easy to run local AI models across one or more Macs. more…"
+  },
+  {
+   "id": "fd72092ca21c134f",
+   "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+   "url": "https://github.com/0xdeadf1sh/T1DMAI",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T19:07:53.000Z",
+   "summary": "34 points · 10 comments"
   },
   {
    "id": "4c2b262942ea53a8",
@@ -5714,6 +5804,15 @@
    "section": "ai",
    "publishedAt": "2026-11-10T14:18:40.000Z",
    "summary": "Adobe today announced a sweeping set of updates at its annual Adobe MAX conference, focused on giving users more ways to automate complex workflows, edit content, and work across its creative apps. Here are the details. more…"
+  },
+  {
+   "id": "94c052c3d6ce34c3",
+   "title": "Why get an expensive Pi when I have an old phone?",
+   "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-10T14:16:05.000Z",
+   "summary": "39 points · 23 comments"
   },
   {
    "id": "f3edfb8a31e1232a",
@@ -46826,123 +46925,6 @@
    "section": "tech",
    "publishedAt": "2026-10-15T10:24:16.000Z",
    "summary": "25 points · 3 comments"
-  },
-  {
-   "id": "9c908380d56c9081",
-   "title": "YouTube is reportedly gearing up to offer audiobooks",
-   "url": "https://www.engadget.com/2287331/youtube-audiobook-offering-rumor/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-15T10:07:37.000Z",
-   "summary": "YouTube is already talking to publishers about offering audiobooks on its platform, The Wall Street Journal says."
-  },
-  {
-   "id": "1f354c2b20b659cd",
-   "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
-   "url": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-15T10:05:07.000Z",
-   "summary": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided not to release Big Walk on Xbox consoles in…"
-  },
-  {
-   "id": "5a452f1e09b8f5b7",
-   "title": "Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware",
-   "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-10-15T10:00:00.000Z",
-   "summary": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads."
-  },
-  {
-   "id": "f2c18060258b93f9",
-   "title": "Apertus 1.5 Release Notes",
-   "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-   "source": "Hugging Face",
-   "section": "ai",
-   "publishedAt": "2026-10-15T09:08:45.000Z",
-   "summary": ""
-  },
-  {
-   "id": "25fcbc507ba78789",
-   "title": "Furifont, a Japanese font that shows furigana",
-   "url": "https://furifont.antfu.me/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-15T08:48:30.000Z",
-   "summary": "115 points · 21 comments"
-  },
-  {
-   "id": "6922ff30d5bfb0c9",
-   "title": "Opera Air gets a minimalist makeover with a focus on distraction-free browsing",
-   "url": "https://9to5mac.com/2026/10/15/opera-air-gets-a-minimalist-makeover-with-a-focus-on-distraction-free-browsing/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-15T08:00:00.000Z",
-   "summary": "Opera is relaunching its Opera Air browser today with a redesign that is both conceptual and practical for a more focused browsing experience. Here’s what that means. more…"
-  },
-  {
-   "id": "c80b5df2ee0fe28e",
-   "title": "What changes when your search index lives on S3?",
-   "url": "https://infino.ai/blog/search-index-on-s3/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-15T07:55:34.000Z",
-   "summary": "6 points · 1 comments"
-  },
-  {
-   "id": "a3ebaf8a17a2c685",
-   "title": "We Still Use Paper",
-   "url": "https://humanpro.co/articles/we-still-use-paper/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-15T07:27:55.000Z",
-   "summary": "37 points · 57 comments"
-  },
-  {
-   "id": "e344b622c54793e1",
-   "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-   "url": "https://github.com/awslabs/aidlc-workflows",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-15T07:20:39.000Z",
-   "summary": "15 points · 14 comments"
-  },
-  {
-   "id": "095ab12dc46c647b",
-   "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-   "url": "https://github.com/antirez/c64-hw-simulator",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-15T07:18:14.000Z",
-   "summary": "45 points · 7 comments"
-  },
-  {
-   "id": "6ad3eb7343810671",
-   "title": "Figma announces new features to define how agents work on its platform",
-   "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-10-15T04:30:00.000Z",
-   "summary": "Figma is also releasing its code layers feature in open beta."
-  },
-  {
-   "id": "89cd5bccd3c255ea",
-   "title": "Show HN: Flipflop, iroh-powered persistent tunnels for filesharing",
-   "url": "https://github.com/andunieee/flipflop",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-15T04:25:28.000Z",
-   "summary": "24 points · 7 comments"
-  },
-  {
-   "id": "b69dfdbfe7b33106",
-   "title": "An Apology",
-   "url": "https://www.elevationlab.com/blogs/news/an-apology",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-15T04:23:27.000Z",
-   "summary": "63 points · 92 comments"
   }
  ]
 }
