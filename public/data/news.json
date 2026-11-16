@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-16T07:53:46.510Z",
+ "updatedAt": "2026-11-16T18:23:05.482Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1389
+   "count": 1397
   },
   {
    "name": "Google DeepMind",
@@ -23,7 +23,7 @@
    "name": "Hugging Face",
    "section": "ai",
    "ok": true,
-   "count": 907
+   "count": 908
   },
   {
    "name": "MIT Tech Review",
@@ -82,6 +82,960 @@
  ],
  "items": [
   {
+   "id": "6ce7eab3ad97ebac",
+   "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
+   "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-16T18:21:14.000Z",
+   "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory."
+  },
+  {
+   "id": "6107717914b573b7",
+   "title": "Apple․com now available in Spanish for US users",
+   "url": "https://9to5mac.com/2026/11/16/apple-website-now-available-in-spanish-for-us-users/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-16T18:21:12.000Z",
+   "summary": "Apple is making a notable change to Apple․com. Starting today, users in the United States can now browse the Apple website in Spanish. more…"
+  },
+  {
+   "id": "b6f422cc4ae1838b",
+   "title": "Apple Adds Facial Unlock Option on iPhone Duo in iOS 27.3",
+   "url": "https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-16T18:17:25.000Z",
+   "summary": "Apple today added a new option for unlocking the iPhone Duo using the front-facing camera, giving device users multiple ways to access their content. The feature is available in the second iOS 27.3 beta. The option to unlock with facial recognition is only available on the Lock Screen, and…"
+  },
+  {
+   "id": "77f2f0bcc0351b8d",
+   "title": "Software is breaking down at a systemic level",
+   "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T18:17:17.000Z",
+   "summary": "4 points · 0 comments"
+  },
+  {
+   "id": "def2cac4e58dbbf9",
+   "title": "You won't find Nothing phones at US carriers, but here's how you can still buy them",
+   "url": "https://www.engadget.com/2314632/nothing-phones-not-available-us-carriers-how-still-buy/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-16T18:15:00.000Z",
+   "summary": "While you can't get one at an AT&T or Verizon store, Nothing has partnered with Best Buy."
+  },
+  {
+   "id": "0f18f8db938ff3f6",
+   "title": "iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades",
+   "url": "https://www.macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-11-16T18:14:17.000Z",
+   "summary": "With the latest iOS 27.3, iPadOS 27.3, and macOS 27.3 betas, Apple is starting to test limits and paid upgrades for Siri AI and Apple Intelligence features. Every Apple device gets a free daily access allowance for ‌Siri‌ AI and ‌Apple Intelligence‌ features that rely on cloud-based AI processing…"
+  },
+  {
+   "id": "bf641eb2dfe2b03b",
+   "title": "iOS 27.3 adds new face unlock feature for iPhone Duo",
+   "url": "https://9to5mac.com/2026/11/16/ios-27-3-adds-new-face-unlock-feature-for-iphone-duo/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-16T18:13:54.000Z",
+   "summary": "In today’s iOS 27.3 beta release, Apple is introducing two changes for iPhone Duo users. Most notably, there’s a new face recognition option to easily unlock your iPhone Duo by looking at it. Apple is also adding an option to have your iPhone Duo lock when you close it. more…"
+  },
+  {
+   "id": "6d54f0b750baf1f0",
+   "title": "macOS 27.3 includes new privacy controls for Full Disk Access and more",
+   "url": "https://9to5mac.com/2026/11/16/macos-27-3-includes-new-privacy-controls-for-full-disk-access-and-more/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-16T18:12:27.000Z",
+   "summary": "Last month, Apple announced its plans to tighten macOS privacy controls around Full Disk Access amid the rise of “increasingly capable and autonomous” AI agents. With today’s new macOS 27.3 beta, Apple is implementing several changes as part of this. more…"
+  },
+  {
+   "id": "275ea39009da683f",
+   "title": "Apple reveals how iCloud+ increases Siri AI and Apple Intelligence usage limits",
+   "url": "https://9to5mac.com/2026/11/16/apple-intelligence-siri-ai-usage-limits/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-11-16T18:12:09.000Z",
+   "summary": "iOS 27.3 beta 2 is now available, and Apple is adding the ability for users to unlock higher usage limits for Apple Intelligence and Siri AI via iCloud+. Here’s everything you need to know. more…"
+  },
+  {
+   "id": "caa0de1d7e7708d4",
+   "title": "Apple releases beta 2 for iPadOS 27.3, watchOS 27.3, and more",
+   "url": "https://9to5mac.com/2026/11/16/apple-releases-beta-2-for-ipados-27-3-watchos-27-3-and-more/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-16T18:11:30.000Z",
+   "summary": "Apple has just released beta 2 for iPadOS 27.3, watchOS 27.3, visionOS 27.3, and more. It’s available for developers, but a public beta will likely follow in the next couple days. more…"
+  },
+  {
+   "id": "fc78632872ba7ed4",
+   "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+   "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-16T18:11:10.000Z",
+   "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm."
+  },
+  {
+   "id": "b21a4265c6e08098",
+   "title": "iOS 27.3 Beta 2 Now Available for Developers",
+   "url": "https://www.macrumors.com/2026/11/16/apple-releases-ios-27-3-beta-2/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-16T18:08:00.000Z",
+   "summary": "Apple today seeded the second betas of upcoming iOS 27.3 and iPadOS 27.3 updates to developers, with the software coming two weeks after the first betas were released. Registered developers can download the betas by going to Settings > General > Software Update and opting in to the developer beta…"
+  },
+  {
+   "id": "0ba91eb68bbf364a",
+   "title": "Apple releases iOS 27.3 beta 2 for iPhone",
+   "url": "https://9to5mac.com/2026/11/16/apple-releases-ios-27-3-beta-2-for-iphone/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-16T18:07:38.000Z",
+   "summary": "Apple has released the second iOS 27.3 developer beta for iPhone. The upcoming software update includes the redesigned Health app, new Safari features, expanded Siri AI capabilities, and more. more…"
+  },
+  {
+   "id": "6c8087df5edbc9e4",
+   "title": "Apple Launches Spanish Version of Its U.S. Website",
+   "url": "https://www.macrumors.com/2026/11/16/apple-spanish-us-website/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-16T18:07:35.000Z",
+   "summary": "Starting today, Apple is making its U.S. website available in Spanish. Customers who have Spanish set as their language will be able to browse apple.com/us-es by default, and anyone will be able to choose Spanish from the country and language selector at the bottom of the website. While most of the…"
+  },
+  {
+   "id": "c4b0204e7bb42dcb",
+   "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
+   "url": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T17:52:23.000Z",
+   "summary": "5 points · 0 comments"
+  },
+  {
+   "id": "fc4228fd8cfdf821",
+   "title": "Some OLED MacBook Pro Owners Report Eye Strain and Dizziness",
+   "url": "https://www.macrumors.com/2026/11/16/oled-macbook-pro-owners-report-eye-strain/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-16T17:51:33.000Z",
+   "summary": "Some owners of Apple's new MacBook Pro with PROLED XDR display say they experience eye strain, headaches, and dizziness when using the laptop, with affected users pointing to the screen's brightness-control system as a possible explanation. A significant number of complaints have appeared on…"
+  },
+  {
+   "id": "aef02d8ece828389",
+   "title": "Show HN: Claimseed, synthetic Medicare docs with planted errors and answer keys",
+   "url": "https://github.com/claimseed/claimseed",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T17:51:18.000Z",
+   "summary": "5 points · 0 comments"
+  },
+  {
+   "id": "9334616dee2585b3",
+   "title": "GTA 6 hacker pleads guilty to stealing and leaking gameplay footage",
+   "url": "https://www.engadget.com/2318001/gta-6-hacker-pleads-guilty-to-stealing-and-leaking-gameplay-footage/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-16T17:50:38.000Z",
+   "summary": "Arion Kurtaj was deemed fit to stand trial earlier this year after breaching Rockstar's systems in 2022"
+  },
+  {
+   "id": "ab37665fb0bedb06",
+   "title": "Why scammers try to keep you on the phone (and how to spot their tactics)",
+   "url": "https://www.engadget.com/2314524/why-scammers-keep-you-on-phone/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-16T17:45:00.000Z",
+   "summary": "That helpful voice on the other end of the line might sound friendly, but they often have a script, fake credentials and no intention of letting you hang up."
+  },
+  {
+   "id": "f2434d0d3e01aff7",
+   "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-16T17:36:43.000Z",
+   "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
+  },
+  {
+   "id": "84f8bc90ec101dc4",
+   "title": "Aristotle Expands into Rust",
+   "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T17:34:41.000Z",
+   "summary": "12 points · 2 comments"
+  },
+  {
+   "id": "032c6b0fce6d7547",
+   "title": "Grazing sheep in fields with solar arrays",
+   "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T17:27:46.000Z",
+   "summary": "55 points · 32 comments"
+  },
+  {
+   "id": "55cbe2b7bda97817",
+   "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+   "url": "https://news.ycombinator.com/item?id=50520076",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-16T17:20:28.000Z",
+   "summary": "20 points · 15 comments"
+  },
+  {
+   "id": "854fbfbdc1944bf8",
+   "title": "The simple and convenient Apple Maps feature every CarPlay user should know about",
+   "url": "https://www.engadget.com/2314427/apple-maps-convenient-share-eta-feature-for-carplay-users/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-16T17:15:00.000Z",
+   "summary": "Apple Maps has plenty of useful features - some big, some small. This particular feature is relatively minor but can prove very useful indeed."
+  },
+  {
+   "id": "bd630e1dcd74667f",
+   "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+   "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-16T17:10:00.000Z",
+   "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year."
+  },
+  {
+   "id": "89b8c92829618efa",
+   "title": "Didn't Order Apple's HomeView Yet? Wait Times Are Significant Now",
+   "url": "https://www.macrumors.com/2026/11/16/apple-homeview-shipping-delivery-dates/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-16T17:08:38.000Z",
+   "summary": "Even though Apple's all-new HomeView smart home display has several bugs, customers ordering the device now might face a long wait for delivery. HomeView has been available to order since October 13, and deliveries to customers began on November 13. For orders placed today, though, the tabletop…"
+  },
+  {
+   "id": "32e263bdf81de4af",
+   "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+   "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-16T17:02:43.000Z",
+   "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence."
+  },
+  {
+   "id": "c0e4d197c876a35d",
+   "title": "Broadening access to AI for scientists",
+   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-16T17:00:00.000Z",
+   "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
+  },
+  {
+   "id": "14bff1948ca44f11",
+   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+   "url": "https://openai.com/index/strengthening-online-child-safety",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-16T17:00:00.000Z",
+   "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
+  },
+  {
+   "id": "13254806067527f8",
+   "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+   "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-16T17:00:00.000Z",
+   "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning"
+  },
+  {
+   "id": "35a4a589da74fc7a",
+   "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+   "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-16T17:00:00.000Z",
+   "summary": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app."
+  },
+  {
+   "id": "c545ca7e45f6a256",
+   "title": "Google adds 66 regional dialects to Gemini",
+   "url": "https://www.engadget.com/2317417/google-adds-66-regional-dialects-to-gemini/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-11-16T17:00:00.000Z",
+   "summary": "From today, Gemini's making more of an effort to speak your language in a way that sounds more accurate."
+  },
+  {
+   "id": "e133f4f83dfe09e7",
+   "title": "Instagram will let creators add Amazon affiliate links directly to their posts and Reels",
+   "url": "https://www.engadget.com/2316714/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-16T17:00:00.000Z",
+   "summary": "The app will become even more of a shopping mall, just in time for Black Friday."
+  },
+  {
+   "id": "d63c6c33256d8456",
+   "title": "Jiff 1.0: A datetime library for Rust",
+   "url": "https://burntsushi.net/jiff/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T16:53:39.000Z",
+   "summary": "76 points · 21 comments"
+  },
+  {
+   "id": "7150fdec5634b351",
+   "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
+   "url": "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-16T16:48:01.000Z",
+   "summary": "Several retailers are offering discounts on PlayStation 5 games, including deep price cuts on recent console-exclusive hits like Marvel’s Wolverine, Ghost of Yotei, Saros, and hundreds more. We’ll cover a bunch of those in the coming days, but this post is focused on the great hardware discounts…"
+  },
+  {
+   "id": "cd5139e21f97c6d7",
+   "title": "Your smart home hub placement is more important than you'd think",
+   "url": "https://www.engadget.com/2314367/smart-home-hub-placement-importance/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-16T16:45:00.000Z",
+   "summary": "Keeping your smart home network functioning properly starts with understanding where to place it in relation to your smart devices and Wi-Fi router."
+  },
+  {
+   "id": "592f206e0e2b88ba",
+   "title": "Security Bite: The world’s biggest Apple security conference kicks off this week in Hawaii",
+   "url": "https://9to5mac.com/2026/11/16/security-bite-the-worlds-biggest-apple-security-conference-kicks-off-this-week-in-hawaii/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-16T16:40:25.000Z",
+   "summary": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated…"
+  },
+  {
+   "id": "13bfb31679c3f1ec",
+   "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
+   "url": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-16T16:39:36.000Z",
+   "summary": "Following Jensen Huang's resignation as Nvidia's CEO last week, Trump told reporters on Monday that he's open to seeing Huang return and that he's not certain that the woman Huang reportedly had an affair with was in fact a spy. \"I think having Jensen go back- a lot of people are asking Jensen…"
+  },
+  {
+   "id": "ba11d80bb0db0b0b",
+   "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
+   "url": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-16T16:39:29.000Z",
+   "summary": "International authorities will announce US lost its elimination status Tuesday."
+  },
+  {
+   "id": "c380a6a8970995f9",
+   "title": "Apple Pushes Back Against Canada's Plan to Access User Data",
+   "url": "https://www.macrumors.com/2026/11/16/apple-pushes-back-against-canada-plan/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-16T16:30:49.000Z",
+   "summary": "Apple is urging Canada to change a proposed law that it says could weaken the privacy and security protections built into its products. The legislation, Bill C-22, is intended to help police and intelligence agencies obtain digital information during investigations. According to Bloomberg, Apple…"
+  },
+  {
+   "id": "ec4a980246da3546",
+   "title": "Deals: Apple Watch Series 12 best price ever, AirPods Pro 3 now even lower, Apple’s iPhone Duo charger 25% off, more",
+   "url": "https://9to5mac.com/2026/11/16/deals-apple-watch-series-12-airpods-pro-3-iphone-duo-charger/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-16T16:27:28.000Z",
+   "summary": "Alongside the ongoing discount on M5 MacBook Air at up to $250 off and AirTag 2 from just $17.50 each, Amazon has now updated its giant early Black Friday sale with an even lower price on AirPods Pro 3 at $70 off and the lowest prices ever on the entire Apple Watch Series 12 lineup starting from…"
+  },
+  {
+   "id": "8ce7837cd6b65cf1",
+   "title": "Jolt – Clojure that speaks C",
+   "url": "https://jolt-lang.net/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T16:23:01.000Z",
+   "summary": "6 points · 0 comments"
+  },
+  {
+   "id": "7c2588ab0edf757b",
+   "title": "Apple has 15+ new products coming in 2027, per report",
+   "url": "https://9to5mac.com/2026/11/16/apple-has-15-new-products-coming-in-2027-per-report/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-16T16:16:39.000Z",
+   "summary": "Apple just wrapped up a very busy product launch season, but a new report offers a sneak peek at the 15+ new products coming in 2027. more…"
+  },
+  {
+   "id": "9af78c08cc097393",
+   "title": "Why Microsoft is ditching a few of its 365 companion apps in 2026",
+   "url": "https://www.engadget.com/2314266/microsoft-ditching-365-companion-apps-2026/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-16T16:15:00.000Z",
+   "summary": "These apps are being shut down after just 14 months."
+  },
+  {
+   "id": "a57115551f4fb4d3",
+   "title": "Serena Williams winds down her VC firm, launches new fund, targets $200M",
+   "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-16T16:06:30.000Z",
+   "summary": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures."
+  },
+  {
+   "id": "59856adca313d8c0",
+   "title": "Building trustworthy AI by fencing it in, not predicting it",
+   "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+   "source": "MIT Tech Review",
+   "section": "ai",
+   "publishedAt": "2026-11-16T16:04:28.000Z",
+   "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had…"
+  },
+  {
+   "id": "fe3cdfc414cd5bfd",
+   "title": "ChatGPT Health feature will soon work with Mac app, Dots, more",
+   "url": "https://9to5mac.com/2026/11/16/chatgpt-health-feature-will-soon-work-with-mac-app-dots-more/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-11-16T16:03:12.000Z",
+   "summary": "OpenAI relaunched its ChatGPT Health feature over the summer after piloting earlier in the year. Next, ChatGPT Health is set to expand to more platforms, including the Mac app and more. more…"
+  },
+  {
+   "id": "3f990b3fe625a64f",
+   "title": "Black Friday TV Deals Include Year's Best Prices on Samsung, Sony, LG, and Many More",
+   "url": "https://www.macrumors.com/2026/11/16/black-friday-tv-deals-2026/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-16T16:01:52.000Z",
+   "summary": "One of the best items to shop for every Black Friday season is a TV set, and this year is no different, with hundreds of deals on TVs across numerous retailers. Below we're highlighting some of the best TV deals you can find right now at Amazon, Sony, Samsung, and more. Note: MacRumors is an…"
+  },
+  {
+   "id": "a45c00b0878ccc48",
+   "title": "The Verge’s guide to the best gifts under $100",
+   "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-16T16:00:14.000Z",
+   "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to leave you with lingering guilt or lead to insurmountable debt. As reviewers…"
+  },
+  {
+   "id": "9f290e0c94497f4a",
+   "title": "Why NJ’s governor thinks Republicans are trapped in an X bubble",
+   "url": "https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-16T16:00:00.000Z",
+   "summary": "Today I’m talking with Mikie Sherrill, who’s been New Jersey governor for just a little under a year, and you’ll hear her say her election was a preview of the huge Democratic victories in these recent midterms because she ran on the dual themes of affordability and accountability. So I wanted to…"
+  },
+  {
+   "id": "32e93e4c80dd417a",
+   "title": "Audible turns to AI to help users discover audiobooks",
+   "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-16T15:52:19.000Z",
+   "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample."
+  },
+  {
+   "id": "cd9d3584c23de3d3",
+   "title": "Adobe's Black Friday Sale Takes 57% Off Creative Cloud Pro for Your First Year",
+   "url": "https://www.macrumors.com/2026/11/16/adobes-black-friday-sale-2026/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-16T15:49:22.000Z",
+   "summary": "Adobe this week is offering first-time subscribers of the Adobe Creative Cloud Pro plan a 57 percent discount on the service. With this sale, you'll pay $29.99 per month for the plan, down from $69.99 per month, and this price will last through your first year. Note: MacRumors is an affiliate…"
+  },
+  {
+   "id": "dbef81c3e261311d",
+   "title": "How to stream Twitch on your TV",
+   "url": "https://www.engadget.com/2314226/how-to-stream-twitch-on-tv/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-16T15:45:00.000Z",
+   "summary": "Casting Twitch to your TV has never been easier."
+  },
+  {
+   "id": "71b0463eb5262e86",
+   "title": "Apple is making a bigger push into video podcasts",
+   "url": "https://www.engadget.com/2317689/apple-is-making-a-bigger-push-into-video-podcasts/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-16T15:39:24.000Z",
+   "summary": "You'll soon be able to watch video podcasts through the Apple TV app."
+  },
+  {
+   "id": "d3a91e9c334358bb",
+   "title": "HomeView missing some podcast feeds? Here’s why",
+   "url": "https://9to5mac.com/2026/11/16/homeview-missing-some-podcast-feeds-heres-why/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-16T15:34:09.000Z",
+   "summary": "Apple’s new HomeView features the Podcasts app, but not all feeds appear to be supported for now. Instead, HomeView appears to have the same bug that tvOS 27 introduced to the Apple TV 4K’s Podcasts app. more…"
+  },
+  {
+   "id": "a2b3566d401b4edc",
+   "title": "Nvidia was in trouble before the Jensen Huang mess",
+   "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T15:24:09.000Z",
+   "summary": "142 points · 131 comments"
+  },
+  {
+   "id": "54380b9db3790801",
+   "title": "Robert Pattinson is Amazon’s first James Bond",
+   "url": "https://www.theverge.com/tech/1034192/robert-pattinson-james-bond",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-16T15:19:34.000Z",
+   "summary": "Robert Pattinson will take on the role of James Bond in Amazon MGM's first film in the 007 franchise. The next James Bond film will be directed by Denis Villeneuve using a script written by Steven Knight, while Amy Pascal and David Heyman will produce. The upcoming James Bond film will be the first…"
+  },
+  {
+   "id": "2c140b86f6571395",
+   "title": "Apple has renewed Slow Horses for seasons 7, 8, 9, and 10",
+   "url": "https://9to5mac.com/2026/11/16/apple-has-renewed-slow-horses-for-seasons-7-8-9-and-10/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-16T15:18:31.000Z",
+   "summary": "Slow Horses isn’t going away anytime soon, as Apple TV confirmed today that the hit series has been renewed through season 10—meaning at least four more seasons are coming. more…"
+  },
+  {
+   "id": "46a3e868a0d073e4",
+   "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+   "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-16T15:02:34.000Z",
+   "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries."
+  },
+  {
+   "id": "107a9cff4e70a829",
+   "title": "Next year’s iPhone Pro redesign gets new update via leaker",
+   "url": "https://9to5mac.com/2026/11/16/next-years-iphone-pro-redesign-gets-new-update-via-leaker/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-16T14:54:22.000Z",
+   "summary": "Next year is the iPhone’s 20th anniversary, and Apple reportedly has a big redesign coming to its Pro models. Here’s what to expect per the latest leak. more…"
+  },
+  {
+   "id": "bfb3bfeef0ca408d",
+   "title": "Apple Confirms iOS 27.3 Beta 2 Coming Today",
+   "url": "https://www.macrumors.com/2026/11/16/ios-27-3-beta-2-coming-today/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-16T14:51:12.000Z",
+   "summary": "Apple has indirectly confirmed that iOS 27.3 beta 2 will be released today. The company informed The New York Times that it will be adding a video podcasts section to the Apple TV app for developers to test starting Monday, so the next developer betas of iOS 27.3, macOS 27.3, and so forth should be…"
+  },
+  {
+   "id": "2b61566c6e9a4d95",
+   "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+   "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-16T14:48:13.000Z",
+   "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining."
+  },
+  {
+   "id": "e513db4134272447",
+   "title": "Apple TV is getting video podcasts you can watch for free",
+   "url": "https://www.theverge.com/entertainment/1034168/apple-tv-video-podcasts",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-16T14:45:56.000Z",
+   "summary": "Apple's streaming service will soon have a video podcasts section, the New York Times reports. It will start testing the feature in a developer release today, so expect a new update for iOS 27.3 beta testers to roll out in a few hours. Once it rolls out fully, the new video podcasts section will be…"
+  },
+  {
+   "id": "313bdb415a1527bb",
+   "title": "Where should you place your Wi-Fi router for the best internet?",
+   "url": "https://www.engadget.com/2314221/where-to-place-wifi-router-best-internet/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-16T14:45:00.000Z",
+   "summary": "Let your router work at its best by placing it in the right spot of your home - and know when you need an upgrade."
+  },
+  {
+   "id": "16b0438e31a7310a",
+   "title": "America’s air traffic control system couldn’t handle a single bad router",
+   "url": "https://www.theverge.com/transportation/1034039/faa-aviation-glitch-meltdown-ground-stop",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-16T14:43:48.000Z",
+   "summary": "Flight statuses change from delayed to canceled at the San Diego International Airport after the FAA issued an emergency nationwide ground stop on November 13th, 2026. | Photo: Luke Johnson / The San Diego Union-Tribune via Getty Images Thirty minutes outside Atlanta, the pilot got on the intercom…"
+  },
+  {
+   "id": "72a92d3e70ac36d0",
+   "title": "A 512 KiB binary message teaching chess without a shared language",
+   "url": "https://artemlegotin.com/golden-board/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T14:38:54.000Z",
+   "summary": "9 points · 0 comments"
+  },
+  {
+   "id": "29c925b5a0277062",
+   "title": "Apple's New HomeView Smart Home Hub Has Issues, Say Owners",
+   "url": "https://www.macrumors.com/2026/11/16/apple-homeview-smart-home-hub-has-some-issues/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-16T14:32:58.000Z",
+   "summary": "Just days after the HomeView's launch, some owners are reporting problems with Siri, timers, and music playback on Apple's new smart home hub, based on multiple MacRumors forum threads. In the longest discussion, which now spans over one hundred posts, several people say their HomeView refuses to…"
+  },
+  {
+   "id": "d8127d319f5d2b52",
+   "title": "The Active Directory Era Is Finally Over",
+   "url": "https://infisical.com/blog/active-directory-machine-identity",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T14:15:31.000Z",
+   "summary": "56 points · 32 comments"
+  },
+  {
+   "id": "959c321f2c113ed2",
+   "title": "What is an NFC tag and how does one work?",
+   "url": "https://www.engadget.com/2314180/what-is-an-nfc-tag/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-16T14:15:00.000Z",
+   "summary": "NFC tags are cheap, lightweight and easy to use. Here's what NFC technology does, where it's used and how it differs from RFID."
+  },
+  {
+   "id": "9fc6a2aa37fda083",
+   "title": "'Slow Horses' to Hit 10-Season Milestone With Apple TV Renewal",
+   "url": "https://www.macrumors.com/2026/11/16/slow-horses-to-hit-10-season-milestone/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-16T14:12:37.000Z",
+   "summary": "Apple has renewed its popular British spy drama \"Slow Horses\" for ninth and tenth seasons, extending its considerable lead as Apple TV's longest-running original series by season, according to Deadline. Six seasons of Slow Horses have already been released, with seasons seven and eight already…"
+  },
+  {
+   "id": "2bb17be59327fc9c",
+   "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+   "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-16T14:06:16.000Z",
+   "summary": "Huang is weighing a return just days after resigning amid a deepening scandal."
+  },
+  {
+   "id": "4f0892b257c30411",
+   "title": "Mercedes' clever new driving assist handles complex traffic like a champ",
+   "url": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-16T14:00:05.000Z",
+   "summary": "The point-to-point driver assist is coming to the US and Germany in 2027."
+  },
+  {
+   "id": "10e76c80aedd7cd2",
+   "title": "New Ask Maps features to help with holiday travel and prep",
+   "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+   "source": "Google AI",
+   "section": "ai",
+   "publishedAt": "2026-11-16T14:00:00.000Z",
+   "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
+  },
+  {
+   "id": "5362f91505da3c28",
+   "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+   "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-16T14:00:00.000Z",
+   "summary": "Here’s what the new audio discovery feature looks like in the Audible app. | Image: Audible Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery…"
+  },
+  {
+   "id": "aa364906b72ee416",
+   "title": "Google Maps can now create trip itineraries for you",
+   "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-16T14:00:00.000Z",
+   "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip…"
+  },
+  {
+   "id": "620a5e76b5402cc0",
+   "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
+   "url": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-16T14:00:00.000Z",
+   "summary": "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity."
+  },
+  {
+   "id": "3d75c3ae1f6c2f75",
+   "title": "Hands-on (and off) with Mercedes-Benz's upcoming MB.Drive Assist Pro system",
+   "url": "https://www.engadget.com/2315999/hands-on-and-off-with-mercedes-benz-mbdrive-assist-pro/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-16T14:00:00.000Z",
+   "summary": "Benz takes us another step towards self-driving."
+  },
+  {
+   "id": "a825255a1ba77b04",
+   "title": "Apple Watch SE 3 Black Friday Deals Arrive With $50 Off Every Model",
+   "url": "https://www.macrumors.com/2026/11/16/apple-watch-se-3-black-friday-deals/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-16T13:55:30.000Z",
+   "summary": "Following in the footsteps of this weekend's big discounts on the Apple Watch Series 12, Amazon today has all-time low prices across a number of Apple Watch SE 3 devices. Prices start at just $199.00 for the 40mm GPS Apple Watch SE 3, matching the previous record low price on this model and marking…"
+  },
+  {
+   "id": "22641534245388b3",
+   "title": "What is w2rt6byl5nf1opmc-a.com?",
+   "url": "https://jack.cab/blog/siterate",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T13:51:38.000Z",
+   "summary": "285 points · 126 comments"
+  },
+  {
+   "id": "39e76b6a1c4eb79a",
+   "title": "Which Steam settings should you change to improve gaming performance?",
+   "url": "https://www.engadget.com/2314137/steam-settings-to-improve-gaming-performance/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-16T13:45:00.000Z",
+   "summary": "When in doubt, disable the Steam Overlay."
+  },
+  {
+   "id": "4bf87d53e29d3cda",
+   "title": "Microsoft outage saw 80% of servers fail – here’s what happened",
+   "url": "https://9to5mac.com/2026/11/16/microsoft-outage-saw-80-of-servers-fail-heres-what-happened/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-16T13:43:06.000Z",
+   "summary": "Last week saw a truly epic outage to Microsoft 365, with a huge number of users unable to send and receive emails. The company has now admitted that at the worst point, more than 80% of its servers were unresponsive. Microsoft has now explained what went wrong, stating that the mistake that led to…"
+  },
+  {
+   "id": "ce775b9f670b4f1e",
+   "title": "'iPhone 20 Pro' Rumored to Be Based on iPhone Air",
+   "url": "https://www.macrumors.com/2026/11/16/iphone-20-pro-to-be-based-on-iphone-air/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-16T13:40:33.000Z",
+   "summary": "Next year's \"iPhone 20 Pro\" models will use the same glass design as the iPhone Air, but with more pronounced curvature along all four sides, according to the leaker known as \"Fixed Focus Digital.\" In a new post on Weibo, the leaker said the device would use the same glass material as the ‌iPhone…"
+  },
+  {
+   "id": "4d9c4ad6c1102259",
+   "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+   "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T13:39:07.000Z",
+   "summary": "548 points · 332 comments"
+  },
+  {
+   "id": "a56342887e898836",
+   "title": "How to use your phone to find an Apple TV remote",
+   "url": "https://www.engadget.com/2313628/how-to-use-phone-find-apple-tv-remote/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-16T13:15:00.000Z",
+   "summary": "Apple TV now lets you use your iPhone to find a lost remote, with onscreen prompts that guide you closer until you track it down somewhere in your home."
+  },
+  {
+   "id": "6a33957cc00c6bfa",
+   "title": "New camera sensor coming to the iPhone 20 Pro’s main camera, says leaker",
+   "url": "https://9to5mac.com/2026/11/16/new-camera-sensor-coming-to-the-iphone-20-pros-main-camera-says-leaker/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-16T13:02:52.000Z",
+   "summary": "The biggest improvement to iPhone photo quality that Apple could make would be to give the device a larger sensor. There have been two reports suggesting this is on the way, although with a potentially rather large catch. A leaker today says that the iPhone 20 Pro is getting a new and more…"
+  },
+  {
+   "id": "3468973447cc7f50",
+   "title": "Building AI that can work across the enterprise",
+   "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+   "source": "MIT Tech Review",
+   "section": "ai",
+   "publishedAt": "2026-11-16T13:00:00.000Z",
+   "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a…"
+  },
+  {
+   "id": "1ae929d907c9d2e7",
+   "title": "The Nvidia scandal isn’t slowing down",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-16T13:00:00.000Z",
+   "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently…"
+  },
+  {
+   "id": "2f5e5af842a17831",
+   "title": "After dodging death, battery startup Our Next Energy is now going public",
+   "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-16T13:00:00.000Z",
+   "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in the cutthroat battery industry?"
+  },
+  {
+   "id": "31c2f11e38f87c67",
+   "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+   "url": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-16T13:00:00.000Z",
+   "summary": "Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets."
+  },
+  {
+   "id": "0f7dd1505fcffe55",
+   "title": "Sony 27-inch Gaming Monitor with DualSense Charging Hook review: A piece of PC history",
+   "url": "https://www.engadget.com/2313601/sony-27-inch-gaming-monitor-with-dualsense-charging-hook-review/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-16T13:00:00.000Z",
+   "summary": "Sony's 27-inch gaming monitor is a perfectly adequate display with one unique hook."
+  },
+  {
+   "id": "0d9b062b97b447f7",
+   "title": "Video podcasts coming soon to Apple TV and other devices",
+   "url": "https://9to5mac.com/2026/11/16/video-podcasts-coming-soon-to-apple-tv-and-other-devices/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-16T12:30:32.000Z",
+   "summary": "Apple will soon be adding a video podcasts section to Apple TV, which will also be available in the Apple TV app on other devices like smart TVs. That means it will come to more than a billion devices in total. Access to the video podcasts will be free, with no requirement for an Apple TV…"
+  },
+  {
+   "id": "5faf4ac01b01fff8",
+   "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+   "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-16T12:30:00.000Z",
+   "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs."
+  },
+  {
+   "id": "d3868bcd5ae1acbb",
+   "title": "iPhone 20 Pro Rumored to Feature New 17nm Camera Sensor",
+   "url": "https://www.macrumors.com/2026/11/16/iphone-20-pro-new-17nm-camera-sensor/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-16T12:22:39.000Z",
+   "summary": "Next year's iPhone 20 Pro could feature a main camera sensor with logic circuitry manufactured using a new 17-nanometer process, according to Weibo-based leaker Ice Universe. Modern stacked camera sensors separate their light-sensitive pixels from the logic circuitry responsible for reading out and…"
+  },
+  {
+   "id": "e57370427fe5360f",
+   "title": "Apple provides a safe way to ask an AI questions about your health",
+   "url": "https://9to5mac.com/2026/11/16/apple-provides-a-safe-way-to-ask-an-ai-questions-about-your-health/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-11-16T12:09:32.000Z",
+   "summary": "A growing number of people are asking AI chatbots about their health issues, raising two major concerns: safety and privacy. Apple is now offering a safer way to do this through an Apple Health AI Usage Study. This is actually one of Apple’s research studies, but those volunteering to take part in…"
+  },
+  {
+   "id": "5c095cf67615e9b5",
+   "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
+   "url": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
+   "source": "Ars Technica",
+   "section": "tech",
+   "publishedAt": "2026-11-16T12:00:57.000Z",
+   "summary": "For those who have lived under armed drones, the sound overhead can be distressing."
+  },
+  {
+   "id": "a5206efda4576ab3",
+   "title": "Science at the Frontier: How scientists use ChatGPT",
+   "url": "https://openai.com/index/science-at-the-frontier",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-16T12:00:00.000Z",
+   "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
+  },
+  {
+   "id": "7ed0c04c3a5ee8f0",
+   "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
+   "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-16T12:00:00.000Z",
+   "summary": "This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform."
+  },
+  {
+   "id": "f79cb672c4310b89",
+   "title": "New Apple TV 4K's A19 Chip Has One Core Switched Off",
+   "url": "https://www.macrumors.com/2026/11/16/apple-tv-4k-a19-chip-one-core-disabled/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-16T11:43:43.000Z",
+   "summary": "Apple's new Apple TV 4K uses an A19 chip with one efficiency core disabled, according to system diagnostic data shared by code explorer pdfu. That suggests a five-core CPU with two performance cores and three efficiency cores, compared with the six-core CPU in the iPhone 17. 2022 Apple TV 4K, whose…"
+  },
+  {
+   "id": "cc8a0f64727a60d1",
+   "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+   "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T11:39:31.000Z",
+   "summary": "233 points · 92 comments"
+  },
+  {
+   "id": "9e93555a5df9a326",
+   "title": "Apple Seeks 200,000 People for AI Health Study",
+   "url": "https://www.macrumors.com/2026/11/16/apple-seeks-200000-people-for-ai-health-study/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-11-16T11:13:12.000Z",
+   "summary": "Apple on Sunday announced the launch of an Apple Health AI Usage Study that gives participants access to a dedicated iPhone app that answers everyday health questions using medical research and, optionally, their own Health app data. Conducted in collaboration with clinical AI company OpenEvidence…"
+  },
+  {
+   "id": "7322e1e197cf75d1",
+   "title": "Coffeehouses and the Rise of Science [pdf]",
+   "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T11:03:16.000Z",
+   "summary": "153 points · 89 comments"
+  },
+  {
+   "id": "bac082b1b4b5bf62",
+   "title": "Apple TV App to Get Video Podcasts Section Today",
+   "url": "https://www.macrumors.com/2026/11/16/apple-tv-app-to-get-video-podcasts-section/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-16T10:35:16.000Z",
+   "summary": "Apple on Monday will add a video podcasts section to the Apple TV app, bringing it to more than 1 billion devices that have the app, reports The New York Times. The new video podcasts section will likely arrive in iOS 27.3 beta 2 for developer testing. NYT. \"It's really about discovery and helping…"
+  },
+  {
+   "id": "8f9bc1e31d8151eb",
+   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+   "url": "https://openai.com/index/lvmh-media-division-partnership",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-16T09:00:00.000Z",
+   "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+  },
+  {
+   "id": "7ac2cbee5e1454c1",
+   "title": "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
+   "url": "https://github.com/ages2001/WINUDF",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T08:00:13.000Z",
+   "summary": "71 points · 10 comments"
+  },
+  {
+   "id": "b49c86c1e7369694",
+   "title": "Our first phase of embedded assessments",
+   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-16T08:00:00.000Z",
+   "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
+  },
+  {
+   "id": "0d3f4e8c12d2ae93",
+   "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+   "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T07:38:19.000Z",
+   "summary": "230 points · 98 comments"
+  },
+  {
    "id": "8a4a67e51d8b5c6c",
    "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
    "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
@@ -98,6 +1052,24 @@
    "section": "ai",
    "publishedAt": "2026-11-16T06:06:05.000Z",
    "summary": "Apple has unveiled a new research study with the aim of learning how people use AI health tools."
+  },
+  {
+   "id": "885a6773d108833f",
+   "title": "Advancing computer-use agents for healthcare teams",
+   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-16T06:00:00.000Z",
+   "summary": ""
+  },
+  {
+   "id": "a66b1be9b24f5d16",
+   "title": "More ways to move care forward with ChatGPT for Healthcare",
+   "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-16T06:00:00.000Z",
+   "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done."
   },
   {
    "id": "a8c5a41b2f8a3d07",
@@ -260,6 +1232,24 @@
    "section": "tech",
    "publishedAt": "2026-11-16T00:00:00.000Z",
    "summary": "Tired of watching your phone's battery jump from green to red? It's time to start troubleshooting what's causing your battery percentage to suddenly drop."
+  },
+  {
+   "id": "47b4a14ea3c2d9e6",
+   "title": "The King’s Trust and OpenAI launch £1m partnership",
+   "url": "https://openai.com/index/the-kings-trust-and-openai",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-16T00:00:00.000Z",
+   "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
+  },
+  {
+   "id": "ac2621c1ce46a26f",
+   "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+   "url": "https://huggingface.co/blog/openrouter",
+   "source": "Hugging Face",
+   "section": "ai",
+   "publishedAt": "2026-11-16T00:00:00.000Z",
+   "summary": ""
   },
   {
    "id": "96f8ba60dd9dac8e",
@@ -1900,6 +2890,15 @@
    "summary": "Black Friday is now less than two weeks away, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products like AirPods, iPad, Apple Watch, and more. Note: MacRumors is an affiliate partner with some of…"
   },
   {
+   "id": "4530b52f7707527a",
+   "title": "Smallest possible nopert polyhedra: the Septopert",
+   "url": "https://github.com/tom7/noperts/blob/main/septopert.md",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-14T15:22:30.000Z",
+   "summary": "19 points · 2 comments"
+  },
+  {
    "id": "5caf689c7ba19511",
    "title": "Smart glasses could replace your monitor but they shouldn't — here's why",
    "url": "https://www.engadget.com/2311266/smart-glasses-replace-monitor-why-not/",
@@ -2204,6 +3203,15 @@
    "section": "tech",
    "publishedAt": "2026-11-14T11:13:17.000Z",
    "summary": "76 points · 9 comments"
+  },
+  {
+   "id": "6873f40a978d530e",
+   "title": "Nature-Based Sanitation. Cihuatlán: A Large-Scale Artificial Wetland",
+   "url": "https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-14T08:58:31.000Z",
+   "summary": "9 points · 10 comments"
   },
   {
    "id": "2c905a0f8093620e",
@@ -2519,6 +3527,15 @@
    "section": "tech",
    "publishedAt": "2026-11-13T21:38:25.000Z",
    "summary": "NEW YORK, NY - JUNE 3: Delta Airlines planes at the gate as a United Airlines plane lands at LaGuardia Airport (LGA) on June 3, 2026 in New York City. Jet fuel prices have roughly doubled since the start of the war in Iran, and airlines around the world have been cutting routes, raising fares…"
+  },
+  {
+   "id": "97a62cb7d4a5529c",
+   "title": "OOS – an open operating system for the Rigol Scopes",
+   "url": "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-13T21:36:59.000Z",
+   "summary": "97 points · 31 comments"
   },
   {
    "id": "ca28c1ddac6ec8db",
@@ -2960,6 +3977,15 @@
    "section": "ai",
    "publishedAt": "2026-11-13T17:30:10.000Z",
    "summary": "261 points · 77 comments"
+  },
+  {
+   "id": "e5845d5d0b5b3dfc",
+   "title": "Researchers track whole body movement with just a smartwatch",
+   "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-13T17:29:49.000Z",
+   "summary": "167 points · 60 comments"
   },
   {
    "id": "e524c9ff5ece2209",
@@ -5293,6 +6319,15 @@
    "summary": "A poll of 9to5Mac readers who were lucky enough to take delivery of their iPhone Duo in the first few days shows that 30% of them have returned it for a refund. While that could be considered bad news for the future of the device, I don’t personally consider it either surprising or worrying … more…"
   },
   {
+   "id": "2a7dc59b4510f810",
+   "title": "Quxnet Is a Breath of Fresh Air",
+   "url": "https://moddedbear.com/quxnet-is-a-breath-of-fresh-air/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-12T12:40:05.000Z",
+   "summary": "6 points · 1 comments"
+  },
+  {
    "id": "ddb40e4d000a73fa",
    "title": "Apple's Johny Srouji Eyed to Replace Nvidia CEO Jensen Huang",
    "url": "https://www.macrumors.com/2026/11/12/johny-srouji-eyed-as-potential-nvidia-ceo/",
@@ -6677,6 +7712,15 @@
    "section": "ai",
    "publishedAt": "2026-11-11T11:44:03.000Z",
    "summary": "Apple chip supplier TSMC has announced board approval to invest up to $1 billion in AI companies OpenAI and Anthropic. The decision allows TSMC to buy up to $500 million of shares in each company. The board also authorized up to $500 million to create a company that will invest in semiconductor…"
+  },
+  {
+   "id": "4ba31c229b2f93a0",
+   "title": "Show HN: ThingStudio, Node-RED style programming for microcontrollers",
+   "url": "https://thingstudio.net/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-11T11:39:15.000Z",
+   "summary": "35 points · 5 comments"
   },
   {
    "id": "19e9c0c22c48f764",
@@ -45584,582 +46628,6 @@
    "section": "tech",
    "publishedAt": "2026-10-17T18:30:00.000Z",
    "summary": "Android phone running out of space? Here's why and what you can do to get rid of old files."
-  },
-  {
-   "id": "9ba59f3d2a9f9be5",
-   "title": "iPhone Duo shipping estimates have already been pushed back to 2027",
-   "url": "https://www.engadget.com/2289629/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-17T18:12:35.000Z",
-   "summary": "Apple called the early demand \"nothing short of extraordinary.\""
-  },
-  {
-   "id": "d699ad56160c5579",
-   "title": "OpenCode Hacked: User credentials leaked",
-   "url": "https://twitter.com/opencode/status/2111516673953935833",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T18:01:41.000Z",
-   "summary": "143 points · 34 comments"
-  },
-  {
-   "id": "f37103cc0d31ffd6",
-   "title": "You might be surprised by how much the Slate truck can carry",
-   "url": "https://www.engadget.com/2289615/slate-truck-how-much-can-carry/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-17T18:00:00.000Z",
-   "summary": "Don't underestimate this compact pickup."
-  },
-  {
-   "id": "9651ab0d1132f4cf",
-   "title": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling",
-   "url": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-17T17:52:00.000Z",
-   "summary": "Last month, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist: liquid cooling. more…"
-  },
-  {
-   "id": "cbabd3cb1432a373",
-   "title": "Codex is EATING my Mac's disk space",
-   "url": "https://github.com/openai/codex/issues/25921",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T17:45:08.000Z",
-   "summary": "22 points · 7 comments"
-  },
-  {
-   "id": "8c6d9a9b65d21e9c",
-   "title": "I Became a Citizen of Japan",
-   "url": "https://www.derekwessman.com/blog-1/natural",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T17:36:17.000Z",
-   "summary": "84 points · 26 comments"
-  },
-  {
-   "id": "1fbe4ca402dfced2",
-   "title": "Development statistics for the 7.2 kernel",
-   "url": "https://lwn.net/Articles/1088776/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T17:14:12.000Z",
-   "summary": "84 points · 46 comments"
-  },
-  {
-   "id": "3f8431d5171bb790",
-   "title": "tsc-ts: TypeScript written in TypeScript",
-   "url": "https://github.com/vercel-labs/tsc-ts",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T17:10:27.000Z",
-   "summary": "18 points · 22 comments"
-  },
-  {
-   "id": "4a64a2300155267f",
-   "title": "Gold is now the top U.S. export",
-   "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T17:06:07.000Z",
-   "summary": "27 points · 3 comments"
-  },
-  {
-   "id": "7336bd7672c09147",
-   "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
-   "url": "https://www.artie.com/careers",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T17:02:50.000Z",
-   "summary": "0 points · 0 comments"
-  },
-  {
-   "id": "b4a28fe270aeb8fc",
-   "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-   "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-17T17:00:00.000Z",
-   "summary": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging…"
-  },
-  {
-   "id": "ab01d74b51c7f249",
-   "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
-   "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-17T16:39:44.000Z",
-   "summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the…"
-  },
-  {
-   "id": "8a97dc0278b6a877",
-   "title": "What does the yellow light on your Alexa device mean and how do you clear it?",
-   "url": "https://www.engadget.com/2284036/amazon-alexa-device-yellow-light-meaning/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-17T16:30:00.000Z",
-   "summary": "Don't panic if your Amazon Echo is flashing a yellow light. Here's what that color means, how to clear it and how to tweak your Alexa notification settings."
-  },
-  {
-   "id": "68e5bd725f96cc91",
-   "title": "Anbernic's RG DDS is almost double the price of the original Nintendo 3DS",
-   "url": "https://www.engadget.com/2289602/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-17T16:15:11.000Z",
-   "summary": "The premium handheld is expected to start shipping in December."
-  },
-  {
-   "id": "a0cfe259f3cf4057",
-   "title": "This Samsung Galaxy feature can protect you from untrustworthy apps",
-   "url": "https://www.engadget.com/2284034/samsung-galaxy-feature-protects-from-untrustworth-apps-auto-blocker/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-17T16:00:00.000Z",
-   "summary": "Samsung's Auto Blocker protects your Galaxy phone from security threats, but it does have drawbacks. Here's what it does and when you might want to turn it off."
-  },
-  {
-   "id": "731fc3f86283367f",
-   "title": "Making a 88x31 button book using ImageMagick",
-   "url": "https://k.sosnierz.me/08-11-24/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T15:55:43.000Z",
-   "summary": "58 points · 5 comments"
-  },
-  {
-   "id": "8dc8c30de1bb9eaa",
-   "title": "Pele – Mermaid diagrams as themeable SVG",
-   "url": "https://pele.run/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T15:55:09.000Z",
-   "summary": "37 points · 4 comments"
-  },
-  {
-   "id": "9a415699773dee7d",
-   "title": "EE announces iPhone Handoff pricing details for UK customers",
-   "url": "https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-17T15:54:02.000Z",
-   "summary": "As part of its iPhone Duo preorder announcement, UK carrier EE has announced pricing details for iPhone Handoff – making it the first carrier in the UK to do so. Here are the details. more…"
-  },
-  {
-   "id": "612404e2768f196f",
-   "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
-   "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T15:33:12.000Z",
-   "summary": "39 points · 6 comments"
-  },
-  {
-   "id": "c72b2287d1cae4e6",
-   "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-   "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-10-17T15:30:00.000Z",
-   "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature."
-  },
-  {
-   "id": "80301ec454227ae8",
-   "title": "Why are some locations blurred out on Google Maps?",
-   "url": "https://www.engadget.com/2284032/why-some-places-blurry-google-maps/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-17T15:30:00.000Z",
-   "summary": "When using Google Maps, it isn't rare to see blurred locations. Why does this happen? The answer is simple, and it has everything to do with security."
-  },
-  {
-   "id": "fd38fff913bf89db",
-   "title": "Meta removes language that may have allowed it to scrape news sites",
-   "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-17T15:04:36.000Z",
-   "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages…"
-  },
-  {
-   "id": "edf0ca1b7ef6fa2a",
-   "title": "A death, a plagiarism scandal and a quest for revenge: the tale of Otto Z",
-   "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T15:02:08.000Z",
-   "summary": "41 points · 12 comments"
-  },
-  {
-   "id": "53bbef54062b57c9",
-   "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
-   "url": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-17T15:00:00.000Z",
-   "summary": "Pikmin preparing to do battle with a Bulborb | Image: Nintendo If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88…"
-  },
-  {
-   "id": "65e38a934b3a0530",
-   "title": "Common problems with Amazon Alexa and how to fix them",
-   "url": "https://www.engadget.com/2284031/amazon-alexa-common-problems-fixes/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-17T15:00:00.000Z",
-   "summary": "Amazon Alexa is a very useful gadget to have at home, but it isn't exempt from having some issues. Fortunately, troubleshooting is easy as pie."
-  },
-  {
-   "id": "129ee60869fa0fb2",
-   "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
-   "url": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-17T14:30:00.000Z",
-   "summary": "It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unprecedented looks at the lives of two of the most important music icons of the last century. Before that…"
-  },
-  {
-   "id": "a4a4d04c88463958",
-   "title": "Should you have both Ethernet and Wi-Fi for your home?",
-   "url": "https://www.engadget.com/2284029/both-ethernet-and-wifi-for-home/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-17T14:30:00.000Z",
-   "summary": "Ethernet will keep your devices connecting online in record time, while Wi-Fi keeps them untethered. But how well can they both work together?"
-  },
-  {
-   "id": "2e22ff33b0ec7d2a",
-   "title": "US federal budget deficit jumps 12% in one year to nearly $2 Trillion",
-   "url": "https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T14:22:05.000Z",
-   "summary": "91 points · 86 comments"
-  },
-  {
-   "id": "f662e689daa57a08",
-   "title": "Rabbits were a medieval royal luxury in England until the Black Death",
-   "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T14:07:36.000Z",
-   "summary": "93 points · 86 comments"
-  },
-  {
-   "id": "38f8921b3ab79c67",
-   "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
-   "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T14:01:01.000Z",
-   "summary": "193 points · 103 comments"
-  },
-  {
-   "id": "2e60a4a4b2f6f46d",
-   "title": "SpaceX’s ambitious, expensive gamble to replace AT&T, T-Mobile, and Verizon",
-   "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-17T14:00:00.000Z",
-   "summary": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network…"
-  },
-  {
-   "id": "e797ca1a08d1a9f7",
-   "title": "How many watts should your Bluetooth speaker have?",
-   "url": "https://www.engadget.com/2284027/how-many-watts-bluetooth-speaker-need/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-17T14:00:00.000Z",
-   "summary": "If you're confused by Bluetooth speaker wattage, here's what those numbers actually mean. Spoiler: more wattage doesn't necessarily mean a louder speaker."
-  },
-  {
-   "id": "25fdabf6dd60261e",
-   "title": "Making Chicken Transparent Using Dorito Dust",
-   "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T13:55:28.000Z",
-   "summary": "93 points · 34 comments"
-  },
-  {
-   "id": "9ef3b464e4d9e6ec",
-   "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-   "url": "https://github.com/mikroverk/esp32sim",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T13:51:08.000Z",
-   "summary": "30 points · 5 comments"
-  },
-  {
-   "id": "23c242ca28401fed",
-   "title": "Verizon will charge you $10 a month for iPhone Handoff",
-   "url": "https://www.engadget.com/2289578/verizon-10-a-month-iphone-handoff/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-17T13:45:16.000Z",
-   "summary": "iPhone Handoff, which lets you share the same number on two devices, will cost you $10 a month on Verizon."
-  },
-  {
-   "id": "b384483d2b6c4705",
-   "title": "Why Xiaomi phones have so many ads (and how to block them)",
-   "url": "https://www.engadget.com/2284023/xiaomi-phone-why-so-many-ads/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-17T13:45:00.000Z",
-   "summary": "Xiaomi phone users know these phones have too many ads, and the reason is very simple. Learn how to remove them so they're not a hassle anymore."
-  },
-  {
-   "id": "12b72dded229cd7d",
-   "title": "PSA: Apple’s official silicone iPhone Duo case will require adhesive to stick",
-   "url": "https://9to5mac.com/2026/10/17/iphone-duo-silicone-case-adhesive-psa/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-17T13:45:00.000Z",
-   "summary": "iPhone Duo is just about a week away from launching, and now that preorders have opened, Apple’s official iPhone Duo accessories have started to hit stores for early purchases. After purchasing, some users have noticed that the silicone case has a little bit of a caveat. more…"
-  },
-  {
-   "id": "1e60298b5fb5daac",
-   "title": "Developing for Debugging (2025)",
-   "url": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T13:34:43.000Z",
-   "summary": "13 points · 0 comments"
-  },
-  {
-   "id": "b97702e626f08d43",
-   "title": "Microsoft really doesn't want you to buy Office — here's a great free alternative",
-   "url": "https://www.engadget.com/2283984/microsoft-doesnt-want-you-to-buy-office-free-alternative/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-17T13:30:00.000Z",
-   "summary": "Microsoft Office used to be a suite you could simply buy and it'd just work. Now, it's largely trapped behind a subscription. Here are some great free options."
-  },
-  {
-   "id": "fe73d27fb0c4b7db",
-   "title": "Show HN: High-quality duck audio synthesizer",
-   "url": "https://celphase.github.io/duck-pond/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T13:28:46.000Z",
-   "summary": "29 points · 6 comments"
-  },
-  {
-   "id": "c1c7ad2df4d35d73",
-   "title": "Top Stories: Apple HomeView, New Apple TV and HomePod mini, and Sold-Out iPhone Duo",
-   "url": "https://www.macrumors.com/2026/10/17/top-stories-apple-homeview-intro/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-17T13:00:11.000Z",
-   "summary": "It was another crazy busy week for Apple, headlined by Tuesday seeing the company take the wraps off of several home-related products as part of a \"Welcome home\" launch wave. And as if that wasn't enough, Friday saw the start of iPhone Duo pre-orders with delivery estimates quickly slipping by…"
-  },
-  {
-   "id": "6e13c0967caede64",
-   "title": "Websites are closing their doors to AI agents",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-   "source": "The Verge",
-   "section": "ai",
-   "publishedAt": "2026-10-17T13:00:00.000Z",
-   "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet…"
-  },
-  {
-   "id": "6ce31619163843cd",
-   "title": "Bose’s new earbuds make a strong case for wires",
-   "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-17T13:00:00.000Z",
-   "summary": "Bose has me thinking I’m in my 20s again with its wired earbuds. After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after…"
-  },
-  {
-   "id": "14484cd2608ad91f",
-   "title": "How to create iPhone Shortcuts with Apple Intelligence (and why you should)",
-   "url": "https://www.engadget.com/2283983/how-to-create-iphone-shortcuts-with-apple-intelligence-and-why-you-should/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-17T13:00:00.000Z",
-   "summary": "When it works, it works!"
-  },
-  {
-   "id": "4554e76b98c254c5",
-   "title": "Apple @ Work: How I’m preparing my fleet for Rosetta’s removal in macOS 27",
-   "url": "https://9to5mac.com/2026/10/17/how-im-preparing-my-fleet-for-rosettas-removal-in-macos-27/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-17T13:00:00.000Z",
-   "summary": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000…"
-  },
-  {
-   "id": "c8b6f248a71867f9",
-   "title": "These common charging habits could be degrading your EV battery",
-   "url": "https://www.engadget.com/2283982/common-changing-habits-degrading-ev-battery/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-17T12:45:00.000Z",
-   "summary": "EVs, with their enormous batteries, can suffer if they're charged in the wrong way. Here's what you should keep in mind when you next juice your vehicle."
-  },
-  {
-   "id": "ecaf407fcd1420a1",
-   "title": "Super Intelligence",
-   "url": "https://www.si.gov/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T12:36:19.000Z",
-   "summary": "64 points · 106 comments"
-  },
-  {
-   "id": "72745557a7b245a2",
-   "title": "Apple updates App Store rules to ensure it doesn't offer AI nudify apps",
-   "url": "https://www.engadget.com/2289567/apple-updates-app-store-rules-ai-nudify-apps/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-10-17T12:35:56.000Z",
-   "summary": "Apple has tightened the App Store's rules against AI-generated nonconsensual intimate imagery."
-  },
-  {
-   "id": "367e56a323ab5286",
-   "title": "Is the Google Fitbit Air waterproof?",
-   "url": "https://www.engadget.com/2283981/how-long-google-fitbit-air-be-in-water-waterproof/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-17T12:30:00.000Z",
-   "summary": "No, but you can still swim with it!"
-  },
-  {
-   "id": "d97fc39656f9b1e3",
-   "title": "Apple weekend deals: HomeView, new Apple TV 4K, AirPods, MacBook, mini, more",
-   "url": "https://9to5mac.com/2026/10/17/apple-weekend-deals-homeview-new-apple-tv-airpods/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-17T12:18:24.000Z",
-   "summary": "Alongside the ongoing $50 price drop on AirPods Pro 3, this weekend’s Apple deals are headlined by pre-order discounts on the new HomeView (if you’re quick about it) and the first deal on the next-gen Apple TV 4K (or just grab the new Apple TV Siri Remote to upgrade your existing setup for a whole…"
-  },
-  {
-   "id": "3804fd1091c59aee",
-   "title": "Show HN: Which Mac runs which LLM, and how fast",
-   "url": "https://macyou.co/mac-llm-calculator",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-17T12:15:57.000Z",
-   "summary": "4 points · 0 comments"
-  },
-  {
-   "id": "f6008154440c84cf",
-   "title": "How to check your Ethernet cable's speed",
-   "url": "https://www.engadget.com/2283972/how-to-check-ethernet-cable-speed/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-17T12:15:00.000Z",
-   "summary": "Understand the speeds your Ethernet cable can transmit at help you diagnose where the slowdowns on your network are happening."
-  },
-  {
-   "id": "485c16b54393109a",
-   "title": "More than Just Storage: 8 Ways To Repurpose Your Old USB Flash Drive",
-   "url": "https://www.engadget.com/2285456/ways-to-repurpose-old-usb-flash-drive/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-17T12:15:00.000Z",
-   "summary": "It's time to do something with that drawer full of old USB flash drives. Breathe new life into unused tech with simple, useful tricks spanning an array of uses."
-  },
-  {
-   "id": "e9cece73c43bdb9b",
-   "title": "Interactive Linear Programming in the Browser",
-   "url": "https://lpviz.net/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T12:06:44.000Z",
-   "summary": "25 points · 0 comments"
-  },
-  {
-   "id": "75ad35deb135072b",
-   "title": "Apple’s HomeView is just the latest threat to online recipe writers",
-   "url": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-17T12:00:00.000Z",
-   "summary": "The HomeView can simplify online recipe formatting into easy-to-follow steps. | Image: Apple When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning…"
-  },
-  {
-   "id": "d5098e62b804f5f8",
-   "title": "It’s a dream week for tech docs",
-   "url": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
-   "source": "The Verge",
-   "section": "tech",
-   "publishedAt": "2026-10-17T12:00:00.000Z",
-   "summary": "Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about…"
-  },
-  {
-   "id": "1d1841aaa1789f40",
-   "title": "Double Fine's first post-Xbox title, first-person Soulslikes and other new indie games worth checking out",
-   "url": "https://www.engadget.com/2289293/double-fine-first-post-xbox-title-first-person-soulslikes-and-other-new-indie-games/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-17T11:30:00.000Z",
-   "summary": "There were a host of indie game showcases this week, so we're dig into some of the best announcements from them."
-  },
-  {
-   "id": "83f4638dd07c3a26",
-   "title": "The future of programming (1982)",
-   "url": "https://dl.acm.org/doi/10.1145/358453.358459",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T11:20:52.000Z",
-   "summary": "18 points · 3 comments"
-  },
-  {
-   "id": "2443ae0ed53647c5",
-   "title": "Science says your boss should talk less in meetings",
-   "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-10-17T11:15:11.000Z",
-   "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too."
-  },
-  {
-   "id": "b8aba62bcfe9fbe0",
-   "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
-   "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-10-17T11:00:21.000Z",
-   "summary": "The single-player is just OK, but according to the players, that doesn't matter."
-  },
-  {
-   "id": "e24e17772d795ab8",
-   "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
-   "url": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T09:08:16.000Z",
-   "summary": "33 points · 65 comments"
-  },
-  {
-   "id": "df7f3ef335bbb7af",
-   "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-   "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-17T08:37:46.000Z",
-   "summary": "15 points · 0 comments"
-  },
-  {
-   "id": "c4978b509fff63d3",
-   "title": "Galois Finite Fields and the Advanced Encryption Standard (AES)",
-   "url": "https://www.cs.uaf.edu/2015/spring/cs463/lecture/03_23_AES.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-17T08:34:31.000Z",
-   "summary": "20 points · 0 comments"
-  },
-  {
-   "id": "b7685fa3b33e1b24",
-   "title": "DeepSeek-v4.1-Flash-1017",
-   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-17T08:21:25.000Z",
-   "summary": "51 points · 15 comments"
   }
  ]
 }
