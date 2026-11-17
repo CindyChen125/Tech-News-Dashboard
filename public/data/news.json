@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-17T02:02:21.913Z",
+ "updatedAt": "2026-11-17T10:36:37.107Z",
  "sources": [
   {
    "name": "OpenAI",
    "section": "ai",
    "ok": true,
-   "count": 1398
+   "count": 1400
   },
   {
    "name": "Google DeepMind",
@@ -82,6 +82,69 @@
  ],
  "items": [
   {
+   "id": "44255450f869e897",
+   "title": "Apple Close to Rare Long-Term Memory Deal With Samsung",
+   "url": "https://www.macrumors.com/2026/11/17/apple-rare-long-term-memory-deal-samsung/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-17T10:28:18.000Z",
+   "summary": "Apple is close to signing a long-term supply agreement with Samsung for DRAM chips, according to Korea's Maeil Business Newspaper. The deal would reportedly run for four to five years from the first half of 2027, setting a minimum supply volume, with prices finalized later based on market…"
+  },
+  {
+   "id": "03bf10ad476475d9",
+   "title": "Adam Mosseri thinks it will be 'pretty challenging' to design Instagram for the iPhone Duo",
+   "url": "https://www.engadget.com/2318832/adam-mosseri-pretty-challenging-design-instagram-iphone-duo/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-17T09:09:40.000Z",
+   "summary": "Instagram head Adam Mosseri briefly talks about the challenges of redesigning the app for the iPhone Duo."
+  },
+  {
+   "id": "f5be0b6c57e808ca",
+   "title": "TRMNL Frame is a $1300 full-color e-paper display that looks like real art",
+   "url": "https://www.engadget.com/2318822/trmnl-frame-is-a-full-color-e-paper-display-that-looks-like-real-art/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-17T08:16:36.000Z",
+   "summary": "TRMNL, the company known for e-paper frames and kits, just launched its biggest and most colorful product yet."
+  },
+  {
+   "id": "2c28f44548bc7e53",
+   "title": "Apple adds new disk controls to prevent AI agents from running amok",
+   "url": "https://www.engadget.com/2318790/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-11-17T06:22:11.000Z",
+   "summary": "After sounding an alarm about the issue, Apple is taking steps to limit Mac disk access to AI agents."
+  },
+  {
+   "id": "8e16e150053ac3c2",
+   "title": "iPhone Duo gets one of Face ID’s best features with upcoming iOS 27.3 update",
+   "url": "https://9to5mac.com/2026/11/16/iphone-duo-gets-one-of-face-ids-best-features-with-upcoming-ios-27-3-update/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-17T03:15:50.000Z",
+   "summary": "Soon, your alarms, timers, and phone calls will be less disruptive on iPhone Duo. more…"
+  },
+  {
+   "id": "d0871ebdf604b309",
+   "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+   "url": "https://support.apple.com/en-us/149699",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-17T02:17:04.000Z",
+   "summary": "131 points · 70 comments"
+  },
+  {
+   "id": "355ddc3521d7cee2",
+   "title": "Mem Is Shutting Down",
+   "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-17T02:13:41.000Z",
+   "summary": "59 points · 92 comments"
+  },
+  {
    "id": "e369e17019f8d7e8",
    "title": "tvOS 27.3 beta 2 brings Siri AI to Apple TV beta testers",
    "url": "https://9to5mac.com/2026/11/16/tvos-27-3-beta-2-brings-siri-ai-to-apple-tv-beta-testers/",
@@ -145,6 +208,15 @@
    "summary": "27 points · 1 comments"
   },
   {
+   "id": "630d04f55bfc6848",
+   "title": "Why 3dfx 1 cards had such a washed out color output?",
+   "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-17T00:16:24.000Z",
+   "summary": "143 points · 41 comments"
+  },
+  {
    "id": "470ae76bab4d54fd",
    "title": "Everything New in iOS 27.3 Beta 2",
    "url": "https://www.macrumors.com/2026/11/16/ios-27-3-beta-2-everything-new/",
@@ -179,6 +251,15 @@
    "section": "tech",
    "publishedAt": "2026-11-17T00:00:00.000Z",
    "summary": "The holiday season brings the best deals of the year, and for anyone looking to upgrade to an ergonomic office chair, Sihoo’s Doro C300 Pro V2 is now available at its lowest price of the year. more…"
+  },
+  {
+   "id": "c0cf430d04b4c8fa",
+   "title": "Strengthening NATO and allied cyber defenses with AI",
+   "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-17T00:00:00.000Z",
+   "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
   },
   {
    "id": "f76b7b6cdcd8f406",
@@ -368,6 +449,15 @@
    "section": "tech",
    "publishedAt": "2026-11-16T21:53:17.000Z",
    "summary": "Amazon today is back with a discount on the brand new A19 Apple TV 4K, available for $289.99, down from $299.00. This is a match of the pre-order discount we saw last week. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive…"
+  },
+  {
+   "id": "6a7ae21ed9aaa6a2",
+   "title": "Spamhaus new email sender requirements in November",
+   "url": "https://www.spamhaus.org/sender-guidelines/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T21:47:19.000Z",
+   "summary": "111 points · 106 comments"
   },
   {
    "id": "c3386cc0eb717d2f",
@@ -1855,6 +1945,15 @@
    "summary": "Apple on Monday will add a video podcasts section to the Apple TV app, bringing it to more than 1 billion devices that have the app, reports The New York Times. The new video podcasts section will likely arrive in iOS 27.3 beta 2 for developer testing. NYT. \"It's really about discovery and helping…"
   },
   {
+   "id": "2f4bbb4186796d33",
+   "title": "How Revolut raises ambition without lowering the bar",
+   "url": "https://openai.com/business/customer-stories/revolut",
+   "source": "OpenAI",
+   "section": "ai",
+   "publishedAt": "2026-11-16T09:30:00.000Z",
+   "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
+  },
+  {
    "id": "8f9bc1e31d8151eb",
    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
    "url": "https://openai.com/index/lvmh-media-division-partnership",
@@ -1898,6 +1997,15 @@
    "section": "tech",
    "publishedAt": "2026-11-16T07:38:19.000Z",
    "summary": "230 points · 98 comments"
+  },
+  {
+   "id": "2d7680ca2f4ae0ce",
+   "title": "Test/verification technique effectiveness with Astra",
+   "url": "https://danluu.com/astra-testing/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T07:33:51.000Z",
+   "summary": "50 points · 6 comments"
   },
   {
    "id": "8a4a67e51d8b5c6c",
@@ -2035,6 +2143,15 @@
    "summary": "94 points · 70 comments"
   },
   {
+   "id": "88a09457ec5d41eb",
+   "title": "Nimony: A New Compiler for Nim",
+   "url": "https://nimony.org/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T01:05:22.000Z",
+   "summary": "61 points · 22 comments"
+  },
+  {
    "id": "7919cd01997b1ec1",
    "title": "The oldest gadget in your house could be your home network's biggest security hole",
    "url": "https://www.engadget.com/2314057/home-network-oldest-device-could-be-biggest-security-risk/",
@@ -2051,6 +2168,15 @@
    "section": "tech",
    "publishedAt": "2026-11-16T00:45:00.000Z",
    "summary": "Using your phone to help other devices connect to the internet is undeniably convenient, but it also comes with other perks – and a few downsides."
+  },
+  {
+   "id": "24006e86d6bbbfa9",
+   "title": "The Fossils That Haunted Lovecraft",
+   "url": "https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T00:38:12.000Z",
+   "summary": "39 points · 8 comments"
   },
   {
    "id": "a2376def1f482dd0",
@@ -2186,6 +2312,15 @@
    "section": "tech",
    "publishedAt": "2026-11-15T23:11:54.000Z",
    "summary": "This was the first total mission failure in United Launch Alliance's 20-year history."
+  },
+  {
+   "id": "0068aba2de28d45c",
+   "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+   "url": "https://visualbasic.world/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-15T23:08:30.000Z",
+   "summary": "6 points · 1 comments"
   },
   {
    "id": "87d52d22b34c5394",
@@ -2339,6 +2474,15 @@
    "section": "tech",
    "publishedAt": "2026-11-15T21:30:00.000Z",
    "summary": "A Ring camera can provide a huge boost to the safety of your home, but there's more you can do to maximize that added layer of security."
+  },
+  {
+   "id": "baf7923973717c61",
+   "title": "Why did modems have speakers? (2019)",
+   "url": "https://retrocomputing.stackexchange.com/questions/11765",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-15T21:27:29.000Z",
+   "summary": "65 points · 36 comments"
   },
   {
    "id": "07c425aae6dd1780",
@@ -2663,6 +2807,15 @@
    "section": "tech",
    "publishedAt": "2026-11-15T17:44:06.000Z",
    "summary": "Meta is reportedly planning to appeal the fine."
+  },
+  {
+   "id": "1c51a1f3ab2cb03e",
+   "title": "Japan's Hometown Tax (2018)",
+   "url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-15T17:34:22.000Z",
+   "summary": "32 points · 6 comments"
   },
   {
    "id": "04ee17452e977396",
@@ -4013,6 +4166,15 @@
    "section": "tech",
    "publishedAt": "2026-11-14T13:20:43.000Z",
    "summary": "44 points · 12 comments"
+  },
+  {
+   "id": "5da6141bc5264cb0",
+   "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+   "url": "https://github.com/ZigaoWang/zigzag",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-14T13:17:10.000Z",
+   "summary": "67 points · 36 comments"
   },
   {
    "id": "fe42ed253206e5ef",
@@ -47060,132 +47222,6 @@
    "section": "tech",
    "publishedAt": "2026-10-18T11:15:37.000Z",
    "summary": "33 points · 11 comments"
-  },
-  {
-   "id": "38eeb9ec790965f4",
-   "title": "Making Solar Panels with a Microwave [video]",
-   "url": "https://www.youtube.com/watch?v=zcWkApGjyGM",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-18T10:25:07.000Z",
-   "summary": "22 points · 3 comments"
-  },
-  {
-   "id": "d7538a27e1217656",
-   "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
-   "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-18T10:21:51.000Z",
-   "summary": "36 points · 11 comments"
-  },
-  {
-   "id": "72703cc995102151",
-   "title": "UI-Te-Rangiora",
-   "url": "https://en.wikipedia.org/wiki/Ui-te-Rangiora",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-18T08:29:38.000Z",
-   "summary": "14 points · 1 comments"
-  },
-  {
-   "id": "5d9b3f4a2214a776",
-   "title": "Parser Combinators",
-   "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-18T08:19:53.000Z",
-   "summary": "72 points · 37 comments"
-  },
-  {
-   "id": "012e3e7e58f279b7",
-   "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-   "url": "https://api-docs.deepseek.com/guides/search/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-18T06:50:36.000Z",
-   "summary": "143 points · 57 comments"
-  },
-  {
-   "id": "e1550fe675b1f87a",
-   "title": "JAXA is about to perform a Phobos sample return mission",
-   "url": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-18T06:40:55.000Z",
-   "summary": "5 points · 0 comments"
-  },
-  {
-   "id": "1db7523e57175710",
-   "title": "A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One",
-   "url": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-18T06:36:48.000Z",
-   "summary": "33 points · 30 comments"
-  },
-  {
-   "id": "cfdf0245c91859a0",
-   "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
-   "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-18T05:09:14.000Z",
-   "summary": "85 points · 55 comments"
-  },
-  {
-   "id": "a4aae96d45941644",
-   "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
-   "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-18T04:59:24.000Z",
-   "summary": "85 points · 14 comments"
-  },
-  {
-   "id": "c93eeab967b3f90f",
-   "title": "Notes on the Complex Roots of Unity",
-   "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-18T04:49:31.000Z",
-   "summary": "21 points · 2 comments"
-  },
-  {
-   "id": "416ddde973d83174",
-   "title": "Refurb weekend II: Alpha Micro Eagle 300 and friends",
-   "url": "http://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-18T04:48:47.000Z",
-   "summary": "10 points · 0 comments"
-  },
-  {
-   "id": "11c33faa700984df",
-   "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-   "url": "https://sphinx-six-theta.vercel.app/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-18T04:33:49.000Z",
-   "summary": "106 points · 30 comments"
-  },
-  {
-   "id": "2f44dd6f987218cc",
-   "title": "The ovary doesn't retire after menopause",
-   "url": "https://news.northwestern.edu/stories/2026/10/the-ovary-doesnt-retire-after-menopause?fj=1&user_id=66c4bf745d78644b3aa57b08",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-18T03:48:10.000Z",
-   "summary": "11 points · 1 comments"
-  },
-  {
-   "id": "31aa4c0b8bada042",
-   "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-   "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-18T03:19:49.000Z",
-   "summary": "121 points · 117 comments"
   }
  ]
 }
