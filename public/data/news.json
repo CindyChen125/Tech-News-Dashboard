@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T00:53:05.173Z",
+ "updatedAt": "2026-11-20T08:26:39.958Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,132 @@
  ],
  "items": [
   {
+   "id": "15c7a46add6a9105",
+   "title": "OpenAI is testing Dots personal agents on its $20 per month Plus tier",
+   "url": "https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-11-20T07:31:25.000Z",
+   "summary": "OpenAI is expanding access to Dots, the proactive AI agents that can work for you without any supervision or assistance."
+  },
+  {
+   "id": "e3d34f0ad6d92b38",
+   "title": "Former YC President: \"Stop!”",
+   "url": "https://geoffralston.substack.com/p/stop",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-20T06:43:08.000Z",
+   "summary": "24 points · 11 comments"
+  },
+  {
+   "id": "73a624a06913f8dc",
+   "title": "Uber Kids will let parents book trips for their children aged 10 to 12 years old",
+   "url": "https://www.engadget.com/2322650/uber-kids-rides-children-aged-10-to-12-years-old/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-20T06:27:26.000Z",
+   "summary": "Uber is testing rides for children ages 10 to 12 and will pay drivers more for them."
+  },
+  {
+   "id": "3d29ef9a968873f4",
+   "title": "Jujutsu Primer",
+   "url": "https://ethanlowman.com/posts/jj-primer/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-20T05:46:01.000Z",
+   "summary": "76 points · 40 comments"
+  },
+  {
+   "id": "2be88bfb013ca5dd",
+   "title": "Google's latest home page redesign makes Gemini even more prominent",
+   "url": "https://www.engadget.com/2322647/google-latest-home-page-redesign-makes-gemini-even-more-prominent/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-11-20T05:45:38.000Z",
+   "summary": "Google is doubling down on Gemini AI in its desktop search, despite complaints from users and employees alike."
+  },
+  {
+   "id": "776520653a637627",
+   "title": "FFmpeg 9.1 'Gauss'",
+   "url": "https://ffmpeg.org/download.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-20T04:02:39.000Z",
+   "summary": "93 points · 20 comments"
+  },
+  {
+   "id": "80f1419ca956327e",
+   "title": "GIMP now has UI tests",
+   "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-20T04:00:24.000Z",
+   "summary": "117 points · 95 comments"
+  },
+  {
+   "id": "4d5d28c029a69184",
+   "title": "PostgreSQL 19",
+   "url": "https://www.postgresql.org/docs/release/19.0/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-20T03:45:45.000Z",
+   "summary": "125 points · 3 comments"
+  },
+  {
+   "id": "9937fec33be226a5",
+   "title": "What Comes After AGI?",
+   "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-20T02:44:13.000Z",
+   "summary": "32 points · 63 comments"
+  },
+  {
+   "id": "5f504e154b2fc847",
+   "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+   "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-20T02:43:49.000Z",
+   "summary": "75 points · 8 comments"
+  },
+  {
+   "id": "4536919bbcd02d83",
+   "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+   "url": "https://github.com/openssl/openssl/pull/33652",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-20T02:01:09.000Z",
+   "summary": "198 points · 146 comments"
+  },
+  {
+   "id": "30c53e2081e85e4c",
+   "title": "WhatsApp is raising group chat limit to 1,500 participants",
+   "url": "https://9to5mac.com/2026/11/19/whatsapp-is-raising-group-chat-limit-to-1500-participants/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-20T01:54:39.000Z",
+   "summary": "WhatsApp is gradually rolling out an increase to its group chat limit, allowing up to 1,500 participants to join in, instead of the previous 1,024 cap. Here are the details. more…"
+  },
+  {
+   "id": "85edf293246cd558",
+   "title": "Vint Cerf on why TCP/IP was never patented",
+   "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-20T01:06:12.000Z",
+   "summary": "94 points · 38 comments"
+  },
+  {
+   "id": "e8e3104e2558d67e",
+   "title": "Apple may be developing its own AI agent that runs your Mac",
+   "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-20T00:56:01.000Z",
+   "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
+  },
+  {
    "id": "3ffcaeea50a73633",
    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
@@ -98,6 +224,15 @@
    "section": "ai",
    "publishedAt": "2026-11-20T00:26:03.000Z",
    "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open-source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust."
+  },
+  {
+   "id": "b2a42716e98340d1",
+   "title": "ChatGPT for SNES",
+   "url": "https://www.bxfoundry.com/chatgpt_snes/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-20T00:25:59.000Z",
+   "summary": "71 points · 21 comments"
   },
   {
    "id": "4430dc38ae4cc549",
@@ -3547,6 +3682,15 @@
    "summary": "283 points · 81 comments"
   },
   {
+   "id": "febcb8f1e48ee74f",
+   "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+   "url": "https://notesbylex.com/weight-space-programming-1990s",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-17T22:11:46.000Z",
+   "summary": "75 points · 5 comments"
+  },
+  {
    "id": "54a3bd96e95dff24",
    "title": "Report: iPhone set to gain market share in 2027 amid industry-wide slump",
    "url": "https://9to5mac.com/2026/11/17/report-iphone-set-to-gain-market-share-in-2027-amid-industry-wide-slump/",
@@ -3734,6 +3878,15 @@
    "section": "tech",
    "publishedAt": "2026-11-17T20:19:51.000Z",
    "summary": "iOS 27.3 will introduce an all-new Apple Health experience when it ships next month, but you’ll need an AI-compatible iPhone to get it. Here’s why. more…"
+  },
+  {
+   "id": "056a42cbe39e85b0",
+   "title": "Automatic Checking of Compiler Correctness with E-Graphs",
+   "url": "https://stng.substack.com/p/automatic-checking-of-compiler-correctness",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-17T20:12:34.000Z",
+   "summary": "21 points · 0 comments"
   },
   {
    "id": "fe7913cbf7b8c5d8",
@@ -5437,6 +5590,15 @@
    "summary": "92 points · 35 comments"
   },
   {
+   "id": "ca78db2eab583a7e",
+   "title": "The Strongest Sokoban Solver",
+   "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T21:04:01.000Z",
+   "summary": "11 points · 1 comments"
+  },
+  {
    "id": "0d9fb5a2ebdc96c4",
    "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
    "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
@@ -5597,6 +5759,15 @@
    "section": "tech",
    "publishedAt": "2026-11-16T20:16:50.000Z",
    "summary": "185 points · 120 comments"
+  },
+  {
+   "id": "2192e2b606b22b37",
+   "title": "Frankenstein PBC – Animation, bestowed upon lifeless matter",
+   "url": "https://www.frankensteinpbc.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T20:10:38.000Z",
+   "summary": "17 points · 5 comments"
   },
   {
    "id": "4562d1a297b1384a",
@@ -5831,6 +6002,15 @@
    "section": "ai",
    "publishedAt": "2026-11-16T19:10:09.000Z",
    "summary": "Trump bets China won’t mind US blocking remote access to AI chips."
+  },
+  {
+   "id": "df9551adebba07b7",
+   "title": "Bit Shifting in Basic",
+   "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-16T19:04:36.000Z",
+   "summary": "32 points · 2 comments"
   },
   {
    "id": "4bee76e432470717",
@@ -47519,294 +47699,6 @@
    "section": "tech",
    "publishedAt": "2026-10-21T08:35:00.000Z",
    "summary": "Apple retail stores in Bordeaux and Lille were looted earlier this week amid unrest accompanying demonstrations against the high cost of living in France, Boursorama reports. Both locations were among numerous businesses targeted across the country. The same Bordeaux location, Apple…"
-  },
-  {
-   "id": "9b90028c7c35184f",
-   "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
-   "url": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-21T08:17:35.000Z",
-   "summary": "13 points · 5 comments"
-  },
-  {
-   "id": "6795338991b02b14",
-   "title": "Bluesound Adds Native Apple Music Support",
-   "url": "https://www.macrumors.com/2026/10/21/bluesound-adds-native-apple-music-support/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-21T08:06:00.000Z",
-   "summary": "Apple Music subscribers can now stream directly to compatible Bluesound speakers and hi-fi equipment, allowing playback without sending audio via AirPlay 2. Bluesound offers a range of high-end home audio products ranging from wireless speakers and soundbars to streaming components that connect to…"
-  },
-  {
-   "id": "90d820e47e8533ea",
-   "title": "Apple CEO John Ternus Explains What Makes Good Product Design",
-   "url": "https://www.macrumors.com/2026/10/21/john-ternus-explains-good-design/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-21T07:03:00.000Z",
-   "summary": "Apple CEO John Ternus says improving the user's experience guides Apple's design decisions, whether that means adding practical features or an animation that simply makes a device more enjoyable to use. TIME published an interview with Ternus last week, and released the video version on Tuesday…"
-  },
-  {
-   "id": "10ac5adb185cbdb8",
-   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-10-21T07:00:00.000Z",
-   "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
-  },
-  {
-   "id": "af58496f0a9714f3",
-   "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-   "url": "https://openai.com/index/building-chatgpt-ad-stack",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-10-21T07:00:00.000Z",
-   "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
-  },
-  {
-   "id": "35ce124c8245d4bc",
-   "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-   "url": "https://alterauth.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-21T06:42:12.000Z",
-   "summary": "18 points · 16 comments"
-  },
-  {
-   "id": "af15abc970cb78b8",
-   "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
-   "url": "https://pragtical.dev/blog/pragtical-v3140-release",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-21T06:09:04.000Z",
-   "summary": "7 points · 1 comments"
-  },
-  {
-   "id": "f68c56ad66ce8e12",
-   "title": "C vs. C#: racing VLC's Gaussian blur",
-   "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-21T05:48:12.000Z",
-   "summary": "41 points · 1 comments"
-  },
-  {
-   "id": "59a6ec2095be6dc5",
-   "title": "Pillowfort Is Closing",
-   "url": "https://www.pillowfort.social/posts/8413273",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-21T05:05:37.000Z",
-   "summary": "29 points · 19 comments"
-  },
-  {
-   "id": "02f6123265256ff5",
-   "title": "Battlezone Online: BZFlag in the Browser",
-   "url": "https://github.com/timriker/bzo",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-21T05:05:19.000Z",
-   "summary": "20 points · 11 comments"
-  },
-  {
-   "id": "d928144c55f233fc",
-   "title": "UK Proposes New Ways to Help Apple Pay Rivals",
-   "url": "https://www.macrumors.com/2026/10/21/uk-proposes-to-help-apple-pay-rivals/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-21T04:57:09.000Z",
-   "summary": "The UK's competition regulator has proposed changes to make it easier and cheaper for companies to offer alternatives to Apple Pay on the iPhone (via Reuters). The Competition and Markets Authority (CMA) says Apple's fees and restrictions make it too difficult for rivals to launch contactless…"
-  },
-  {
-   "id": "393ba4e96c9ab4b8",
-   "title": "Using thousands of AI agents to uncover new leads in biological data",
-   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-   "source": "OpenAI",
-   "section": "ai",
-   "publishedAt": "2026-10-21T04:50:00.000Z",
-   "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
-  },
-  {
-   "id": "0dc621a14e4368f8",
-   "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
-   "url": "https://github.com/xamrayev/nexus-cli",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-21T04:37:18.000Z",
-   "summary": "10 points · 2 comments"
-  },
-  {
-   "id": "a398133f8572e96c",
-   "title": "Using LLM for confidence scoring is a bad idea",
-   "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-21T04:27:51.000Z",
-   "summary": "45 points · 28 comments"
-  },
-  {
-   "id": "c6586e840fbf1993",
-   "title": "WhatsApp Developing In-App Browser for All Chat Links on iPhone",
-   "url": "https://www.macrumors.com/2026/10/21/whatsapp-developing-browser-for-chat-links/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-21T04:15:09.000Z",
-   "summary": "WhatsApp is developing an optional in-app browser for its iPhone app that would let users open any link shared in chats without leaving the app, according to WABetaInfo. Settings and Chats would let users enable the feature or continue opening links in their default browser. Users would also be…"
-  },
-  {
-   "id": "7d4643a4a86d9a8c",
-   "title": "Southeast Asia’s digital economy to hit $368 billion",
-   "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-   "source": "Google AI",
-   "section": "ai",
-   "publishedAt": "2026-10-21T04:00:00.000Z",
-   "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
-  },
-  {
-   "id": "af26f3af868faf9b",
-   "title": "Apple's App Store Chief Explains Its Push for Premium Games",
-   "url": "https://www.macrumors.com/2026/10/20/app-store-chief-explains-premium-games-push/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-21T03:58:10.000Z",
-   "summary": "More premium games are launching on the App Store this year than last, Apple's ‌App Store‌ Worldwide head Carson Oliver told Polygon, including more franchises coming from PC and consoles. Oliver said: We've seen incredible growth of games coming to the App Store, in general, with more premium…"
-  },
-  {
-   "id": "6898123bb5351e1b",
-   "title": "Setting Up SSH Keys on macOS with Touch ID",
-   "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-21T03:51:25.000Z",
-   "summary": "28 points · 18 comments"
-  },
-  {
-   "id": "867ca172301daaad",
-   "title": "Using Claude to reduce the attack surface of code",
-   "url": "https://www.anthropic.com/research/attack-surface-reduction",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-21T03:36:43.000Z",
-   "summary": "22 points · 5 comments"
-  },
-  {
-   "id": "ce5f8c11e134113a",
-   "title": "The Best Monopoly Strategy, Tested on 300M Games [video]",
-   "url": "https://www.youtube.com/watch?v=S_2eVAaw1UM",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-21T03:30:11.000Z",
-   "summary": "22 points · 12 comments"
-  },
-  {
-   "id": "3a2325ebb89e31ba",
-   "title": "Apple Could Owe Even More After $5.7 Billion Patent Verdict",
-   "url": "https://www.macrumors.com/2026/10/20/apple-could-owe-more-after-patent-verdict/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-21T03:24:11.000Z",
-   "summary": "Apple could face additional payments on top of a $5.7 billion patent verdict, with Taction Technology asking a federal judge for more damages, interest, and royalties on future iPhone and Apple Watch sales. The request follows a September jury verdict that Apple's Taptic Engine infringed two…"
-  },
-  {
-   "id": "ee18e72dbac0698d",
-   "title": "Skyrim Comes to Apple Silicon Macs With New Unofficial Installer",
-   "url": "https://www.macrumors.com/2026/10/20/skyrim-comes-to-apple-silicon-macs/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-21T02:56:30.000Z",
-   "summary": "Bethesda's beloved role-playing game \"The Elder Scrolls V: Skyrim\" has reached multiple generations of consoles since its 2011 debut, but it never officially came to the Mac. A new unofficial project called SkyrimMT now aims to make playing and modding it on Apple silicon Macs easier than ever. Mac…"
-  },
-  {
-   "id": "842be082683a1063",
-   "title": "C# now beats Rust on WASM size",
-   "url": "https://github.com/zion-sati/NetWasm",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-21T02:53:47.000Z",
-   "summary": "26 points · 3 comments"
-  },
-  {
-   "id": "a23b3268fec8f410",
-   "title": "Apple Highlights Mac and iPad Use in Paris Design Exhibition",
-   "url": "https://www.macrumors.com/2026/10/20/apple-highlights-paris-design-exhibition/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-21T02:29:08.000Z",
-   "summary": "Apple has showcased four design projects created using its products for this year's \"Designers of Tomorrow\" exhibition in Paris. The exhibition explores the theme of presence through furniture and lighting. Architect Salem S. Charabi used a MacBook Pro to sketch and model a lantern, while designer…"
-  },
-  {
-   "id": "b8ed1b00c0d37c6f",
-   "title": "iPad Mini 8 With These 10 New Features Expected Today or Tomorrow",
-   "url": "https://www.macrumors.com/2026/10/26/ipad-mini-8-10-rumored-features/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-21T02:19:49.000Z",
-   "summary": "Apple reportedly plans to unveil an iPad mini 8 with an OLED display this week, with those invited to Apple's Los Angeles experience on Wednesday, October 28 expected to receive hands-on time with the device, alongside MacBook Pro models with touch-enabled OLED displays, a 14-inch MacBook Pro with…"
-  },
-  {
-   "id": "ed528c646302a8b9",
-   "title": "PHP warns it plans to release 2 emergency patches imminently",
-   "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-10-21T02:12:18.000Z",
-   "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
-  },
-  {
-   "id": "e5df997ea30f4d18",
-   "title": "In Hilbert space, all things are quantumly possible",
-   "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-21T02:04:15.000Z",
-   "summary": "73 points · 36 comments"
-  },
-  {
-   "id": "9acd53c85bf0ef24",
-   "title": "The Future of CSS",
-   "url": "https://www.joshwcomeau.com/css/interop-2027/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-21T01:47:28.000Z",
-   "summary": "252 points · 99 comments"
-  },
-  {
-   "id": "acde3a93110b9df0",
-   "title": "Good type against all odds",
-   "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-21T01:45:07.000Z",
-   "summary": "7 points · 1 comments"
-  },
-  {
-   "id": "6238ab326543923d",
-   "title": "Apple is looking for a cellular modem engineer to help shape its transition to 6G",
-   "url": "https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-21T01:18:32.000Z",
-   "summary": "Apple is looking for an experienced cellular modem systems engineer to help develop its next generation of cellular modems as the company transitions toward 6G. Here are the details. more…"
-  },
-  {
-   "id": "683f8c8c201d118d",
-   "title": "Show HN: An icon for every city in North America",
-   "url": "https://evans.bike/naicons",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-21T01:03:39.000Z",
-   "summary": "15 points · 7 comments"
-  },
-  {
-   "id": "0b092f54d5dbff8d",
-   "title": "Dark comedy ‘Where’s Wanda?’ season 2 premieres on Apple TV",
-   "url": "https://9to5mac.com/2026/10/20/dark-comedy-wheres-wanda-season-2-premieres-on-apple-tv/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-21T01:01:09.000Z",
-   "summary": "German-language dark comedy “Where’s Wanda?” is back on Apple TV, with the first episode of its second season now streaming. Here are the details. more…"
   }
  ]
 }
