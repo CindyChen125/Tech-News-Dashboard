@@ -1,5 +1,509 @@
 [
  {
+  "id": "b5e3d6a000d1c3ec",
+  "title": "Show HN: Making a smart TV dumb and then smart",
+  "url": "https://github.com/anubhavmalhotra/r2d2-tv",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-23T00:10:45.000Z",
+  "summary": "49 points · 8 comments"
+ },
+ {
+  "id": "56b5a4707d71564a",
+  "title": "Etsy is cracking down on AI slop listings",
+  "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+  "source": "The Verge",
+  "section": "ai",
+  "publishedAt": "2026-10-23T00:09:58.000Z",
+  "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing…"
+ },
+ {
+  "id": "587ea999682559df",
+  "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+  "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+  "source": "OpenAI",
+  "section": "ai",
+  "publishedAt": "2026-10-23T00:00:00.000Z",
+  "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+ },
+ {
+  "id": "442270c4bd29d99b",
+  "title": "Does Your Model Run on AWS Trainium? Look It Up",
+  "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "source": "Hugging Face",
+  "section": "ai",
+  "publishedAt": "2026-10-23T00:00:00.000Z",
+  "summary": ""
+ },
+ {
+  "id": "87b25ccfc036a868",
+  "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+  "url": "https://openai.com/index/anima",
+  "source": "OpenAI",
+  "section": "ai",
+  "publishedAt": "2026-10-23T00:00:00.000Z",
+  "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients."
+ },
+ {
+  "id": "d639a513c3136e72",
+  "title": "Mapping the Northern Sky",
+  "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-22T23:56:39.000Z",
+  "summary": "14 points · 4 comments"
+ },
+ {
+  "id": "5406d65b455fcc7b",
+  "title": "Jank – The native Clojure dialect with seamless C++ interop",
+  "url": "https://jank-lang.org/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-22T23:56:36.000Z",
+  "summary": "6 points · 0 comments"
+ },
+ {
+  "id": "991c7c72528b9c4f",
+  "title": "Show HN: Impossible Machines: declaratively program the physical world",
+  "url": "https://www.impossiblemachines.xyz/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-22T23:54:28.000Z",
+  "summary": "10 points · 0 comments"
+ },
+ {
+  "id": "e7c66a5f6903e024",
+  "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+  "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+  "source": "TechCrunch",
+  "section": "tech",
+  "publishedAt": "2026-10-22T23:50:41.000Z",
+  "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law."
+ },
+ {
+  "id": "0d6cfc3f69d0bc15",
+  "title": "Docker is weird",
+  "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-22T23:45:56.000Z",
+  "summary": "118 points · 44 comments"
+ },
+ {
+  "id": "623c843f4ded8b74",
+  "title": "AI compute is the new oil–and needs a new market",
+  "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-22T23:45:16.000Z",
+  "summary": "16 points · 8 comments"
+ },
+ {
+  "id": "95cf989127050e72",
+  "title": "Strava revamps route discovery with smarter search, offline improvements, more",
+  "url": "https://9to5mac.com/2026/10/22/strava-revamps-route-discovery-with-smarter-search-offline-improvements-more/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-22T23:29:15.000Z",
+  "summary": "Strava today announced a set of new features aimed at improving route planning and discovery for runs, hikes, and rides. Here are the details. more…"
+ },
+ {
+  "id": "f06cd9b8066141ea",
+  "title": "We have traits at home",
+  "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-22T23:24:17.000Z",
+  "summary": "10 points · 0 comments"
+ },
+ {
+  "id": "f59e6b9eaa0b9289",
+  "title": "Retro game emulator Delta looks great on the iPhone Duo",
+  "url": "https://9to5mac.com/2026/10/22/retro-game-emulator-delta-looks-great-on-the-iphone-duo/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-22T23:23:32.000Z",
+  "summary": "The popular retro game emulator Delta has today launched a big new 2.0 version, most notably featuring a refreshed Liquid Glass interface and support for the iPhone Duo. The app now has specially-designed controller skins that are optimized for all the different iPhone Duo poses, including some…"
+ },
+ {
+  "id": "400367ff89fa56df",
+  "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+  "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+  "source": "TechCrunch",
+  "section": "tech",
+  "publishedAt": "2026-10-22T23:15:00.000Z",
+  "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement."
+ },
+ {
+  "id": "3c256072d88310cd",
+  "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+  "url": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-22T23:02:43.000Z",
+  "summary": "Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a…"
+ },
+ {
+  "id": "b9c2471b6fee9fad",
+  "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+  "url": "https://edjefferson.com/localwiki/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-22T23:01:18.000Z",
+  "summary": "128 points · 25 comments"
+ },
+ {
+  "id": "ec0971132fe80d5e",
+  "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+  "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-22T23:00:00.000Z",
+  "summary": "An Xbox Elite controller. | Photo by Antonio G. Di Benedetto / The Verge Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction…"
+ },
+ {
+  "id": "ca664c9883d646a4",
+  "title": "LLMs are making formal software verification feasible at a much larger scale",
+  "url": "https://www.anthropic.com/research/formal-verification",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-22T22:54:43.000Z",
+  "summary": "113 points · 56 comments"
+ },
+ {
+  "id": "58c7f4d1167417fd",
+  "title": "Canadians are running out of time to oppose Bill C-22",
+  "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-22T22:43:19.000Z",
+  "summary": "61 points · 9 comments"
+ },
+ {
+  "id": "716c3dd841289cec",
+  "title": "MacBook Neo helps Apple soften the blow of global PC market downturn, per report",
+  "url": "https://9to5mac.com/2026/10/22/macbook-neo-helps-apple-soften-the-blow-of-global-pc-market-downturn-per-report/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-22T22:35:38.000Z",
+  "summary": "A new Counterpoint Research report on global PC shipments for Q3 2026 shows Apple outperforming the broader market, with the MacBook Neo helping cushion the impact of declining demand. Here are the details. more…"
+ },
+ {
+  "id": "506c8c3c1e6d114c",
+  "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+  "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+  "source": "TechCrunch",
+  "section": "tech",
+  "publishedAt": "2026-10-22T22:34:54.000Z",
+  "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope."
+ },
+ {
+  "id": "4bcf20eb3d871f1e",
+  "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+  "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+  "source": "Ars Technica",
+  "section": "tech",
+  "publishedAt": "2026-10-22T22:25:33.000Z",
+  "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter."
+ },
+ {
+  "id": "1b261e3caa9e6eb4",
+  "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+  "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+  "source": "Hugging Face",
+  "section": "ai",
+  "publishedAt": "2026-10-22T22:24:34.000Z",
+  "summary": ""
+ },
+ {
+  "id": "aeb7318464ec5fa5",
+  "title": "9to5Mac Daily: October 22, 2026 – iOS 27.2 features, Apple Music rebrand",
+  "url": "https://9to5mac.com/2026/10/22/daily-october-22-2026/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-22T22:23:46.000Z",
+  "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze: Backup you can rely on. Save 20% with code…"
+ },
+ {
+  "id": "77c60988d8be54d8",
+  "title": "iPhone Duo Launch Begins as First Orders Reach Customers",
+  "url": "https://www.macrumors.com/2026/10/22/iphone-duo-australia-launch/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-22T22:21:59.000Z",
+  "summary": "It's already Friday, October 23 in Australia and New Zealand, which means customers who pre-ordered an iPhone Duo are beginning to receive their devices. We are seeing first impressions and early photos from actual customers on the MacRumors forums, Instagram, Reddit, and other social networks. If…"
+ },
+ {
+  "id": "c9842f7380335710",
+  "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
+  "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-22T22:18:40.000Z",
+  "summary": "4 points · 0 comments"
+ },
+ {
+  "id": "8d0dc82e745cb7a0",
+  "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+  "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+  "source": "Ars Technica",
+  "section": "tech",
+  "publishedAt": "2026-10-22T22:12:19.000Z",
+  "summary": "Markers released top-line results today after previously reporting the trial succeeded."
+ },
+ {
+  "id": "17ebf2963fb89b71",
+  "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+  "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+  "source": "TechCrunch",
+  "section": "ai",
+  "publishedAt": "2026-10-22T22:08:24.000Z",
+  "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
+ },
+ {
+  "id": "13dc2ea273de885f",
+  "title": "YouTube removing ‘Subscriptions’ bottom bar tab on Android, iOS after nearly a decade",
+  "url": "https://9to5google.com/2026/10/22/youtube-subscriptions-android-ios/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-22T22:07:34.000Z",
+  "summary": "YouTube is making a number of changes to its Android and iOS apps with the launch of custom feeds, including moving Subscriptions out of the bottom bar. more…"
+ },
+ {
+  "id": "aea269730d222c92",
+  "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+  "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+  "source": "Ars Technica",
+  "section": "tech",
+  "publishedAt": "2026-10-22T21:52:31.000Z",
+  "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\""
+ },
+ {
+  "id": "88f731ea322db75d",
+  "title": "Canva’s first AI image model plans designs before generating them",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+  "source": "The Verge",
+  "section": "ai",
+  "publishedAt": "2026-10-22T21:51:25.000Z",
+  "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater…"
+ },
+ {
+  "id": "d3e38b91602b41a1",
+  "title": "How does Fable 5.1 hide messages in images?",
+  "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-22T21:41:13.000Z",
+  "summary": "26 points · 2 comments"
+ },
+ {
+  "id": "dbba421b52b67ad3",
+  "title": "Apple TV’s long-awaited Fleetwood Mac documentary finally has a release date",
+  "url": "https://9to5mac.com/2026/10/22/apple-tvs-long-awaited-fleetwood-mac-documentary-finally-has-a-release-date/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-22T21:38:44.000Z",
+  "summary": "Nearly two years after it was first announced, Fleetwood Mac fans won’t have to wait much longer for Frank Marshall’s documentary about the legendary band to arrive on Apple TV. Here are the details. more…"
+ },
+ {
+  "id": "773a6f73965a077c",
+  "title": "Railpass",
+  "url": "https://train.samismith.com/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-22T21:38:32.000Z",
+  "summary": "25 points · 6 comments"
+ },
+ {
+  "id": "8350557d3077192e",
+  "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+  "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-22T21:30:39.000Z",
+  "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a…"
+ },
+ {
+  "id": "2f6f9a8b70404211",
+  "title": "1Password for Agents Keeps Your Passwords Hidden From AI",
+  "url": "https://www.macrumors.com/2026/10/22/1password-for-agents/",
+  "source": "MacRumors",
+  "section": "ai",
+  "publishedAt": "2026-10-22T21:28:01.000Z",
+  "summary": "Popular password management app 1Password today announced 1Password for Agents, a platform that gives AI agents safe access to user credentials for completing tasks. The platform lets AI agents access logins, passwords, and other data without seeing or storing the information. Agents can send a…"
+ },
+ {
+  "id": "d4d2c11eb2c03940",
+  "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+  "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-22T21:24:41.000Z",
+  "summary": "163 points · 58 comments"
+ },
+ {
+  "id": "6826f118de9b2bca",
+  "title": "Designing an AI serving harness built to last",
+  "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+  "source": "MIT Tech Review",
+  "section": "ai",
+  "publishedAt": "2026-10-22T21:17:29.000Z",
+  "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context…"
+ },
+ {
+  "id": "1b012b4910e27cd7",
+  "title": "Fall 2026 earnings watch",
+  "url": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-22T21:15:16.000Z",
+  "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies…"
+ },
+ {
+  "id": "416a45f07440b8c4",
+  "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+  "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+  "source": "Ars Technica",
+  "section": "tech",
+  "publishedAt": "2026-10-22T21:07:09.000Z",
+  "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base."
+ },
+ {
+  "id": "b681c951e3c4c498",
+  "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+  "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+  "source": "TechCrunch",
+  "section": "tech",
+  "publishedAt": "2026-10-22T21:05:05.000Z",
+  "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator."
+ },
+ {
+  "id": "072416064c6be19f",
+  "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+  "url": "https://news.ycombinator.com/item?id=50200997",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-22T21:03:55.000Z",
+  "summary": "243 points · 245 comments"
+ },
+ {
+  "id": "760aac68561b5dfe",
+  "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
+  "url": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-22T21:00:14.000Z",
+  "summary": "52 points · 10 comments"
+ },
+ {
+  "id": "954604243cf1fe1b",
+  "title": "A new subscription service promises an evolving collection of 'bold and bizarre' indie games",
+  "url": "https://www.engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-22T20:57:17.000Z",
+  "summary": "Publisher Pantaloon says the Playbill won't feature games that use generative AI in any way."
+ },
+ {
+  "id": "d108017e16f890ca",
+  "title": "iPhone Duo 24 Hours Later: Your Questions Answered",
+  "url": "https://www.macrumors.com/2026/10/22/iphone-duo-24-hours-hands-on/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-22T20:55:51.000Z",
+  "summary": "MacRumors videographer Dan Barbera got his iPhone Duo a day early, so he spent today answering some of the questions people are asking about the new device. On app optimization, some apps scale to fill the Duo's screen, and others have been updated for the actual Duo form factor with unique…"
+ },
+ {
+  "id": "af0ac9bc0e540500",
+  "title": "Meta’s AI could still scrape news sites, legal experts say",
+  "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+  "source": "The Verge",
+  "section": "ai",
+  "publishedAt": "2026-10-22T20:32:05.000Z",
+  "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services'…"
+ },
+ {
+  "id": "00810c91d6879c95",
+  "title": "iOS 27 adds new Phone app feature that’s an instant favorite",
+  "url": "https://9to5mac.com/2026/10/22/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-22T20:29:15.000Z",
+  "summary": "iOS 27 is packed with new features for apps like Notes, Wallet, Maps, Messages, and more. But one iOS 27 addition that’s especially impressed me is a new Phone feature: Call Context. more…"
+ },
+ {
+  "id": "544a59c6f666394a",
+  "title": "Meta turns Muse sharing back on",
+  "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-22T20:24:04.000Z",
+  "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at…"
+ },
+ {
+  "id": "7104a4dd79b0c81d",
+  "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+  "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-22T20:23:48.000Z",
+  "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain \"foreign…"
+ },
+ {
+  "id": "09cc6447e1a1d1e4",
+  "title": "Spotify's Family plan QR code could cost you Premium access",
+  "url": "https://www.engadget.com/2294799/spotify-family-plan-qr-code-cost-premium-access/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-22T20:19:19.000Z",
+  "summary": "Spotify is trying to make some Premium Family members prove they live at the same address."
+ },
+ {
+  "id": "0ac8e5328ea5b810",
+  "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+  "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+  "source": "Ars Technica",
+  "section": "tech",
+  "publishedAt": "2026-10-22T20:17:52.000Z",
+  "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site."
+ },
+ {
+  "id": "f50660bde21d0bdd",
+  "title": "Apple's iWork Apps Get 'Intelligent Assistant' and iPhone Duo Support",
+  "url": "https://www.macrumors.com/2026/10/22/iwork-apps-intelligent-assistant/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-22T20:15:24.000Z",
+  "summary": "Apple today added an \"Intelligent Assistant\" to Keynote, Numbers, and Pages. The feature is available in beta for Apple Creator Studio subscribers. The update is available again following the temporary removal of the apps from the App Store. In Numbers, Intelligent Assistant can build formulas…"
+ },
+ {
+  "id": "27cb56fdc389e0c4",
+  "title": "iPhone Duo hands-on review, Apple announces MacBook Pro and Tell event",
+  "url": "https://9to5mac.com/2026/10/22/happy-hour-613/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-22T20:13:51.000Z",
+  "summary": "Ahead of its official launch, Chance has spent a week with the iPhone Duo and he is here to tell us all about his experiences with Apple’s new foldable phone, including the various poses, state of the software, Touch ID versus Face ID, battery life and more. Also, Apple announces yet another…"
+ },
+ {
+  "id": "cffef10e411420e7",
+  "title": "Apple is Apparently Considering a Slightly Larger iPhone Duo",
+  "url": "https://www.macrumors.com/2026/10/22/slightly-larger-iphone-duo-rumor/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-22T20:10:38.000Z",
+  "summary": "On a new episode of his Power On podcast, Bloomberg's Mark Gurman said he \"heard\" that Apple is \"looking at\" the idea of a future iPhone Duo with an inner display that is \"roughly half an inch\" larger than the one on the existing model. Related Roundup: iPhone Duo Tag: Mark Gurman Buyer's Guide…"
+ },
+ {
+  "id": "d6be9136c7e8a3b3",
+  "title": "Rhode Island sues Meta over its approach to scam ads",
+  "url": "https://www.engadget.com/2294778/rhode-island-sues-meta-over-its-approach-to-scam-ads/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-22T20:05:26.000Z",
+  "summary": "It's the first state to sue the social media company on these allegations."
+ },
+ {
   "id": "37fcc84d8f1b09c4",
   "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
   "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
