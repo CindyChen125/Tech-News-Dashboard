@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T21:42:40.203Z",
+ "updatedAt": "2026-11-23T02:36:35.641Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -82,6 +82,240 @@
  ],
  "items": [
   {
+   "id": "232ab54fa3def171",
+   "title": "Here's how much Starlink cost in 2020 vs. 2026",
+   "url": "https://www.engadget.com/2319572/how-much-starlink-cost-2020-vs-2026/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-23T01:30:00.000Z",
+   "summary": "Throw in discounts and fluctuating rates, and two customers could end up paying vastly different bills for the same Starlink satellite service."
+  },
+  {
+   "id": "6e125e50be07fc2b",
+   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+   "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+   "source": "TechCrunch",
+   "section": "ai",
+   "publishedAt": "2026-11-23T01:25:53.000Z",
+   "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+  },
+  {
+   "id": "cfc13bb6930ea3b4",
+   "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+   "url": "https://spelunkr.tv/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-23T01:13:51.000Z",
+   "summary": "79 points · 11 comments"
+  },
+  {
+   "id": "d8d752d4bf853fe4",
+   "title": "What we learned operating auth for 1k APIs",
+   "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-23T01:01:11.000Z",
+   "summary": "8 points · 2 comments"
+  },
+  {
+   "id": "35d9e5ee6f509b5b",
+   "title": "How to clear your cache on Google TV",
+   "url": "https://www.engadget.com/2319567/how-to-clear-cache-google-tv/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-23T01:00:00.000Z",
+   "summary": "Clearing your Google TV's cache isn't a one-size-fits-all solution, but it's a useful first step if you're having performance issues or glitches."
+  },
+  {
+   "id": "0bb196313ece40b1",
+   "title": "This free 'Swiss Army Knife' for macOS can replace your utility apps",
+   "url": "https://www.engadget.com/2319565/vorssaint-free-swiss-army-knife-macos-replace-utility-apps/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-23T00:45:00.000Z",
+   "summary": "Vorssaint is a powerful, modular utility suite, provided permissions are carefully managed."
+  },
+  {
+   "id": "1b62148083516e72",
+   "title": "Should you go with a headphone DAC/amp combo or a stack?",
+   "url": "https://www.engadget.com/2311788/headphone-dac-amp-combo-vs-stack/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-23T00:30:00.000Z",
+   "summary": "If your computer's headphone jack isn't cutting it anymore, it's time to get a DAC and headphone amp. But do you go for a combo DAC/amp or a stack?"
+  },
+  {
+   "id": "2c0c371742b51d74",
+   "title": "8 Windows apps you should probably remove from your PC",
+   "url": "https://www.engadget.com/2317781/windows-apps-remove-from-pc/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-23T00:15:00.000Z",
+   "summary": "From pre-installed junk to popular apps that have better alternatives, these are the apps you should clean off your PC if they're present."
+  },
+  {
+   "id": "cd1804708dc499ab",
+   "title": "Public vs. private IP addresses: what's the difference?",
+   "url": "https://www.engadget.com/2310692/public-vs-private-ip-addresses-differences/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-23T00:00:00.000Z",
+   "summary": "One identifies your network, the other identifies the devices using your network."
+  },
+  {
+   "id": "cc8f9c2669c7ab8a",
+   "title": "Nespresso's project to reduce grams of coffee per capsule",
+   "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-22T23:57:45.000Z",
+   "summary": "106 points · 93 comments"
+  },
+  {
+   "id": "7ed0480029137ef1",
+   "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+   "url": "https://0rwx.com/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-22T23:53:00.000Z",
+   "summary": "19 points · 6 comments"
+  },
+  {
+   "id": "978173c819a83746",
+   "title": "What is the best way to secure your PlayStation 5 for a flight?",
+   "url": "https://www.engadget.com/2319558/best-way-secure-playstation-5-for-flight-travel/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-22T23:45:00.000Z",
+   "summary": "You don't have to leave your precious PS5 behind when flying, but you will need to take some precautions or opt for a long-distance streaming relationship."
+  },
+  {
+   "id": "0bbd45b3309170d5",
+   "title": "How to use AI glasses as a teleprompter",
+   "url": "https://www.engadget.com/2319553/how-to-use-ai-glasses-as-teleprompter/",
+   "source": "Engadget",
+   "section": "ai",
+   "publishedAt": "2026-11-22T23:30:00.000Z",
+   "summary": "If you have the right type of smart glasses, this is an easy feature to enable."
+  },
+  {
+   "id": "f1d7fe6789e95fe3",
+   "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+   "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-22T23:12:10.000Z",
+   "summary": "161 points · 136 comments"
+  },
+  {
+   "id": "e01323c190f90117",
+   "title": "GL.iNet Security Notice 2026-11-20",
+   "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-22T23:06:37.000Z",
+   "summary": "98 points · 43 comments"
+  },
+  {
+   "id": "f97a5c810b08e2e5",
+   "title": "The pros and cons of sharing your location",
+   "url": "https://www.engadget.com/2319550/pros-and-cons-sharing-your-location/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-22T23:00:00.000Z",
+   "summary": "Location sharing has perks from tracking lost gear to staying safe on a night out. Learn what you gain and what you give up before you share."
+  },
+  {
+   "id": "d8da647a6b72c6ce",
+   "title": "We haven’t seen the last of the major tech outages",
+   "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-22T22:48:02.000Z",
+   "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The…"
+  },
+  {
+   "id": "4197e921c4ba77de",
+   "title": "Can you safely use a 140w charger on an iPhone?",
+   "url": "https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-22T22:30:00.000Z",
+   "summary": "A 140-watt charger is far more juice than your iPhone needs, but does that really matter? Yes and no -- we can explain."
+  },
+  {
+   "id": "4970d3bb7dab9f0e",
+   "title": "Localcode, open source agentic coding on your Mac with one command",
+   "url": "https://github.com/mjwsolo/localcode",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-22T22:18:48.000Z",
+   "summary": "26 points · 7 comments"
+  },
+  {
+   "id": "9ab9d26b8aae0637",
+   "title": "This free app connects your Android phone to your Windows PC wirelessly",
+   "url": "https://www.engadget.com/2319544/free-app-connects-android-phone-windows-pc-wirelessly-plainapp/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-22T22:15:00.000Z",
+   "summary": "Connecting your Android phone to your Windows PC wirelessly doesn't have to cost money or require a multi-step setup, as this free app proves."
+  },
+  {
+   "id": "b49d0ef628ebb19b",
+   "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+   "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-22T22:10:58.000Z",
+   "summary": "67 points · 14 comments"
+  },
+  {
+   "id": "d23b8bb2fca9aaac",
+   "title": "iOS 27 has a clever fix for unreliable Wi-Fi connections",
+   "url": "https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-22T22:02:43.000Z",
+   "summary": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com. iOS 27 includes a really clever new…"
+  },
+  {
+   "id": "9b75b80095074d78",
+   "title": "How to safely clean your PC's GPU to avoid damaging it in the process",
+   "url": "https://www.engadget.com/2319541/safely-clean-pc-gpu-avoid-damage/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-22T22:00:00.000Z",
+   "summary": "Removing and cleaning a GPU can be intimidating, but it's actually pretty simple."
+  },
+  {
+   "id": "0cfde48bca189ca8",
+   "title": "Why your monitor flickers when you turn it on and can it be fixed?",
+   "url": "https://www.engadget.com/2319538/monitor-flickering-when-turned-on-how-to-fix/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-22T21:45:00.000Z",
+   "summary": "A flickering computer monitor can be a symptom of several different issues. Let's explore some common ones."
+  },
+  {
+   "id": "05711d8e9f15d9ee",
+   "title": "‘You Can See Everything’ has made more than $100M worldwide",
+   "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-22T21:42:48.000Z",
+   "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally."
+  },
+  {
+   "id": "c7e1304e0078258e",
+   "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+   "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-22T21:33:12.000Z",
+   "summary": "50 points · 14 comments"
+  },
+  {
    "id": "813da1df366d0562",
    "title": "The cool phone camera trick that can test your remote control's battery",
    "url": "https://www.engadget.com/2319533/how-to-use-phone-test-remote-control-battery/",
@@ -109,6 +343,15 @@
    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed."
   },
   {
+   "id": "34cf637896f549b6",
+   "title": "Will the first approved psychedelic become a blockbuster?",
+   "url": "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-22T21:13:10.000Z",
+   "summary": "28 points · 26 comments"
+  },
+  {
    "id": "9d1640e3edaed4cf",
    "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
    "url": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
@@ -116,6 +359,15 @@
    "section": "tech",
    "publishedAt": "2026-11-22T21:07:11.000Z",
    "summary": "12 points · 2 comments"
+  },
+  {
+   "id": "e22242af68a0f2c5",
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-22T21:01:16.000Z",
+   "summary": "262 points · 114 comments"
   },
   {
    "id": "ad28152f205e0d28",
@@ -233,6 +485,15 @@
    "section": "tech",
    "publishedAt": "2026-11-22T19:45:00.000Z",
    "summary": "YouTube's custom feeds feature allows you to search for exactly what you want to see on your homepage. Discover how to use this tool."
+  },
+  {
+   "id": "4aea6d5fad30f8db",
+   "title": "Assume People Are Not Interested in Your Blog Post",
+   "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-22T19:41:30.000Z",
+   "summary": "71 points · 37 comments"
   },
   {
    "id": "5031a1c6bf390123",
@@ -719,6 +980,15 @@
    "section": "tech",
    "publishedAt": "2026-11-22T12:07:41.000Z",
    "summary": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy."
+  },
+  {
+   "id": "fff6fb8ff8789893",
+   "title": "Masullo on the Riemann Hypothesis",
+   "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-22T10:59:56.000Z",
+   "summary": "45 points · 0 comments"
   },
   {
    "id": "084db2e808e6a2bc",
@@ -2638,6 +2908,15 @@
    "summary": "Meta's very best AI glasses are only slightly better than other recent models."
   },
   {
+   "id": "0fa9cd86220875ea",
+   "title": "How the World Draws the World",
+   "url": "https://googlemapsmania.blogspot.com/2026/10/how-world-draws-world.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-20T14:20:15.000Z",
+   "summary": "9 points · 0 comments"
+  },
+  {
    "id": "fbd77d9108bbdb9f",
    "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
    "url": "https://www.macrumors.com/2026/11/20/apple-black-friday-deals-available-now-2026/",
@@ -4312,6 +4591,15 @@
    "summary": "88 points · 32 comments"
   },
   {
+   "id": "946aa36dcb013d1c",
+   "title": "The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy",
+   "url": "https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-19T14:27:07.000Z",
+   "summary": "4 points · 0 comments"
+  },
+  {
    "id": "a629bd4e70e24f92",
    "title": "OpenAI still has a WebRTC Problem",
    "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
@@ -5831,6 +6119,15 @@
    "section": "ai",
    "publishedAt": "2026-11-18T15:44:02.000Z",
    "summary": "Nvidia began shipping its most advanced AI computing system, the Vera Rubin NVL72, calling it the “fastest product ramp in the company’s history.” | Image: Nvidia This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early…"
+  },
+  {
+   "id": "54cf831d58e0e98f",
+   "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+   "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-18T15:43:29.000Z",
+   "summary": "121 points · 9 comments"
   },
   {
    "id": "e8162dbe4dafa8d0",
@@ -45710,141 +46007,6 @@
    "section": "tech",
    "publishedAt": "2026-10-24T02:36:38.000Z",
    "summary": "54 points · 14 comments"
-  },
-  {
-   "id": "041db00baeefa265",
-   "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-24T01:53:10.000Z",
-   "summary": "41 points · 11 comments"
-  },
-  {
-   "id": "a2fa1fdbff727044",
-   "title": "Twelve years of distributed SQLite",
-   "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-24T01:16:58.000Z",
-   "summary": "57 points · 5 comments"
-  },
-  {
-   "id": "be7d779eea0af74b",
-   "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-   "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-24T01:15:14.000Z",
-   "summary": "41 points · 2 comments"
-  },
-  {
-   "id": "57e4183793745eee",
-   "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
-   "url": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-23T23:50:49.000Z",
-   "summary": "In a new post on the WebKit blog highlighting what’s new in Safari 27.1, Apple’s Jen Simmons said the company is exploring ways to let websites make better use of the iPhone Duo’s outer display. Here are the details. more…"
-  },
-  {
-   "id": "3441cd214f25b2dc",
-   "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
-   "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-23T23:30:17.000Z",
-   "summary": "123 points · 67 comments"
-  },
-  {
-   "id": "5ed1248af084ac20",
-   "title": "The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS",
-   "url": "https://www.macrumors.com/2026/10/23/iphone-duo-fun-apps/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-23T23:22:55.000Z",
-   "summary": "The iPhone Duo has an all-new form factor with multiple folding and orientation options, and app developers are having some fun with it. You can find quite a few apps using the foldable display in unique ways, many with skeuomorphic designs. Tiny Computers ($3.99) Tiny Computers turns the ‌iPhone…"
-  },
-  {
-   "id": "f6b7871719d51698",
-   "title": "Apple’s official DIY repair guides for the iPhone Duo now available",
-   "url": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/",
-   "source": "9to5Mac",
-   "section": "tech",
-   "publishedAt": "2026-10-23T23:12:21.000Z",
-   "summary": "Following today’s launch of the iPhone Duo, Apple has now published multiple repair guides and manuals for users and independent technicians looking to replace or repair individual components in the device. Here are the details. more…"
-  },
-  {
-   "id": "a8598c0b38bf9e1a",
-   "title": "Startups don’t need to go viral to win customers",
-   "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-10-23T23:07:45.000Z",
-   "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one."
-  },
-  {
-   "id": "1943ae2143b4ea88",
-   "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-   "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-   "source": "TechCrunch",
-   "section": "ai",
-   "publishedAt": "2026-10-23T23:05:49.000Z",
-   "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
-  },
-  {
-   "id": "4301fa010401528a",
-   "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-   "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-10-23T22:48:25.000Z",
-   "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\""
-  },
-  {
-   "id": "ff8f6815e6f4e9fe",
-   "title": "OpenAI says it's cutting off internet access for frontier model training",
-   "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
-   "source": "Engadget",
-   "section": "ai",
-   "publishedAt": "2026-10-23T22:37:02.000Z",
-   "summary": "OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents."
-  },
-  {
-   "id": "20af69c929e63ad8",
-   "title": "German court calls Google aerial imagery 'spying'",
-   "url": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-23T22:18:49.000Z",
-   "summary": "14 points · 3 comments"
-  },
-  {
-   "id": "315286187e7012e1",
-   "title": "Birdwatching rewires the brain and slows cognitive decline",
-   "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-23T22:04:55.000Z",
-   "summary": "270 points · 112 comments"
-  },
-  {
-   "id": "8a7070df621e0cf9",
-   "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-   "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-   "source": "TechCrunch",
-   "section": "tech",
-   "publishedAt": "2026-10-23T21:59:19.000Z",
-   "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
-  },
-  {
-   "id": "3c54a8d9cdd03131",
-   "title": "One Man's Pan Am 747 Replica [video]",
-   "url": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-23T21:46:51.000Z",
-   "summary": "5 points · 0 comments"
   }
  ]
 }
