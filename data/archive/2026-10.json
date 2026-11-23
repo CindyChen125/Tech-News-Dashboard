@@ -1,5 +1,815 @@
 [
  {
+  "id": "c301e1b659f22169",
+  "title": "What kind of cooling system do EV batteries use and how does it work?",
+  "url": "https://www.engadget.com/2292606/ev-battery-cooling-system-how-works/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T22:45:00.000Z",
+  "summary": "Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so."
+ },
+ {
+  "id": "d7c9538fcf101cde",
+  "title": "What are the different types of digital wallets?",
+  "url": "https://www.engadget.com/2292582/different-types-digital-wallet-explained/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T22:30:00.000Z",
+  "summary": "Digital wallets can completely remove the need to carry cards and cash, but there's a lot more to them than just your usual Apple, Samsung and Google offerings."
+ },
+ {
+  "id": "1b2709a91c6b9c07",
+  "title": "The pros and cons of using an eSIM over a physical SIM card",
+  "url": "https://www.engadget.com/2292112/using-esim-vs-physcial-sim-card-pros-and-cons/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T22:00:00.000Z",
+  "summary": "eSIMs are more convenient than physical SIM cards in many ways, but they aren't a 100 percent upgrade."
+ },
+ {
+  "id": "ed0a128c645dfbe9",
+  "title": "Argus – a free, open-source agentic security operations platform – MIT",
+  "url": "https://thomasunise.com/argus",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-24T21:54:16.000Z",
+  "summary": "23 points · 7 comments"
+ },
+ {
+  "id": "deeaf140169e0882",
+  "title": "We should be more ambitious with the software we build",
+  "url": "https://danluu.com/ambitious/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T21:47:31.000Z",
+  "summary": "91 points · 52 comments"
+ },
+ {
+  "id": "7ccfcf545ce22b59",
+  "title": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
+  "url": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-24T21:46:33.000Z",
+  "summary": "Belkin is now offering two new semi solid state batteries for your iPhone. There’s one 10,000mAh offering with a USB-C port for charging. The second is a 5,000mAh MagSafe offering, which offers 15W Qi2 charging. Both come in much lighter than you’d expect, and both offer premium aluminum builds…"
+ },
+ {
+  "id": "718b75e79b2cb078",
+  "title": "Small Programs and Languages",
+  "url": "https://ratfactor.com/cards/pl-small",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T21:44:23.000Z",
+  "summary": "18 points · 0 comments"
+ },
+ {
+  "id": "8c9c99815abec629",
+  "title": "The Importance of Limitations for Creativity and Learning",
+  "url": "https://ratfactor.com/cards/limitations",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T21:42:47.000Z",
+  "summary": "11 points · 3 comments"
+ },
+ {
+  "id": "5ca34425ca978719",
+  "title": "Blue Planet III is keeping the rough edges in the age of AI",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+  "source": "The Verge",
+  "section": "ai",
+  "publishedAt": "2026-10-24T21:29:12.000Z",
+  "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished…"
+ },
+ {
+  "id": "af8ad27867cf7587",
+  "title": "Starlink seems to be working normally again in Ukraine",
+  "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+  "source": "TechCrunch",
+  "section": "tech",
+  "publishedAt": "2026-10-24T20:46:34.000Z",
+  "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access."
+ },
+ {
+  "id": "418cf486d79566f4",
+  "title": "Steal My Bitcoin",
+  "url": "https://stealmybitcoin.com/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T20:30:31.000Z",
+  "summary": "140 points · 33 comments"
+ },
+ {
+  "id": "cc79e0283977681c",
+  "title": "Will AI expose the rickety infrastructure of the internet?",
+  "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+  "source": "TechCrunch",
+  "section": "ai",
+  "publishedAt": "2026-10-24T20:15:33.000Z",
+  "summary": "The moment you realize the internet is \"held together by glue and dreams.\""
+ },
+ {
+  "id": "12be6d1c759e6cfd",
+  "title": "The Style Is Father of the Man",
+  "url": "https://harpers.org/archive/2026/11/benjamin-kunkel-reviews-cormac-mccarthy-legacy-revisted/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T19:48:47.000Z",
+  "summary": "12 points · 5 comments"
+ },
+ {
+  "id": "d49afc987040e8a9",
+  "title": "No Signs of AI Payoff Outside the Tech Sector",
+  "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-24T19:47:19.000Z",
+  "summary": "309 points · 273 comments"
+ },
+ {
+  "id": "3a25e80e9dae03e8",
+  "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+  "url": "https://missileer.watch/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T19:43:27.000Z",
+  "summary": "61 points · 32 comments"
+ },
+ {
+  "id": "27224ab2192d65ec",
+  "title": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo",
+  "url": "https://9to5mac.com/2026/10/24/indie-app-spotlight-flipcorder-lets-you-shoot-retro-footage-on-your-iphone-duo/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-24T19:30:00.000Z",
+  "summary": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact. If you want more of a nostalgic video feel from your iPhone footage, Flipcorder is a great app to check…"
+ },
+ {
+  "id": "9f3cf05fe97c8a27",
+  "title": "The Goose Programming Language",
+  "url": "https://aardappel.github.io/goose/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T19:27:41.000Z",
+  "summary": "129 points · 49 comments"
+ },
+ {
+  "id": "137a7163127f7997",
+  "title": "SpeedCrunch 1.1",
+  "url": "https://www.speedcrunch.org/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T19:19:43.000Z",
+  "summary": "11 points · 1 comments"
+ },
+ {
+  "id": "c16f1d5c2d5b5a15",
+  "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
+  "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T19:06:55.000Z",
+  "summary": "8 points · 0 comments"
+ },
+ {
+  "id": "9901d848bb84432c",
+  "title": "An examination of lost firefly species of the US and Canada",
+  "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T19:04:42.000Z",
+  "summary": "20 points · 0 comments"
+ },
+ {
+  "id": "8f2a3e00166c243d",
+  "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
+  "url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T19:03:59.000Z",
+  "summary": "17 points · 2 comments"
+ },
+ {
+  "id": "7d62a98a9914c571",
+  "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+  "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+  "source": "TechCrunch",
+  "section": "ai",
+  "publishedAt": "2026-10-24T19:00:00.000Z",
+  "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+ },
+ {
+  "id": "d3dbf8d7c1a59180",
+  "title": "Google is quietly linking your phone number to other Android accounts",
+  "url": "https://www.engadget.com/2292018/google-quietly-linking-phone-number-to-android-accounts/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T18:45:00.000Z",
+  "summary": "Adding a new SIM to your phone links it to all Google accounts, and any new Google accounts you add all inherit your phone number."
+ },
+ {
+  "id": "befcdfd60ca2dbe2",
+  "title": "Pennsylvania will require labels on AI-generated ads",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+  "source": "The Verge",
+  "section": "ai",
+  "publishedAt": "2026-10-24T18:32:21.000Z",
+  "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by…"
+ },
+ {
+  "id": "1173d57e48f8e42a",
+  "title": "Danish Government silently drops plan to dump MS Office",
+  "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T18:31:48.000Z",
+  "summary": "38 points · 7 comments"
+ },
+ {
+  "id": "1696a83f797c6cab",
+  "title": "Why the wires in your ethernet cables are twisted",
+  "url": "https://www.engadget.com/2294278/why-wires-in-ethernet-cable-twisted-explained/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T18:30:00.000Z",
+  "summary": "There's a good reason for that arrangement."
+ },
+ {
+  "id": "6f3d44d7166d8010",
+  "title": "Verizon Apologizes for iPhone Duo Pre-Order Delays, Giving Customers $100 Gift Card",
+  "url": "https://www.macrumors.com/2026/10/24/verizon-apologizes-for-iphone-duo-preorder-delays/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-24T18:29:16.000Z",
+  "summary": "Verizon has apologized to customers who pre-ordered the iPhone Duo through the carrier but have since been informed that their delivery is delayed. In an email sent to affected customers, Verizon said an \"unexpected shipping delay\" means that iPhone Duo deliveries to some customers will \"take a…"
+ },
+ {
+  "id": "2843265e5b169dfa",
+  "title": "Skip the Touch ID Scan: Unlock iPhone Duo With Apple Watch",
+  "url": "https://www.macrumors.com/how-to/unlock-iphone-duo-apple-watch/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-24T18:28:00.000Z",
+  "summary": "iPhone Duo uses a Touch ID sensor built into the side button for authentication. Some may feel this is a step backwards after almost a decade of Face ID on iPhones, but if you wear an Apple Watch, you can use it to unlock your iPhone Duo instead. This way, you don't need to touch the side button at…"
+ },
+ {
+  "id": "4457ace7f99a4a02",
+  "title": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test",
+  "url": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-24T18:27:42.000Z",
+  "summary": "Apple's iPhone Duo has failed JerryRigEverything's latest durability test. Despite its IP68 dust-resistance rating, dust entered the hinge through several ingress points, overwhelming the magnets that hold the phone shut. The bend test then left a permanent green line across the inner display…"
+ },
+ {
+  "id": "399b6fdcdef4ed41",
+  "title": "Dream-1",
+  "url": "https://dreamlabs.ai/research/dream-1/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T18:23:24.000Z",
+  "summary": "54 points · 28 comments"
+ },
+ {
+  "id": "51ff59ef0689da1f",
+  "title": "Bbtree: Fastest Ordered Map",
+  "url": "https://bbtree.xiangpeng.systems/post/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T18:22:14.000Z",
+  "summary": "35 points · 2 comments"
+ },
+ {
+  "id": "c00000d689e5eb49",
+  "title": "Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
+  "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T18:19:05.000Z",
+  "summary": "16 points · 5 comments"
+ },
+ {
+  "id": "1f5d8f760e13100b",
+  "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
+  "url": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T18:17:57.000Z",
+  "summary": "103 points · 20 comments"
+ },
+ {
+  "id": "5a4aeffbe9331c5f",
+  "title": "Steam rolls out Personal Calendar feature that constantly updates recommended games",
+  "url": "https://www.engadget.com/2296237/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T18:09:54.000Z",
+  "summary": "You can try out the new feature on the Steam store's homepage."
+ },
+ {
+  "id": "15c41ea3cffda112",
+  "title": "Why is AI generated language so hard to understand?",
+  "url": "https://arxiv.org/abs/2610.29162",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-24T18:04:57.000Z",
+  "summary": "20 points · 10 comments"
+ },
+ {
+  "id": "c444754a548fbf61",
+  "title": "Xbox Game Pass could let you pick which features you pay for",
+  "url": "https://www.engadget.com/2296222/xbox-game-pass-pick-which-features/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T18:00:00.000Z",
+  "summary": "Microsoft is reportedly planning to let subscribers build their own Game Pass bundle rather than pay for set tiers."
+ },
+ {
+  "id": "60f3efc4e8957725",
+  "title": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible",
+  "url": "https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-24T17:47:49.000Z",
+  "summary": "Yesterday, I picked up my iPhone Duo at Apple Fifth Avenue, and it’s been a wonder to use. Of course, the phone isn’t perfect, but after my first day of usage, I’m looking forward to daily driving it – even if it has a couple quirks. more…"
+ },
+ {
+  "id": "247a34a7ba66eadd",
+  "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
+  "url": "https://www.youtube.com/watch?v=46wxttvq9qY",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T17:42:08.000Z",
+  "summary": "12 points · 2 comments"
+ },
+ {
+  "id": "9da2ee9b54ae1bf5",
+  "title": "From confession to conspiracy: How the Wedgewood fake polls story spread",
+  "url": "https://www.cip.uw.edu/2026/10/23/from-confession-to-conspiracy-how-the-wedgewood-fake-polls-story-spread/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T17:02:47.000Z",
+  "summary": "47 points · 31 comments"
+ },
+ {
+  "id": "d4465c5e0e1c1622",
+  "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+  "url": "https://de.numista.com/9866",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T16:41:55.000Z",
+  "summary": "60 points · 10 comments"
+ },
+ {
+  "id": "a480f69b437691e7",
+  "title": "Capcom confirms data breach that affected 11.7 million users",
+  "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T16:40:45.000Z",
+  "summary": "Capcom ID is still available to use, but users may see more phishing scam emails."
+ },
+ {
+  "id": "dd5860f419d64a75",
+  "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+  "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+  "source": "TechCrunch",
+  "section": "tech",
+  "publishedAt": "2026-10-24T16:30:00.000Z",
+  "summary": "Instacart might sell itself to a larger competitor."
+ },
+ {
+  "id": "e52a4b934f20126b",
+  "title": "There's a chance your PlayStation 5 is plugged into the wrong HDMI port",
+  "url": "https://www.engadget.com/2291739/chance-playstation-5-plugged-into-wrong-hdmi-port/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T16:30:00.000Z",
+  "summary": "Your PS5 will look great plugged into any HDMI port on a modern TV, but only some unlock its full suite of display features."
+ },
+ {
+  "id": "bda3e5d16e1683e2",
+  "title": "An incremental approach to JIT construction",
+  "url": "https://dl.acm.org/doi/10.1145/3830440.3832304",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T16:27:18.000Z",
+  "summary": "27 points · 1 comments"
+ },
+ {
+  "id": "12eb5273629b3c8a",
+  "title": "The UK is investing $134 million into an AI Biosecurity Lab",
+  "url": "https://www.engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/",
+  "source": "Engadget",
+  "section": "ai",
+  "publishedAt": "2026-10-24T16:11:53.000Z",
+  "summary": "The UK has established the AI Biosecurity Lab, which will help it detect biological threats and develop vaccines with AI."
+ },
+ {
+  "id": "16be37567008dd0a",
+  "title": "Make iPhone Duo Volume Buttons Follow Screen Rotation",
+  "url": "https://www.macrumors.com/how-to/iphone-duo-volume-buttons-rotate-screen/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-24T16:07:36.000Z",
+  "summary": "Because of the iPhone Duo's foldable design, you tend to switch the orientation of the device more often than you would a regular iPhone. This makes the volume buttons shift positions a lot relative to your fingers, which can cause you to press volume up when you meant to press down, or vice versa…"
+ },
+ {
+  "id": "d50496f98ca3be89",
+  "title": "Roku developer repositories moved from GitHub to GitLab",
+  "url": "https://blog.roku.com/developer/gitlab-move",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T16:06:26.000Z",
+  "summary": "55 points · 20 comments"
+ },
+ {
+  "id": "1d813c57eaf09f1a",
+  "title": "Block’s new voice model sounds eerily human",
+  "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+  "source": "TechCrunch",
+  "section": "tech",
+  "publishedAt": "2026-10-24T16:00:00.000Z",
+  "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
+ },
+ {
+  "id": "36bcb30baf4c910c",
+  "title": "Your smart TV's Wi-Fi is probably faster than its Ethernet, but speed isn't everything",
+  "url": "https://www.engadget.com/2291599/smart-tv-wifi-faster-than-ethernet-speed-isnt-everything/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T16:00:00.000Z",
+  "summary": "You might have never thought to use Ethernet with your TV, but it's not speed that's worth connecting for."
+ },
+ {
+  "id": "329aebda9ccba731",
+  "title": "Cybersecurity Awareness Week: How to remove your personal data from the internet, and why Apple’s tools alone aren’t enough",
+  "url": "https://9to5mac.com/2026/10/24/cybersecurity-awareness-week-remove-personal-data-internet-apples-tools-alone-arent-enough/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-24T16:00:00.000Z",
+  "summary": "It actually seems like an episode of Black Mirror that it’s legal for a company to buy and sell our personal data without our consent, but that’s the reality in the US. Apple has built some really useful tools to limit future tracking, including App Tracking Transparency, Hide My Email, and iCloud…"
+ },
+ {
+  "id": "fdd60d8f2ce52b45",
+  "title": "Neural chip decodes interactions between brain regions",
+  "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-24T15:57:17.000Z",
+  "summary": "23 points · 2 comments"
+ },
+ {
+  "id": "f7337923701ee734",
+  "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+  "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-24T15:35:17.000Z",
+  "summary": "14 points · 11 comments"
+ },
+ {
+  "id": "66cf38059c766db3",
+  "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+  "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+  "source": "TechCrunch",
+  "section": "tech",
+  "publishedAt": "2026-10-24T15:30:00.000Z",
+  "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare."
+ },
+ {
+  "id": "2061c0803d2abe90",
+  "title": "What is Theater Mode on your Apple Watch and when should you use it?",
+  "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T15:30:00.000Z",
+  "summary": "There are various ways to silence your Apple Watch when you need to lock in. Theater Mode doesn't quite go as far as Do Not Disturb, but it's still very useful."
+ },
+ {
+  "id": "982a5aa7b88b59f4",
+  "title": "FreeDNS",
+  "url": "https://freedns.afraid.org/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T15:20:01.000Z",
+  "summary": "98 points · 23 comments"
+ },
+ {
+  "id": "7bfae06c898d10d5",
+  "title": "iPhone Duo Teardowns Reveal Two Batteries and More",
+  "url": "https://www.macrumors.com/2026/10/24/iphone-duo-teardown-videos/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-24T15:02:56.000Z",
+  "summary": "The first iPhone Duo teardown videos have been shared by YouTube channels REWA Technology and Phone Repair Guru, providing us with a look inside the device. iPhone Duo has two battery cells that can be removed with electrically-activated adhesive. There is a larger battery with a 2,962 mAh (11.56…"
+ },
+ {
+  "id": "c0131c5fee7a30fb",
+  "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+  "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-24T15:00:00.000Z",
+  "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&B. But from moment one, her take on…"
+ },
+ {
+  "id": "0c2bc5125028c306",
+  "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+  "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-24T15:00:00.000Z",
+  "summary": "LG’s C6 OLED TV is on sale in multiple sizes starting at $999.99 ($300 off). | Image: LG Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and…"
+ },
+ {
+  "id": "75b5edf28262d993",
+  "title": "These clever apps show off the iPhone Duo’s potential",
+  "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+  "source": "TechCrunch",
+  "section": "tech",
+  "publishedAt": "2026-10-24T15:00:00.000Z",
+  "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone."
+ },
+ {
+  "id": "d58dd48e2a90def2",
+  "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+  "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+  "source": "TechCrunch",
+  "section": "ai",
+  "publishedAt": "2026-10-24T15:00:00.000Z",
+  "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+ },
+ {
+  "id": "ccd7e48835e5d5bf",
+  "title": "Here's how to test a CR2032 battery to see if it's good",
+  "url": "https://www.engadget.com/2291408/how-to-test-cr2032-battery-see-if-good/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T15:00:00.000Z",
+  "summary": "CR2032 batteries are found in a lot of gadgets around your home. They're easy to test when they run low, especially if you have the appropriate devices."
+ },
+ {
+  "id": "a1bbc32a32a3e6d7",
+  "title": "Why your Ring camera is still useful without a subscription",
+  "url": "https://www.engadget.com/2291366/why-ring-camera-useful-without-subscription/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T14:30:00.000Z",
+  "summary": "Modern smart home cameras and security systems put a lot of features behind a subscription. Here are a few reasons why you don't always need to pay."
+ },
+ {
+  "id": "8245fc57759f9197",
+  "title": "M5 MacBook Air Returns to Prime Day Low With $200 Amazon Discount",
+  "url": "https://www.macrumors.com/2026/10/24/m5-macbook-air-returns-prime-day/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-24T14:27:30.000Z",
+  "summary": "Amazon this weekend has a few of the best post-hike prices we've seen on the M5 MacBook Air so far, with prices starting at $1,399.00 for the 16GB RAM/1TB SSD 13-inch model, down from $1,599.00. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a…"
+ },
+ {
+  "id": "ba81fb16861efbac",
+  "title": "What to expect from Apple’s ‘Pro and tell’ event",
+  "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-24T14:15:00.000Z",
+  "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28th at 1PM ET in Los…"
+ },
+ {
+  "id": "afe8da74ef530353",
+  "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+  "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+  "source": "TechCrunch",
+  "section": "tech",
+  "publishedAt": "2026-10-24T14:15:00.000Z",
+  "summary": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display."
+ },
+ {
+  "id": "88e60c414223ad79",
+  "title": "The Curse of Soldered RAM",
+  "url": "https://blog.hardill.me.uk/2026/10/24/the-curse-of-soldered-ram/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T14:09:20.000Z",
+  "summary": "43 points · 24 comments"
+ },
+ {
+  "id": "c8400f2cc48d9287",
+  "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+  "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-24T14:00:00.000Z",
+  "summary": "The Lenovo Yoga 9n is a pricey workstation laptop, but being a 2-in-1 also makes it fun. | Photo: Antonio G. Di Benedetto / The Verge It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark…"
+ },
+ {
+  "id": "1697c2d388abef16",
+  "title": "Here are the top AI agents that can live in your text messages",
+  "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+  "source": "TechCrunch",
+  "section": "ai",
+  "publishedAt": "2026-10-24T14:00:00.000Z",
+  "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+ },
+ {
+  "id": "d46bfa15a119609e",
+  "title": "The MacBook Neo uses an iPhone chip, and it's just good enough",
+  "url": "https://www.engadget.com/2290733/macbook-neo-a18-pro-chip-performance/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T14:00:00.000Z",
+  "summary": "The MacBook Neo had to make some compromises to meet its price point. And as long as you're aware of them, it offers a solid value."
+ },
+ {
+  "id": "f43e02ac0b89eca0",
+  "title": "How to get better iPhone battery life without closing any apps",
+  "url": "https://www.engadget.com/2290702/get-better-iphone-battery-life-without-closing-apps/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T13:45:00.000Z",
+  "summary": "Apple has added a host of battery-management features to the iPhone over the years."
+ },
+ {
+  "id": "11c6207467821770",
+  "title": "The beneficial purpose of 'IQ' on your Anker chargers",
+  "url": "https://www.engadget.com/2290640/anker-charger-iq-meaning-purpose/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T13:30:00.000Z",
+  "summary": "Anker's PowerIQ technology helps identify and charge your devices more efficiently."
+ },
+ {
+  "id": "a52d2c878a66bb4f",
+  "title": "Why Birds Can Fly over Mount Everest",
+  "url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T13:17:59.000Z",
+  "summary": "7 points · 2 comments"
+ },
+ {
+  "id": "20b11b0732a35997",
+  "title": "Top Stories: Apple 'Pro and Tell' Debut, iPhone Duo Launch, and More",
+  "url": "https://www.macrumors.com/2026/10/24/top-stories-apple-pro-and-tell-teaser/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-24T13:00:14.000Z",
+  "summary": "Yet another busy week for Apple saw a teaser for even more product announcements coming next week, plus we got the highly anticipated launch of Apple's first foldable smartphone, the iPhone Duo. Other news this week included Verizon announcing a hefty monthly charge for the iPhone Handoff feature…"
+ },
+ {
+  "id": "4e98064c872d4179",
+  "title": "Which services can you safely disable to improve PC gaming?",
+  "url": "https://www.engadget.com/2290638/which-windows-background-services-safely-disable-improve-pc-gaming/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T13:00:00.000Z",
+  "summary": "A lot of what Windows does out of the box isn't essential, and can waste your computer's power when you're trying to game."
+ },
+ {
+  "id": "9c8d52d5ff4960ee",
+  "title": "Apple @ Work: The browser is the biggest gap in your AI governance strategy",
+  "url": "https://9to5mac.com/2026/10/24/apple-work-the-browser-is-the-biggest-gap-in-your-ai-governance-strategy/",
+  "source": "9to5Mac",
+  "section": "ai",
+  "publishedAt": "2026-10-24T13:00:00.000Z",
+  "summary": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000…"
+ },
+ {
+  "id": "8bcb2e6180366205",
+  "title": "LimonOS Custom x86-64 Kernel",
+  "url": "https://github.com/AnonimusShamshiAlex/LimonOS",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T12:52:33.000Z",
+  "summary": "11 points · 1 comments"
+ },
+ {
+  "id": "dfe8fd99ba0812c3",
+  "title": "188-Year-Old Mystery of Photography's First Human Subjects Solved",
+  "url": "https://news.artnet.com/art-world/daguerre-photograph-subjects-location-2826596",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T12:50:42.000Z",
+  "summary": "35 points · 7 comments"
+ },
+ {
+  "id": "93a371acf13f5bb0",
+  "title": "How to improve your PC's airflow for better cooling",
+  "url": "https://www.engadget.com/2290489/how-to-improve-pc-airflow-better-cooling/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T12:45:00.000Z",
+  "summary": "Here's how to think about your PC's fans."
+ },
+ {
+  "id": "472831f20493f4d9",
+  "title": "Lee Chang Dong ponders the ethics of the camera",
+  "url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-24T12:30:00.000Z",
+  "summary": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor…"
+ },
+ {
+  "id": "d108f5a84e020c9f",
+  "title": "How long is too long for an HDMI cable?",
+  "url": "https://www.engadget.com/2290438/how-long-should-hdmi-cable-be-maximum-length/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T12:30:00.000Z",
+  "summary": "An HDMI cable doesn't have an exact usable length, but shorter is always better for more complex uses."
+ },
+ {
+  "id": "7ab6733eb3038581",
+  "title": "Apple weekend deals: Apple TV 4K, MacBook Pro $900 off, Pencil (USB-C), AirPods Pro 3, more",
+  "url": "https://9to5mac.com/2026/10/24/apple-weekend-deals-apple-tv-4k-macbook-pencil-airpods/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-24T12:15:32.000Z",
+  "summary": "The early discount on the new Apple Pencil (USB-C) for your new Duo, not to mention an ongoing all-time low on AirTag 2. On the Mac side of things we have a gigantic $900 price drop on this high-end MacBook Pro config, $200 off M5 MacBook Air models, and ongoing all-time lows at as much as $200 off…"
+ },
+ {
+  "id": "5cfcbe2317c7d7ea",
+  "title": "'Father of the PlayStation' Ken Kutaragi sides with Sony on the physical discs debate",
+  "url": "https://www.engadget.com/2294585/ken-kutaragi-father-of-playstation-sides-with-sony-physical-games/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T12:15:00.000Z",
+  "summary": "The debate about Sony's plan to stop making physical PS5 discs has raged since this summer."
+ },
+ {
+  "id": "217bf3f84f7c88e7",
+  "title": "Apple Store Pickup System for iPhone Duo Just Went Live Again in U.S. and Canada",
+  "url": "https://www.macrumors.com/2026/10/24/apple-store-pickup-iphone-duo-us/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-24T12:12:00.000Z",
+  "summary": "The option to reserve an iPhone Duo for Apple Store pickup resumed in the U.S. and Canada between 5:10 a.m. and 5:15 a.m. Pacific Time today, but inventory is extremely limited, with most stores having no pickup slots available today. You can search for iPhone Duo availability at your local Apple…"
+ },
+ {
+  "id": "b31a96faa86c7dd1",
+  "title": "Laika has spent 20 years building up to Wildwood",
+  "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-24T12:00:00.000Z",
+  "summary": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Even still, nothing could quite prepare him for his…"
+ },
+ {
+  "id": "d189c96362f71312",
+  "title": "It’s time to find a new browser",
+  "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-24T12:00:00.000Z",
+  "summary": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.) This week, I've been reading…"
+ },
+ {
+  "id": "66c24a9c56c7478d",
+  "title": "Engadget review recap: iPhone Duo, Rivian R2 and more",
+  "url": "https://www.engadget.com/2295366/engadget-review-recap-iphone-duo-rivian-r2-and-more/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T12:00:00.000Z",
+  "summary": "A roundup of recent reviews from Engadget."
+ },
+ {
+  "id": "50a7fe99b852c456",
+  "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+  "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+  "source": "Ars Technica",
+  "section": "tech",
+  "publishedAt": "2026-10-24T11:50:28.000Z",
+  "summary": "A new model suggests Mars may host ice-forming physics never directly observed before."
+ },
+ {
+  "id": "9ce5a2d8666b3f10",
+  "title": "PhysicsForums and the Dead Internet Theory (2025)",
+  "url": "https://hallofdreams.org/posts/physicsforums/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-24T11:40:52.000Z",
+  "summary": "8 points · 3 comments"
+ },
+ {
+  "id": "334661a746d2cd16",
+  "title": "Peak on consoles, hockey roguelites and other new indie games worth checking out",
+  "url": "https://www.engadget.com/2295856/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-24T11:30:00.000Z",
+  "summary": "Steam Next Fest means there are a lot of weird new games in our indie gaming roundup this week."
+ },
+ {
+  "id": "cc376ee7de3684dd",
+  "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+  "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-24T11:18:54.000Z",
+  "summary": "44 points · 7 comments"
+ },
+ {
   "id": "90593d683c718b51",
   "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
   "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
