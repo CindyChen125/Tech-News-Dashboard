@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T02:36:35.641Z",
+ "updatedAt": "2026-11-23T11:16:09.833Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -81,6 +81,105 @@
   }
  ],
  "items": [
+  {
+   "id": "f9f60996ee7806f7",
+   "title": "Meta Muse can now do your Black Friday shopping at Walmart",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-23T11:00:00.000Z",
+   "summary": "Muse can find Walmart’s Black Friday deals so that you don’t have to. | Image: Walmart Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it…"
+  },
+  {
+   "id": "7928c76cf7c08288",
+   "title": "MacBook Neo Could Get New Colors and Upgrades Every Year",
+   "url": "https://www.macrumors.com/2026/11/23/macbook-neo-new-colors-every-year/",
+   "source": "MacRumors",
+   "section": "tech",
+   "publishedAt": "2026-11-23T10:50:49.000Z",
+   "summary": "Apple has put the MacBook Neo on an annual update cycle matching the MacBook Air and MacBook Pro, according to Bloomberg's Mark Gurman. Writing in his latest Power On newsletter, Gurman said the next model is code-named J701 and due next spring. The update will be \"all about the chip,\" moving from…"
+  },
+  {
+   "id": "0db9893a313dcbdf",
+   "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+   "url": "https://z.ai/blog/glm-5.4",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-23T10:06:43.000Z",
+   "summary": "46 points · 5 comments"
+  },
+  {
+   "id": "1a45d2fe59b79b6e",
+   "title": "Amazon resorts to package stickers in its fight against NYC's proposed delivery law",
+   "url": "https://www.engadget.com/2324629/amazon-resorts-to-package-stickers-in-its-fight-against-nyc-proposed-delivery-law/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-23T09:35:53.000Z",
+   "summary": "In its latest salvo against New York City's Delivery Protection Act, Amazon is trying to win over residents with a new tactic."
+  },
+  {
+   "id": "d170092c7436184b",
+   "title": "CollectWise (YC F24) Is Hiring",
+   "url": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-23T07:01:08.000Z",
+   "summary": "0 points · 0 comments"
+  },
+  {
+   "id": "ce04f4921cb1fc36",
+   "title": "Yes, 17M lines of Lean is a lot",
+   "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-23T05:00:49.000Z",
+   "summary": "94 points · 116 comments"
+  },
+  {
+   "id": "b51fc25760a5d722",
+   "title": "A Partial Evaluator for C",
+   "url": "https://phoenix.labri.fr/software/tempo/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-23T04:51:48.000Z",
+   "summary": "69 points · 15 comments"
+  },
+  {
+   "id": "b0193004647e3ba0",
+   "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+   "url": "https://github.com/AFK-surf/xnulinux",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-23T03:49:24.000Z",
+   "summary": "361 points · 169 comments"
+  },
+  {
+   "id": "f00687fd79bf234e",
+   "title": "The New Docker: Built to Run on Trust",
+   "url": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-23T03:34:29.000Z",
+   "summary": "46 points · 94 comments"
+  },
+  {
+   "id": "f909631d76f5c73d",
+   "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+   "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-23T03:00:00.000Z",
+   "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy…"
+  },
+  {
+   "id": "6be23d2a1498b67a",
+   "title": "Treemap of the Riemann Hypothesis Lean Proof",
+   "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-23T01:50:23.000Z",
+   "summary": "92 points · 36 comments"
+  },
   {
    "id": "232ab54fa3def171",
    "title": "Here's how much Starlink cost in 2020 vs. 2026",
@@ -1981,6 +2080,15 @@
    "summary": "8 points · 0 comments"
   },
   {
+   "id": "865a08197e0b49bd",
+   "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
+   "url": "https://github.com/elixir-hls/elixir-hls",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-21T00:47:57.000Z",
+   "summary": "10 points · 0 comments"
+  },
+  {
    "id": "85539fce33a34219",
    "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
    "url": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
@@ -2222,6 +2330,15 @@
    "section": "ai",
    "publishedAt": "2026-11-20T20:58:29.000Z",
    "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit."
+  },
+  {
+   "id": "fbcfe404487b923d",
+   "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
+   "url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-20T20:57:16.000Z",
+   "summary": "25 points · 20 comments"
   },
   {
    "id": "e7174f8b352e9bf7",
@@ -2719,6 +2836,15 @@
    "summary": "We have now made our way into Day 2 of the massive Amazon Black Friday sale with all-time lows on Apple Watch Series 12, AirPods Pro 3 at $70 off, MacBook Neo from $649, and a fantastic price drop on the most affordable M5 MacBook Air at $1,049. However, Amazon has now dropped the price even lower…"
   },
   {
+   "id": "00b45ce40364c178",
+   "title": "Verifying formal models of Raft implementations",
+   "url": "https://antithesis.com/blog/2026/verifying-formal-models/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-20T16:33:22.000Z",
+   "summary": "46 points · 1 comments"
+  },
+  {
    "id": "4b4c1d32821f6e7a",
    "title": "Microsoft to Retire 'To Do' Apps Next Year",
    "url": "https://www.macrumors.com/2026/11/20/microsoft-to-retire-to-do-apps/",
@@ -2987,6 +3113,15 @@
    "section": "tech",
    "publishedAt": "2026-11-20T13:35:45.000Z",
    "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine."
+  },
+  {
+   "id": "325c854cecb31bcb",
+   "title": "Show HN: Drive around my village in 3D",
+   "url": "https://cherwellvalleymotorclub.app/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-20T13:32:42.000Z",
+   "summary": "33 points · 31 comments"
   },
   {
    "id": "c50ef8d98d370f4b",
@@ -3347,6 +3482,15 @@
    "section": "tech",
    "publishedAt": "2026-11-20T02:43:49.000Z",
    "summary": "75 points · 8 comments"
+  },
+  {
+   "id": "597a3534ea63cfa7",
+   "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)",
+   "url": "https://arxiv.org/abs/2506.13771",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-20T02:40:48.000Z",
+   "summary": "46 points · 8 comments"
   },
   {
    "id": "4536919bbcd02d83",
@@ -4679,6 +4823,15 @@
    "section": "tech",
    "publishedAt": "2026-11-19T13:56:07.000Z",
    "summary": "The official 2026 Amazon Black Friday sale is now live with a solid $70 off AirPods Pro 3 and the lowest prices ever on Apple Watch Series 12, among many other Apple deals, but we are now tracking some of the very best MacBook deals of the year. We are catching a surprising and super rare $50 price…"
+  },
+  {
+   "id": "9250a5d08e3bd5fb",
+   "title": "De-fanging dangerous triggers in GitHub Actions across an organization",
+   "url": "https://alpha-omega.dev/blog/de-fanging-dangerous-triggers-in-github-actions-across-an-organization/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-19T13:52:42.000Z",
+   "summary": "17 points · 8 comments"
   },
   {
    "id": "a6a46d0d2c04cdf0",
@@ -45845,168 +45998,6 @@
    "section": "ai",
    "publishedAt": "2026-10-24T11:18:54.000Z",
    "summary": "44 points · 7 comments"
-  },
-  {
-   "id": "90593d683c718b51",
-   "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
-   "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
-   "source": "Ars Technica",
-   "section": "tech",
-   "publishedAt": "2026-10-24T11:00:09.000Z",
-   "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny."
-  },
-  {
-   "id": "0e27bdd1a205e884",
-   "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-   "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-24T10:51:35.000Z",
-   "summary": "11 points · 0 comments"
-  },
-  {
-   "id": "f89fbf1646f7732a",
-   "title": "Meta is delaying its controversial new business terms amid scraping concerns",
-   "url": "https://www.engadget.com/2296124/meta-delaying-controversial-business-terms-scraping-concerns/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-24T10:18:15.000Z",
-   "summary": "Meta drew flak for an upcoming change to its business terms that would allow it to scrape business accounts' content for AI training."
-  },
-  {
-   "id": "72c57beaec4d0f83",
-   "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-   "url": "https://github.com/Zagitta/gpu-unlock",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-24T09:58:27.000Z",
-   "summary": "67 points · 37 comments"
-  },
-  {
-   "id": "00b068f23e812972",
-   "title": "I Don't Understand Quantum Physics (2018)",
-   "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-24T09:53:26.000Z",
-   "summary": "121 points · 86 comments"
-  },
-  {
-   "id": "624f75d46cff5333",
-   "title": "A Love Letter to the Super Dimension Fortress",
-   "url": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-24T08:30:32.000Z",
-   "summary": "36 points · 4 comments"
-  },
-  {
-   "id": "102a0fe276580fe5",
-   "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-   "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-24T08:06:39.000Z",
-   "summary": "62 points · 33 comments"
-  },
-  {
-   "id": "835dd1f804a84fc7",
-   "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
-   "url": "https://broccoli2shell.com/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-24T08:06:39.000Z",
-   "summary": "376 points · 195 comments"
-  },
-  {
-   "id": "41e18dc82859ce15",
-   "title": "Show HN: Encarta 95 Web",
-   "url": "https://benwinding.github.io/encarta_95_web/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-24T07:18:37.000Z",
-   "summary": "42 points · 18 comments"
-  },
-  {
-   "id": "b9a3d8b847087b46",
-   "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-   "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-24T05:49:57.000Z",
-   "summary": "91 points · 16 comments"
-  },
-  {
-   "id": "ac0cf9d445e9dd33",
-   "title": "Root shell on Samsung TV",
-   "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-24T05:49:57.000Z",
-   "summary": "415 points · 152 comments"
-  },
-  {
-   "id": "0b8c9dfa1ad70138",
-   "title": "Apple Closes French Stores Ahead of Further Protests",
-   "url": "https://www.macrumors.com/2026/10/24/apple-closes-french-stores/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-24T04:51:16.000Z",
-   "summary": "Seven Apple stores across France are closed on today, as the country prepares for another round of demonstrations a week after looters targeted two of the company's locations. As first spotted by MacGeneration, the affected stores include all three Paris locations: Champs-Élysées, Opéra, and Marché…"
-  },
-  {
-   "id": "b9f3a7837591c5fb",
-   "title": "OBS Studio 33",
-   "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-24T04:49:58.000Z",
-   "summary": "116 points · 31 comments"
-  },
-  {
-   "id": "cc40c7f85bcb9788",
-   "title": "Apple Pushes Back on DOJ Request for More Evidence",
-   "url": "https://www.macrumors.com/2026/10/24/apple-pushes-back-on-doj-request/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-24T04:02:07.000Z",
-   "summary": "Apple and the U.S. Department of Justice disagree over how much newer evidence Apple must hand over in their antitrust case, according to a new court filing this week. The two sides previously agreed to a June 20, 2025 cutoff for Apple's records. With the evidence-gathering phase now scheduled to…"
-  },
-  {
-   "id": "78595b99e7e7c2e9",
-   "title": "The Colors of a Soap Film",
-   "url": "https://aseemrb.me/blog/colors-of-a-soap-film/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-24T03:46:00.000Z",
-   "summary": "13 points · 2 comments"
-  },
-  {
-   "id": "fbb246d225dbd1cb",
-   "title": "How close can pure functional programming get to C?",
-   "url": "https://rtfeldman.com/fp-vs-c",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-24T03:43:54.000Z",
-   "summary": "106 points · 10 comments"
-  },
-  {
-   "id": "5caacd4e3db4f913",
-   "title": "How Block Blast harvests its players for ad money",
-   "url": "https://ayoships.com/breakdowns/block-blast",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-24T02:43:43.000Z",
-   "summary": "44 points · 10 comments"
-  },
-  {
-   "id": "95ce4217b412a1bf",
-   "title": "Apple Security Research Device",
-   "url": "https://security.apple.com/research-device/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-24T02:36:38.000Z",
-   "summary": "54 points · 14 comments"
   }
  ]
 }
