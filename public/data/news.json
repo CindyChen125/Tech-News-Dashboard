@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T22:54:03.249Z",
+ "updatedAt": "2026-11-24T06:55:09.246Z",
  "sources": [
   {
    "name": "OpenAI",
@@ -77,10 +77,235 @@
    "name": "Hacker News",
    "section": "tech",
    "ok": true,
-   "count": 30
+   "count": 31
   }
  ],
  "items": [
+  {
+   "id": "037996470333eec2",
+   "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
+   "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-24T06:28:04.000Z",
+   "summary": "16 points · 0 comments"
+  },
+  {
+   "id": "e25136b70f57a6b6",
+   "title": "Apple confirms Ted Lasso will return for Season 5",
+   "url": "https://www.engadget.com/2326238/apple-confirms-ted-lasso-will-return-for-season-5/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-24T06:00:08.000Z",
+   "summary": "Ted Lasso, which everyone thought was ending with Season 3, has just been renewed for a fifth season."
+  },
+  {
+   "id": "561dce1501f19bd5",
+   "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+   "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-24T05:15:22.000Z",
+   "summary": "6 points · 0 comments"
+  },
+  {
+   "id": "a4998695556cddc7",
+   "title": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break",
+   "url": "https://github.com/GenesisAgentInfra/genesis",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-24T05:04:41.000Z",
+   "summary": "5 points · 0 comments"
+  },
+  {
+   "id": "0adcb08165a71bd6",
+   "title": "Drone Maps of Salvage Yards",
+   "url": "https://salvageyarddrone.wordpress.com/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-24T04:00:28.000Z",
+   "summary": "41 points · 13 comments"
+  },
+  {
+   "id": "74e0afba2a82d275",
+   "title": "Making a dumb TV just smart enough",
+   "url": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-24T02:46:54.000Z",
+   "summary": "44 points · 14 comments"
+  },
+  {
+   "id": "ef6ffdc824f4c27f",
+   "title": "Declare is a UI language for you and your AI",
+   "url": "https://davidtemkin.github.io/declarelang/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-24T02:36:56.000Z",
+   "summary": "36 points · 19 comments"
+  },
+  {
+   "id": "baabba88707bc1d7",
+   "title": "Rune: Rust VM for Emacs",
+   "url": "https://github.com/CeleritasCelery/rune",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-24T02:30:47.000Z",
+   "summary": "23 points · 1 comments"
+  },
+  {
+   "id": "1a77b6db2356cf42",
+   "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+   "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-24T02:27:02.000Z",
+   "summary": "201 points · 61 comments"
+  },
+  {
+   "id": "6b20a12fda990e17",
+   "title": "These are my two must-have iPhone Duo accessories",
+   "url": "https://9to5mac.com/2026/11/23/these-are-my-two-must-have-iphone-duo-accessories/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-24T01:30:09.000Z",
+   "summary": "If you’re an iPhone Duo user, two must-have Apple accessories are at all-time low prices today. These are great additions to any iPhone Duo setup: Apple Pencil (USB-C) $49 (Reg. $79) Apple 40W Dynamic Power Adapter with 60W Max $29 (Reg. $39) more…"
+  },
+  {
+   "id": "84dad4f77c5522f3",
+   "title": "The three DISM commands you should know to fix your Windows system images",
+   "url": "https://www.engadget.com/2320620/dism-commands-for-windows-system-image-repair/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-24T01:30:00.000Z",
+   "summary": "Check and repair damaged system files with these DISM commands."
+  },
+  {
+   "id": "4adca5d4b4bbeaee",
+   "title": "9to5Mac Daily: November 23, 2026 – Apple agentic AI, spring product rumors",
+   "url": "https://9to5mac.com/2026/11/23/daily-november-23-2026/",
+   "source": "9to5Mac",
+   "section": "ai",
+   "publishedAt": "2026-11-24T01:04:38.000Z",
+   "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by LiberNovo: If you spend hours at your desk, LiberNovo’s…"
+  },
+  {
+   "id": "f6c2d1033b2a4e31",
+   "title": "Apple Pay just got even better with four new features and more",
+   "url": "https://9to5mac.com/2026/11/23/apple-pay-is-getting-even-better-with-four-new-features/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-24T00:31:59.000Z",
+   "summary": "Apple Pay is a go-to feature for iPhone users when shopping in stores, online, and in apps. Apple recently announced four new features that make Apple Pay even better. Here’s how they work, plus one major expansion that’s rolling out now. 9to5Mac is sponsored by Sony: Score Sony’s INZONE…"
+  },
+  {
+   "id": "45dfe2f8b18547f2",
+   "title": "The biggest downsides to using Apple's Magic Mouse",
+   "url": "https://www.engadget.com/2320296/apple-magic-mouse-biggest-downsides/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-24T00:30:00.000Z",
+   "summary": "Mac users have their reasons for ditching Apple's Magic Mouse despite its slick touch gestures. Knowing them can help you decide if it suits your desk."
+  },
+  {
+   "id": "fab5c54ef554bb81",
+   "title": "iOS 27.2 upgraded Apple Photos in two ways, here’s what’s new",
+   "url": "https://9to5mac.com/2026/11/23/ios-27-2-just-upgraded-apple-photos-in-two-ways-heres-whats-new/",
+   "source": "9to5Mac",
+   "section": "tech",
+   "publishedAt": "2026-11-24T00:19:18.000Z",
+   "summary": "Apple Photos got a lot of new features in iOS 27, but the recent release of iOS 27.2 brought even more improvements. Here’s what’s new. more…"
+  },
+  {
+   "id": "c2528a60c8baaf1f",
+   "title": "The Power of GraphQL, Without GraphQL",
+   "url": "https://cobalt27.dev/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-24T00:03:59.000Z",
+   "summary": "39 points · 18 comments"
+  },
+  {
+   "id": "6b8e77af88c9afcf",
+   "title": "Google alternative Kagi launches an email service",
+   "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-24T00:02:52.000Z",
+   "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With…"
+  },
+  {
+   "id": "1745fe2830d74b0a",
+   "title": "Commons reasons your Android phone's icons won't move and how to fix it",
+   "url": "https://www.engadget.com/2320294/reasons-android-phone-icons-wont-move-fix/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-24T00:00:00.000Z",
+   "summary": "It's most likely your home screen settings."
+  },
+  {
+   "id": "ddde68a2e206da3e",
+   "title": "OpenAI Brings GPT-6.2 Sol to ChatGPT's Chat Tab",
+   "url": "https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/",
+   "source": "MacRumors",
+   "section": "ai",
+   "publishedAt": "2026-11-23T23:52:41.000Z",
+   "summary": "A version of GPT–6.2 Sol made for the Chat tab is rolling out to Plus, Pro, Business, and Enterprise tiers, OpenAI said today. OpenAI says GPT–6.2 Sol has been tweaked for everyday conversation and can more easily handle complex requests involving detailed instructions or locating information…"
+  },
+  {
+   "id": "4347c77554b0d99a",
+   "title": "What you can do with your old, discontinued Mac Pro",
+   "url": "https://www.engadget.com/2320292/what-do-with-old-discontinued-mac-pro/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-23T23:30:00.000Z",
+   "summary": "Apple is discontinuing Mac Pro, but there are several ways you can still get use out of the computer, even without Apple support."
+  },
+  {
+   "id": "26c85f98b938ee99",
+   "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
+   "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+   "source": "The Verge",
+   "section": "tech",
+   "publishedAt": "2026-11-23T23:25:01.000Z",
+   "summary": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rockstar, Kurtaj leaked 90 videos of GTA VI in 2022…"
+  },
+  {
+   "id": "95b9e0add9fa1505",
+   "title": "The search for a top dark matter candidate",
+   "url": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-23T23:12:40.000Z",
+   "summary": "37 points · 16 comments"
+  },
+  {
+   "id": "7586d630a61af961",
+   "title": "Figma employee sues, alleging company forced her to confront harassers",
+   "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+   "source": "TechCrunch",
+   "section": "tech",
+   "publishedAt": "2026-11-23T23:07:49.000Z",
+   "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination."
+  },
+  {
+   "id": "196aacaee96fe715",
+   "title": "Freeing the iPod Nano 5G",
+   "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-23T23:03:13.000Z",
+   "summary": "88 points · 9 comments"
+  },
+  {
+   "id": "71bcd77b2006b083",
+   "title": "Can you fix a scratched CD? Here are your options",
+   "url": "https://www.engadget.com/2315527/can-you-fix-a-scratched-cd/",
+   "source": "Engadget",
+   "section": "tech",
+   "publishedAt": "2026-11-23T23:00:00.000Z",
+   "summary": "It's true: CDs are experiencing a revival. If you've got scratched discs, there are options for fixing them, from DIY methods to seeking professional help."
+  },
   {
    "id": "d9f6f91937f7b07e",
    "title": "The Beauty of Artists' Studios",
@@ -107,6 +332,15 @@
    "section": "tech",
    "publishedAt": "2026-11-23T22:32:29.000Z",
    "summary": "4 points · 0 comments"
+  },
+  {
+   "id": "7d77166371c28ea4",
+   "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+   "url": "https://arxiv.org/abs/2602.20031",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-23T22:29:48.000Z",
+   "summary": "52 points · 4 comments"
   },
   {
    "id": "043656551062b469",
@@ -1243,6 +1477,15 @@
    "summary": "255 points · 151 comments"
   },
   {
+   "id": "869d6cf9526c3512",
+   "title": "New material gets stronger the more it bends",
+   "url": "https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-23T11:12:33.000Z",
+   "summary": "18 points · 4 comments"
+  },
+  {
    "id": "f9f60996ee7806f7",
    "title": "Meta Muse can now do your Black Friday shopping at Walmart",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
@@ -1331,6 +1574,15 @@
    "section": "tech",
    "publishedAt": "2026-11-23T04:51:48.000Z",
    "summary": "69 points · 15 comments"
+  },
+  {
+   "id": "c11b587e534c35bb",
+   "title": "Lowering Perplexity Without Scaling",
+   "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/",
+   "source": "Hacker News",
+   "section": "ai",
+   "publishedAt": "2026-11-23T04:33:50.000Z",
+   "summary": "16 points · 3 comments"
   },
   {
    "id": "b0193004647e3ba0",
@@ -1529,6 +1781,15 @@
    "section": "tech",
    "publishedAt": "2026-11-22T22:48:02.000Z",
    "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The…"
+  },
+  {
+   "id": "fb463413f06cbc32",
+   "title": "Modernizing iperf/iperf3 and introducing fireperf",
+   "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-22T22:37:51.000Z",
+   "summary": "60 points · 3 comments"
   },
   {
    "id": "4197e921c4ba77de",
@@ -2800,6 +3061,15 @@
    "summary": "Most modern cars will have some kind of infotainment touchscreen, though not all are created equal. One car, in particular, rules the roost for sheer size."
   },
   {
+   "id": "3c4a9d2c763b2120",
+   "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
+   "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-21T18:49:45.000Z",
+   "summary": "3 points · 0 comments"
+  },
+  {
    "id": "8ceac69df5558b90",
    "title": "Six simple Raspberry Pi projects for beginners",
    "url": "https://www.engadget.com/2318530/simple-raspberry-pi-projects-for-beginners/",
@@ -3509,6 +3779,15 @@
    "section": "ai",
    "publishedAt": "2026-11-20T21:47:10.000Z",
    "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?"
+  },
+  {
+   "id": "4389980461133a49",
+   "title": "How photos were transmitted by wire in the 1930s (2024)",
+   "url": "https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s",
+   "source": "Hacker News",
+   "section": "tech",
+   "publishedAt": "2026-11-20T21:47:06.000Z",
+   "summary": "39 points · 3 comments"
   },
   {
    "id": "6cfb43a7ffe61f57",
@@ -46232,204 +46511,6 @@
    "section": "tech",
    "publishedAt": "2026-10-25T06:55:13.000Z",
    "summary": "11 points · 1 comments"
-  },
-  {
-   "id": "562516b04146a695",
-   "title": "Apple Wants to Fix Safari's Cramped Layout on iPhone Duo",
-   "url": "https://www.macrumors.com/2026/10/25/apple-wants-to-fix-safari-on-iphone-duo/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-25T04:58:09.000Z",
-   "summary": "Apple is considering changes to Safari on the iPhone Duo that would give websites access to more of the outer display, although the company has yet to settle on an approach. The challenge is allowing pages to occupy the area beneath Safari's side-mounted controls without making parts of a website…"
-  },
-  {
-   "id": "ecf8f0d002164316",
-   "title": "Instagram Launches Apple TV App With Reels and More",
-   "url": "https://www.macrumors.com/2026/10/25/instagram-launches-apple-tv-app/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-25T04:27:08.000Z",
-   "summary": "Instagram is now available on the Apple TV, bringing Reels, longer videos, and live shows via the platform to Apple's streaming device for the first time. The Instagram app for ‌Apple TV‌ lets users watch content from their favorite creators, discover videos, and resume watching across devices…"
-  },
-  {
-   "id": "d18f737ef98f1a81",
-   "title": "Apple's 'Servant' Copyright Lawsuit Win Upheld on Appeal",
-   "url": "https://www.macrumors.com/2026/10/25/servant-lawsuit-win-upheld/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-25T04:05:09.000Z",
-   "summary": "Apple and M. Night Shyamalan have won an appeal in the copyright dispute over Apple TV series \"Servant,\" with a federal appeals court upholding last year's jury verdict in their favor (via Reuters). In its October 22 decision, the Ninth Circuit rejected filmmaker Francesca Gregorini's arguments…"
-  },
-  {
-   "id": "0d1b23e96aa530c1",
-   "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-   "url": "https://github.com/slee-persis/GVS5H",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-25T03:56:01.000Z",
-   "summary": "67 points · 16 comments"
-  },
-  {
-   "id": "ccccc22ec33af49a",
-   "title": "Show HN: A Truly Modular Keyboard",
-   "url": "https://github.com/notaroomba/keybytes",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-25T03:47:56.000Z",
-   "summary": "109 points · 24 comments"
-  },
-  {
-   "id": "434c70c3192d2cc1",
-   "title": "Xbox Turns Down Netflix $500M Offer",
-   "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-25T03:05:53.000Z",
-   "summary": "68 points · 80 comments"
-  },
-  {
-   "id": "1566ccc0a747b1ae",
-   "title": "Attention people who think UB is fine",
-   "url": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-25T02:50:32.000Z",
-   "summary": "9 points · 8 comments"
-  },
-  {
-   "id": "7bf4e48b87b0b7ef",
-   "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-   "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-25T02:18:35.000Z",
-   "summary": "86 points · 18 comments"
-  },
-  {
-   "id": "d7e0dd3aaa8cada9",
-   "title": "MacOS Extensions Pack for the Apple Network Server v1.0",
-   "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-25T01:39:51.000Z",
-   "summary": "7 points · 0 comments"
-  },
-  {
-   "id": "470508811885a0d8",
-   "title": "Cerebras Deploys Trillion-Parameter AI Models",
-   "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-25T01:33:49.000Z",
-   "summary": "59 points · 19 comments"
-  },
-  {
-   "id": "062bf9f1a4612aac",
-   "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-   "url": "https://huggingface.co/destined/hurston-1",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-25T01:30:13.000Z",
-   "summary": "17 points · 7 comments"
-  },
-  {
-   "id": "759053a6a6d6b39a",
-   "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
-   "url": "https://adrs.systems/",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-25T00:43:47.000Z",
-   "summary": "34 points · 20 comments"
-  },
-  {
-   "id": "6536733e2d8ab37e",
-   "title": "Here's what you need to know before buying a wireless CarPlay adapter",
-   "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-25T00:30:00.000Z",
-   "summary": "Wireless CarPlay doesn't require a new car or head unit; with the right adapter, you can enjoy a cable-free connection."
-  },
-  {
-   "id": "b5f61822b1187b2c",
-   "title": "Virtual and Real World Combine at LAN Party (1998)",
-   "url": "https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-25T00:07:19.000Z",
-   "summary": "34 points · 5 comments"
-  },
-  {
-   "id": "6202dd8aa1d23646",
-   "title": "What is the cheapest new gaming console you can buy in 2026?",
-   "url": "https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-25T00:00:00.000Z",
-   "summary": "Even after price hikes, you can get an affordable console, but it requires some care to pick the right option."
-  },
-  {
-   "id": "452dba23bb9cfb89",
-   "title": "'Arguably Better Than Face ID': the iPhone Duo Touch ID Tip to Try",
-   "url": "https://www.macrumors.com/2026/10/24/better-than-face-id-iphone-duo-touch-id-tip/",
-   "source": "MacRumors",
-   "section": "tech",
-   "publishedAt": "2026-10-24T23:48:55.000Z",
-   "summary": "An iPhone Duo owner has shared a Touch ID tip on Reddit they claim is \"arguably better than Face ID.\" It involves registering the lowest part of your index finger instead of the pad of your fingertip. The poster says this segment rests naturally against the side button during pickup and unlocks the…"
-  },
-  {
-   "id": "37cbe057a5c25a61",
-   "title": "How to extend the battery life of your Apple AirTags",
-   "url": "https://www.engadget.com/2292921/how-to-extend-battery-life-apple-airtags/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-24T23:45:00.000Z",
-   "summary": "An AirTag's battery is easy to replace, but you don't want it to run low at a critical moment."
-  },
-  {
-   "id": "4fdbb7d38081ad4a",
-   "title": "Why Gopher in 2026?",
-   "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-24T23:33:19.000Z",
-   "summary": "3 points · 1 comments"
-  },
-  {
-   "id": "2f493ebff891f3b3",
-   "title": "Common mistakes you should avoid when setting up your home network",
-   "url": "https://www.engadget.com/2292817/common-mistakes-avoid-setting-up-home-network/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-24T23:30:00.000Z",
-   "summary": "Setting up a home network is rewarding, but you should be aware of common missteps to avoid hassle in the future."
-  },
-  {
-   "id": "78ce1602d3f54400",
-   "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
-   "url": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
-   "source": "Hacker News",
-   "section": "tech",
-   "publishedAt": "2026-10-24T23:14:30.000Z",
-   "summary": "13 points · 1 comments"
-  },
-  {
-   "id": "5e8f2dd1eee91139",
-   "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-   "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-   "source": "Hacker News",
-   "section": "ai",
-   "publishedAt": "2026-10-24T23:11:54.000Z",
-   "summary": "34 points · 13 comments"
-  },
-  {
-   "id": "19ddd36f58b419fa",
-   "title": "Why your EV battery still loses charge while it's parked",
-   "url": "https://www.engadget.com/2292646/ev-battery-why-it-loses-charge-when-parked/",
-   "source": "Engadget",
-   "section": "tech",
-   "publishedAt": "2026-10-24T23:00:00.000Z",
-   "summary": "Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, and some might be totally out of your control."
   }
  ]
 }
