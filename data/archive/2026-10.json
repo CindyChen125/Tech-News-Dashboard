@@ -1,5 +1,329 @@
 [
  {
+  "id": "b6198d1c5daae008",
+  "title": "Writing Is Closer to Thought Than Code",
+  "url": "https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-26T12:32:15.000Z",
+  "summary": "39 points · 13 comments"
+ },
+ {
+  "id": "275501116baba0a6",
+  "title": "Java's new AOT cache feature is in a rough state",
+  "url": "https://xpipe.io/blog/java-aot-cache",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-26T12:27:44.000Z",
+  "summary": "58 points · 17 comments"
+ },
+ {
+  "id": "1a87081f72677b52",
+  "title": "Apple Watch Users in Europe Report Daylight Saving Glitch",
+  "url": "https://www.macrumors.com/2026/10/26/apple-watch-users-report-dst-glitch-watchos-27/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-26T12:26:21.000Z",
+  "summary": "Some Apple Watch users running watchOS 27 are reporting a daylight saving glitch after clocks went back in the UK and Europe on Sunday. In a MacRumors forums thread, five users – several in the UK and central Europe – say their watch shows the correct time when activated, but the Always-On display…"
+ },
+ {
+  "id": "6a1dae38100fb66b",
+  "title": "What happens when your PC's CMOS battery dies?",
+  "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-26T12:15:00.000Z",
+  "summary": "The CMOS battery isn't something you'll need to change often. But when it goes, it's time for a quick swap."
+ },
+ {
+  "id": "cdda810f1544f92c",
+  "title": "The Best Rubber Duck I've Ever Had",
+  "url": "https://blog.blockingqueue.com/the-best-rubber-duck-i-ve-ever-had",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-26T12:12:50.000Z",
+  "summary": "14 points · 6 comments"
+ },
+ {
+  "id": "4be7629bdd514117",
+  "title": "Watch the iPhone Duo run a Shortcuts automation when it is opened or closed [Video]",
+  "url": "https://9to5mac.com/2026/10/26/watch-the-iphone-duo-run-a-shortcuts-automation-when-it-is-opened-or-closed-video/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-26T12:01:32.000Z",
+  "summary": "A new video demo shows that you can use the Shortcuts app to trigger automations on opening or closing the iPhone Duo. One potential use for this is to configure the iPhone Duo to automatically lock when you fold it … more…"
+ },
+ {
+  "id": "94270871a45e7528",
+  "title": "Gurman: Apple's Three-Day Announcement Run Could Start Today",
+  "url": "https://www.macrumors.com/2026/10/26/new-oled-ipad-mini-could-launch-today/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-26T11:49:20.000Z",
+  "summary": "Bloomberg's Mark Gurman thinks Apple's announcements this week could arrive as a three-day rollout starting today. Writing on X, Gurman said that when Apple holds events on Wednesdays, it \"increasingly does so following three days of announcements,\" adding that an OLED iPad mini today, M6 iMac and…"
+ },
+ {
+  "id": "a981b95ff3f56bf3",
+  "title": "Claude Code AI finds a cryptominer on a Mac; says it didn’t put it there",
+  "url": "https://9to5mac.com/2026/10/26/claude-code-ai-finds-a-cryptominer-on-a-mac-says-it-didnt-put-it-there/",
+  "source": "9to5Mac",
+  "section": "ai",
+  "publishedAt": "2026-10-26T11:34:41.000Z",
+  "summary": "A Redditor used Claude Code AI to build a Mac temperature monitor app and found that the machine was running much hotter than expected. Claude reported that it found a crypto miner using more than 1,000% of the CPU cycles – then added an unprompted comment denying having installed it. Some…"
+ },
+ {
+  "id": "0c69ef6ffceccd6b",
+  "title": "iPhone Duo: Give Your Camera Subject a Picture Preview",
+  "url": "https://www.macrumors.com/how-to/iphone-duo-give-camera-subject-picture-preview/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-26T11:31:21.000Z",
+  "summary": "Getting someone to relax in front of a camera is a lot easier when they can see how they look. Apple acknowledges this on its new foldable iPhone Duo with a feature called Duo Preview, which shows a live preview on the outer display. This way, whoever you're photographing can adjust their pose, fix…"
+ },
+ {
+  "id": "d3bcd1c4c3e6637b",
+  "title": "Elvis Presley's estate is suing Anthropic over copyright infringement",
+  "url": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement/",
+  "source": "Engadget",
+  "section": "ai",
+  "publishedAt": "2026-10-26T11:23:48.000Z",
+  "summary": "The latest AI copyright infringement suit centers around a single music artist from decades past: Elvis."
+ },
+ {
+  "id": "64df8e8985727a1b",
+  "title": "Treap (Cartesian Tree)",
+  "url": "https://cp-algorithms.com/data_structures/treap.html",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-26T11:19:31.000Z",
+  "summary": "24 points · 3 comments"
+ },
+ {
+  "id": "ab17dae16655e274",
+  "title": "Pharo 14",
+  "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-26T11:15:50.000Z",
+  "summary": "35 points · 1 comments"
+ },
+ {
+  "id": "831bb6d12eef1eda",
+  "title": "iPhone Duo tested to destruction, including removing nanotexture layer",
+  "url": "https://9to5mac.com/2026/10/26/iphone-duo-tested-to-destruction-including-removing-nanotexture-layer/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-26T11:12:44.000Z",
+  "summary": "It’s kind of wild that there’s an entire YouTube niche in which people buy the latest expensive gadgets and then find creative ways to destroy them. JerryRigEverything is one of the bigger names, and he didn’t hold back when it came to a destruction test of the iPhone Duo. In addition to subjecting…"
+ },
+ {
+  "id": "6c19f9fccdd79e8f",
+  "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
+  "url": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
+  "source": "Ars Technica",
+  "section": "tech",
+  "publishedAt": "2026-10-26T11:00:15.000Z",
+  "summary": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground."
+ },
+ {
+  "id": "598d29d50671106a",
+  "title": "Websites Should Be Printable",
+  "url": "https://brennenputh.me/blog/printable-websites/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-26T10:32:14.000Z",
+  "summary": "140 points · 115 comments"
+ },
+ {
+  "id": "f9e7c63cec0542ff",
+  "title": "The city that fought Flock",
+  "url": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-26T10:00:00.000Z",
+  "summary": "It was about to be a long night in Huntington, West Virginia. Mayor Patrick Farrell stood before 10 members of city council in a white dress shirt and dark blazer studded with an American flag pin. Behind him sat his constituents and residents from neighboring towns. Some had their arms crossed…"
+ },
+ {
+  "id": "60348b57e2b77ac8",
+  "title": "ChatGPT’s expanding world of work",
+  "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+  "source": "OpenAI",
+  "section": "ai",
+  "publishedAt": "2026-10-26T10:00:00.000Z",
+  "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
+ },
+ {
+  "id": "fce8c7d837e8d676",
+  "title": "iFixit's teardown of the iPhone Duo shows potential causes for cracked screens",
+  "url": "https://www.engadget.com/2296498/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-26T09:31:44.000Z",
+  "summary": "iFixit's teardown of the iPhone Duo has arrived and it's especially interesting because of the device's complex folding display."
+ },
+ {
+  "id": "303128ac17f360de",
+  "title": "The focus on AI safety disasters ignores everyday harms",
+  "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+  "source": "MIT Tech Review",
+  "section": "ai",
+  "publishedAt": "2026-10-26T09:01:00.000Z",
+  "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear…"
+ },
+ {
+  "id": "cc15d2a8b9ce6032",
+  "title": "Switzerland. Block by block. At 1:1 scale",
+  "url": "https://blocks.manifold3d.ch/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-26T08:46:09.000Z",
+  "summary": "337 points · 154 comments"
+ },
+ {
+  "id": "97d14b06ca347075",
+  "title": "How to grow a cacao tree at home",
+  "url": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-26T07:50:17.000Z",
+  "summary": "36 points · 5 comments"
+ },
+ {
+  "id": "01b9fa510b3e7b5f",
+  "title": "How Fanatics and OpenAI streamline the fan experience",
+  "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+  "source": "OpenAI",
+  "section": "ai",
+  "publishedAt": "2026-10-26T07:00:00.000Z",
+  "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
+ },
+ {
+  "id": "a472b1c213ddcf7b",
+  "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+  "url": "https://openai.com/index/openai-cut-incident-investigation",
+  "source": "OpenAI",
+  "section": "ai",
+  "publishedAt": "2026-10-26T07:00:00.000Z",
+  "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
+ },
+ {
+  "id": "4bfa1d0b286031ad",
+  "title": "Rosettes and Other Hidden Traces of Hamburg's Tram",
+  "url": "https://alsterrunde.com/rosettes-and-other-hidden-traces-of-hamburgs-tram/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-26T06:54:33.000Z",
+  "summary": "15 points · 0 comments"
+ },
+ {
+  "id": "5ae17aafa6c6d755",
+  "title": "Will Apple’s overhauled MacBook Pro finally offer 5G cellular support?",
+  "url": "https://9to5mac.com/2026/10/25/macbook-pro-overhaul-cellular-support-touchscreen/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-26T05:16:58.000Z",
+  "summary": "This week, Apple will be overhauling the MacBook Pro for the first time since 2021. OLED, touch support, and a significantly lighter design are expected. Another rumor for the new MacBook Pros has been cellular support, though it’s been unclear if that’s actually going to ship. more…"
+ },
+ {
+  "id": "f83962993875be56",
+  "title": "SS United States to be sunk as largest artificial reef",
+  "url": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-26T04:41:15.000Z",
+  "summary": "60 points · 44 comments"
+ },
+ {
+  "id": "a8dc4fd45a6849ea",
+  "title": "Closing the Sea: Lessons from Ancient Mediterranean Blockades",
+  "url": "https://maritime-executive.com/editorials/closing-the-sea-lessons-from-ancient-mediterranean-blockades",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-26T04:28:49.000Z",
+  "summary": "19 points · 0 comments"
+ },
+ {
+  "id": "c80a71ece777de3a",
+  "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+  "url": "https://proc-cli.com/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-26T04:14:35.000Z",
+  "summary": "8 points · 0 comments"
+ },
+ {
+  "id": "b9930fab059c8d05",
+  "title": "Apple Display Veterans Step Back as New Leaders Take Over",
+  "url": "https://www.macrumors.com/2026/10/26/apple-display-veterans-step-back/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-26T04:14:12.000Z",
+  "summary": "Two executives who have spent roughly three decades each at Apple are handing over responsibility for its displays, as part of a broader series of engineering leadership changes reported by Bloomberg's Mark Gurman. Victor Yin now oversees much of Apple's display development following years of…"
+ },
+ {
+  "id": "30e73d5a8f349ed0",
+  "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+  "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-26T04:11:40.000Z",
+  "summary": "55 points · 47 comments"
+ },
+ {
+  "id": "f00825e8cf089297",
+  "title": "OLED MacBook Air and iMac Remain in Testing",
+  "url": "https://www.macrumors.com/2026/10/25/oled-macbook-air-and-imac-in-testing/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-26T03:41:01.000Z",
+  "summary": "Apple is testing OLED displays for future MacBook Air and iMac models, though both upgrades remain some way off, according to Bloomberg's Mark Gurman in his latest \"Power On\" newsletter. refreshes of the devices are expected to retain LCD displays. Gurman anticipates a new ‌iMac‌ to arrive this…"
+ },
+ {
+  "id": "65c09ff89cc9c166",
+  "title": "Behind the scenes at the NeXT Computer office",
+  "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-26T03:31:11.000Z",
+  "summary": "74 points · 32 comments"
+ },
+ {
+  "id": "c1f4af445ce15670",
+  "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+  "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-26T03:29:05.000Z",
+  "summary": "89 points · 21 comments"
+ },
+ {
+  "id": "7c41156817441246",
+  "title": "Show HN: TitleArt – Make text like it's 1997",
+  "url": "https://titleart.dvy.io/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-26T03:23:57.000Z",
+  "summary": "156 points · 19 comments"
+ },
+ {
+  "id": "66ef051b9398a3b2",
+  "title": "Oseberg Tapestry Fragments",
+  "url": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-26T03:14:49.000Z",
+  "summary": "13 points · 0 comments"
+ },
+ {
+  "id": "069059e0bef00006",
+  "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+  "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-26T03:12:05.000Z",
+  "summary": "35 points · 15 comments"
+ },
+ {
   "id": "17b7b59fa09773fd",
   "title": "IBM CEO says open weight models are now good and cheap on-prem",
   "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
