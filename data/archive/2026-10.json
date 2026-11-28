@@ -1,5 +1,689 @@
 [
  {
+  "id": "2f12dcde5bd6aab7",
+  "title": "U.S. investigated Chinese spy plot aimed at Nvidia CEO",
+  "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+  "source": "TechCrunch",
+  "section": "tech",
+  "publishedAt": "2026-10-29T16:42:32.000Z",
+  "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times."
+ },
+ {
+  "id": "2f7f6a6631af9863",
+  "title": "For the first time ever, Google Search is less than 50% of Alphabet's revenue",
+  "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T16:42:17.000Z",
+  "summary": "4 points · 0 comments"
+ },
+ {
+  "id": "687e81396fb6755e",
+  "title": "Are stochastic parrots alive?",
+  "url": "https://stefano.petrilli.xyz/are-stochastic-parrots-alive/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T16:36:14.000Z",
+  "summary": "6 points · 4 comments"
+ },
+ {
+  "id": "c978ae97192c4daf",
+  "title": "Show HN: I rebuilt Kubernetes for ESP32 microcontrollers",
+  "url": "https://github.com/arterialist/kube32",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T16:35:14.000Z",
+  "summary": "29 points · 2 comments"
+ },
+ {
+  "id": "54e9533fe8b99621",
+  "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+  "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+  "source": "Ars Technica",
+  "section": "ai",
+  "publishedAt": "2026-10-29T16:24:55.000Z",
+  "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings."
+ },
+ {
+  "id": "9aeceb6c2e121c5b",
+  "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+  "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+  "source": "TechCrunch",
+  "section": "ai",
+  "publishedAt": "2026-10-29T16:21:00.000Z",
+  "summary": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI."
+ },
+ {
+  "id": "66d7461743c8b588",
+  "title": "SuperMe raises $20M for its network of AI expert profiles",
+  "url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
+  "source": "TechCrunch",
+  "section": "ai",
+  "publishedAt": "2026-10-29T16:19:43.000Z",
+  "summary": "SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, the platform determines which experts are best suited to answer and creates a group chat with their AI profiles."
+ },
+ {
+  "id": "d8fdae01297d6898",
+  "title": "16colo.rs – ANSI/ASCII art archive",
+  "url": "https://16colo.rs/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T16:14:28.000Z",
+  "summary": "3 points · 0 comments"
+ },
+ {
+  "id": "f652ebc7dbe268ea",
+  "title": "This open-source project lets you sync Withings data to other apps without a subscription",
+  "url": "https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-29T16:14:06.000Z",
+  "summary": "When it was revealed earlier this month that Withings would require new users to subscribe to a Withings Plus subscription to sync heath data from the company's devices to third-party apps, Tom Anthony, who was already fed up with the Withings mobile app which they describe as a \"bloated mess,\"…"
+ },
+ {
+  "id": "4e6e7bf577f78fcf",
+  "title": "ThermoWorks debuts shorter version of its RFX Meat wireless probe for small cuts",
+  "url": "https://www.engadget.com/2301085/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-29T16:04:13.000Z",
+  "summary": "The RFX Meat Mini offers nearly identical performance to the full-sized grilling probe."
+ },
+ {
+  "id": "19734d3c70157d42",
+  "title": "Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion",
+  "url": "https://www.theverge.com/tech/1022295/joshua-kushner-thrive-holdings-adt-acquisition",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-29T16:03:28.000Z",
+  "summary": "The Joshua Kushner-led Thrive Holdings is acquiring ADT in an all-cash deal valued at $7.6 billion. The deal is expected to close in the first quarter of 2027 and will take ADT private, as reported earlier by Bloomberg. Joshua Kushner is the brother of President Donald Trump's son-in-law, Jared…"
+ },
+ {
+  "id": "fc6ee63bd54bbff2",
+  "title": "Microsoft’s AI future has fewer jobs",
+  "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+  "source": "The Verge",
+  "section": "ai",
+  "publishedAt": "2026-10-29T16:00:00.000Z",
+  "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees…"
+ },
+ {
+  "id": "9faa5805ffd6e973",
+  "title": "MacBook Pro Mini-LED vs. OLED Buyer's Guide: Every Difference",
+  "url": "https://www.macrumors.com/guide/macbook-pro-mini-led-vs-oled/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-29T15:59:05.000Z",
+  "summary": "Apple's new MacBook Pro with PROLED XDR Display features tandem OLED technology, touchscreen input, the Dynamic Island, and a thinner, lighter design. It joins the existing Liquid Retina XDR models introduced in March 2026, with both versions offering the same M5 Pro and M5 Max chips. The PROLED…"
+ },
+ {
+  "id": "6f7e00599cddd5f1",
+  "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+  "url": "https://news.ycombinator.com/item?id=50291116",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-29T15:56:32.000Z",
+  "summary": "11 points · 6 comments"
+ },
+ {
+  "id": "6a923b4340c71850",
+  "title": "H.264 Is Magic (2016)",
+  "url": "https://sidbala.com/h-264-is-magic/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T15:53:03.000Z",
+  "summary": "63 points · 26 comments"
+ },
+ {
+  "id": "8b5ad7140a06d457",
+  "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+  "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T15:45:05.000Z",
+  "summary": "32 points · 1 comments"
+ },
+ {
+  "id": "e7cefe307d6c5b76",
+  "title": "Deals: M6 and PROLED MacBook Touch pre-order offers, OLED iPad mini, M6 Mac mini, more",
+  "url": "https://9to5mac.com/2026/10/29/m6-proled-macbook-pre-order-deals-oled-ipad-mini/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-29T15:34:05.000Z",
+  "summary": "Alongside the ongoing $50 price drop on AirPods Pro 3 and the ongoing Apple TV 4K pre-order discount, pre-orders are now live on the new OLED iPad mini, M6 MacBook Pro, M6 iMac, and the MacBook Pro with PROLED XDR Display – we have uncovered some FREE $50 and $100 gift card offers for you below on…"
+ },
+ {
+  "id": "d86f2f0386cb5e59",
+  "title": "Mexico is a showroom for electric vehicles you can't buy in the U.S.",
+  "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T15:30:22.000Z",
+  "summary": "83 points · 51 comments"
+ },
+ {
+  "id": "d70d342fcce355a7",
+  "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+  "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-29T15:29:48.000Z",
+  "summary": "42 points · 5 comments"
+ },
+ {
+  "id": "a216d141ae0b31b5",
+  "title": "Show HN: Point your camera at a landscape to learn about its geology",
+  "url": "https://outcrop.rocks/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T15:22:41.000Z",
+  "summary": "32 points · 6 comments"
+ },
+ {
+  "id": "e25472b7fc5ea409",
+  "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+  "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-29T15:20:04.000Z",
+  "summary": "69 points · 58 comments"
+ },
+ {
+  "id": "f1f0956c77fb3f92",
+  "title": "Apple TV’s new crime thriller hailed as ‘impossible to stop watching’",
+  "url": "https://9to5mac.com/2026/10/29/apple-tvs-new-crime-thriller-hailed-as-impossible-to-stop-watching/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-29T15:19:00.000Z",
+  "summary": "Apple TV has a new crime thriller premiering tonight—Nocturne—and early reviews indicate it could be another hit series for the streamer. more…"
+ },
+ {
+  "id": "363049a013c47dc0",
+  "title": "Zombie stats: Where the numbers AI quotes come from",
+  "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-29T15:06:17.000Z",
+  "summary": "58 points · 20 comments"
+ },
+ {
+  "id": "e52d34a8eef6fa92",
+  "title": "FromSoftware delays The Duskbloods until 2027",
+  "url": "https://www.engadget.com/2300955/fromsoftware-delays-the-duskbloods-until-2027/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-29T15:02:41.000Z",
+  "summary": "The studio is taking more time to refine the \"rules and balance\" of the Nintendo Switch 2 exclusive."
+ },
+ {
+  "id": "cf58a918c8a0f943",
+  "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+  "url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+  "source": "TechCrunch",
+  "section": "tech",
+  "publishedAt": "2026-10-29T15:00:00.000Z",
+  "summary": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents."
+ },
+ {
+  "id": "32aa5b7adc0ab1a9",
+  "title": "LLM Voice",
+  "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-29T14:57:55.000Z",
+  "summary": "14 points · 1 comments"
+ },
+ {
+  "id": "7dfa195707b3350b",
+  "title": "SS27 Color Stats",
+  "url": "https://sarahconstantin.substack.com/p/ss27-color-stats",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T14:40:05.000Z",
+  "summary": "3 points · 0 comments"
+ },
+ {
+  "id": "ef49c6e3c290c555",
+  "title": "The NYT Cooking app is testing AI recipe modifications",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+  "source": "The Verge",
+  "section": "ai",
+  "publishedAt": "2026-10-29T14:39:37.000Z",
+  "summary": "The AI tool provides recommendations and adjusts the recipe accordingly. | Image: The New York Times The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko…"
+ },
+ {
+  "id": "41b00b948b221afd",
+  "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+  "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+  "source": "TechCrunch",
+  "section": "ai",
+  "publishedAt": "2026-10-29T14:35:26.000Z",
+  "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation."
+ },
+ {
+  "id": "01cc6d00b1a49eb5",
+  "title": "Where to Pre-Order Apple's New MacBooks, iPad Mini, and iMac",
+  "url": "https://www.macrumors.com/2026/10/29/pre-order-apples-new-macbooks/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-29T14:35:15.000Z",
+  "summary": "Apple announced an array of new products this week, including the iPad mini 8, M6 iMac, M6 14-inch MacBook Pro, and PROLED XDR MacBook Pro. With new product announcements comes pre-orders, and below we're tracking all of the best places to get your pre-orders in for each device. Note: MacRumors is…"
+ },
+ {
+  "id": "63895d05c00fe8ad",
+  "title": "Apple Releasing HomePod Mini 2 Tomorrow With These New Features",
+  "url": "https://www.macrumors.com/2026/10/29/homepod-mini-2-release-date-features/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-29T14:32:28.000Z",
+  "summary": "Following more than two weeks of pre-orders, the HomePod mini 2 will begin arriving to customers and launch in stores this Friday, October 30. Siri AI will be one of the HomePod mini 2's key upgrades, but the feature will not be available at launch. Apple said Siri AI support on the speaker will…"
+ },
+ {
+  "id": "3a47ffeda2eb2be3",
+  "title": "A brief history of just-in-time: forty years of JIT work, from 1960–2000",
+  "url": "https://dl.acm.org/doi/10.1145/857076.857077",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T14:30:25.000Z",
+  "summary": "11 points · 0 comments"
+ },
+ {
+  "id": "1b9d5074562b638c",
+  "title": "There’s one week left to preorder the Ocarina of Time remake for $10 off",
+  "url": "https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-29T14:24:45.000Z",
+  "summary": "The long-awaited remake of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 launches next Thursday, November 5th. In other words, you have a week remaining to secure your physical edition with a $10 discount at Amazon and Walmart. Once the game launches, the physical version will almost…"
+ },
+ {
+  "id": "25d94b5dbe1271a5",
+  "title": "Keplearn: Extract Equations from Data in Seconds",
+  "url": "https://github.com/owls-on-wires/keplearn",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T14:22:53.000Z",
+  "summary": "24 points · 1 comments"
+ },
+ {
+  "id": "d1ebc2f41fa80bd1",
+  "title": "iOS 27.2 gives Shortcuts app these new and improved features",
+  "url": "https://9to5mac.com/2026/10/29/ios-27-2-gives-shortcuts-app-these-new-and-improved-features/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-29T14:16:33.000Z",
+  "summary": "iOS 27.2 launched this week with a variety of new features for Siri AI, FaceTime, Messages, and more, plus a handful of improvements for the Shortcuts app. Here’s everything new in Shortcuts. more…"
+ },
+ {
+  "id": "32c270bdcfc77e1c",
+  "title": "We're releasing the weights of Mistral Large 4",
+  "url": "https://mistral.ai/news/mistral-large-4-oss/",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-29T14:13:21.000Z",
+  "summary": "540 points · 135 comments"
+ },
+ {
+  "id": "19309626c0959e33",
+  "title": "Anthropic is asking Wall Street to believe in AGI",
+  "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+  "source": "The Verge",
+  "section": "ai",
+  "publishedAt": "2026-10-29T14:00:00.000Z",
+  "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start trading as…"
+ },
+ {
+  "id": "aba48293a3f571af",
+  "title": "Brief History of PDP Computers",
+  "url": "https://entropicthoughts.com/history-of-pdp-computers",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T13:53:33.000Z",
+  "summary": "4 points · 0 comments"
+ },
+ {
+  "id": "d861f858c02be9c1",
+  "title": "Amazon’s AI shopping assistant can now edit your grocery lists and gift registries",
+  "url": "https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries",
+  "source": "The Verge",
+  "section": "ai",
+  "publishedAt": "2026-10-29T13:52:48.000Z",
+  "summary": "Amazon is adding several new features to its AI shopping assistant, including ways to create, edit, and move items between shopping lists and gift registries. As an example, Amazon says you can now ask Alexa for Shopping to \"Create a new shopping list\" or \"Show me what's left on my wedding…"
+ },
+ {
+  "id": "01b30ed2679a3be0",
+  "title": "iOS 27.3 release date: Here’s when to expect new iPhone features",
+  "url": "https://9to5mac.com/2026/10/29/ios-27-3-release-date-heres-when-to-expect-new-iphone-features/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-29T13:44:21.000Z",
+  "summary": "Apple released iOS 27.2 this week with new features for Messages, Siri AI, and Photos, plus an Apple Music rebrand and more. But work on iOS 27.3 is already well underway, here’s when to expect the next big iPhone update. more…"
+ },
+ {
+  "id": "9f99b69e72b55609",
+  "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
+  "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
+  "source": "TechCrunch",
+  "section": "tech",
+  "publishedAt": "2026-10-29T13:43:53.000Z",
+  "summary": "The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security."
+ },
+ {
+  "id": "ff9d4a7ab5038c03",
+  "title": "DoorDash to acquire Instacart for $17B",
+  "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+  "source": "TechCrunch",
+  "section": "tech",
+  "publishedAt": "2026-10-29T13:40:57.000Z",
+  "summary": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery."
+ },
+ {
+  "id": "48e81e1e9ec5fd68",
+  "title": "‘You Are Done’: The letter sent to King by the F.B.I (2014)",
+  "url": "https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T13:40:04.000Z",
+  "summary": "361 points · 250 comments"
+ },
+ {
+  "id": "87a8ed639b30ebad",
+  "title": "This $149 digital candle uses AI to accurately simulate a flickering flame",
+  "url": "https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame",
+  "source": "The Verge",
+  "section": "ai",
+  "publishedAt": "2026-10-29T13:37:56.000Z",
+  "summary": "After engineering a flexible version of Tetris that could be wrapped around a magazine, Kevin Bates' latest creation is a digital candle that uses a custom AI model to accurately simulate the appearance of a flickering flame across a grid of LEDs. It's a far cry from the types of devices Bates is…"
+ },
+ {
+  "id": "13a4facb28c8e02d",
+  "title": "Granite Switch 4.1.1 — Update models like you update software",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "source": "Hugging Face",
+  "section": "ai",
+  "publishedAt": "2026-10-29T13:37:07.000Z",
+  "summary": ""
+ },
+ {
+  "id": "23dd3bfcae03969f",
+  "title": "Anthropic’s business plan: Build God or die trying",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+  "source": "The Verge",
+  "section": "ai",
+  "publishedAt": "2026-10-29T13:30:00.000Z",
+  "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT…"
+ },
+ {
+  "id": "1a3dedcdf03d41b2",
+  "title": "Apple finally combined a toaster and a refrigerator",
+  "url": "https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator",
+  "source": "The Verge",
+  "section": "tech",
+  "publishedAt": "2026-10-29T13:21:02.000Z",
+  "summary": "For more than 15 years, Apple has had a pretty simple answer to the idea of a touchscreen MacBook: no. Yesterday, Apple finally decided to think different and announce one anyway. \"You've gotta touch it to believe it,\" says Apple CEO John Ternus. He might be right: I haven't yet touched it, and I…"
+ },
+ {
+  "id": "f9ef0d7bafc976e7",
+  "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+  "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+  "source": "TechCrunch",
+  "section": "ai",
+  "publishedAt": "2026-10-29T13:00:00.000Z",
+  "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure."
+ },
+ {
+  "id": "9d19fc5b99ea6132",
+  "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+  "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+  "source": "TechCrunch",
+  "section": "tech",
+  "publishedAt": "2026-10-29T13:00:00.000Z",
+  "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions."
+ },
+ {
+  "id": "3cbab048e694c39a",
+  "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
+  "url": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
+  "source": "TechCrunch",
+  "section": "tech",
+  "publishedAt": "2026-10-29T13:00:00.000Z",
+  "summary": "Six days from now, on November 4, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston to share the decisions, mistakes, pivots, and lessons that shaped their companies. Register before it starts for ticket savings and deals."
+ },
+ {
+  "id": "fc391ab0510cbdea",
+  "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+  "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+  "source": "Ars Technica",
+  "section": "tech",
+  "publishedAt": "2026-10-29T12:58:34.000Z",
+  "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access."
+ },
+ {
+  "id": "0acd12b32c4700e7",
+  "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+  "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+  "source": "Hacker News",
+  "section": "ai",
+  "publishedAt": "2026-10-29T12:41:56.000Z",
+  "summary": "284 points · 217 comments"
+ },
+ {
+  "id": "1255f177ff527909",
+  "title": "How macOS Adapts Its Controls for Touch on the New MacBook Pro",
+  "url": "https://www.macrumors.com/2026/10/29/macos-adapts-controls-touch-macbook-pro/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-29T12:33:47.000Z",
+  "summary": "Apple announced a new MacBook Pro with PROLED XDR Display on Wednesday. It's Apple's first Mac with a screen that supports touch, and demonstrations Apple gave to the media show how macOS reshapes its controls for finger input. Menu bar items expand under a fingertip, window controls get bigger…"
+ },
+ {
+  "id": "aeefcbc29ed4a4e4",
+  "title": "Reddit now lets you choose between For You and Following feeds",
+  "url": "https://9to5mac.com/2026/10/29/reddit-now-lets-you-choose-between-for-you-and-following-feeds/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-29T12:33:06.000Z",
+  "summary": "Reddit has announced the introduction of a new For You feed, an algorithmic-driven one that tries to find new communities and threads to match your interests. Fortunately, you don’t have to use it … more…"
+ },
+ {
+  "id": "4896c84a7a5ebd6c",
+  "title": "DoorDash to Acquire Instacart",
+  "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T12:33:05.000Z",
+  "summary": "199 points · 352 comments"
+ },
+ {
+  "id": "3b9ff29bd9dca8de",
+  "title": "Hackers expose the identities of more than 40k DHS employees",
+  "url": "https://text.npr.org/nx-s1-6021497",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T12:31:09.000Z",
+  "summary": "205 points · 46 comments"
+ },
+ {
+  "id": "227db879dbe36db4",
+  "title": "DoorDash acquires Instacart in $17 billion delivery service merger",
+  "url": "https://www.engadget.com/2300741/doordash-acquires-instacart-in-dollar17-billion-delivery-service-merger/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-29T12:24:06.000Z",
+  "summary": "The deal combines the two largest grocery delivery platforms in the US."
+ },
+ {
+  "id": "e244f1de25f9e69a",
+  "title": "If IPv4 were land",
+  "url": "https://iptrust.co/blog/if-ipv4-were-land",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T12:19:00.000Z",
+  "summary": "205 points · 235 comments"
+ },
+ {
+  "id": "3d081c4156b3360c",
+  "title": "The education price of the MacBook Neo just jumped again",
+  "url": "https://9to5mac.com/2026/10/29/the-education-price-of-the-macbook-neo-just-jumped-again/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-29T12:14:11.000Z",
+  "summary": "The MacBook Neo was already a bargain by Mac standards when it launched with a starting price of $599, but for students an education price of $499 made it a steal. Sadly, that changed back in June when both retail and education prices rose by $100. Now, however, the education price has been raised…"
+ },
+ {
+  "id": "718ab18de6588552",
+  "title": "EasySMX S10 Lite review: A Switch 2 fidget toy with a weird removable faceplate",
+  "url": "https://www.engadget.com/2294413/easysmx-s10-lite-review/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-29T12:00:00.000Z",
+  "summary": "EasySMX is using Elizabeth Holmes levels of pedantry with this faceplate situation."
+ },
+ {
+  "id": "66d6870e933cfaca",
+  "title": "NetBSD adds a new text editor called atto",
+  "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T11:59:01.000Z",
+  "summary": "153 points · 120 comments"
+ },
+ {
+  "id": "e4dedf45d51ab066",
+  "title": "Apple seems to have the right approach to the first touchscreen Mac",
+  "url": "https://9to5mac.com/2026/10/29/apple-seems-to-have-the-right-approach-to-the-first-touchscreen-mac/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-29T11:48:10.000Z",
+  "summary": "Steve Jobs famously dismissed the idea of a touchscreen Mac back in 2010 when he said that it “gives great demo” but turns out to be “ergonomically terrible” in real-life use. It was inevitable that eyebrows would be raised when the company did a U-turn on this by launching the first touchscreen…"
+ },
+ {
+  "id": "30fdc39ce72b1b62",
+  "title": "How Google determines the names for bodies of water in Google Earth",
+  "url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T11:41:18.000Z",
+  "summary": "166 points · 131 comments"
+ },
+ {
+  "id": "46640de8b4a5f7b4",
+  "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+  "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+  "source": "Ars Technica",
+  "section": "tech",
+  "publishedAt": "2026-10-29T11:00:08.000Z",
+  "summary": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\""
+ },
+ {
+  "id": "cec2bb801a8e439a",
+  "title": "You can now spend between $1,999 and $14,549 on a MacBook Pro",
+  "url": "https://9to5mac.com/2026/10/29/you-can-now-spend-between-1999-and-14549-on-a-macbook-pro/",
+  "source": "9to5Mac",
+  "section": "tech",
+  "publishedAt": "2026-10-29T10:55:25.000Z",
+  "summary": "There weren’t too many surprises with yesterday’s launch of the first touchscreen Mac, the MacBook Pro with PROLED XDR display. But one of those was the option to spec the SSD to a massive 16TB. With the M6 MacBook Pro the new entry-level model, that means that you can now spend anywhere between…"
+ },
+ {
+  "id": "f40e1093368faf73",
+  "title": "Just Got an iPhone Duo? Try These Features First",
+  "url": "https://www.macrumors.com/guide/iphone-duo-new-features-to-try-first/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-29T10:53:27.000Z",
+  "summary": "Apple's iPhone Duo launched on Friday, October 23 in markets around the world. Keep reading if you're the lucky owner of Apple's first foldable iPhone. Whether you're upgrading from an older iPhone or completely new to Apple, this guide will help you get the most out of your new device. With the…"
+ },
+ {
+  "id": "b0f7b38d7b8880bb",
+  "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+  "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T10:44:49.000Z",
+  "summary": "233 points · 147 comments"
+ },
+ {
+  "id": "22f292a8fd0937ef",
+  "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+  "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T10:42:41.000Z",
+  "summary": "149 points · 66 comments"
+ },
+ {
+  "id": "417e213d9822075c",
+  "title": "Apple and Google fined in South Korea over app store violations",
+  "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-29T10:42:26.000Z",
+  "summary": "South Korean regulators found that Apple and Google violated the country's Telecommunications Business Act."
+ },
+ {
+  "id": "2ec2beca4db7c4d9",
+  "title": "Apple Announced Scott Forstall's Departure 14 Years Ago Today",
+  "url": "https://www.macrumors.com/2026/10/29/apple-scott-forstalls-departure-14-years-ago-today/",
+  "source": "MacRumors",
+  "section": "tech",
+  "publishedAt": "2026-10-29T10:23:39.000Z",
+  "summary": "Fourteen years ago today, Apple announced that iOS chief Scott Forstall would leave the company the following year, serving as an advisor to Tim Cook in the interim. Reports at the time said Forstall refused to sign Apple's public apology for the poor coverage of Apple Maps, dismissing the problems…"
+ },
+ {
+  "id": "f5f8330a31cbd838",
+  "title": "We urgently need to monitor AI agents’ actions in real time",
+  "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+  "source": "MIT Tech Review",
+  "section": "ai",
+  "publishedAt": "2026-10-29T10:11:12.000Z",
+  "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an…"
+ },
+ {
+  "id": "444051fa11f9b135",
+  "title": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
+  "url": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/",
+  "source": "Engadget",
+  "section": "ai",
+  "publishedAt": "2026-10-29T09:41:58.000Z",
+  "summary": "Google's latest Gemini 4 Carbon AI model boasts top benchmark scores in areas like cybersecurity and coding."
+ },
+ {
+  "id": "fca73080d4cb4c72",
+  "title": "How we detect frontier model misalignment",
+  "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+  "source": "OpenAI",
+  "section": "ai",
+  "publishedAt": "2026-10-29T09:00:00.000Z",
+  "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+ },
+ {
+  "id": "6e991989f8cc0052",
+  "title": "What we know so far about Spain train crash",
+  "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T08:55:08.000Z",
+  "summary": "119 points · 237 comments"
+ },
+ {
+  "id": "d8ef91dce8c4e239",
+  "title": "Hackers leaked details of more than 41,000 Homeland Security personnel",
+  "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+  "source": "Engadget",
+  "section": "tech",
+  "publishedAt": "2026-10-29T08:33:46.000Z",
+  "summary": "A hacktivist group stole the information of ICE agents and border police from Homeland Security."
+ },
+ {
+  "id": "54d2b598a00d5167",
+  "title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
+  "url": "https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html",
+  "source": "Hacker News",
+  "section": "tech",
+  "publishedAt": "2026-10-29T07:52:32.000Z",
+  "summary": "56 points · 91 comments"
+ },
+ {
   "id": "692eb810a552ef05",
   "title": "Zero click, silent, remote Android DoS",
   "url": "https://smsofdeath.com/",
